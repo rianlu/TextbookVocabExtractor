@@ -1,0 +1,20 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual env
+venv/
+
+# Intermediate/generated data
+intermediate/
+
+# Local source PDFs (large files)
+textbook/
+
+# Dictionary datasets (download locally; do not upload to GitHub)
+DICT/ECDICT/
+DICT/ECDICT-5/
+DICT/DictionaryData/

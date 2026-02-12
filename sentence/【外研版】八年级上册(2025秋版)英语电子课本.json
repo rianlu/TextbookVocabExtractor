@@ -1,0 +1,2050 @@
+{
+    "suppose": [
+        [
+            "sup",
+            "pose"
+        ],
+        "I suppose we can go to the park this afternoon.",
+        "我想我们今天下午可以去公园。"
+    ],
+    "birthmark": [
+        [
+            "birth",
+            "mark"
+        ],
+        "She has a small birthmark on her left arm.",
+        "她的左臂上有一个小小的胎记。"
+    ],
+    "bright": [
+        [
+            "bright"
+        ],
+        "The sun is very bright today, so I wear my sunglasses.",
+        "今天的阳光很明亮，所以我戴上了太阳镜。"
+    ],
+    "strawberry": [
+        [
+            "straw",
+            "ber",
+            "ry"
+        ],
+        "My favourite fruit is strawberry because it is sweet.",
+        "我最喜欢的水果是草莓，因为它很甜。"
+    ],
+    "crowded": [
+        [
+            "crowd",
+            "ed"
+        ],
+        "The bus is always very crowded in the morning.",
+        "早上公共汽车总是非常拥挤。"
+    ],
+    "disaster": [
+        [
+            "dis",
+            "as",
+            "ter"
+        ],
+        "The heavy rain caused a disaster in the small town.",
+        "大雨在这个小镇造成了一场灾难。"
+    ],
+    "therefore": [
+        [
+            "there",
+            "fore"
+        ],
+        "She studies very hard, therefore she gets good grades.",
+        "她学习非常努力，因此取得了好成绩。"
+    ],
+    "cover": [
+        [
+            "cov",
+            "er"
+        ],
+        "Please cover your books with paper to protect them.",
+        "请用纸把你的书包起来以保护它们。"
+    ],
+    "instead": [
+        [
+            "in",
+            "stead"
+        ],
+        "He did not go to the cinema, instead he stayed at home.",
+        "他没有去电影院，而是待在家里。"
+    ],
+    "instead of": [
+        [
+            "in",
+            "stead",
+            "of"
+        ],
+        "We played basketball instead of football yesterday.",
+        "我们昨天打篮球而不是踢足球。"
+    ],
+    "although": [
+        [
+            "al",
+            "though"
+        ],
+        "Although it was raining, we still went for a walk.",
+        "虽然下着雨，但我们还是去散步了。"
+    ],
+    "bathroom": [
+        [
+            "bath",
+            "room"
+        ],
+        "I need to go to the bathroom before we leave the house.",
+        "在我们离开家之前我需要去一下洗手间。"
+    ],
+    "quickly": [
+        [
+            "quick",
+            "ly"
+        ],
+        "She quickly finished her homework and went out to play.",
+        "她很快完成了作业然后出去玩。"
+    ],
+    "truly": [
+        [
+            "tru",
+            "ly"
+        ],
+        "I am truly happy that you can come to my birthday party.",
+        "你能来我的生日聚会，我真的很开心。"
+    ],
+    "paint": [
+        [
+            "paint"
+        ],
+        "We will paint the wall blue to match the new furniture.",
+        "我们要把墙刷成蓝色来配新家具。"
+    ],
+    "yet": [
+        [
+            "yet"
+        ],
+        "He hasn't finished his project yet, but he will soon.",
+        "他还没有完成他的项目，但他很快会完成。"
+    ],
+    "anyway": [
+        [
+            "an",
+            "y",
+            "way"
+        ],
+        "It might rain later, but we will go for a picnic anyway.",
+        "稍后可能会下雨，但无论如何我们都要去野餐。"
+    ],
+    "already": [
+        [
+            "al",
+            "read",
+            "y"
+        ],
+        "I have already read this interesting book twice.",
+        "我已经把这本书有趣的书读了两遍。"
+    ],
+    "difference": [
+        [
+            "dif",
+            "fer",
+            "ence"
+        ],
+        "Can you tell the difference between these two pictures?",
+        "你能说出这两张图片的区别吗？"
+    ],
+    "hate": [
+        [
+            "hate"
+        ],
+        "I hate getting up early on cold winter mornings.",
+        "我讨厌在寒冷的冬晨早起。"
+    ],
+    "successful": [
+        [
+            "suc",
+            "cess",
+            "ful"
+        ],
+        "After years of hard work, she became a successful writer.",
+        "经过多年努力，她成为了一名成功的作家。"
+    ],
+    "scientific": [
+        [
+            "sci",
+            "en",
+            "tif",
+            "ic"
+        ],
+        "We did a scientific experiment in the school lab yesterday.",
+        "我们昨天在学校实验室做了一个科学实验。"
+    ],
+    "wise": [
+        [
+            "wise"
+        ],
+        "My grandfather always gives me wise advice about life.",
+        "我的祖父总是给我关于人生的明智建议。"
+    ],
+    "perfect": [
+        [
+            "per",
+            "fect"
+        ],
+        "The weather is perfect for flying a kite in the park today.",
+        "今天的天气非常适合在公园放风筝。"
+    ],
+    "row": [
+        [
+            "row"
+        ],
+        "We sat in the front row to watch the school play.",
+        "我们坐在前排观看学校话剧。"
+    ],
+    "height": [
+        [
+            "height"
+        ],
+        "His height makes him a good player on the basketball team.",
+        "他的身高让他成为篮球队的一名好队员。"
+    ],
+    "literature": [
+        [
+            "lit",
+            "er",
+            "a",
+            "ture"
+        ],
+        "We study English literature to learn about famous stories.",
+        "我们学习英国文学是为了了解著名的故事。"
+    ],
+    "character": [
+        [
+            "char",
+            "ac",
+            "ter"
+        ],
+        "The main character in this film is a brave young girl.",
+        "这部电影的主角是一个勇敢的小女孩。"
+    ],
+    "wizard": [
+        [
+            "wiz",
+            "ard"
+        ],
+        "The wizard in the story used magic to help the poor people.",
+        "故事中的巫师使用魔法帮助穷人。"
+    ],
+    "brain": [
+        [
+            "brain"
+        ],
+        "We use our brain to think, learn and solve problems.",
+        "我们用大脑来思考、学习和解决问题。"
+    ],
+    "value": [
+        [
+            "val",
+            "ue"
+        ],
+        "My mother taught me the value of honesty and hard work.",
+        "我母亲教会我诚实和努力工作的价值。"
+    ],
+    "quality": [
+        [
+            "qual",
+            "i",
+            "ty"
+        ],
+        "This shop sells clothes of good quality at fair prices.",
+        "这家店以公平的价格出售质量好的衣服。"
+    ],
+    "impossible": [
+        [
+            "im",
+            "pos",
+            "si",
+            "ble"
+        ],
+        "Nothing is impossible if you put your heart into it.",
+        "如果你全心投入，没有什么是不可能的。"
+    ],
+    "nothing": [
+        [
+            "noth",
+            "ing"
+        ],
+        "There is nothing in the box; it is completely empty.",
+        "盒子里什么都没有；它完全是空的。"
+    ],
+    "British": [
+        [
+            "Brit",
+            "ish"
+        ],
+        "She is reading a book about British history for her project.",
+        "她正在为她的项目读一本关于英国历史的书。"
+    ],
+    "actress": [
+        [
+            "ac",
+            "tress"
+        ],
+        "The young actress won an award for her first film.",
+        "这位年轻的女演员因她的第一部电影而获奖。"
+    ],
+    "silver": [
+        [
+            "sil",
+            "ver"
+        ],
+        "My grandmother gave me a beautiful silver necklace.",
+        "我的祖母给了我一条漂亮的银项链。"
+    ],
+    "the silver screen": [
+        [
+            "the",
+            "sil",
+            "ver",
+            "screen"
+        ],
+        "Many famous actors appear on the silver screen.",
+        "许多著名演员出现在银幕上。"
+    ],
+    "doubt": [
+        [
+            "doubt"
+        ],
+        "I have no doubt that you will pass the English exam.",
+        "我毫不怀疑你会通过英语考试。"
+    ],
+    "fear": [
+        [
+            "fear"
+        ],
+        "Some children have a fear of speaking in front of the class.",
+        "有些孩子害怕在全班面前讲话。"
+    ],
+    "succeed": [
+        [
+            "suc",
+            "ceed"
+        ],
+        "If you work hard, you will succeed in achieving your dreams.",
+        "如果你努力，你就会成功实现梦想。"
+    ],
+    "excellent": [
+        [
+            "ex",
+            "cel",
+            "lent"
+        ],
+        "She got an excellent score on her final science test.",
+        "她在最终的科学考试中取得了优异的分数。"
+    ],
+    "second": [
+        [
+            "sec",
+            "ond"
+        ],
+        "He finished the race in second place, which is very good.",
+        "他以第二名的成绩完成了比赛，这非常好。"
+    ],
+    "satisfied": [
+        [
+            "sat",
+            "is",
+            "fied"
+        ],
+        "I felt satisfied after I finished cleaning my messy room.",
+        "在打扫完我凌乱的房间后，我感到很满意。"
+    ],
+    "risky": [
+        [
+            "risk",
+            "y"
+        ],
+        "Swimming alone in the deep sea is a very risky thing to do.",
+        "独自在深海里游泳是一件非常冒险的事情。"
+    ],
+    "zero": [
+        [
+            "ze",
+            "ro"
+        ],
+        "The temperature dropped to zero degrees last night.",
+        "昨晚温度降到了零度。"
+    ],
+    "Olympics": [
+        [
+            "O",
+            "lym",
+            "pics"
+        ],
+        "Many athletes train for years to compete in the Olympics.",
+        "许多运动员为参加奥运会训练多年。"
+    ],
+    "athlete": [
+        [
+            "ath",
+            "lete"
+        ],
+        "The young athlete runs every morning to stay fit and strong.",
+        "这位年轻的运动员每天早晨跑步以保持健康强壮。"
+    ],
+    "stick": [
+        [
+            "stick"
+        ],
+        "He uses a stick to draw pictures in the sand on the beach.",
+        "他用一根棍子在沙滩上的沙子里画画。"
+    ],
+    "stick to": [
+        [
+            "stick",
+            "to"
+        ],
+        "You should stick to your plan if you want to finish on time.",
+        "如果你想按时完成，就应该坚持你的计划。"
+    ],
+    "superman": [
+        [
+            "su",
+            "per",
+            "man"
+        ],
+        "In the comic book, Superman can fly and has super strength.",
+        "在漫画书里，超人能飞并且有超强力量。"
+    ],
+    "shout": [
+        [
+            "shout"
+        ],
+        "Please do not shout in the library; we must keep quiet.",
+        "请不要在图书馆大喊；我们必须保持安静。"
+    ],
+    "gate": [
+        [
+            "gate"
+        ],
+        "We will meet at the school gate at three o'clock this afternoon.",
+        "我们今天下午三点在学校门口见面。"
+    ],
+    "build": [
+        [
+            "build"
+        ],
+        "The workers will build a new playground for our school next month.",
+        "工人们下个月将为我们学校建造一个新操场。"
+    ],
+    "since": [
+        [
+            "since"
+        ],
+        "She has lived in this city since she was five years old.",
+        "她从五岁起就一直住在这个城市。"
+    ],
+    "nor": [
+        [
+            "nor"
+        ],
+        "He doesn't like coffee, nor does he like tea in the morning.",
+        "他不喜欢咖啡，早上也不喜欢茶。"
+    ],
+    "hole": [
+        [
+            "hole"
+        ],
+        "There is a small hole in my sock, so I need to buy new ones.",
+        "我的袜子上有一个小洞，所以我需要买新袜子。"
+    ],
+    "glad": [
+        [
+            "glad"
+        ],
+        "I am glad that you could come to my birthday party yesterday.",
+        "我很高兴你昨天能来我的生日聚会。"
+    ],
+    "knock": [
+        [
+            "knock"
+        ],
+        "Remember to knock on the door before you enter the teacher's office.",
+        "进老师办公室前记得先敲门。"
+    ],
+    "knock down": [
+        [
+            "knock",
+            "down"
+        ],
+        "Be careful not to knock down the vase on the table.",
+        "小心别碰倒桌子上的花瓶。"
+    ],
+    "afraid": [
+        [
+            "a",
+            "fraid"
+        ],
+        "My little sister is afraid of the dark, so she sleeps with a light on.",
+        "我的小妹妹怕黑，所以她开着灯睡觉。"
+    ],
+    "message": [
+        [
+            "mes",
+            "sage"
+        ],
+        "I left a message on your desk to remind you about the meeting.",
+        "我在你桌上留了条信息提醒你开会。"
+    ],
+    "double": [
+        [
+            "dou",
+            "ble"
+        ],
+        "We need a double room for my parents when they visit us.",
+        "我父母来看我们时我们需要一个双人间。"
+    ],
+    "understanding": [
+        [
+            "un",
+            "der",
+            "stand",
+            "ing"
+        ],
+        "Good friends always show understanding when you have problems.",
+        "好朋友在你遇到问题时总是表示理解。"
+    ],
+    "return": [
+        [
+            "re",
+            "turn"
+        ],
+        "Please remember to return the library books by next Friday.",
+        "请记得在下周五前归还图书馆的书。"
+    ],
+    "lively": [
+        [
+            "live",
+            "ly"
+        ],
+        "The music at the party was lively and made everyone dance.",
+        "聚会上的音乐很活泼，让每个人都跳起舞来。"
+    ],
+    "theirs": [
+        [
+            "theirs"
+        ],
+        "Our classroom is big, but theirs is even bigger and brighter.",
+        "我们的教室很大，但他们的教室更大更明亮。"
+    ],
+    "grade": [
+        [
+            "grade"
+        ],
+        "She got a good grade on her history test because she studied hard.",
+        "她历史考试取得了好成绩，因为她学习很努力。"
+    ],
+    "article": [
+        [
+            "ar",
+            "ti",
+            "cle"
+        ],
+        "I read an interesting article about space in the school magazine.",
+        "我在校刊上读了一篇关于太空的有趣文章。"
+    ],
+    "priceless": [
+        [
+            "price",
+            "less"
+        ],
+        "The old photo of my family is priceless to me.",
+        "我的这张旧家庭照片对我来说是无价之宝。"
+    ],
+    "offer": [
+        [
+            "of",
+            "fer"
+        ],
+        "The shop will offer a discount on all clothes this weekend.",
+        "这家店本周末所有衣服都会打折。"
+    ],
+    "plan": [
+        [
+            "plan"
+        ],
+        "We need a good plan before we start the group project.",
+        "在我们开始小组项目前需要一个好计划。"
+    ],
+    "quite": [
+        [
+            "quite"
+        ],
+        "It is quite cold outside today, so you should wear a coat.",
+        "今天外面相当冷，所以你应该穿件外套。"
+    ],
+    "stressed": [
+        [
+            "stressed"
+        ],
+        "She felt stressed before the big exam, so she took a deep breath.",
+        "大考前她感到压力很大，所以她做了深呼吸。"
+    ],
+    "recently": [
+        [
+            "re",
+            "cent",
+            "ly"
+        ],
+        "We recently watched a very funny film at the cinema.",
+        "我们最近在电影院看了一部非常有趣的电影。"
+    ],
+    "online": [
+        [
+            "on",
+            "line"
+        ],
+        "Many students learn English online through interesting videos.",
+        "许多学生通过有趣的视频在线学习英语。"
+    ],
+    "allow": [
+        [
+            "al",
+            "low"
+        ],
+        "My parents allow me to watch TV for one hour after dinner.",
+        "我父母允许我晚饭后看一小时电视。"
+    ],
+    "ticket": [
+        [
+            "tick",
+            "et"
+        ],
+        "I bought a ticket to see the new science exhibition.",
+        "我买了一张票去看新的科学展览。"
+    ],
+    "true": [
+        [
+            "true"
+        ],
+        "It is true that regular exercise is good for your health.",
+        "经常锻炼对健康有益，这是真的。"
+    ],
+    "respect": [
+        [
+            "re",
+            "spect"
+        ],
+        "We should respect our teachers and listen carefully in class.",
+        "我们应该尊重老师，上课认真听讲。"
+    ],
+    "narrow": [
+        [
+            "nar",
+            "row"
+        ],
+        "The path to the small village is very narrow and winding.",
+        "通往小村庄的小路非常狭窄且曲折。"
+    ],
+    "lane": [
+        [
+            "lane"
+        ],
+        "Cyclists should use the bike lane for safety on the road.",
+        "骑车者应使用自行车道以保证道路安全。"
+    ],
+    "perhaps": [
+        [
+            "per",
+            "haps"
+        ],
+        "Perhaps we can go swimming if the weather is sunny tomorrow.",
+        "如果明天天气晴朗，或许我们可以去游泳。"
+    ],
+    "argue": [
+        [
+            "ar",
+            "gue"
+        ],
+        "It's not good to argue with friends over small things.",
+        "为小事和朋友争吵是不好的。"
+    ],
+    "divide": [
+        [
+            "di",
+            "vide"
+        ],
+        "We need to divide the cake into eight equal pieces for everyone.",
+        "我们需要把蛋糕分成八等份给每个人。"
+    ],
+    "dividing line": [
+        [
+            "di",
+            "vid",
+            "ing",
+            "line"
+        ],
+        "The river acts as a dividing line between the two towns.",
+        "这条河是这两个镇之间的分界线。"
+    ],
+    "reach": [
+        [
+            "reach"
+        ],
+        "I cannot reach the book on the top shelf because I am too short.",
+        "我够不到书架顶层的书，因为我太矮了。"
+    ],
+    "agreement": [
+        [
+            "a",
+            "gree",
+            "ment"
+        ],
+        "After discussion, we finally came to an agreement on the plan.",
+        "讨论之后，我们终于就计划达成了一致。"
+    ],
+    "relative": [
+        [
+            "rel",
+            "a",
+            "tive"
+        ],
+        "My uncle is a close relative who often visits us at the weekend.",
+        "我的叔叔是一位近亲，经常在周末来看我们。"
+    ],
+    "government": [
+        [
+            "gov",
+            "ern",
+            "ment"
+        ],
+        "The local government built a new hospital for the community.",
+        "当地政府为社区新建了一家医院。"
+    ],
+    "poem": [
+        [
+            "po",
+            "em"
+        ],
+        "She wrote a beautiful poem about spring for the school magazine.",
+        "她为校刊写了一首关于春天的美丽诗歌。"
+    ],
+    "inside": [
+        [
+            "in",
+            "side"
+        ],
+        "It's warm inside the house, but it's cold outside today.",
+        "今天房子里很暖和，但外面很冷。"
+    ],
+    "neighbour": [
+        [
+            "neigh",
+            "bour"
+        ],
+        "Our neighbour is very kind and often helps us with our garden.",
+        "我们的邻居很友善，经常帮我们打理花园。"
+    ],
+    "act": [
+        [
+            "act"
+        ],
+        "In the school play, he will act the role of a brave king.",
+        "在学校话剧里，他将扮演一位勇敢的国王。"
+    ],
+    "pass": [
+        [
+            "pass"
+        ],
+        "I hope to pass all my exams at the end of this term.",
+        "我希望在这学期末通过我所有的考试。"
+    ],
+    "whenever": [
+        [
+            "when",
+            "ev",
+            "er"
+        ],
+        "You can call me whenever you need help with your homework.",
+        "无论何时你需要帮助做作业，你都可以给我打电话。"
+    ],
+    "fair": [
+        [
+            "fair"
+        ],
+        "The teacher is always fair when she gives marks to students.",
+        "老师在给学生打分时总是很公平。"
+    ],
+    "block": [
+        [
+            "block"
+        ],
+        "The children play football on the empty block near their homes.",
+        "孩子们在他们家附近的空地上踢足球。"
+    ],
+    "artificial": [
+        [
+            "ar",
+            "ti",
+            "fi",
+            "cial"
+        ],
+        "The Christmas tree in our living room is artificial.",
+        "我们客厅里的圣诞树是人造的。"
+    ],
+    "condition": [
+        [
+            "con",
+            "di",
+            "tion"
+        ],
+        "The old book is in very good condition for its age.",
+        "这本旧书就其年代而言保存状况非常好。"
+    ],
+    "cost": [
+        [
+            "cost"
+        ],
+        "This new bicycle costs too much money for me to buy now.",
+        "这辆新自行车太贵了，我现在买不起。"
+    ],
+    "lend": [
+        [
+            "lend"
+        ],
+        "Can you lend me your blue pen for the writing test?",
+        "你能把你的蓝笔借给我写作考试用吗？"
+    ],
+    "printer": [
+        [
+            "print",
+            "er"
+        ],
+        "We need a new printer because the old one is broken.",
+        "我们需要一台新打印机，因为旧的坏了。"
+    ],
+    "invent": [
+        [
+            "in",
+            "vent"
+        ],
+        "Thomas Edison worked hard to invent the electric light bulb.",
+        "托马斯·爱迪生努力发明了电灯泡。"
+    ],
+    "weigh": [
+        [
+            "weigh"
+        ],
+        "Can you weigh this bag of apples for me, please?",
+        "请问你能帮我称一下这袋苹果吗？"
+    ],
+    "kilogram": [
+        [
+            "kil",
+            "o",
+            "gram"
+        ],
+        "My little brother weighs twenty kilograms now.",
+        "我的小弟弟现在重二十公斤。"
+    ],
+    "fix": [
+        [
+            "fix"
+        ],
+        "My father can fix my bicycle when the wheel is broken.",
+        "我父亲能在车轮坏了时修理我的自行车。"
+    ],
+    "invention": [
+        [
+            "in",
+            "ven",
+            "tion"
+        ],
+        "The telephone is an important invention that changed the world.",
+        "电话是一项改变了世界的重要发明。"
+    ],
+    "download": [
+        [
+            "down",
+            "load"
+        ],
+        "You can download the song from the internet to your phone.",
+        "你可以从网上下载这首歌到你的手机上。"
+    ],
+    "apply": [
+        [
+            "ap",
+            "ply"
+        ],
+        "You need to apply for the job by sending an email first.",
+        "你需要先发电子邮件申请这份工作。"
+    ],
+    "blind": [
+        [
+            "blind"
+        ],
+        "The kind man has a blind dog that helps him cross the street.",
+        "这位善良的男子有一只导盲犬帮他过马路。"
+    ],
+    "machine": [
+        [
+            "ma",
+            "chine"
+        ],
+        "This washing machine makes it easy to clean our clothes.",
+        "这台洗衣机让洗衣服变得容易。"
+    ],
+    "warn": [
+        [
+            "warn"
+        ],
+        "The sign warns people not to swim in the deep part of the lake.",
+        "标志警告人们不要在湖的深水区游泳。"
+    ],
+    "object": [
+        [
+            "ob",
+            "ject"
+        ],
+        "The strange object in the sky turned out to be a kite.",
+        "天空中的奇怪物体原来是一只风筝。"
+    ],
+    "sense": [
+        [
+            "sense"
+        ],
+        "Dogs have a very good sense of smell and hearing.",
+        "狗有非常好的嗅觉和听觉。"
+    ],
+    "congratulations": [
+        [
+            "con",
+            "grat",
+            "u",
+            "la",
+            "tions"
+        ],
+        "Congratulations on winning first prize in the speech competition!",
+        "恭喜你在演讲比赛中获得一等奖！"
+    ],
+    "advertisement": [
+        [
+            "ad",
+            "ver",
+            "tise",
+            "ment"
+        ],
+        "I saw an advertisement for a new sports shop on television.",
+        "我在电视上看到了一个新运动商店的广告。"
+    ],
+    "everyday": [
+        [
+            "ev",
+            "ery",
+            "day"
+        ],
+        "Wearing jeans and a T-shirt is my everyday style for school.",
+        "穿牛仔裤和T恤是我上学的日常风格。"
+    ],
+    "trouble": [
+        [
+            "trou",
+            "ble"
+        ],
+        "I have trouble understanding this difficult maths problem.",
+        "我理解这道数学难题有困难。"
+    ],
+    "creative": [
+        [
+            "cre",
+            "a",
+            "tive"
+        ],
+        "She is very creative and often draws beautiful pictures.",
+        "她非常有创造力，经常画漂亮的画。"
+    ],
+    "imaginative": [
+        [
+            "i",
+            "mag",
+            "in",
+            "a",
+            "tive"
+        ],
+        "The children wrote an imaginative story about a magic land.",
+        "孩子们写了一个关于魔法之地的富有想象力的故事。"
+    ],
+    "inventor": [
+        [
+            "in",
+            "ven",
+            "tor"
+        ],
+        "An inventor needs to have many creative ideas and work hard.",
+        "发明家需要有创造性的想法并努力工作。"
+    ],
+    "widely": [
+        [
+            "wide",
+            "ly"
+        ],
+        "English is widely used in many countries around the world.",
+        "英语在世界许多国家被广泛使用。"
+    ],
+    "curiosity": [
+        [
+            "cu",
+            "ri",
+            "os",
+            "i",
+            "ty"
+        ],
+        "His curiosity about space led him to read many books about it.",
+        "他对太空的好奇心驱使他读了许多相关的书。"
+    ],
+    "talent": [
+        [
+            "tal",
+            "ent"
+        ],
+        "She has a natural talent for playing the piano very well.",
+        "她有弹好钢琴的天赋。"
+    ],
+    "electricity": [
+        [
+            "e",
+            "lec",
+            "tric",
+            "i",
+            "ty"
+        ],
+        "We use electricity to power lights, computers and televisions.",
+        "我们用电来为灯、电脑和电视供电。"
+    ],
+    "lightning": [
+        [
+            "light",
+            "ning"
+        ],
+        "We saw bright lightning during the heavy storm last night.",
+        "昨晚暴风雨期间我们看到了明亮的闪电。"
+    ],
+    "lightning rod": [
+        [
+            "light",
+            "ning",
+            "rod"
+        ],
+        "The tall building has a lightning rod to keep it safe.",
+        "这座高楼有一个避雷针来保证安全。"
+    ],
+    "pioneer": [
+        [
+            "pi",
+            "o",
+            "neer"
+        ],
+        "He was a pioneer in exploring the deep forests of South America.",
+        "他是探索南美洲深林的先驱者。"
+    ],
+    "exploration": [
+        [
+            "ex",
+            "plo",
+            "ra",
+            "tion"
+        ],
+        "Space exploration helps us learn more about the universe.",
+        "太空探索帮助我们更多地了解宇宙。"
+    ],
+    "test": [
+        [
+            "test"
+        ],
+        "We have a short English test every Friday morning.",
+        "我们每周五上午有一个简短的英语测验。"
+    ],
+    "despite": [
+        [
+            "de",
+            "spite"
+        ],
+        "Despite the rain, the football match continued as planned.",
+        "尽管下雨，足球比赛仍按计划进行。"
+    ],
+    "failure": [
+        [
+            "fail",
+            "ure"
+        ],
+        "Failure is not the end; it is a chance to learn and try again.",
+        "失败不是终点；它是一个学习和再尝试的机会。"
+    ],
+    "future": [
+        [
+            "fu",
+            "ture"
+        ],
+        "In the future, I hope to become a helpful doctor.",
+        "未来，我希望成为一名有帮助的医生。"
+    ],
+    "explorer": [
+        [
+            "ex",
+            "plor",
+            "er"
+        ],
+        "The famous explorer travelled to many unknown places.",
+        "这位著名的探险家去过许多未知的地方。"
+    ],
+    "risk": [
+        [
+            "risk"
+        ],
+        "Climbing that high mountain alone is a big risk to take.",
+        "独自攀登那座高山是一个很大的风险。"
+    ],
+    "drive": [
+        [
+            "drive"
+        ],
+        "My father will drive us to the beach for a picnic tomorrow.",
+        "我父亲明天会开车送我们去海滩野餐。"
+    ],
+    "earthquake": [
+        [
+            "earth",
+            "quake"
+        ],
+        "The earthquake caused some damage to buildings in the city.",
+        "地震对城市里的一些建筑造成了破坏。"
+    ],
+    "keyhole": [
+        [
+            "key",
+            "hole"
+        ],
+        "I looked through the keyhole to see who was outside the door.",
+        "我透过钥匙孔看门外是谁。"
+    ],
+    "digital": [
+        [
+            "dig",
+            "i",
+            "tal"
+        ],
+        "Most people use digital cameras on their phones now.",
+        "现在大多数人用手机上的数码相机。"
+    ],
+    "century": [
+        [
+            "cen",
+            "tu",
+            "ry"
+        ],
+        "We live in the twenty-first century, which is full of technology.",
+        "我们生活在充满科技的二十一世纪。"
+    ],
+    "forever": [
+        [
+            "for",
+            "ev",
+            "er"
+        ],
+        "I hope our friendship will last forever and never change.",
+        "我希望我们的友谊能永远持续，永不改变。"
+    ],
+    "smartphone": [
+        [
+            "smart",
+            "phone"
+        ],
+        "He uses his smartphone to read news and chat with friends.",
+        "他用智能手机看新闻和与朋友聊天。"
+    ],
+    "wallet": [
+        [
+            "wal",
+            "let"
+        ],
+        "I keep my money and bus card in a small red wallet.",
+        "我把钱和公交卡放在一个小红钱包里。"
+    ],
+    "payment": [
+        [
+            "pay",
+            "ment"
+        ],
+        "You can make a payment for the book online or in the shop.",
+        "你可以在网上或在店里为这本书付款。"
+    ],
+    "cash": [
+        [
+            "cash"
+        ],
+        "I don't have enough cash to buy this new dictionary now.",
+        "我现在没有足够的现金买这本新字典。"
+    ],
+    "app": [
+        [
+            "app"
+        ],
+        "There is a useful app for learning new English words.",
+        "有一个学习新英语单词的有用应用程序。"
+    ],
+    "oven": [
+        [
+            "ov",
+            "en"
+        ],
+        "My mother put the cake in the oven to bake for thirty minutes.",
+        "我妈妈把蛋糕放进烤箱烤三十分钟。"
+    ],
+    "except": [
+        [
+            "ex",
+            "cept"
+        ],
+        "Everyone in our class went to the museum except Tom.",
+        "除了汤姆，我们班每个人都去了博物馆。"
+    ],
+    "convenient": [
+        [
+            "con",
+            "ven",
+            "ient"
+        ],
+        "It is very convenient to have a supermarket near our home.",
+        "我们家附近有个超市非常方便。"
+    ],
+    "development": [
+        [
+            "de",
+            "vel",
+            "op",
+            "ment"
+        ],
+        "The rapid development of technology changes our lives quickly.",
+        "科技的快速发展迅速改变了我们的生活。"
+    ],
+    "mobile": [
+        [
+            "mo",
+            "bile"
+        ],
+        "A mobile phone allows us to call people from almost anywhere.",
+        "手机让我们几乎能从任何地方给别人打电话。"
+    ],
+    "anywhere": [
+        [
+            "an",
+            "y",
+            "where"
+        ],
+        "You can sit anywhere you like in the classroom today.",
+        "今天你可以坐在教室里任何你喜欢的地方。"
+    ],
+    "a great deal": [
+        [
+            "a",
+            "great",
+            "deal"
+        ],
+        "We need a great deal of water for the plants in the garden.",
+        "我们需要大量的水来浇灌花园里的植物。"
+    ],
+    "via": [
+        [
+            "vi",
+            "a"
+        ],
+        "We can send messages via email or through social media apps.",
+        "我们可以通过电子邮件或社交媒体应用程序发送信息。"
+    ],
+    "progress": [
+        [
+            "pro",
+            "gress"
+        ],
+        "He made good progress in English after practising every day.",
+        "经过每天练习，他在英语上取得了很大进步。"
+    ],
+    "offline": [
+        [
+            "off",
+            "line"
+        ],
+        "You can read the book offline after you download it to your tablet.",
+        "你把书下载到平板电脑后可以离线阅读。"
+    ],
+    "nowadays": [
+        [
+            "now",
+            "a",
+            "days"
+        ],
+        "Nowadays, many students use computers to do their homework.",
+        "如今，许多学生用电脑做作业。"
+    ],
+    "simply": [
+        [
+            "sim",
+            "ply"
+        ],
+        "You can simply click the button to start the game on the computer.",
+        "你可以简单地点击按钮在电脑上开始游戏。"
+    ],
+    "save": [
+        [
+            "save"
+        ],
+        "I save some money every week to buy a new bicycle next year.",
+        "我每周存一些钱，以便明年买一辆新自行车。"
+    ],
+    "advantage": [
+        [
+            "ad",
+            "van",
+            "tage"
+        ],
+        "One advantage of cycling is that it is good for your health.",
+        "骑自行车的一个好处是对健康有益。"
+    ],
+    "effect": [
+        [
+            "ef",
+            "fect"
+        ],
+        "The medicine had a good effect and made her feel better quickly.",
+        "这药效果很好，让她很快感觉好多了。"
+    ],
+    "glue": [
+        [
+            "glue"
+        ],
+        "We use glue to stick the pieces of paper together for our project.",
+        "我们用胶水把纸片粘在一起做我们的项目。"
+    ],
+    "be glued to sth": [
+        [
+            "be",
+            "glued",
+            "to",
+            "sth"
+        ],
+        "He was glued to his phone and didn't hear his mother calling him.",
+        "他全神贯注地盯着手机，没听见妈妈叫他。"
+    ],
+    "strange": [
+        [
+            "strange"
+        ],
+        "We heard a strange noise coming from the old house next door.",
+        "我们听到隔壁旧房子里传来奇怪的声音。"
+    ],
+    "throw": [
+        [
+            "throw"
+        ],
+        "Please throw the rubbish into the bin to keep our classroom clean.",
+        "请把垃圾扔进垃圾桶以保持教室清洁。"
+    ],
+    "guess": [
+        [
+            "guess"
+        ],
+        "Can you guess how many sweets are in this big glass jar?",
+        "你能猜出这个大玻璃罐里有多少颗糖吗？"
+    ],
+    "anyone": [
+        [
+            "an",
+            "y",
+            "one"
+        ],
+        "Is there anyone in the classroom who can answer this question?",
+        "教室里有人能回答这个问题吗？"
+    ],
+    "bedroom": [
+        [
+            "bed",
+            "room"
+        ],
+        "I share my bedroom with my younger sister, and we have two beds.",
+        "我和我妹妹共用一间卧室，我们有两张床。"
+    ],
+    "homework": [
+        [
+            "home",
+            "work"
+        ],
+        "I always finish my homework before I watch television in the evening.",
+        "我总是先完成作业，然后在晚上看电视。"
+    ],
+    "opposite": [
+        [
+            "op",
+            "po",
+            "site"
+        ],
+        "The post office is opposite the bank on the main street.",
+        "邮局在主街上银行的对面。"
+    ],
+    "packet": [
+        [
+            "pack",
+            "et"
+        ],
+        "She bought a packet of biscuits to share with her friends.",
+        "她买了一包饼干和朋友们分享。"
+    ],
+    "picnic": [
+        [
+            "pic",
+            "nic"
+        ],
+        "We had a lovely picnic in the park with sandwiches and fruit.",
+        "我们在公园里吃了一顿愉快的野餐，有三明治和水果。"
+    ],
+    "smelly": [
+        [
+            "smel",
+            "ly"
+        ],
+        "Please take the smelly rubbish out of the kitchen right now.",
+        "请现在就把厨房里发臭的垃圾拿出去。"
+    ],
+    "cheese": [
+        [
+            "cheese"
+        ],
+        "My favourite sandwich has cheese, tomato and lettuce in it.",
+        "我最喜欢的三明治里有奶酪、番茄和生菜。"
+    ],
+    "noise": [
+        [
+            "noise"
+        ],
+        "The noise from the construction site next door is very loud.",
+        "隔壁建筑工地的噪音非常大。"
+    ],
+    "reduce": [
+        [
+            "re",
+            "duce"
+        ],
+        "We should reduce the use of plastic bags to help the environment.",
+        "我们应该减少使用塑料袋以帮助环境。"
+    ],
+    "kick": [
+        [
+            "kick"
+        ],
+        "He can kick the football very far because he practises a lot.",
+        "他能把足球踢得很远，因为他练习很多。"
+    ],
+    "seat": [
+        [
+            "seat"
+        ],
+        "Please find your seat and sit down quietly for the lesson.",
+        "请找到你的座位，安静地坐下准备上课。"
+    ],
+    "passenger": [
+        [
+            "pas",
+            "sen",
+            "ger"
+        ],
+        "Every passenger on the bus must wear a seat belt for safety.",
+        "为了安全，公交车上的每位乘客都必须系安全带。"
+    ],
+    "anything": [
+        [
+            "an",
+            "y",
+            "thing"
+        ],
+        "You can ask me anything about the homework if you don't understand.",
+        "如果你不明白，可以问我任何关于作业的问题。"
+    ],
+    "fool": [
+        [
+            "fool"
+        ],
+        "Only a fool would go swimming in such cold weather.",
+        "只有傻瓜才会在这么冷的天气去游泳。"
+    ],
+    "sign": [
+        [
+            "sign"
+        ],
+        "The sign says 'Stop', so all cars must wait here.",
+        "标志上写着'停'，所以所有汽车必须在这里等待。"
+    ],
+    "throat": [
+        [
+            "throat"
+        ],
+        "I have a sore throat, so I drank some warm tea with honey.",
+        "我喉咙痛，所以我喝了一些加蜂蜜的热茶。"
+    ],
+    "clear your throat": [
+        [
+            "clear",
+            "your",
+            "throat"
+        ],
+        "He cleared his throat before starting his speech to the class.",
+        "他在开始向全班演讲之前清了清嗓子。"
+    ],
+    "responsibility": [
+        [
+            "re",
+            "spon",
+            "si",
+            "bil",
+            "i",
+            "ty"
+        ],
+        "It is our responsibility to keep our school clean and tidy.",
+        "保持学校干净整洁是我们的责任。"
+    ],
+    "cause": [
+        [
+            "cause"
+        ],
+        "Eating too much sugar can cause health problems like toothache.",
+        "吃太多糖会导致如牙痛等健康问题。"
+    ],
+    "belt": [
+        [
+            "belt"
+        ],
+        "He wore a black leather belt with his new blue jeans.",
+        "他穿新蓝色牛仔裤时配了一条黑色皮带。"
+    ],
+    "seat belt": [
+        [
+            "seat",
+            "belt"
+        ],
+        "Always fasten your seat belt when you are in a moving car.",
+        "乘坐行驶的汽车时，一定要系好安全带。"
+    ],
+    "station": [
+        [
+            "sta",
+            "tion"
+        ],
+        "We will meet at the train station at eight o'clock tomorrow morning.",
+        "我们明天早上八点在火车站见面。"
+    ],
+    "flowerpot": [
+        [
+            "flow",
+            "er",
+            "pot"
+        ],
+        "My grandmother grows small red flowers in a clay flowerpot.",
+        "我祖母在陶土花盆里种小红花。"
+    ],
+    "pick up": [
+        [
+            "pick",
+            "up"
+        ],
+        "I will pick up my little brother from his school at four o'clock.",
+        "我四点会去学校接我弟弟。"
+    ],
+    "mess": [
+        [
+            "mess"
+        ],
+        "Please tidy up the mess in your room before your friends come.",
+        "在你的朋友们来之前，请把你房间的杂乱收拾一下。"
+    ],
+    "honesty": [
+        [
+            "hon",
+            "es",
+            "ty"
+        ],
+        "Honesty is very important; we should always tell the truth.",
+        "诚实非常重要；我们应该永远说实话。"
+    ],
+    "spread": [
+        [
+            "spread"
+        ],
+        "We spread the map on the table to plan our trip to the city.",
+        "我们把地图铺在桌子上计划我们的城市之旅。"
+    ],
+    "law": [
+        [
+            "law"
+        ],
+        "It is the law that you must not drive a car without a licence.",
+        "法律禁止你无证驾驶。"
+    ],
+    "lawyer": [
+        [
+            "law",
+            "yer"
+        ],
+        "The lawyer helped the man understand his rights in the court.",
+        "律师帮助这位男子了解他在法庭上的权利。"
+    ],
+    "urgent": [
+        [
+            "ur",
+            "gent"
+        ],
+        "I have an urgent message for you from your mother, please call her.",
+        "我有一个你母亲发来的紧急口信，请给她打电话。"
+    ],
+    "citizen": [
+        [
+            "cit",
+            "i",
+            "zen"
+        ],
+        "As a good citizen, you should follow the rules of the society.",
+        "作为一个好公民，你应该遵守社会规则。"
+    ],
+    "click": [
+        [
+            "click"
+        ],
+        "Just click on the icon to open the program on your computer.",
+        "只需点击图标即可在电脑上打开程序。"
+    ],
+    "basic": [
+        [
+            "ba",
+            "sic"
+        ],
+        "We learn basic maths like addition and subtraction in primary school.",
+        "我们在小学学习加法和减法等基础数学。"
+    ],
+    "personal": [
+        [
+            "per",
+            "son",
+            "al"
+        ],
+        "My diary is personal, so I don't let anyone else read it.",
+        "我的日记是私人的，所以我不让其他人看。"
+    ],
+    "private": [
+        [
+            "pri",
+            "vate"
+        ],
+        "This is a private beach, so only hotel guests can use it.",
+        "这是一个私人海滩，所以只有酒店客人可以使用。"
+    ],
+    "avoid": [
+        [
+            "a",
+            "void"
+        ],
+        "To avoid being late, we left home thirty minutes early.",
+        "为了避免迟到，我们提前三十分钟离开了家。"
+    ],
+    "address": [
+        [
+            "ad",
+            "dress"
+        ],
+        "Please write your name and address clearly on the application form.",
+        "请在申请表上清楚地写下你的姓名和地址。"
+    ],
+    "passport": [
+        [
+            "pass",
+            "port"
+        ],
+        "You need a passport to travel to a foreign country.",
+        "你需要护照才能去外国旅行。"
+    ],
+    "limit": [
+        [
+            "lim",
+            "it"
+        ],
+        "There is a speed limit on this road to keep drivers safe.",
+        "这条路上有限速以确保驾驶员安全。"
+    ],
+    "careless": [
+        [
+            "care",
+            "less"
+        ],
+        "He was careless and lost his new pencil case on the bus.",
+        "他很粗心，把新铅笔盒丢在公交车上了。"
+    ],
+    "aware": [
+        [
+            "a",
+            "ware"
+        ],
+        "You should be aware of the dangers of using fire without an adult.",
+        "你应该意识到在没有成人的情况下使用火的危险。"
+    ],
+    "cheat": [
+        [
+            "cheat"
+        ],
+        "It is wrong to cheat in an exam by looking at another's paper.",
+        "考试时看别人的试卷作弊是错误的。"
+    ],
+    "trust": [
+        [
+            "trust"
+        ],
+        "Good friends trust each other and share their secrets.",
+        "好朋友互相信任并分享秘密。"
+    ],
+    "enemy": [
+        [
+            "en",
+            "e",
+            "my"
+        ],
+        "In the story, the brave knight fights against the enemy to save the king.",
+        "在故事里，勇敢的骑士与敌人作战以拯救国王。"
+    ],
+    "behave": [
+        [
+            "be",
+            "have"
+        ],
+        "Children should behave well when they visit their grandparents.",
+        "孩子们去看望祖父母时应该表现良好。"
+    ],
+    "cyberbullying": [
+        [
+            "cy",
+            "ber",
+            "bul",
+            "ly",
+            "ing"
+        ],
+        "Cyberbullying online can hurt people's feelings very badly.",
+        "网络上的网络欺凌会严重伤害人们的感情。"
+    ],
+    "lost": [
+        [
+            "lost"
+        ],
+        "I got lost in the big shopping mall and had to ask for help.",
+        "我在大购物中心迷路了，不得不求助。"
+    ],
+    "ground": [
+        [
+            "ground"
+        ],
+        "The children sat on the ground to have their picnic under the tree.",
+        "孩子们坐在地上，在树下野餐。"
+    ],
+    "scared": [
+        [
+            "scared"
+        ],
+        "The little girl was scared of the loud thunder during the storm.",
+        "小女孩被暴风雨中的响雷吓到了。"
+    ],
+    "shut": [
+        [
+            "shut"
+        ],
+        "Please shut the window because it is starting to rain outside.",
+        "请关上窗户，因为外面开始下雨了。"
+    ],
+    "shocking": [
+        [
+            "shock",
+            "ing"
+        ],
+        "The news about the sudden earthquake was shocking to everyone.",
+        "关于突然地震的消息让每个人都感到震惊。"
+    ],
+    "coach": [
+        [
+            "coach"
+        ],
+        "The football coach teaches us how to play better as a team.",
+        "足球教练教我们如何作为一个团队打得更好。"
+    ],
+    "straight": [
+        [
+            "straight"
+        ],
+        "Go straight down this road and you will see the library on your left.",
+        "沿着这条路直走，你会看到左边的图书馆。"
+    ],
+    "sand": [
+        [
+            "sand"
+        ],
+        "We built a big castle with wet sand on the beach yesterday.",
+        "我们昨天用海滩上的湿沙建了一个大城堡。"
+    ],
+    "flood": [
+        [
+            "flood"
+        ],
+        "The heavy rain caused a flood in some streets of the town.",
+        "大雨在镇上的一些街道造成了一场洪水。"
+    ],
+    "thick": [
+        [
+            "thick"
+        ],
+        "She wore a thick coat to keep warm in the cold winter wind.",
+        "她穿了一件厚外套在寒冷的冬风中保暖。"
+    ],
+    "smoke": [
+        [
+            "smoke"
+        ],
+        "We could see smoke coming from the chimney of the house.",
+        "我们能看见烟从房子的烟囱里冒出来。"
+    ],
+    "shower": [
+        [
+            "show",
+            "er"
+        ],
+        "I take a quick shower every morning before I go to school.",
+        "我每天早晨上学前快速冲个澡。"
+    ],
+    "historical": [
+        [
+            "his",
+            "tor",
+            "i",
+            "cal"
+        ],
+        "We visited a historical building that is over two hundred years old.",
+        "我们参观了一座有两百多年历史的历史建筑。"
+    ],
+    "expert": [
+        [
+            "ex",
+            "pert"
+        ],
+        "The science expert gave us a talk about protecting the environment.",
+        "科学专家给我们做了一个关于保护环境的讲座。"
+    ],
+    "timeline": [
+        [
+            "time",
+            "line"
+        ],
+        "We drew a timeline to show important events in world history.",
+        "我们画了一条时间线来展示世界历史上的重要事件。"
+    ],
+    "reaction": [
+        [
+            "re",
+            "ac",
+            "tion"
+        ],
+        "Her first reaction to the surprise party was a big, happy smile.",
+        "她对惊喜派对的第一个反应是一个大大的、快乐的笑容。"
+    ],
+    "airline": [
+        [
+            "air",
+            "line"
+        ],
+        "My father works for an airline and sometimes travels to other countries.",
+        "我父亲在一家航空公司工作，有时会去其他国家。"
+    ],
+    "weekday": [
+        [
+            "week",
+            "day"
+        ],
+        "On a weekday, I go to school from Monday to Friday.",
+        "在工作日，我从周一到周五去上学。"
+    ],
+    "railway": [
+        [
+            "rail",
+            "way"
+        ],
+        "The new railway will make travel between the two cities faster.",
+        "新铁路将使两个城市之间的旅行更快。"
+    ],
+    "rainstorm": [
+        [
+            "rain",
+            "storm"
+        ],
+        "The sudden rainstorm forced us to cancel our picnic in the park.",
+        "突如其来的暴风雨迫使我们取消了公园野餐。"
+    ],
+    "service": [
+        [
+            "ser",
+            "vice"
+        ],
+        "The service at this restaurant is very good and the food is delicious.",
+        "这家餐厅的服务很好，食物也很美味。"
+    ],
+    "search": [
+        [
+            "search"
+        ],
+        "I used the internet to search for information about my science project.",
+        "我用互联网搜索关于我的科学项目的信息。"
+    ],
+    "motherland": [
+        [
+            "moth",
+            "er",
+            "land"
+        ],
+        "We love our motherland and are proud of its long history.",
+        "我们热爱我们的祖国，并为其悠久的历史感到自豪。"
+    ],
+    "terrible": [
+        [
+            "ter",
+            "ri",
+            "ble"
+        ],
+        "I had a terrible headache yesterday, so I stayed in bed all day.",
+        "我昨天头痛得厉害，所以一整天都躺在床上。"
+    ],
+    "danger": [
+        [
+            "dan",
+            "ger"
+        ],
+        "There is danger in playing with fire because it can burn you.",
+        "玩火有危险，因为它会烧伤你。"
+    ],
+    "tsunami": [
+        [
+            "tsu",
+            "na",
+            "mi"
+        ],
+        "A tsunami can cause huge waves and damage to coastal towns.",
+        "海啸会引起巨浪并对沿海城镇造成破坏。"
+    ],
+    "warning": [
+        [
+            "warn",
+            "ing"
+        ],
+        "The weather warning told people to stay indoors during the storm.",
+        "天气预警告诉人们在暴风雨期间待在室内。"
+    ],
+    "iron": [
+        [
+            "i",
+            "ron"
+        ],
+        "My mother uses an iron to make our clothes smooth and tidy.",
+        "我妈妈用熨斗把我们的衣服熨得平整。"
+    ],
+    "fashion": [
+        [
+            "fash",
+            "ion"
+        ],
+        "She is interested in fashion and likes to design her own clothes.",
+        "她对时尚感兴趣，喜欢设计自己的衣服。"
+    ],
+    "slim": [
+        [
+            "slim"
+        ],
+        "He keeps slim by exercising every day and eating healthy food.",
+        "他通过每天锻炼和吃健康食品来保持苗条。"
+    ],
+    "bleed": [
+        [
+            "bleed"
+        ],
+        "If you cut your finger, it might bleed a little bit.",
+        "如果你割伤手指，可能会流一点血。"
+    ],
+    "uncomfortable": [
+        [
+            "un",
+            "com",
+            "fort",
+            "a",
+            "ble"
+        ],
+        "These new shoes are uncomfortable, so I need to wear older ones.",
+        "这双新鞋不舒服，所以我需要穿旧一点的。"
+    ],
+    "jeans": [
+        [
+            "jeans"
+        ],
+        "Most students wear jeans and T-shirts to school on casual days.",
+        "在便装日，大多数学生穿牛仔裤和T恤上学。"
+    ],
+    "encouraging": [
+        [
+            "en",
+            "cour",
+            "ag",
+            "ing"
+        ],
+        "My teacher gave me an encouraging smile before the big test.",
+        "我的老师在大考前给了我一个鼓励的微笑。"
+    ],
+    "herself": [
+        [
+            "her",
+            "self"
+        ],
+        "She cooked dinner all by herself for the first time yesterday.",
+        "她昨天第一次完全靠自己做了晚餐。"
+    ],
+    "university": [
+        [
+            "u",
+            "ni",
+            "ver",
+            "si",
+            "ty"
+        ],
+        "My elder brother studies computer science at a big university.",
+        "我哥哥在一所大型大学学习计算机科学。"
+    ],
+    "honour": [
+        [
+            "hon",
+            "our"
+        ],
+        "It is a great honour to receive this award for best student.",
+        "获得最佳学生奖是一项巨大的荣誉。"
+    ],
+    "wound": [
+        [
+            "wound"
+        ],
+        "The nurse cleaned the small wound on his knee and put a bandage on it.",
+        "护士清理了他膝盖上的小伤口并贴上了绷带。"
+    ],
+    "heroine": [
+        [
+            "her",
+            "o",
+            "ine"
+        ],
+        "The heroine in the book was brave and saved her family from danger.",
+        "书中的女主人公很勇敢，将她的家人从危险中救出。"
+    ]
+}

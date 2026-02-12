@@ -1,0 +1,1472 @@
+{
+    "smell": {
+        "sentence": [
+            "I can smell the fresh bread from the bakery next door.",
+            "我能闻到隔壁面包店新鲜面包的香味。"
+        ]
+    },
+    "smelt": {
+        "sentence": [
+            "He smelt the flowers in the garden yesterday afternoon.",
+            "昨天下午他在花园里闻了那些花。"
+        ]
+    },
+    "soft": {
+        "sentence": [
+            "My new pillow is very soft and comfortable to sleep on.",
+            "我的新枕头很柔软，睡在上面很舒服。"
+        ]
+    },
+    "sour": {
+        "sentence": [
+            "The milk tastes sour, so we should not drink it.",
+            "这牛奶尝起来酸了，所以我们不应该喝它。"
+        ]
+    },
+    "cookie": {
+        "sentence": [
+            "My mother baked some delicious chocolate cookies for us.",
+            "我妈妈为我们烤了一些美味的巧克力饼干。"
+        ]
+    },
+    "mm": {
+        "sentence": [
+            "Mm, this soup your mom made is really tasty!",
+            "嗯，你妈妈做的这个汤真好吃！"
+        ]
+    },
+    "pizza": {
+        "sentence": [
+            "We often order a large pizza to share on Friday nights.",
+            "我们经常在周五晚上点一个大披萨一起分享。"
+        ]
+    },
+    "lovely": {
+        "sentence": [
+            "We had a lovely time at the park with our classmates.",
+            "我们在公园和同学们度过了愉快的时光。"
+        ]
+    },
+    "done": {
+        "sentence": [
+            "I have just done all my homework for the weekend.",
+            "我刚刚完成了周末的所有作业。"
+        ]
+    },
+    "try": {
+        "sentence": [
+            "You should try this new game; it is very interesting.",
+            "你应该试试这个新游戏，它非常有趣。"
+        ]
+    },
+    "have a try": {
+        "sentence": [
+            "I am not good at drawing, but I will have a try.",
+            "我不擅长画画，但我会试一试。"
+        ]
+    },
+    "pie": {
+        "sentence": [
+            "My grandma makes the best apple pie in the world.",
+            "我奶奶做的苹果派是世界上最好的。"
+        ]
+    },
+    "sound": {
+        "sentence": [
+            "The sound of rain helps me fall asleep quickly.",
+            "雨声帮助我快速入睡。"
+        ]
+    },
+    "sweet tooth": {
+        "sentence": [
+            "My little brother has a sweet tooth and loves candies.",
+            "我的弟弟爱吃甜食，喜欢糖果。"
+        ]
+    },
+    "salt": {
+        "sentence": [
+            "Please pass me the salt; I need some for my eggs.",
+            "请把盐递给我，我的鸡蛋需要加一点。"
+        ]
+    },
+    "jam": {
+        "sentence": [
+            "I spread some strawberry jam on my toast every morning.",
+            "我每天早上都在吐司上涂一些草莓酱。"
+        ]
+    },
+    "glasses": {
+        "sentence": [
+            "My sister wears glasses when she reads books.",
+            "我姐姐看书时会戴眼镜。"
+        ]
+    },
+    "jeans": {
+        "sentence": [
+            "I usually wear jeans and a T-shirt to school.",
+            "我通常穿牛仔裤和T恤去上学。"
+        ]
+    },
+    "nervous": {
+        "sentence": [
+            "She felt very nervous before her first piano competition.",
+            "在她第一次钢琴比赛前，她感到非常紧张。"
+        ]
+    },
+    "fair": {
+        "sentence": [
+            "Our teacher is always fair when she gives us marks.",
+            "我们的老师在给我们打分时总是很公平。"
+        ]
+    },
+    "pretty": {
+        "sentence": [
+            "The garden looks pretty with all the colorful flowers.",
+            "花园里开满五颜六色的花，看起来很漂亮。"
+        ]
+    },
+    "proud": {
+        "sentence": [
+            "My parents are proud of my good grades at school.",
+            "我的父母为我学校的好成绩感到骄傲。"
+        ]
+    },
+    "be proud of": {
+        "sentence": [
+            "You should be proud of yourself for finishing the race.",
+            "你应该为自己完成比赛而感到骄傲。"
+        ]
+    },
+    "stranger": {
+        "sentence": [
+            "My mother told me never to talk to a stranger on the street.",
+            "我妈妈告诉我永远不要和街上的陌生人说话。"
+        ]
+    },
+    "message": {
+        "sentence": [
+            "I left a message on your phone about our meeting time.",
+            "我在你手机上留言了，是关于我们开会时间的。"
+        ]
+    },
+    "sb": {
+        "sentence": [
+            "Can sb help me carry these heavy books to the classroom?",
+            "有人能帮我把这些沉重的书搬到教室吗？"
+        ]
+    },
+    "hobby": {
+        "sentence": [
+            "Reading is my favourite hobby in my free time.",
+            "阅读是我空闲时最喜欢的爱好。"
+        ]
+    },
+    "at school": {
+        "sentence": [
+            "We learn many interesting subjects at school together.",
+            "我们在学校一起学习许多有趣的科目。"
+        ]
+    },
+    "mark": {
+        "sentence": [
+            "I hope to get a good mark on the English test tomorrow.",
+            "我希望在明天的英语测验中取得好成绩。"
+        ]
+    },
+    "ever": {
+        "sentence": [
+            "Have you ever visited the Science Museum in our city?",
+            "你曾经参观过我们市的科学博物馆吗？"
+        ]
+    },
+    "enter": {
+        "sentence": [
+            "Please knock on the door before you enter the teacher's office.",
+            "进入老师办公室前请先敲门。"
+        ]
+    },
+    "competition": {
+        "sentence": [
+            "Our class won first place in the singing competition last week.",
+            "我们班在上周的歌唱比赛中赢得了第一名。"
+        ]
+    },
+    "prize": {
+        "sentence": [
+            "She received a special prize for her beautiful painting.",
+            "她因那幅美丽的画而获得了一个特别奖。"
+        ]
+    },
+    "first prize": {
+        "sentence": [
+            "Winning the first prize made him very happy and excited.",
+            "赢得一等奖让他感到非常高兴和兴奋。"
+        ]
+    },
+    "dream": {
+        "sentence": [
+            "My dream is to become a doctor and help sick people.",
+            "我的梦想是成为一名医生，帮助生病的人。"
+        ]
+    },
+    "dreamed": {
+        "sentence": [
+            "Last night, I dreamed about flying over the mountains.",
+            "昨晚，我梦到飞越群山。"
+        ]
+    },
+    "dreamt": {
+        "sentence": [
+            "She dreamt of traveling around the world when she was young.",
+            "她年轻时常梦想环游世界。"
+        ]
+    },
+    "write about": {
+        "sentence": [
+            "For homework, we need to write about our summer holiday.",
+            "家庭作业要求我们写一写我们的暑假。"
+        ]
+    },
+    "as long as": {
+        "sentence": [
+            "You can borrow my bike as long as you return it before 5 pm.",
+            "只要你下午5点前归还，就可以借我的自行车。"
+        ]
+    },
+    "move": {
+        "sentence": [
+            "My family will move to a new house next month.",
+            "我的家人下个月将搬到一个新房子。"
+        ]
+    },
+    "send": {
+        "sentence": [
+            "I will send an email to my pen pal in Canada tonight.",
+            "我今晚将给我在加拿大的笔友发一封电子邮件。"
+        ]
+    },
+    "Germany": {
+        "sentence": [
+            "My uncle lives in Germany and works as an engineer.",
+            "我的叔叔住在德国，是一名工程师。"
+        ]
+    },
+    "France": {
+        "sentence": [
+            "We learned about the Eiffel Tower in France in geography class.",
+            "我们在地理课上学到了法国的埃菲尔铁塔。"
+        ]
+    },
+    "tower": {
+        "sentence": [
+            "The clock tower in the city centre is over a hundred years old.",
+            "市中心的钟楼已有一百多年的历史。"
+        ]
+    },
+    "ancient": {
+        "sentence": [
+            "We saw many ancient buildings during our trip to Beijing.",
+            "在我们去北京的旅行中，我们看到了许多古建筑。"
+        ]
+    },
+    "king": {
+        "sentence": [
+            "The king in the story was very kind to his people.",
+            "故事中的国王对他的子民非常仁慈。"
+        ]
+    },
+    "queen": {
+        "sentence": [
+            "The young queen in the movie was both brave and wise.",
+            "电影中的年轻女王既勇敢又聪明。"
+        ]
+    },
+    "Arabic": {
+        "sentence": [
+            "Arabic is a difficult but beautiful language to learn.",
+            "阿拉伯语是一门难学但优美的语言。"
+        ]
+    },
+    "mix": {
+        "sentence": [
+            "First, you need to mix the flour and eggs in a bowl.",
+            "首先，你需要把面粉和鸡蛋在碗里混合。"
+        ]
+    },
+    "miss": {
+        "sentence": [
+            "I miss my best friend because she moved to another city.",
+            "我想念我最好的朋友，因为她搬到了另一个城市。"
+        ]
+    },
+    "count": {
+        "sentence": [
+            "Can you help me count the number of students in our class?",
+            "你能帮我数一下我们班的学生人数吗？"
+        ]
+    },
+    "count down": {
+        "sentence": [
+            "We started to count down from ten on New Year's Eve.",
+            "我们在除夕夜开始从十倒数。"
+        ]
+    },
+    "earth": {
+        "sentence": [
+            "The Earth goes around the Sun once every year.",
+            "地球每年绕太阳转一圈。"
+        ]
+    },
+    "news": {
+        "sentence": [
+            "My father watches the news on TV every evening after dinner.",
+            "我父亲每天晚上饭后看电视新闻。"
+        ]
+    },
+    "planet": {
+        "sentence": [
+            "Mars is a planet that is next to the Earth.",
+            "火星是紧挨着地球的一颗行星。"
+        ]
+    },
+    "reach": {
+        "sentence": [
+            "I cannot reach the top shelf because I am not tall enough.",
+            "我够不到顶层的架子，因为我不够高。"
+        ]
+    },
+    "yet": {
+        "sentence": [
+            "He has not finished his project for school yet.",
+            "他还没有完成他的学校项目。"
+        ]
+    },
+    "just": {
+        "sentence": [
+            "I just finished reading an interesting book about space.",
+            "我刚读完一本关于太空的有趣的书。"
+        ]
+    },
+    "model": {
+        "sentence": [
+            "My brother likes to build model planes in his room.",
+            "我的哥哥喜欢在他的房间里制作飞机模型。"
+        ]
+    },
+    "spacecraft": {
+        "sentence": [
+            "The spacecraft will send pictures back to scientists on Earth.",
+            "宇宙飞船将把图片发回给地球上的科学家。"
+        ]
+    },
+    "project": {
+        "sentence": [
+            "Our science project this term is about the solar system.",
+            "我们这学期的科学项目是关于太阳系的。"
+        ]
+    },
+    "no problem": {
+        "sentence": [
+            "'Can you help me with this question?' 'Sure, no problem.'",
+            "'你能帮我解答这个问题吗？''当然，没问题。'"
+        ]
+    },
+    "latest": {
+        "sentence": [
+            "I want to buy the latest book by my favourite writer.",
+            "我想买我最喜欢的作家的最新著作。"
+        ]
+    },
+    "discover": {
+        "sentence": [
+            "Scientists hope to discover new planets in the future.",
+            "科学家们希望在未来发现新的行星。"
+        ]
+    },
+    "astronaut": {
+        "sentence": [
+            "The astronaut talked to students about life in space.",
+            "那位宇航员向学生们讲述了太空中的生活。"
+        ]
+    },
+    "space travel": {
+        "sentence": [
+            "Space travel may become common for people in the future.",
+            "未来太空旅行对人们来说可能会变得普遍。"
+        ]
+    },
+    "none": {
+        "sentence": [
+            "None of the students in my class failed the math test.",
+            "我们班上没有一个学生数学测验不及格。"
+        ]
+    },
+    "environment": {
+        "sentence": [
+            "It is important to protect the environment for future generations.",
+            "为子孙后代保护环境非常重要。"
+        ]
+    },
+    "solar": {
+        "sentence": [
+            "We learned about solar energy in our science lesson.",
+            "我们在科学课上学到了太阳能。"
+        ]
+    },
+    "system": {
+        "sentence": [
+            "Our school is testing a new computer system this month.",
+            "我们学校这个月正在测试一个新的计算机系统。"
+        ]
+    },
+    "solar system": {
+        "sentence": [
+            "We made a model of the solar system for our science project.",
+            "我们为科学项目制作了一个太阳系模型。"
+        ]
+    },
+    "group": {
+        "sentence": [
+            "We work in a group of four for our English class activity.",
+            "我们在英语课堂活动中四人一组进行合作。"
+        ]
+    },
+    "galaxy": {
+        "sentence": [
+            "Our Milky Way is just one galaxy among many in the universe.",
+            "我们的银河系只是宇宙中众多星系中的一个。"
+        ]
+    },
+    "universe": {
+        "sentence": [
+            "The universe is so large that we cannot imagine its size.",
+            "宇宙如此之大，我们无法想象它的大小。"
+        ]
+    },
+    "impossible": {
+        "sentence": [
+            "It is impossible to finish all this homework in one hour.",
+            "在一小时内完成所有这些家庭作业是不可能的。"
+        ]
+    },
+    "out": {
+        "sentence": [
+            "Please take out your English book and turn to page 25.",
+            "请拿出你的英语书，翻到第25页。"
+        ]
+    },
+    "communicate": {
+        "sentence": [
+            "We can use the internet to communicate with people far away.",
+            "我们可以使用互联网与远方的人们交流。"
+        ]
+    },
+    "cough": {
+        "sentence": [
+            "I have a bad cough, so my mother made me some honey tea.",
+            "我咳得厉害，所以我妈妈给我泡了些蜂蜜茶。"
+        ]
+    },
+    "fever": {
+        "sentence": [
+            "You have a high fever and should stay in bed today.",
+            "你发高烧了，今天应该卧床休息。"
+        ]
+    },
+    "headache": {
+        "sentence": [
+            "I cannot play football because I have a terrible headache.",
+            "我不能踢足球，因为我头疼得厉害。"
+        ]
+    },
+    "stomach": {
+        "sentence": [
+            "Eating too much ice cream sometimes gives me a stomach ache.",
+            "吃太多冰淇淋有时会让我肚子疼。"
+        ]
+    },
+    "ache": {
+        "sentence": [
+            "My legs ache after running for an hour in PE class.",
+            "在体育课跑了一小时后，我的腿很疼。"
+        ]
+    },
+    "stomach ache": {
+        "sentence": [
+            "She had a stomach ache after eating too much chocolate.",
+            "她吃了太多巧克力后肚子疼。"
+        ]
+    },
+    "toothache": {
+        "sentence": [
+            "I need to see the dentist because I have a bad toothache.",
+            "我需要看牙医，因为我牙疼得厉害。"
+        ]
+    },
+    "since": {
+        "sentence": [
+            "I have known my best friend since we were in primary school.",
+            "我从小学就认识我最好的朋友了。"
+        ]
+    },
+    "conj": {
+        "sentence": [
+            "We learned how to use 'because' as a conj in English class.",
+            "我们在英语课上学了如何将'because'用作连词。"
+        ]
+    },
+    "cold": {
+        "sentence": [
+            "It is very cold outside, so remember to wear your coat.",
+            "外面很冷，所以记得穿上你的外套。"
+        ]
+    },
+    "catch a cold": {
+        "sentence": [
+            "If you go out in the rain, you might catch a cold.",
+            "如果你冒雨出去，可能会感冒。"
+        ]
+    },
+    "take sb": {
+        "sentence": [
+            "My dad will take me to the cinema this Saturday afternoon.",
+            "我爸爸这周六下午会带我去电影院。"
+        ]
+    },
+    "fast food": {
+        "sentence": [
+            "Eating too much fast food is not good for our health.",
+            "吃太多快餐对我们的健康不好。"
+        ]
+    },
+    "health": {
+        "sentence": [
+            "Good health is more important than anything else in life.",
+            "良好的健康比生活中任何其他东西都重要。"
+        ]
+    },
+    "heart": {
+        "sentence": [
+            "Running every morning is good for your heart and body.",
+            "每天早上跑步对你的心脏和身体都有好处。"
+        ]
+    },
+    "active": {
+        "sentence": [
+            "My grandfather is very active and goes for a walk every day.",
+            "我的祖父非常活跃，每天都去散步。"
+        ]
+    },
+    "pet": {
+        "sentence": [
+            "My little pet dog always waits for me at the door.",
+            "我的小宠物狗总是在门口等我。"
+        ]
+    },
+    "member": {
+        "sentence": [
+            "Every member of our family helps with the housework.",
+            "我们家的每个成员都帮忙做家务。"
+        ]
+    },
+    "take part": {
+        "sentence": [
+            "All students are welcome to take part in the school sports day.",
+            "欢迎所有学生参加学校运动会。"
+        ]
+    },
+    "condition": {
+        "sentence": [
+            "You must keep your books in good condition.",
+            "你必须保持你的书完好无损。"
+        ]
+    },
+    "in excellent condition": {
+        "sentence": [
+            "This old book is still in excellent condition after many years.",
+            "这本旧书历经多年仍然保存完好。"
+        ]
+    },
+    "sleepy": {
+        "sentence": [
+            "I feel sleepy in class if I do not get enough sleep.",
+            "如果睡眠不足，我在上课时会感到困倦。"
+        ]
+    },
+    "daily": {
+        "sentence": [
+            "Drinking milk daily helps children grow strong and healthy.",
+            "每天喝牛奶有助于孩子们长得强壮健康。"
+        ]
+    },
+    "weak": {
+        "sentence": [
+            "After being ill, I still feel a bit weak and tired.",
+            "生病之后，我仍然感到有点虚弱和疲倦。"
+        ]
+    },
+    "illness": {
+        "sentence": [
+            "A good rest can help you recover from your illness quickly.",
+            "好好休息可以帮助你从疾病中快速康复。"
+        ]
+    },
+    "awful": {
+        "sentence": [
+            "I had an awful headache yesterday and could not study.",
+            "我昨天头疼得厉害，无法学习。"
+        ]
+    },
+    "feel awful": {
+        "sentence": [
+            "She feels awful because she did not do well in the exam.",
+            "她感觉糟透了，因为她考试没考好。"
+        ]
+    },
+    "all over": {
+        "sentence": [
+            "After playing football, I was dirty all over.",
+            "踢完足球后，我浑身都脏了。"
+        ]
+    },
+    "perhaps": {
+        "sentence": [
+            "Perhaps we can go to the library together after school.",
+            "也许放学后我们可以一起去图书馆。"
+        ]
+    },
+    "cartoon": {
+        "sentence": [
+            "My favourite cartoon character is always brave and kind.",
+            "我最喜欢的卡通人物总是勇敢而善良。"
+        ]
+    },
+    "handsome": {
+        "sentence": [
+            "Many people think the actor in the movie is very handsome.",
+            "许多人认为电影里的那位演员非常英俊。"
+        ]
+    },
+    "smart": {
+        "sentence": [
+            "She is a smart student and always gets good grades.",
+            "她是个聪明的学生，总是取得好成绩。"
+        ]
+    },
+    "sky": {
+        "sentence": [
+            "The sky is clear and blue without any clouds today.",
+            "今天天空晴朗湛蓝，万里无云。"
+        ]
+    },
+    "fight": {
+        "sentence": [
+            "The two heroes in the story fight against the evil monster.",
+            "故事中的两位英雄与邪恶的怪物战斗。"
+        ]
+    },
+    "hero": {
+        "sentence": [
+            "The firefighter is a true hero because he saves people's lives.",
+            "那位消防员是真正的英雄，因为他拯救人们的生命。"
+        ]
+    },
+    "humorous": {
+        "sentence": [
+            "Our new English teacher is very humorous and makes us laugh.",
+            "我们的新英语老师非常幽默，常逗我们发笑。"
+        ]
+    },
+    "can": {
+        "sentence": [
+            "I can swim very well because I practice every summer.",
+            "我游泳游得很好，因为我每年夏天都练习。"
+        ]
+    },
+    "laugh": {
+        "sentence": [
+            "The funny movie made all of us laugh a lot.",
+            "那部有趣的电影让我们大家都笑得很开心。"
+        ]
+    },
+    "orange-and-white": {
+        "sentence": [
+            "I have an orange-and-white cat that is very friendly.",
+            "我有一只橘白相间的猫，非常友好。"
+        ]
+    },
+    "adj": {
+        "sentence": [
+            "'Big' is an adj that we often use to describe size.",
+            "'Big'是一个我们常用来描述大小的形容词。"
+        ]
+    },
+    "ugly": {
+        "sentence": [
+            "Some people think the building is ugly, but I like its design.",
+            "有些人认为这栋楼很丑，但我喜欢它的设计。"
+        ]
+    },
+    "win the heart of sb": {
+        "sentence": [
+            "The kind princess soon won the heart of everyone in the kingdom.",
+            "善良的公主很快就赢得了王国里每个人的心。"
+        ]
+    },
+    "schoolbag": {
+        "sentence": [
+            "My schoolbag is heavy because it has many books inside.",
+            "我的书包很重，因为里面有很多书。"
+        ]
+    },
+    "lead": {
+        "sentence": [
+            "The teacher asked a student to lead the group discussion.",
+            "老师让一个学生来引导小组讨论。"
+        ]
+    },
+    "as": {
+        "sentence": [
+            "As it is raining, we will have our PE class indoors today.",
+            "因为正在下雨，我们今天将在室内上体育课。"
+        ]
+    },
+    "mess": {
+        "sentence": [
+            "My brother's room is always a mess with toys everywhere.",
+            "我弟弟的房间总是一团糟，玩具到处都是。"
+        ]
+    },
+    "heaven": {
+        "sentence": [
+            "The quiet beach was like heaven for us during the holiday.",
+            "那个安静的海滩在假期里对我们来说就像天堂一样。"
+        ]
+    },
+    "expect": {
+        "sentence": [
+            "I expect to get a letter from my pen pal next week.",
+            "我期待下周能收到笔友的来信。"
+        ]
+    },
+    "artist": {
+        "sentence": [
+            "The young artist can draw beautiful pictures of nature.",
+            "那位年轻的艺术家能画出美丽的大自然图画。"
+        ]
+    },
+    "invent": {
+        "sentence": [
+            "Thomas Edison worked hard to invent the light bulb.",
+            "托马斯·爱迪生努力发明了电灯泡。"
+        ]
+    },
+    "copy": {
+        "sentence": [
+            "Please do not copy your classmate's answers in the test.",
+            "考试时请不要抄袭你同学的答案。"
+        ]
+    },
+    "black-and-white": {
+        "sentence": [
+            "My grandfather likes to watch old black-and-white movies.",
+            "我的祖父喜欢看老的黑白电影。"
+        ]
+    },
+    "own": {
+        "sentence": [
+            "My dream is to have my own room when I grow up.",
+            "我的梦想是长大后拥有自己的房间。"
+        ]
+    },
+    "private": {
+        "sentence": [
+            "This diary is private, so please do not read it.",
+            "这本日记是私人的，所以请不要阅读。"
+        ]
+    },
+    "satisfy": {
+        "sentence": [
+            "The teacher's explanation did not satisfy my curiosity.",
+            "老师的解释没有满足我的好奇心。"
+        ]
+    },
+    "fan": {
+        "sentence": [
+            "I am a big fan of this singer and have all her CDs.",
+            "我是这位歌手的超级粉丝，拥有她所有的CD。"
+        ]
+    },
+    "stamp": {
+        "sentence": [
+            "My hobby is collecting stamps from different countries.",
+            "我的爱好是收集不同国家的邮票。"
+        ]
+    },
+    "tidy up": {
+        "sentence": [
+            "We need to tidy up our classroom before we go home.",
+            "我们需要在回家前把教室收拾整齐。"
+        ]
+    },
+    "shelf": {
+        "sentence": [
+            "Please put the dictionary back on the shelf after using it.",
+            "使用后请将字典放回书架上。"
+        ]
+    },
+    "have a look": {
+        "sentence": [
+            "Can I have a look at the photos you took during the trip?",
+            "我能看一看你在旅行期间拍的照片吗？"
+        ]
+    },
+    "coin": {
+        "sentence": [
+            "I found an old coin under my grandmother's sofa yesterday.",
+            "我昨天在祖母的沙发下发现了一枚旧硬币。"
+        ]
+    },
+    "note": {
+        "sentence": [
+            "My mother left a note on the table to remind me.",
+            "我妈妈在桌子上留了张纸条提醒我。"
+        ]
+    },
+    "pound": {
+        "sentence": [
+            "This book costs five pounds at the bookstore.",
+            "这本书在书店卖五英镑。"
+        ]
+    },
+    "dollar": {
+        "sentence": [
+            "I saved ten dollars to buy a birthday present for my mom.",
+            "我省下了十美元给妈妈买生日礼物。"
+        ]
+    },
+    "must": {
+        "sentence": [
+            "You must finish your homework before you watch TV.",
+            "你必须在看电视之前完成作业。"
+        ]
+    },
+    "valuable": {
+        "sentence": [
+            "Time is the most valuable thing we have in our lives.",
+            "时间是我们生命中最宝贵的东西。"
+        ]
+    },
+    "with": {
+        "sentence": [
+            "I like to drink tea with a little sugar in the morning.",
+            "我喜欢早上喝加一点糖的茶。"
+        ]
+    },
+    "value": {
+        "sentence": [
+            "My grandmother taught me the value of being honest.",
+            "我的祖母教会了我诚实的价值。"
+        ]
+    },
+    "person": {
+        "sentence": [
+            "He is a very kind person and always helps others.",
+            "他是个非常善良的人，总是帮助别人。"
+        ]
+    },
+    "interest": {
+        "sentence": [
+            "My main interest is playing the piano after school.",
+            "我的主要兴趣是放学后弹钢琴。"
+        ]
+    },
+    "skill": {
+        "sentence": [
+            "Learning a new language is a useful skill for everyone.",
+            "学习一门新语言对每个人来说都是一项有用的技能。"
+        ]
+    },
+    "activity": {
+        "sentence": [
+            "Our favourite activity in the summer is swimming in the pool.",
+            "我们夏天最喜欢的活动是在游泳池里游泳。"
+        ]
+    },
+    "sailing": {
+        "sentence": [
+            "My uncle enjoys sailing on the lake during the weekends.",
+            "我的叔叔喜欢在周末去湖上航行。"
+        ]
+    },
+    "encourage": {
+        "sentence": [
+            "My parents always encourage me to try my best in everything.",
+            "我的父母总是鼓励我在每件事上都尽力而为。"
+        ]
+    },
+    "come out": {
+        "sentence": [
+            "The new magazine will come out in bookshops next Monday.",
+            "新杂志将于下周一在书店上架。"
+        ]
+    },
+    "result": {
+        "sentence": [
+            "The result of the match made all the fans very happy.",
+            "比赛的结果让所有的球迷都非常高兴。"
+        ]
+    },
+    "as a result": {
+        "sentence": [
+            "He studied very hard, and as a result, he passed the exam.",
+            "他学习非常努力，结果他通过了考试。"
+        ]
+    },
+    "pleasure": {
+        "sentence": [
+            "It is a great pleasure to help my classmates with their studies.",
+            "帮助同学们学习是一件非常愉快的事。"
+        ]
+    },
+    "success": {
+        "sentence": [
+            "Hard work is the key to success in any field.",
+            "努力工作是任何领域取得成功的关键。"
+        ]
+    },
+    "list": {
+        "sentence": [
+            "My mother made a shopping list before going to the supermarket.",
+            "我妈妈去超市前列了一张购物清单。"
+        ]
+    },
+    "make a list": {
+        "sentence": [
+            "I need to make a list of things to do during the holiday.",
+            "我需要列一份假期要做的事情的清单。"
+        ]
+    },
+    "crazy": {
+        "sentence": [
+            "My friends think I am crazy to get up at 5 am for running.",
+            "我的朋友们认为我早上5点起床跑步是疯了。"
+        ]
+    },
+    "at the end of": {
+        "sentence": [
+            "We have a big party at the end of the school year.",
+            "我们在学年末有一个盛大的聚会。"
+        ]
+    },
+    "shorts": {
+        "sentence": [
+            "I usually wear shorts when I play basketball in the summer.",
+            "我夏天打篮球时通常穿短裤。"
+        ]
+    },
+    "sunglasses": {
+        "sentence": [
+            "You should wear sunglasses to protect your eyes on sunny days.",
+            "在阳光明媚的日子，你应该戴太阳镜来保护眼睛。"
+        ]
+    },
+    "homestay": {
+        "sentence": [
+            "I did a homestay with a friendly family in Australia last summer.",
+            "去年夏天我在澳大利亚一个友好的家庭寄宿。"
+        ]
+    },
+    "weigh": {
+        "sentence": [
+            "The doctor asked me to weigh myself every week.",
+            "医生要求我每周称体重。"
+        ]
+    },
+    "total": {
+        "sentence": [
+            "The total number of students in our school is over a thousand.",
+            "我们学校的学生总数超过一千人。"
+        ]
+    },
+    "weight": {
+        "sentence": [
+            "Eating healthy food helps me keep a good weight.",
+            "吃健康的食物有助于我保持良好的体重。"
+        ]
+    },
+    "passport": {
+        "sentence": [
+            "You need a passport to travel to another country.",
+            "你需要护照才能去另一个国家旅行。"
+        ]
+    },
+    "culture": {
+        "sentence": [
+            "We learned about Japanese culture in our geography class.",
+            "我们在地理课上学到了日本文化。"
+        ]
+    },
+    "at the same time": {
+        "sentence": [
+            "We cannot watch TV and do our homework at the same time.",
+            "我们不能同时看电视和做作业。"
+        ]
+    },
+    "last": {
+        "sentence": [
+            "The science lesson lasted for two hours yesterday afternoon.",
+            "昨天下午的科学课持续了两个小时。"
+        ]
+    },
+    "depend": {
+        "sentence": [
+            "Whether we go for a picnic depends on the weather tomorrow.",
+            "我们是否去野餐取决于明天的天气。"
+        ]
+    },
+    "depend on": {
+        "sentence": [
+            "Your success depends on how hard you work every day.",
+            "你的成功取决于你每天有多努力。"
+        ]
+    },
+    "provide": {
+        "sentence": [
+            "The school library provides many interesting books for students.",
+            "学校图书馆为学生提供许多有趣的书籍。"
+        ]
+    },
+    "test": {
+        "sentence": [
+            "We will have a vocabulary test in English class next Friday.",
+            "我们下周五英语课将有一次词汇测验。"
+        ]
+    },
+    "progress": {
+        "sentence": [
+            "My English teacher is happy with my progress this term.",
+            "我的英语老师对我这学期的进步感到高兴。"
+        ]
+    },
+    "guest": {
+        "sentence": [
+            "We prepared a nice meal for the guest from America.",
+            "我们为来自美国的客人准备了一顿美餐。"
+        ]
+    },
+    "daily life": {
+        "sentence": [
+            "Mobile phones are important in our daily life now.",
+            "手机现在在我们的日常生活中很重要。"
+        ]
+    },
+    "form": {
+        "sentence": [
+            "Please fill in this form with your name and address.",
+            "请在这张表格上填写你的姓名和地址。"
+        ]
+    },
+    "friendship": {
+        "sentence": [
+            "Friendship between classmates is very important at school.",
+            "同学之间的友谊在学校里非常重要。"
+        ]
+    },
+    "stay in touch": {
+        "sentence": [
+            "We promise to stay in touch after we go to different high schools.",
+            "我们承诺在去了不同的高中后保持联系。"
+        ]
+    },
+    "prefer": {
+        "sentence": [
+            "I prefer reading books to playing computer games.",
+            "与玩电脑游戏相比，我更喜欢看书。"
+        ]
+    },
+    "certain": {
+        "sentence": [
+            "I am certain that I put my keys on the table this morning.",
+            "我确信我今天早上把钥匙放在桌子上了。"
+        ]
+    },
+    "fill": {
+        "sentence": [
+            "Can you help me fill this bottle with water, please?",
+            "你能帮我把这个瓶子装满水吗？"
+        ]
+    },
+    "fill out": {
+        "sentence": [
+            "Every student needs to fill out this health form.",
+            "每个学生都需要填写这张健康表格。"
+        ]
+    },
+    "hardly": {
+        "sentence": [
+            "I can hardly hear the teacher because the classroom is too noisy.",
+            "我几乎听不见老师说话，因为教室太吵了。"
+        ]
+    },
+    "take up": {
+        "sentence": [
+            "I want to take up a new hobby like painting this year.",
+            "今年我想开始一项新的爱好，比如绘画。"
+        ]
+    },
+    "point out": {
+        "sentence": [
+            "The teacher pointed out several mistakes in my homework.",
+            "老师指出了我作业中的几个错误。"
+        ]
+    },
+    "sights": {
+        "sentence": [
+            "We visited all the famous sights in the city during our trip.",
+            "我们在旅行期间参观了这座城市所有著名的景点。"
+        ]
+    },
+    "thirsty": {
+        "sentence": [
+            "After playing basketball, I felt very thirsty and drank some water.",
+            "打完篮球后，我感到很口渴，喝了些水。"
+        ]
+    },
+    "at the top of": {
+        "sentence": [
+            "There is a small flag at the top of the school building.",
+            "在学校楼的顶部有一面小旗子。"
+        ]
+    },
+    "waste": {
+        "sentence": [
+            "Do not waste water when you brush your teeth.",
+            "刷牙时不要浪费水。"
+        ]
+    },
+    "square": {
+        "sentence": [
+            "There is a beautiful fountain in the town square.",
+            "镇广场上有一个美丽的喷泉。"
+        ]
+    },
+    "kilometre": {
+        "sentence": [
+            "My home is about two kilometres away from our school.",
+            "我家离学校大约两公里远。"
+        ]
+    },
+    "shape": {
+        "sentence": [
+            "The shape of the moon changes every night.",
+            "月亮的形状每晚都在变化。"
+        ]
+    },
+    "human": {
+        "sentence": [
+            "Water and air are important for all human life.",
+            "水和空气对所有人类生命都很重要。"
+        ]
+    },
+    "wake": {
+        "sentence": [
+            "I usually wake up at seven o'clock on school days.",
+            "上学日我通常七点醒来。"
+        ]
+    },
+    "woken": {
+        "sentence": [
+            "I was woken by the sound of heavy rain this morning.",
+            "今天早上我被大雨的声音吵醒了。"
+        ]
+    },
+    "wake sb": {
+        "sentence": [
+            "My mother wakes me every morning for school.",
+            "我妈妈每天早晨叫醒我去上学。"
+        ]
+    },
+    "somebody": {
+        "sentence": [
+            "Somebody left their umbrella in the classroom yesterday.",
+            "昨天有人把雨伞落在教室里了。"
+        ]
+    },
+    "about": {
+        "sentence": [
+            "We read a story about a brave knight in English class.",
+            "我们在英语课上读了一个关于勇敢骑士的故事。"
+        ]
+    },
+    "path": {
+        "sentence": [
+            "We walked along a narrow path through the forest.",
+            "我们沿着一条穿过森林的狭窄小路行走。"
+        ]
+    },
+    "pull": {
+        "sentence": [
+            "Can you help me pull this heavy box to the corner?",
+            "你能帮我把这个沉重的箱子拉到角落去吗？"
+        ]
+    },
+    "freshwater": {
+        "sentence": [
+            "We cannot drink seawater, but we need freshwater to live.",
+            "我们不能喝海水，但我们需要淡水才能生存。"
+        ]
+    },
+    "helpline": {
+        "sentence": [
+            "If you have a problem, you can call the school helpline.",
+            "如果你有问题，可以拨打学校帮助热线。"
+        ]
+    },
+    "separate": {
+        "sentence": [
+            "The teacher asked us to separate into groups of four.",
+            "老师要求我们分成四人小组。"
+        ]
+    },
+    "explain": {
+        "sentence": [
+            "Can you explain this math problem to me again, please?",
+            "你能再给我解释一下这道数学题吗？"
+        ]
+    },
+    "refuse": {
+        "sentence": [
+            "I had to refuse his invitation because I was too busy.",
+            "我不得不拒绝他的邀请，因为我太忙了。"
+        ]
+    },
+    "treat": {
+        "sentence": [
+            "My parents will treat me to dinner for my good grades.",
+            "我的父母会因为我的好成绩请我吃晚饭。"
+        ]
+    },
+    "herself": {
+        "sentence": [
+            "She made the birthday cake all by herself.",
+            "她完全是自己做的生日蛋糕。"
+        ]
+    },
+    "whether": {
+        "sentence": [
+            "I am not sure whether it will rain tomorrow or not.",
+            "我不确定明天是否会下雨。"
+        ]
+    },
+    "lonely": {
+        "sentence": [
+            "The old man felt lonely after his children moved away.",
+            "孩子们搬走后，那位老人感到孤独。"
+        ]
+    },
+    "regret": {
+        "sentence": [
+            "I regret that I did not study harder for the test.",
+            "我后悔没有为那次测验更加努力地学习。"
+        ]
+    },
+    "patient": {
+        "sentence": [
+            "A good teacher is always patient with her students.",
+            "一位好老师对她的学生总是很有耐心。"
+        ]
+    },
+    "introduce": {
+        "sentence": [
+            "Let me introduce my new classmate to all of you.",
+            "让我向你们大家介绍我的新同学。"
+        ]
+    },
+    "join in": {
+        "sentence": [
+            "All the students are welcome to join in the singing game.",
+            "欢迎所有学生参加这个唱歌游戏。"
+        ]
+    },
+    "silence": {
+        "sentence": [
+            "There was silence in the library when everyone was reading.",
+            "当每个人都在阅读时，图书馆里一片寂静。"
+        ]
+    },
+    "in silence": {
+        "sentence": [
+            "We listened to the music in silence and enjoyed it.",
+            "我们静静地听着音乐，享受其中。"
+        ]
+    },
+    "pass": {
+        "sentence": [
+            "Please pass the salt to me during dinner.",
+            "请吃饭时把盐递给我。"
+        ]
+    },
+    "bright": {
+        "sentence": [
+            "The sun is very bright today, so wear your hat.",
+            "今天太阳很亮，所以戴上你的帽子。"
+        ]
+    },
+    "treasure": {
+        "sentence": [
+            "We should treasure the time we spend with our family.",
+            "我们应该珍惜与家人共度的时光。"
+        ]
+    },
+    "day by day": {
+        "sentence": [
+            "My English is improving day by day with more practice.",
+            "通过更多的练习，我的英语一天天在进步。"
+        ]
+    },
+    "trust": {
+        "sentence": [
+            "Good friends should always trust each other.",
+            "好朋友应该总是相互信任。"
+        ]
+    },
+    "include": {
+        "sentence": [
+            "Does the price of the book include the delivery cost?",
+            "这本书的价格包括运费吗？"
+        ]
+    },
+    "circle": {
+        "sentence": [
+            "The children sat in a circle and played a game.",
+            "孩子们围坐成一个圆圈玩游戏。"
+        ]
+    },
+    "stick": {
+        "sentence": [
+            "We use glue to stick the pictures onto the paper.",
+            "我们用胶水把图片粘到纸上。"
+        ]
+    },
+    "glue": {
+        "sentence": [
+            "Can I borrow your glue to fix my broken notebook?",
+            "我能借你的胶水来修补我破损的笔记本吗？"
+        ]
+    },
+    "suggestion": {
+        "sentence": [
+            "My teacher gave me a good suggestion about how to study.",
+            "我的老师给了我一个关于如何学习的好建议。"
+        ]
+    },
+    "director": {
+        "sentence": [
+            "The director of the movie is very famous around the world.",
+            "这部电影的导演在世界各地都很有名。"
+        ]
+    },
+    "show": {
+        "sentence": [
+            "Can you show me how to solve this difficult problem?",
+            "你能教我怎么解这道难题吗？"
+        ]
+    },
+    "around": {
+        "sentence": [
+            "We walked around the lake and enjoyed the beautiful view.",
+            "我们绕着湖散步，欣赏美丽的景色。"
+        ]
+    },
+    "show sb": {
+        "sentence": [
+            "My father will show me how to ride a bike this weekend.",
+            "我爸爸这个周末将教我如何骑自行车。"
+        ]
+    },
+    "on air": {
+        "sentence": [
+            "The radio station is on air from six in the morning.",
+            "这个广播电台从早上六点开始播音。"
+        ]
+    },
+    "avoid": {
+        "sentence": [
+            "You should avoid making the same mistake next time.",
+            "你应该避免下次再犯同样的错误。"
+        ]
+    },
+    "background": {
+        "sentence": [
+            "The background of the photo is a beautiful mountain.",
+            "这张照片的背景是一座美丽的山。"
+        ]
+    },
+    "national": {
+        "sentence": [
+            "The National Day holiday is a happy time for our family.",
+            "国庆节假期对我们家来说是一段快乐的时光。"
+        ]
+    },
+    "international": {
+        "sentence": [
+            "English is an important international language.",
+            "英语是一门重要的国际语言。"
+        ]
+    },
+    "presenter": {
+        "sentence": [
+            "The presenter on the TV show spoke very clearly.",
+            "电视节目上的主持人说话非常清晰。"
+        ]
+    },
+    "interview": {
+        "sentence": [
+            "The reporter will interview some students about school life.",
+            "记者将采访一些学生关于学校生活的情况。"
+        ]
+    },
+    "seem": {
+        "sentence": [
+            "You seem very happy today. Did something good happen?",
+            "你今天看起来很高兴。有什么好事发生吗？"
+        ]
+    },
+    "listener": {
+        "sentence": [
+            "A good listener is important in a conversation.",
+            "在谈话中，一个好的倾听者很重要。"
+        ]
+    },
+    "in person": {
+        "sentence": [
+            "I hope to meet my favourite writer in person one day.",
+            "我希望有一天能亲自见到我最喜欢的作家。"
+        ]
+    },
+    "part-time": {
+        "sentence": [
+            "My brother has a part-time job in a supermarket.",
+            "我哥哥在一家超市有一份兼职工作。"
+        ]
+    },
+    "article": {
+        "sentence": [
+            "I read an interesting article about space in the magazine.",
+            "我在杂志上读到一篇关于太空的有趣文章。"
+        ]
+    },
+    "studio": {
+        "sentence": [
+            "The singer is recording a new song in the studio now.",
+            "那位歌手现在正在录音棚录制一首新歌。"
+        ]
+    },
+    "purpose": {
+        "sentence": [
+            "The main purpose of our meeting is to plan the class trip.",
+            "我们会议的主要目的是计划班级旅行。"
+        ]
+    }
+}
