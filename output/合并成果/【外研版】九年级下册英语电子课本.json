@@ -139,6 +139,10 @@
             "cn": "外面很冷，记得穿上你的夹克。"
           },
           {
+            "en": "Put on your jacket; it's a bit cold outside this morning.",
+            "cn": "穿上你的夹克；今天早晨外面有点冷。"
+          },
+          {
             "en": "He put on his jacket and went out to play with his friends.",
             "cn": "他穿上夹克，然后出去和朋友玩了。"
           }
@@ -476,6 +480,10 @@
         "meaning": "n. 感冒、寒冷；adj. 寒冷的、冷淡的、冷静的；adv. 完全地",
         "app_sentences": [
           {
+            "en": "The weather becomes very cold in winter, especially at night.",
+            "cn": "冬天天气变得非常冷，尤其是晚上。"
+          },
+          {
             "en": "It's very cold outside, so remember to wear your warm coat.",
             "cn": "外面很冷，所以记得穿上你的保暖外套。"
           },
@@ -661,7 +669,7 @@
         "app_sentences": [
           {
             "en": "We usually go to the library to study on Saturday afternoons.",
-            "cn": "我们通常在星期六下午去图书馆学习。"
+            "cn": "我们通常在周六下午去图书馆学习。"
           }
         ]
       },
@@ -1156,6 +1164,10 @@
             "cn": "小心用刀把苹果切成小块。"
           },
           {
+            "en": "Please be careful when you use a sharp knife in the kitchen.",
+            "cn": "在厨房里用锋利的刀时请务必小心。"
+          },
+          {
             "en": "Please be careful when you use a knife to cut the bread.",
             "cn": "当你用刀切面包时请小心。"
           }
@@ -1580,8 +1592,8 @@
         "meaning": "尽力",
         "app_sentences": [
           {
-            "en": "Example sentence for try one's best.",
-            "cn": "暂无例句。"
+            "en": "You should try your best to finish the task on time.",
+            "cn": "你应该尽力按时完成任务。"
           }
         ]
       },

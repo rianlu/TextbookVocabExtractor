@@ -206,8 +206,12 @@
         "meaning": "prep. 为、因为、至于；conj. 因为；DOS批处理命令:对一组参数重复执行指定的命令",
         "app_sentences": [
           {
-            "en": "Example sentence for for.",
-            "cn": "暂无例句。"
+            "en": "I bought a special gift for my mother's birthday last week.",
+            "cn": "上周我为我妈妈的生日买了一份特别的礼物。"
+          },
+          {
+            "en": "He bought a beautiful present for his mother's birthday last week.",
+            "cn": "上周他为母亲的生日买了一份漂亮的礼物。"
           }
         ]
       },
@@ -217,8 +221,16 @@
         "meaning": "n. 喜欢的事物；adj. 喜爱的、宠爱的",
         "app_sentences": [
           {
-            "en": "Example sentence for favourite.",
-            "cn": "暂无例句。"
+            "en": "Basketball is my favourite sport and I play it after school.",
+            "cn": "篮球是我最喜欢的运动，我放学后玩它。"
+          },
+          {
+            "en": "My favourite fruit is apple because it is sweet and juicy.",
+            "cn": "我最喜欢的水果是苹果，因为它又甜又多汁。"
+          },
+          {
+            "en": "Blue is my favourite colour because it is like the sky.",
+            "cn": "蓝色是我最喜欢的颜色，因为它像天空。"
           }
         ]
       },
@@ -228,8 +240,8 @@
         "meaning": "vi. 抽穗；n. 耳朵、倾听、听觉",
         "app_sentences": [
           {
-            "en": "Example sentence for ear.",
-            "cn": "暂无例句。"
+            "en": "My little sister has a small cat with very soft ears.",
+            "cn": "我的妹妹有一只非常软的小猫耳朵。"
           }
         ]
       },
@@ -362,8 +374,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for sb. can't wait.",
-            "cn": "暂无例句。"
+            "en": "I can't wait to see my best friend after the long holiday.",
+            "cn": "长假之后我迫不及待地想见到我最好的朋友。"
           }
         ]
       },
@@ -388,6 +400,10 @@
         "meaning": "在学校、在上课、在求学",
         "app_sentences": [
           {
+            "en": "We learn many interesting lessons and make friends at school.",
+            "cn": "我们在学校学习许多有趣的课程并交朋友。"
+          },
+          {
             "en": "We learn many interesting subjects at school together.",
             "cn": "我们在学校一起学习许多有趣的科目。"
           }
@@ -399,8 +415,12 @@
         "meaning": "n. 执政者、交情；adj. 在里面的、在朝的；adv. 进入、朝里、在里面",
         "app_sentences": [
           {
-            "en": "Example sentence for in.",
-            "cn": "暂无例句。"
+            "en": "There are many books in the school library for students.",
+            "cn": "学校图书馆里有很多给学生读的书。"
+          },
+          {
+            "en": "There is a new student in our class who comes from Shanghai.",
+            "cn": "我们班有一个来自上海的新学生。"
           }
         ]
       },
@@ -421,8 +441,12 @@
         "meaning": "vt. 爱、爱好、爱慕；vi. 爱；n. 爱、恋爱、爱情",
         "app_sentences": [
           {
-            "en": "Example sentence for love.",
-            "cn": "暂无例句。"
+            "en": "I love my family very much and we often go to the park.",
+            "cn": "我非常爱我的家人，我们经常去公园。"
+          },
+          {
+            "en": "I love my family very much and we often go to the park together.",
+            "cn": "我非常爱我的家人，我们经常一起去公园。"
           }
         ]
       }
@@ -508,6 +532,10 @@
           {
             "en": "My dream is to become a doctor and help sick people.",
             "cn": "我的梦想是成为一名医生，帮助生病的人。"
+          },
+          {
+            "en": "My dream is to become a famous singer in the future.",
+            "cn": "我的梦想是将来成为一名著名的歌手。"
           }
         ]
       },
@@ -672,8 +700,12 @@
         "meaning": "n. 路、路线、路途；adv. 远远地、非常",
         "app_sentences": [
           {
-            "en": "Example sentence for way.",
-            "cn": "暂无例句。"
+            "en": "Is this the right way to the nearest bus station?",
+            "cn": "这是去最近的车站的正确路吗？"
+          },
+          {
+            "en": "Can you tell me the way to the nearest bus station, please?",
+            "cn": "你能告诉我最近的车站怎么走吗？"
           }
         ]
       },
@@ -757,8 +789,8 @@
         "meaning": "vt. 虚度；vi. 闲荡；n. 月亮、月球、月光",
         "app_sentences": [
           {
-            "en": "Example sentence for moon.",
-            "cn": "暂无例句。"
+            "en": "The moon is very bright and round on the Mid-Autumn Festival.",
+            "cn": "中秋节的月亮又亮又圆。"
           }
         ]
       },
@@ -826,6 +858,10 @@
           {
             "en": "I just finished my homework, so now I can watch TV.",
             "cn": "我刚做完作业，所以现在可以看电视了。"
+          },
+          {
+            "en": "Wait a minute; I am just finishing my English homework.",
+            "cn": "等一下；我正在完成英语作业。"
           },
           {
             "en": "I just finished reading an interesting book about space.",
@@ -898,8 +934,12 @@
         "meaning": "adj. 正起作用的；adv. ...上去；prep. 在...之上",
         "app_sentences": [
           {
-            "en": "Example sentence for on.",
-            "cn": "暂无例句。"
+            "en": "Please put your books on the desk and listen to me carefully.",
+            "cn": "请把书放在桌子上，仔细听我说。"
+          },
+          {
+            "en": "There is a big map of China on the wall of our classroom.",
+            "cn": "我们教室的墙上挂着一幅巨大的中国地图。"
           }
         ]
       },
@@ -972,8 +1012,8 @@
         "meaning": "adj. 那、那个；adv. 那么、那样；pron. 那",
         "app_sentences": [
           {
-            "en": "Example sentence for that.",
-            "cn": "暂无例句。"
+            "en": "Is that the book you were talking about in class yesterday?",
+            "cn": "那是你昨天在班里谈论的那本书吗？"
           }
         ]
       },
@@ -1019,6 +1059,10 @@
         "phonetic": "[gruːp]",
         "meaning": "v. 聚合、成群；n. 团体、组、团；创建组、组、用户组",
         "app_sentences": [
+          {
+            "en": "We worked in a group to finish our science project together.",
+            "cn": "我们小组合作一起完成了科学项目。"
+          },
           {
             "en": "We work in a group of four for our English class activity.",
             "cn": "我们在英语课堂活动中四人一组进行合作。"
@@ -1189,8 +1233,8 @@
         "meaning": "n. 疾病、坏事、罪恶；adj. 生病的、邪恶的、不吉利的；adv. 有害地、不幸地、几乎不",
         "app_sentences": [
           {
-            "en": "Example sentence for ill.",
-            "cn": "暂无例句。"
+            "en": "He was absent from school because he was ill in bed yesterday.",
+            "cn": "昨天他因为生病卧床没来上学。"
           }
         ]
       },
@@ -1200,8 +1244,8 @@
         "meaning": "adj. 这、本；adv. 这么；pron. 这、本",
         "app_sentences": [
           {
-            "en": "Example sentence for this.",
-            "cn": "暂无例句。"
+            "en": "This is the most interesting storybook I have ever read.",
+            "cn": "这是我读过的最有趣的故事书。"
           }
         ]
       },
@@ -1225,6 +1269,10 @@
         "phonetic": "[k2%ld]",
         "meaning": "n. 感冒、寒冷；adj. 寒冷的、冷淡的、冷静的；adv. 完全地",
         "app_sentences": [
+          {
+            "en": "The weather becomes very cold in winter, especially at night.",
+            "cn": "冬天天气变得非常冷，尤其是晚上。"
+          },
           {
             "en": "It's very cold outside, so remember to wear your warm coat.",
             "cn": "外面很冷，所以记得穿上你的保暖外套。"
@@ -1252,8 +1300,16 @@
         "meaning": "v. 拿、拿走、取；vt. 拿、取、抓；vi. 吃掉对方棋子、抓住、起作用",
         "app_sentences": [
           {
-            "en": "Example sentence for take.",
-            "cn": "暂无例句。"
+            "en": "Remember to take your schoolbag when you go to school.",
+            "cn": "上学时记得带上你的书包。"
+          },
+          {
+            "en": "You should take an umbrella with you because it might rain later.",
+            "cn": "你应该带把伞，因为等下可能会下雨。"
+          },
+          {
+            "en": "Remember to take your umbrella because it might rain later.",
+            "cn": "记得带上你的伞，因为等下可能会下雨。"
           }
         ]
       },
@@ -1263,8 +1319,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for take sb.'s temperature.",
-            "cn": "暂无例句。"
+            "en": "The nurse took the patient's temperature every two hours to check the fever.",
+            "cn": "护士每两个小时给病人测一次体温以检查是否发烧。"
           }
         ]
       },
@@ -1300,8 +1356,16 @@
         "meaning": "v. 涌出；n. 井、泉水、源泉；adj. 健康的、良好的、适宜的",
         "app_sentences": [
           {
-            "en": "Example sentence for well.",
-            "cn": "暂无例句。"
+            "en": "She can speak English very well after learning it for years.",
+            "cn": "学习几年之后，她英语说得很好。"
+          },
+          {
+            "en": "She can play the piano very well because she practises every day.",
+            "cn": "她钢琴弹得很好，因为她每天都练习。"
+          },
+          {
+            "en": "She can speak English very well after living in London for a year.",
+            "cn": "在伦敦住了一年后，她英语说得很好。"
           }
         ]
       },
@@ -1411,8 +1475,16 @@
         "meaning": "n. 那时；adv. 然后、当时；conj. 然后、当时",
         "app_sentences": [
           {
-            "en": "Example sentence for then.",
-            "cn": "暂无例句。"
+            "en": "First finish your homework, and then you can go out to play.",
+            "cn": "先完成作业，然后你可以出去玩。"
+          },
+          {
+            "en": "First finish your homework, and then you can play games for a while.",
+            "cn": "先完成作业，然后你可以玩一会儿游戏。"
+          },
+          {
+            "en": "First finish your homework, and then you can watch TV for a while.",
+            "cn": "先完成作业，然后你可以看一会儿电视。"
           }
         ]
       },
@@ -1463,8 +1535,8 @@
         "meaning": "vt. 运用、练习、运动；vi. 练习、锻炼；n. 行使、执行、运动",
         "app_sentences": [
           {
-            "en": "Example sentence for exercise.",
-            "cn": "暂无例句。"
+            "en": "Doing morning exercise is good for our health and helps us wake up.",
+            "cn": "做早操对我们的健康有好处，也能帮我们清醒。"
           }
         ]
       },
@@ -1604,8 +1676,12 @@
         "meaning": "vt. 使冷却、使平静；vi. 冷却、平息；n. 凉爽、凉爽的空气",
         "app_sentences": [
           {
-            "en": "Example sentence for cool.",
-            "cn": "暂无例句。"
+            "en": "The weather is becoming cool and pleasant in the early autumn.",
+            "cn": "初秋天气正变得凉爽宜人。"
+          },
+          {
+            "en": "It becomes very cool and pleasant after the heavy rain in summer.",
+            "cn": "夏天大雨过后，天气变得非常凉爽宜人。"
           }
         ]
       },
@@ -1641,8 +1717,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for can't help doing sth..",
-            "cn": "暂无例句。"
+            "en": "I couldn't help laughing when I heard the funny story.",
+            "cn": "听到那个有趣的故事，我不禁大笑起来。"
           }
         ]
       },
@@ -1658,6 +1734,10 @@
           {
             "en": "The funny movie made all of us laugh a lot.",
             "cn": "那部有趣的电影让我们大家都笑得很开心。"
+          },
+          {
+            "en": "Everyone began to laugh when they heard the funny story.",
+            "cn": "听到那个有趣的故事后，每个人都开始大笑。"
           }
         ]
       },
@@ -1667,8 +1747,8 @@
         "meaning": "n. 课、课业、教训",
         "app_sentences": [
           {
-            "en": "Example sentence for lesson.",
-            "cn": "暂无例句。"
+            "en": "We had an interesting science lesson about space this morning.",
+            "cn": "今天上午我们上了一节关于太空的有趣的科学课。"
           }
         ]
       },
@@ -1700,8 +1780,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for win the heart of sb..",
-            "cn": "暂无例句。"
+            "en": "The little girl's kindness won the hearts of many people in the village.",
+            "cn": "小女孩的善良赢得了村里许多人的心。"
           }
         ]
       },
@@ -1737,8 +1817,12 @@
         "meaning": "adj. 聪明的、精明的",
         "app_sentences": [
           {
-            "en": "Example sentence for clever.",
-            "cn": "暂无例句。"
+            "en": "He is a clever boy who often thinks of new ways to solve problems.",
+            "cn": "他是一个聪明的男孩，经常能想到解决问题的新方法。"
+          },
+          {
+            "en": "The clever boy found a new way to solve the math problem.",
+            "cn": "那个聪明的男孩发现了一个解决数学题的新方法。"
           }
         ]
       },
@@ -1754,6 +1838,10 @@
           {
             "en": "As it is raining, we will have our PE class indoors today.",
             "cn": "因为正在下雨，我们今天将在室内上体育课。"
+          },
+          {
+            "en": "He works as a doctor in a big city hospital now.",
+            "cn": "他现在在大城市的一家医院当医生。"
           }
         ]
       },
@@ -2060,6 +2148,10 @@
             "cn": "我刚做完作业，所以现在可以看电视了。"
           },
           {
+            "en": "Wait a minute; I am just finishing my English homework.",
+            "cn": "等一下；我正在完成英语作业。"
+          },
+          {
             "en": "I just finished reading an interesting book about space.",
             "cn": "我刚读完一本关于太空的有趣的书。"
           }
@@ -2219,6 +2311,10 @@
             "cn": "我列了一份明天上学所需所有物品的清单。"
           },
           {
+            "en": "Can you make a shopping list for the party this Sunday?",
+            "cn": "你能为本周日的派对列一个购物清单吗？"
+          },
+          {
             "en": "My mother made a shopping list before going to the supermarket.",
             "cn": "我妈妈去超市前列了一张购物清单。"
           }
@@ -2274,8 +2370,8 @@
         "meaning": "n. 裤子、长裤；pl. 裤子、长裤",
         "app_sentences": [
           {
-            "en": "Example sentence for trousers.",
-            "cn": "暂无例句。"
+            "en": "My father bought a new pair of black trousers for work.",
+            "cn": "我爸爸买了一条新的黑色裤子去上班。"
           }
         ]
       },
@@ -2384,6 +2480,10 @@
         "phonetic": "[l4ːst]",
         "meaning": "vt. 使维持、够...用；vi. 持续、支持、维持；n. 最后、末尾、鞋楦头",
         "app_sentences": [
+          {
+            "en": "We went to the beach during our last summer holiday.",
+            "cn": "我们在上个暑假去了海滩。"
+          },
           {
             "en": "The science lesson lasted for two hours yesterday afternoon.",
             "cn": "昨天下午的科学课持续了两个小时。"
@@ -2729,6 +2829,10 @@
           {
             "en": "Water and air are important for all human life.",
             "cn": "水和空气对所有人类生命都很重要。"
+          },
+          {
+            "en": "The study of the human body is very interesting and useful.",
+            "cn": "研究人体是非常有趣且有用的。"
           }
         ]
       },
@@ -2760,8 +2864,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for wake sb. up.",
-            "cn": "暂无例句。"
+            "en": "Please wake me up at half past six tomorrow morning.",
+            "cn": "请在明天早上六点半叫醒我。"
           }
         ]
       },
@@ -3061,6 +3165,10 @@
             "cn": "教室有很多窗户，明亮又干净。"
           },
           {
+            "en": "The stars are very bright in the dark and clear night sky.",
+            "cn": "在黑暗晴朗的夜空中，星星非常明亮。"
+          },
+          {
             "en": "The sun is very bright today, so wear your hat.",
             "cn": "今天太阳很亮，所以戴上你的帽子。"
           },
@@ -3209,8 +3317,16 @@
         "meaning": "adv. 兜着圈子、在附近、到处；prep. 包围、在...周围、四处",
         "app_sentences": [
           {
+            "en": "Let's sit around the table and enjoy our delicious dinner.",
+            "cn": "让我们围坐在桌旁享受我们的美味晚餐。"
+          },
+          {
             "en": "We walked around the lake and enjoyed the beautiful view.",
             "cn": "我们绕着湖散步，欣赏美丽的景色。"
+          },
+          {
+            "en": "Let's sit around the table and discuss our weekend plan.",
+            "cn": "让我们围坐在桌旁讨论我们的周末计划。"
           }
         ]
       },
@@ -3220,8 +3336,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for show sb. around.",
-            "cn": "暂无例句。"
+            "en": "Our teacher showed the new students around our beautiful school campus.",
+            "cn": "我们的老师带领新同学参观了我们美丽的操场。"
           }
         ]
       },

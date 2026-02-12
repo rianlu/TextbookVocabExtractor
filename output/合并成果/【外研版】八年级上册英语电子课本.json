@@ -10,8 +10,8 @@
         "meaning": "v. (使)成对；n. 一双、一对、一副",
         "app_sentences": [
           {
-            "en": "Example sentence for pair.",
-            "cn": "暂无例句。"
+            "en": "I need to buy a pair of new sports shoes for the race.",
+            "cn": "我需要买一双新的运动鞋参加比赛。"
           }
         ]
       },
@@ -32,8 +32,8 @@
         "meaning": "n. 拼、拼字、拼法；拼写检查",
         "app_sentences": [
           {
-            "en": "Example sentence for spelling.",
-            "cn": "暂无例句。"
+            "en": "You should pay attention to the spelling of English words.",
+            "cn": "你应该注意英语单词的拼写。"
           }
         ]
       },
@@ -43,8 +43,8 @@
         "meaning": "vt. 用言辞表达；n. 话、消息、词；字",
         "app_sentences": [
           {
-            "en": "Example sentence for word.",
-            "cn": "暂无例句。"
+            "en": "You should try to remember ten new English words every day.",
+            "cn": "你应该努力每天记住十个新的英语单词。"
           }
         ]
       },
@@ -54,8 +54,8 @@
         "meaning": "v. 实践、实行、练习",
         "app_sentences": [
           {
-            "en": "Example sentence for practise.",
-            "cn": "暂无例句。"
+            "en": "You should practise speaking English with your classmates every day.",
+            "cn": "你应该每天和同学们练习说英语。"
           }
         ]
       },
@@ -65,8 +65,12 @@
         "meaning": "vt. 使相配、使比赛、与...竞争；vi. 结婚、相配；n. 比赛、火柴、对手",
         "app_sentences": [
           {
-            "en": "Example sentence for match.",
-            "cn": "暂无例句。"
+            "en": "Our school basketball match will start at three this afternoon.",
+            "cn": "我们学校的篮球赛将在今天下午三点开始。"
+          },
+          {
+            "en": "Did you watch the exciting football match on TV last night?",
+            "cn": "昨晚你从电视上看那场精彩的足球赛了吗？"
           }
         ]
       },
@@ -109,8 +113,8 @@
         "meaning": "n. 字典、词典；词典",
         "app_sentences": [
           {
-            "en": "Example sentence for dictionary.",
-            "cn": "暂无例句。"
+            "en": "You should use a dictionary to look up new English words.",
+            "cn": "你应该用词典来查找英语生词。"
           }
         ]
       },
@@ -131,8 +135,8 @@
         "meaning": "vt. 写字母于、在...上刻字母、用字母标明；vi. 写印刷体字；n. 信、字母、证书",
         "app_sentences": [
           {
-            "en": "Example sentence for letter.",
-            "cn": "暂无例句。"
+            "en": "I received a letter from my pen friend in England yesterday.",
+            "cn": "昨天我收到了英国笔友的一封信。"
           }
         ]
       },
@@ -142,8 +146,8 @@
         "meaning": "向上看、尊敬、仰望；查阅",
         "app_sentences": [
           {
-            "en": "Example sentence for look up.",
-            "cn": "暂无例句。"
+            "en": "We can look up information about the stars on the internet.",
+            "cn": "我们可以在互联网上查找关于星星的信息。"
           }
         ]
       },
@@ -164,8 +168,8 @@
         "meaning": "犯错误",
         "app_sentences": [
           {
-            "en": "Example sentence for make a mistake.",
-            "cn": "暂无例句。"
+            "en": "It is normal to make a mistake when you learn something new.",
+            "cn": "学习新事物时犯错是很正常的。"
           }
         ]
       },
@@ -197,8 +201,8 @@
         "meaning": "v. 应该、将要；aux. 应该、将要",
         "app_sentences": [
           {
-            "en": "Example sentence for should.",
-            "cn": "暂无例句。"
+            "en": "You should finish your homework before you go out to play.",
+            "cn": "出去玩之前你应该完成作业。"
           }
         ]
       },
@@ -219,8 +223,8 @@
         "meaning": "写下、写文章贬低、降低地位；记录、记下、以文字诋毁",
         "app_sentences": [
           {
-            "en": "Example sentence for write down.",
-            "cn": "暂无例句。"
+            "en": "Please write down the homework on your notebook clearly.",
+            "cn": "请清晰地把作业记在你的笔记本上。"
           }
         ]
       },
@@ -247,6 +251,10 @@
           {
             "en": "Please do not forget to bring your homework to school tomorrow.",
             "cn": "请不要忘记明天把你的作业带到学校来。"
+          },
+          {
+            "en": "Don't forget to close the window when you leave the room.",
+            "cn": "离开房间时别忘了关窗。"
           }
         ]
       },
@@ -256,8 +264,8 @@
         "meaning": "v. 发音、宣告、断言",
         "app_sentences": [
           {
-            "en": "Example sentence for pronounce.",
-            "cn": "暂无例句。"
+            "en": "Can you help me pronounce this new English word correctly?",
+            "cn": "你能帮我正确读出这个英语单词的音吗？"
           }
         ]
       },
@@ -278,8 +286,8 @@
         "meaning": "v. 用无线电发送；n. 无线电、收音机、无线电报",
         "app_sentences": [
           {
-            "en": "Example sentence for radio.",
-            "cn": "暂无例句。"
+            "en": "My grandfather likes to listen to the news on the radio every morning.",
+            "cn": "我祖父喜欢每天早上听收音机里的新闻。"
           }
         ]
       },
@@ -289,8 +297,8 @@
         "meaning": "n. 发音、读法",
         "app_sentences": [
           {
-            "en": "Example sentence for pronunciation.",
-            "cn": "暂无例句。"
+            "en": "Good pronunciation is very important for learning a foreign language.",
+            "cn": "良好的发音对学习外语非常重要。"
           }
         ]
       },
@@ -302,6 +310,10 @@
           {
             "en": "The key to learning English well is to practice every day.",
             "cn": "学好英语的关键是每天练习。"
+          },
+          {
+            "en": "He put his keys into his pocket and went out to play.",
+            "cn": "他把钥匙放进兜里，出去玩了。"
           }
         ]
       },
@@ -344,8 +356,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for agree with sb..",
-            "cn": "暂无例句。"
+            "en": "I agree with my friend that we should go to the park together.",
+            "cn": "我同意我朋友的看法，我们应该一起去公园。"
           }
         ]
       },
@@ -355,8 +367,8 @@
         "meaning": "n. 词汇(量)、词汇表；词表",
         "app_sentences": [
           {
-            "en": "Example sentence for vocabulary.",
-            "cn": "暂无例句。"
+            "en": "Reading more books is a good way to increase your vocabulary.",
+            "cn": "多读书是增加词汇量的好方法。"
           }
         ]
       },
@@ -366,8 +378,8 @@
         "meaning": "请求、找(人)",
         "app_sentences": [
           {
-            "en": "Example sentence for ask for.",
-            "cn": "暂无例句。"
+            "en": "If you don't know the way, you can ask for help from the police.",
+            "cn": "如果你不知道路，你可以向警察寻求帮助。"
           }
         ]
       },
@@ -399,8 +411,8 @@
         "meaning": "vt. 测定...的时间、记录...的时间、计时；n. 时间、时侯、时机；adj. 时间的、记时的、定时的",
         "app_sentences": [
           {
-            "en": "Example sentence for time.",
-            "cn": "暂无例句。"
+            "en": "It's time to go to bed; we have to get up early tomorrow.",
+            "cn": "该睡觉了；我们明天得早起。"
           }
         ]
       },
@@ -410,8 +422,8 @@
         "meaning": "vt. 劝告、给...出主意、通知；vi. 提意见、商量",
         "app_sentences": [
           {
-            "en": "Example sentence for advise.",
-            "cn": "暂无例句。"
+            "en": "Can you advise me on how to learn English more effectively?",
+            "cn": "你能建议我如何更有效地学习英语吗？"
           }
         ]
       },
@@ -421,8 +433,8 @@
         "meaning": "vt. 乱投、乱掷；vi. 惊退、乱投、乱掷；n. 惊跳、惊避",
         "app_sentences": [
           {
-            "en": "Example sentence for shy.",
-            "cn": "暂无例句。"
+            "en": "The little boy is very shy and doesn't like talking to strangers.",
+            "cn": "那个小男孩很害羞，不喜欢和陌生人说话。"
           }
         ]
       },
@@ -432,8 +444,8 @@
         "meaning": "n. 会话、说话、交谈；交谈、社交、性交",
         "app_sentences": [
           {
-            "en": "Example sentence for conversation.",
-            "cn": "暂无例句。"
+            "en": "We had an interesting conversation about our summer vacation.",
+            "cn": "我们进行了一场关于暑假的有趣谈话。"
           }
         ]
       },
@@ -480,8 +492,12 @@
         "meaning": "vt. 放置、寄予、认出；vi. 名次列前；n. 地方、地点、位置",
         "app_sentences": [
           {
-            "en": "Example sentence for place.",
-            "cn": "暂无例句。"
+            "en": "The library is a quiet place for students to study.",
+            "cn": "图书馆是学生学习的安静地方。"
+          },
+          {
+            "en": "Beijing is a famous city with many interesting historical places.",
+            "cn": "北京是一个有着许多有趣历史古迹的名城。"
           }
         ]
       }
@@ -498,8 +514,8 @@
         "meaning": "vt. 作成土堆、堆成小丘；n. 小山、丘陵、小土堆",
         "app_sentences": [
           {
-            "en": "Example sentence for hill.",
-            "cn": "暂无例句。"
+            "en": "We climbed up the hill to see the beautiful sunrise.",
+            "cn": "我们爬上小山去看美丽的日出。"
           }
         ]
       },
@@ -509,8 +525,8 @@
         "meaning": "n. 人口、人口数；群体、总体",
         "app_sentences": [
           {
-            "en": "Example sentence for population.",
-            "cn": "暂无例句。"
+            "en": "China has a very large population of over 1.4 billion people.",
+            "cn": "中国人口众多，超过14亿。"
           }
         ]
       },
@@ -531,8 +547,8 @@
         "meaning": "n. 百万、无数；num. 百万",
         "app_sentences": [
           {
-            "en": "Example sentence for million.",
-            "cn": "暂无例句。"
+            "en": "More than a million people visit the museum every year.",
+            "cn": "每年有超过一百万人参观这家博物馆。"
           }
         ]
       },
@@ -553,8 +569,8 @@
         "meaning": "可以、不离儿",
         "app_sentences": [
           {
-            "en": "Example sentence for pretty good.",
-            "cn": "暂无例句。"
+            "en": "Her English is pretty good, and she can speak it fluently.",
+            "cn": "她的英语相当不错，能说得很流利。"
           }
         ]
       },
@@ -575,8 +591,16 @@
         "meaning": "vt. 得到、获得、变成；vi. 到达、成为、变得；n. (网球等)救球、生殖、幼兽",
         "app_sentences": [
           {
-            "en": "Example sentence for get.",
-            "cn": "暂无例句。"
+            "en": "Can you help me get some water from the kitchen?",
+            "cn": "你能帮我从厨房拿点水来吗？"
+          },
+          {
+            "en": "Can you help me get some water from the kitchen, please?",
+            "cn": "请帮我从厨房拿点水来好吗？"
+          },
+          {
+            "en": "Can you help me get some water from the small kitchen?",
+            "cn": "你能帮我从那个小厨房里拿点水来吗？"
           }
         ]
       },
@@ -586,8 +610,8 @@
         "meaning": "n. 北方、北；adj. 北的、北方的；adv. 向北方、在北方",
         "app_sentences": [
           {
-            "en": "Example sentence for north.",
-            "cn": "暂无例句。"
+            "en": "Beijing is in the north of China and has four seasons.",
+            "cn": "北京位于中国北方，四季分明。"
           }
         ]
       },
@@ -608,8 +632,8 @@
         "meaning": "n. 西方、西部；adj. 西方的、向西的；adv. 向西、自西方、在西方",
         "app_sentences": [
           {
-            "en": "Example sentence for west.",
-            "cn": "暂无例句。"
+            "en": "The sun sets in the west and rises in the east every day.",
+            "cn": "太阳每天从西边落下，从东边升起。"
           }
         ]
       },
@@ -619,8 +643,8 @@
         "meaning": "故乡、家乡、祖国",
         "app_sentences": [
           {
-            "en": "Example sentence for home town.",
-            "cn": "暂无例句。"
+            "en": "My home town is a small city famous for its tea production.",
+            "cn": "我的家乡是一个以产茶闻名的小城市。"
           }
         ]
       },
@@ -630,8 +654,8 @@
         "meaning": "adv. 尤其、特别、格外",
         "app_sentences": [
           {
-            "en": "Example sentence for especially.",
-            "cn": "暂无例句。"
+            "en": "I like reading books, especially those about history and science.",
+            "cn": "我喜欢读书，尤其是关于历史和科学的书。"
           }
         ]
       },
@@ -641,8 +665,8 @@
         "meaning": "因…而出名、以…着称",
         "app_sentences": [
           {
-            "en": "Example sentence for be famous for.",
-            "cn": "暂无例句。"
+            "en": "Our city is famous for its beautiful mountains and lakes.",
+            "cn": "我们的城市以其美丽的群山和湖泊而闻名。"
           }
         ]
       },
@@ -669,6 +693,10 @@
           {
             "en": "They spent their holiday on a beautiful island in the south.",
             "cn": "他们在南方一个美丽的海岛上度过了假期。"
+          },
+          {
+            "en": "We went to a beautiful island for our holiday last summer.",
+            "cn": "去年夏天我们去了一个美丽的岛屿度假。"
           }
         ]
       },
@@ -689,8 +717,8 @@
         "meaning": "vi. 牛叫；n. 低点、低价、低；adj. 低的、消沉的、低等的",
         "app_sentences": [
           {
-            "en": "Example sentence for low.",
-            "cn": "暂无例句。"
+            "en": "The temperature will be very low tonight, so keep warm.",
+            "cn": "今晚气温会很低，所以请保暖。"
           }
         ]
       },
@@ -711,8 +739,8 @@
         "meaning": "n. 乡下地方、乡下居民",
         "app_sentences": [
           {
-            "en": "Example sentence for countryside.",
-            "cn": "暂无例句。"
+            "en": "I like to spend my weekends in the peaceful countryside.",
+            "cn": "我喜欢在宁静的乡下度过周末。"
           }
         ]
       },
@@ -722,8 +750,8 @@
         "meaning": "vt. 用伞遮掩；n. 伞、雨伞、保护伞；adj. 伞的、包罗万象的",
         "app_sentences": [
           {
-            "en": "Example sentence for umbrella.",
-            "cn": "暂无例句。"
+            "en": "Remember to bring an umbrella because it might rain today.",
+            "cn": "记得带把伞，因为今天可能会下雨。"
           }
         ]
       }
@@ -740,8 +768,8 @@
         "meaning": "n. 棒球；棒球系统",
         "app_sentences": [
           {
-            "en": "Example sentence for baseball.",
-            "cn": "暂无例句。"
+            "en": "Baseball is a popular game in the United States and Japan.",
+            "cn": "棒球在美联国和日本是一项受欢迎的游戏。"
           }
         ]
       },
@@ -775,6 +803,10 @@
           {
             "en": "The school trip to the museum was very exciting for everyone.",
             "cn": "去博物馆的学校旅行对每个人来说都非常令人兴奋。"
+          },
+          {
+            "en": "The football match we watched last night was very exciting.",
+            "cn": "我们昨晚看的那场足球赛非常精彩。"
           }
         ]
       },
@@ -784,8 +816,8 @@
         "meaning": "adj. 令人轻松的",
         "app_sentences": [
           {
-            "en": "Example sentence for relaxing.",
-            "cn": "暂无例句。"
+            "en": "Listening to music is a very relaxing way to spend your free time.",
+            "cn": "听音乐是度过闲暇时光的一种非常放松的方式。"
           }
         ]
       },
@@ -828,8 +860,8 @@
         "meaning": "na. 发生了什么事?；怎么了、出什么事了、你怎么了",
         "app_sentences": [
           {
-            "en": "Example sentence for What's the matter.",
-            "cn": "暂无例句。"
+            "en": "What's the matter? You look a bit pale and tired today.",
+            "cn": "怎么了？你今天看起来有点苍白和疲倦。"
           }
         ]
       },
@@ -839,8 +871,8 @@
         "meaning": "v. 伤害、(使)伤心、危害；n. 伤害、创伤、损害",
         "app_sentences": [
           {
-            "en": "Example sentence for hurt.",
-            "cn": "暂无例句。"
+            "en": "I accidentally hurt my arm while I was playing football.",
+            "cn": "我踢足球时意外弄伤了胳膊。"
           }
         ]
       },
@@ -850,8 +882,8 @@
         "meaning": "adj. 可从中得到乐趣的、令人愉快的",
         "app_sentences": [
           {
-            "en": "Example sentence for enjoyable.",
-            "cn": "暂无例句。"
+            "en": "Our class trip to the museum was a very enjoyable experience.",
+            "cn": "我们的博物馆班级旅行是一次非常愉快的体验。"
           }
         ]
       },
@@ -872,8 +904,8 @@
         "meaning": "n. 露天大型运动场；期、病期",
         "app_sentences": [
           {
-            "en": "Example sentence for stadium.",
-            "cn": "暂无例句。"
+            "en": "Thousands of people went to the stadium to watch the match.",
+            "cn": "数千人去体育场观看了比赛。"
           }
         ]
       },
@@ -924,8 +956,8 @@
         "meaning": "许多的",
         "app_sentences": [
           {
-            "en": "Example sentence for plenty of.",
-            "cn": "暂无例句。"
+            "en": "There is plenty of fresh fruit and vegetables in the kitchen.",
+            "cn": "厨房里有充足的新鲜水果和蔬菜。"
           }
         ]
       },
@@ -961,8 +993,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for cheer... on.",
-            "cn": "暂无例句。"
+            "en": "We went to the stadium to cheer our school team on.",
+            "cn": "我们去体育场为我们的校队加油。"
           }
         ]
       },
@@ -983,8 +1015,8 @@
         "meaning": "n. 追星族俱乐部、粉丝俱乐部、后援会",
         "app_sentences": [
           {
-            "en": "Example sentence for fan club.",
-            "cn": "暂无例句。"
+            "en": "She joined the fan club of her favourite pop singer.",
+            "cn": "她加入了她最喜欢的流行歌手的歌迷俱乐部。"
           }
         ]
       },
@@ -994,8 +1026,8 @@
         "meaning": "prep. 反对、对着、倚靠",
         "app_sentences": [
           {
-            "en": "Example sentence for against.",
-            "cn": "暂无例句。"
+            "en": "Our school football team will play against their team this Friday.",
+            "cn": "我们学校足球队这周五将和他们队比赛。"
           }
         ]
       },
@@ -1005,8 +1037,12 @@
         "meaning": "vt. 训练、教育、对准；vi. 受训练、锻炼；n. 火车、列车、行列",
         "app_sentences": [
           {
-            "en": "Example sentence for train.",
-            "cn": "暂无例句。"
+            "en": "We will take the high-speed train to Beijing next Monday.",
+            "cn": "下周一我们将乘高铁去北京。"
+          },
+          {
+            "en": "We will take a train to Beijing during the summer holiday.",
+            "cn": "暑假期间我们将坐火车去北京。"
           }
         ]
       },
@@ -1027,8 +1063,8 @@
         "meaning": "vt. 使温暖、弄热、使兴奋；vi. 变暖和、变温暖、取暖；n. 暖、保暖物",
         "app_sentences": [
           {
-            "en": "Example sentence for warm.",
-            "cn": "暂无例句。"
+            "en": "The weather is becoming warm and pleasant in the spring.",
+            "cn": "春天天气变得温暖宜人。"
           }
         ]
       },
@@ -1038,8 +1074,8 @@
         "meaning": "热身、重新煮热、变暖；温车",
         "app_sentences": [
           {
-            "en": "Example sentence for warm up.",
-            "cn": "暂无例句。"
+            "en": "It is important to warm up your body before doing sports.",
+            "cn": "做运动前热身很重要。"
           }
         ]
       },
@@ -1049,8 +1085,8 @@
         "meaning": "adj. 平常的、通常的",
         "app_sentences": [
           {
-            "en": "Example sentence for usual.",
-            "cn": "暂无例句。"
+            "en": "As usual, he got up early and went for a run in the park.",
+            "cn": "像往常一样，他起得很早，去公园跑步了。"
           }
         ]
       },
@@ -1060,8 +1096,8 @@
         "meaning": "adj. 较好的；adv. 比较好",
         "app_sentences": [
           {
-            "en": "Example sentence for better.",
-            "cn": "暂无例句。"
+            "en": "I hope you will feel better after taking this medicine.",
+            "cn": "我希望你吃了这药后会感觉好一些。"
           }
         ]
       },
@@ -1071,8 +1107,8 @@
         "meaning": "adj. 课外的",
         "app_sentences": [
           {
-            "en": "Example sentence for after-school.",
-            "cn": "暂无例句。"
+            "en": "We have many interesting after-school activities like music and sports.",
+            "cn": "我们有很多有趣的课外活动，比如音乐和体育。"
           }
         ]
       },
@@ -1082,8 +1118,8 @@
         "meaning": "adj. 高兴的、喜欢的、满足的",
         "app_sentences": [
           {
-            "en": "Example sentence for pleased.",
-            "cn": "暂无例句。"
+            "en": "The teacher was very pleased with our hard work this term.",
+            "cn": "老师对我们这学期的努力感到非常满意。"
           }
         ]
       },
@@ -1112,8 +1148,8 @@
         "meaning": "v. (觉得)可怜n.憾事、怜悯、同情；vt. 同情、怜悯；vi. 觉得可怜、有同情心",
         "app_sentences": [
           {
-            "en": "Example sentence for pity.",
-            "cn": "暂无例句。"
+            "en": "It's a pity that you couldn't come to my birthday party.",
+            "cn": "非常遗憾你没能来参加我的生日派对。"
           }
         ]
       },
@@ -1134,8 +1170,8 @@
         "meaning": "adv. 高声地、大声地、吵闹地",
         "app_sentences": [
           {
-            "en": "Example sentence for loudly.",
-            "cn": "暂无例句。"
+            "en": "Don't talk loudly in the library; people are studying there.",
+            "cn": "不要在图书馆大声说话；人们在那里学习。"
           }
         ]
       },
@@ -1145,8 +1181,8 @@
         "meaning": "adj. 有信心的、有把握的",
         "app_sentences": [
           {
-            "en": "Example sentence for confident.",
-            "cn": "暂无例句。"
+            "en": "She is very confident that she can win the English speech contest.",
+            "cn": "她非常有信心她能赢得英语演讲比赛。"
           }
         ]
       }
@@ -1174,8 +1210,8 @@
         "meaning": "n. 意外事件、机遇、事故；意外事故、事故",
         "app_sentences": [
           {
-            "en": "Example sentence for accident.",
-            "cn": "暂无例句。"
+            "en": "Always be careful to avoid a traffic accident when crossing the road.",
+            "cn": "过马路时要始终小心，避免发生交通事故。"
           }
         ]
       },
@@ -1209,6 +1245,10 @@
           {
             "en": "My deskmate is also my best classmate and friend.",
             "cn": "我的同桌也是我最好的同学和朋友。"
+          },
+          {
+            "en": "I often play football with my classmates after school.",
+            "cn": "我经常在放学后和同学们一起踢足球。"
           }
         ]
       },
@@ -1218,8 +1258,8 @@
         "meaning": "adj. 远的、久远的、遥远的；adv. 甚远地、很、到很深的程度",
         "app_sentences": [
           {
-            "en": "Example sentence for far.",
-            "cn": "暂无例句。"
+            "en": "The new library is not very far from our school.",
+            "cn": "新图书馆离我们学校不是很远。"
           }
         ]
       },
@@ -1229,8 +1269,8 @@
         "meaning": "远离、远非",
         "app_sentences": [
           {
-            "en": "Example sentence for far from.",
-            "cn": "暂无例句。"
+            "en": "We should live far from the noisy city during our holidays.",
+            "cn": "假期里我们应该远离喧闹的城市。"
           }
         ]
       },
@@ -1240,8 +1280,8 @@
         "meaning": "v. 关、关闭、结束；vt. 关、结束、使靠近；vi. 关闭、结束、靠近",
         "app_sentences": [
           {
-            "en": "Example sentence for close.",
-            "cn": "暂无例句。"
+            "en": "Please remember to close the window when you leave the room.",
+            "cn": "离开房间时请记得关窗。"
           }
         ]
       },
@@ -1262,8 +1302,8 @@
         "meaning": "始终",
         "app_sentences": [
           {
-            "en": "Example sentence for all the time.",
-            "cn": "暂无例句。"
+            "en": "He is very hardworking and studies English all the time.",
+            "cn": "他非常努力，一直在学习英语。"
           }
         ]
       },
@@ -1275,6 +1315,10 @@
           {
             "en": "The bus journey from my home to school takes about twenty minutes.",
             "cn": "从我家到学校的公交车旅程大约需要二十分钟。"
+          },
+          {
+            "en": "Our journey to the mountains was very exciting and fun.",
+            "cn": "我们的山区之行非常令人兴奋且有趣。"
           }
         ]
       },
@@ -1284,8 +1328,12 @@
         "meaning": "v. 登记、预订；n. 书、书籍、帐簿；工作簿",
         "app_sentences": [
           {
-            "en": "Example sentence for book.",
-            "cn": "暂无例句。"
+            "en": "I decided to book a hotel room online for our holiday.",
+            "cn": "我决定在网上为我们的假期预订一间酒店房间。"
+          },
+          {
+            "en": "I like reading books about space and wild animals.",
+            "cn": "我喜欢读关于太空和野生动物的书。"
           }
         ]
       },
@@ -1295,8 +1343,12 @@
         "meaning": "vt. 停车、置于；vi. 停车；n. 公园、停车处",
         "app_sentences": [
           {
-            "en": "Example sentence for park.",
-            "cn": "暂无例句。"
+            "en": "We like to walk in the park after dinner every night.",
+            "cn": "我们喜欢每天晚饭后在公园里散步。"
+          },
+          {
+            "en": "My family often goes to the park for a walk on weekends.",
+            "cn": "我们家人通常在周末去公园散步。"
           }
         ]
       },
@@ -1361,8 +1413,8 @@
         "meaning": "n. 茶室",
         "app_sentences": [
           {
-            "en": "Example sentence for teahouse.",
-            "cn": "暂无例句。"
+            "en": "In ancient China, people often met and talked in a teahouse.",
+            "cn": "在中国古代，人们经常在茶馆见面和交谈。"
           }
         ]
       },
@@ -1383,8 +1435,8 @@
         "meaning": "v. 结束、终结、终止；n. 结束、终点、目标；端、结束",
         "app_sentences": [
           {
-            "en": "Example sentence for end.",
-            "cn": "暂无例句。"
+            "en": "At the end of the term, we will have a big party.",
+            "cn": "在学期结束时，我们将举办一个大型派对。"
           }
         ]
       },
@@ -1394,8 +1446,8 @@
         "meaning": "最后、终于",
         "app_sentences": [
           {
-            "en": "Example sentence for in the end.",
-            "cn": "暂无例句。"
+            "en": "In the end, they found the lost keys under the sofa.",
+            "cn": "最后，他们在沙发下找到了丢失的钥匙。"
           }
         ]
       },
@@ -1405,8 +1457,8 @@
         "meaning": "不知道、没有想法、没想法",
         "app_sentences": [
           {
-            "en": "Example sentence for no idea.",
-            "cn": "暂无例句。"
+            "en": "I have no idea how to solve this difficult math problem.",
+            "cn": "我不知道该如何解决这道难题。"
           }
         ]
       },
@@ -1471,8 +1523,8 @@
         "meaning": "n. 社会、社交界、交往",
         "app_sentences": [
           {
-            "en": "Example sentence for society.",
-            "cn": "暂无例句。"
+            "en": "Schools play an important role in our modern society.",
+            "cn": "学校在我们的现代社会中起着重要的作用。"
           }
         ]
       },
@@ -1482,8 +1534,8 @@
         "meaning": "n. 校长、班主任",
         "app_sentences": [
           {
-            "en": "Example sentence for head teacher.",
-            "cn": "暂无例句。"
+            "en": "The head teacher gave a speech at the school opening ceremony.",
+            "cn": "校长在开学典礼上发表了讲话。"
           }
         ]
       },
@@ -1493,8 +1545,8 @@
         "meaning": "n. 学院、大学、学会",
         "app_sentences": [
           {
-            "en": "Example sentence for college.",
-            "cn": "暂无例句。"
+            "en": "My older brother is studying technology at a local college.",
+            "cn": "我哥哥在当地一所学院学习技术。"
           }
         ]
       },
@@ -1515,8 +1567,8 @@
         "meaning": "vt. 命名、称呼、任命；n. 名字、名称、姓名；adj. 姓名的、据以取名的",
         "app_sentences": [
           {
-            "en": "Example sentence for name.",
-            "cn": "暂无例句。"
+            "en": "Can you tell me the name of that beautiful flower?",
+            "cn": "你能告诉我那朵漂亮花的名字吗？"
           }
         ]
       },
@@ -1528,6 +1580,10 @@
           {
             "en": "If it is sunny tomorrow, we will have a picnic in the park.",
             "cn": "如果明天天气晴朗，我们将在公园里野餐。"
+          },
+          {
+            "en": "If it rains tomorrow, we will have to stay at home.",
+            "cn": "如果明天下雨，我们将不得不待在家里。"
           }
         ]
       },
@@ -1539,6 +1595,10 @@
           {
             "en": "The children watched a magic show at the school party.",
             "cn": "孩子们在学校聚会上看了一场魔术表演。"
+          },
+          {
+            "en": "The story about the magical forest is very popular now.",
+            "cn": "关于魔法森林的故事现在很受欢迎。"
           }
         ]
       }
@@ -1577,8 +1637,8 @@
         "meaning": "vt. 使变薄、使变细、使稀少；vi. 变薄、变细、变少；n. 细小部分",
         "app_sentences": [
           {
-            "en": "Example sentence for thin.",
-            "cn": "暂无例句。"
+            "en": "The paper is very thin and easy to tear if not careful.",
+            "cn": "这纸很薄，如果不小心很容易撕破。"
           }
         ]
       },
@@ -1587,6 +1647,10 @@
         "phonetic": "[ˈdeɪndʒə]",
         "meaning": "n. 危险、威胁；危险、危险物、危机",
         "app_sentences": [
+          {
+            "en": "Wild animals are in danger because their natural homes are lost.",
+            "cn": "野生动物由于天然家园的丧失正处于危险之中。"
+          },
           {
             "en": "There is danger in playing with fire because it can burn you.",
             "cn": "玩火有危险，因为它会烧伤你。"
@@ -1599,8 +1663,8 @@
         "meaning": "在危险中",
         "app_sentences": [
           {
-            "en": "Example sentence for in danger.",
-            "cn": "暂无例句。"
+            "en": "Many wild animals are in danger because of the loss of forests.",
+            "cn": "由于森林的丧失，许多野生动物正处于危险之中。"
           }
         ]
       },
@@ -1610,8 +1674,8 @@
         "meaning": "终于",
         "app_sentences": [
           {
-            "en": "Example sentence for at last.",
-            "cn": "暂无例句。"
+            "en": "At last, we finished our project and felt very happy.",
+            "cn": "最后，我们完成了项目，感到非常开心。"
           }
         ]
       },
@@ -1621,8 +1685,8 @@
         "meaning": "adj. 感兴趣的；有利害关系的、有股份的、偏私的",
         "app_sentences": [
           {
-            "en": "Example sentence for interested.",
-            "cn": "暂无例句。"
+            "en": "I am very interested in history and like visiting museums.",
+            "cn": "我对历史非常感兴趣，喜欢参观博物馆。"
           }
         ]
       },
@@ -1643,8 +1707,8 @@
         "meaning": "考虑、关心、想起",
         "app_sentences": [
           {
-            "en": "Example sentence for think of.",
-            "cn": "暂无例句。"
+            "en": "I can't think of any other way to help them at the moment.",
+            "cn": "目前我想不出任何其他办法来帮助他们。"
           }
         ]
       },
@@ -1665,8 +1729,8 @@
         "meaning": "n. 荒野、荒地；adj. 野性的、野蛮的、野生的；adv. 狂暴地、失控地",
         "app_sentences": [
           {
-            "en": "Example sentence for wild.",
-            "cn": "暂无例句。"
+            "en": "We should protect wild animals and their natural homes.",
+            "cn": "我们应该保护野生动物和它们天然的家。"
           }
         ]
       },
@@ -1682,6 +1746,10 @@
           {
             "en": "My grandfather likes to grow vegetables in his garden.",
             "cn": "我祖父喜欢在他的花园里种蔬菜。"
+          },
+          {
+            "en": "Many flowers and trees begin to grow in the early spring.",
+            "cn": "许多花木在早春开始生长。"
           }
         ]
       },
@@ -1691,8 +1759,8 @@
         "meaning": "取走",
         "app_sentences": [
           {
-            "en": "Example sentence for take away.",
-            "cn": "暂无例句。"
+            "en": "Please don't take away my dictionary; I need it for the class.",
+            "cn": "请别拿走我的词典；我上课需要它。"
           }
         ]
       },
@@ -1713,8 +1781,8 @@
         "meaning": "vi. 安静下来、不作声；n. 和平、和约、治安",
         "app_sentences": [
           {
-            "en": "Example sentence for peace.",
-            "cn": "暂无例句。"
+            "en": "We all hope that there will be peace in every country.",
+            "cn": "我们都希望每个国家都能和平。"
           }
         ]
       },
@@ -1724,8 +1792,8 @@
         "meaning": "平静地、安静地、和睦地",
         "app_sentences": [
           {
-            "en": "Example sentence for in peace.",
-            "cn": "暂无例句。"
+            "en": "Everyone hopes that the whole world can live in peace.",
+            "cn": "每个人都希望全世界能生活在和平中。"
           }
         ]
       },
@@ -1746,8 +1814,12 @@
         "meaning": "目送、照顾、关心",
         "app_sentences": [
           {
-            "en": "Example sentence for look after.",
-            "cn": "暂无例句。"
+            "en": "Please look after my little dog when I am away on holiday.",
+            "cn": "我度假不在家时，请帮我照顾我的小狗。"
+          },
+          {
+            "en": "Can you help me look after my dog when I am not at home?",
+            "cn": "我不在家时，你能帮我照顾我的狗吗？"
           }
         ]
       },
@@ -1779,8 +1851,8 @@
         "meaning": "n. 婴孩；婴儿",
         "app_sentences": [
           {
-            "en": "Example sentence for baby.",
-            "cn": "暂无例句。"
+            "en": "My aunt has a new baby who is very cute and small.",
+            "cn": "我阿姨有一个非常可爱且弱小的小宝宝。"
           }
         ]
       },
@@ -1823,8 +1895,8 @@
         "meaning": "n. 西南、西南方、西南地区；adj. 西南的、来自西南方的；adv. 往西南、来自西南",
         "app_sentences": [
           {
-            "en": "Example sentence for southwest.",
-            "cn": "暂无例句。"
+            "en": "They decided to travel to the southwest of China next summer.",
+            "cn": "他们决定明年夏天去中国西南部旅游。"
           }
         ]
       },
@@ -1834,8 +1906,8 @@
         "meaning": "为了…",
         "app_sentences": [
           {
-            "en": "Example sentence for in order to.",
-            "cn": "暂无例句。"
+            "en": "He worked hard in order to pass the difficult math exam.",
+            "cn": "他努力学习是为了通过那场很难的数学考试。"
           }
         ]
       },
@@ -1867,8 +1939,8 @@
         "meaning": "设立；调定、装置妥、装置妥当",
         "app_sentences": [
           {
-            "en": "Example sentence for set up.",
-            "cn": "暂无例句。"
+            "en": "They decided to set up a new school library for the students.",
+            "cn": "他们决定为学生们建立一个新的学校图书馆。"
           }
         ]
       },
@@ -1889,8 +1961,8 @@
         "meaning": "天然公园",
         "app_sentences": [
           {
-            "en": "Example sentence for nature park.",
-            "cn": "暂无例句。"
+            "en": "We had a wonderful picnic in the nature park last weekend.",
+            "cn": "上周末我们在自然公园进行了一次美妙的野餐。"
           }
         ]
       },
@@ -1977,8 +2049,8 @@
         "meaning": "vt. 让...见鬼去；vi. 猎兔；n. 兔子",
         "app_sentences": [
           {
-            "en": "Example sentence for rabbit.",
-            "cn": "暂无例句。"
+            "en": "The little girl has a white rabbit with long ears.",
+            "cn": "那个小女孩有一只长着长耳朵的白兔。"
           }
         ]
       },
@@ -1988,8 +2060,8 @@
         "meaning": "interj. 嘘！",
         "app_sentences": [
           {
-            "en": "Example sentence for ssh.",
-            "cn": "暂无例句。"
+            "en": "Ssh! Please be quiet; the baby is sleeping in the room.",
+            "cn": "嘘！请安静；宝宝正在房间里睡觉。"
           }
         ]
       },
@@ -2003,8 +2075,16 @@
             "cn": "不要把垃圾扔在地上，放进垃圾桶里。"
           },
           {
+            "en": "There are many yellow leaves on the ground in early autumn.",
+            "cn": "初秋地上有很多黄叶。"
+          },
+          {
             "en": "The children sat on the ground to have their picnic under the tree.",
             "cn": "孩子们坐在地上，在树下野餐。"
+          },
+          {
+            "en": "There are many yellow leaves on the ground in autumn.",
+            "cn": "秋天地上有很多黄叶。"
           }
         ]
       },
@@ -2014,8 +2094,8 @@
         "meaning": "n. 茶话会、(下午) 茶会、在美国各地抗议高额税收；茶党、茶叶党、茶聚",
         "app_sentences": [
           {
-            "en": "Example sentence for tea party.",
-            "cn": "暂无例句。"
+            "en": "She invited all her friends to a small tea party last Sunday.",
+            "cn": "上周日她邀请所有的朋友来参加一个小茶话会。"
           }
         ]
       },
@@ -2025,8 +2105,8 @@
         "meaning": "adv. 两次、两倍",
         "app_sentences": [
           {
-            "en": "Example sentence for twice.",
-            "cn": "暂无例句。"
+            "en": "I have visited the Great Wall twice with my family.",
+            "cn": "我和家人一起去过长城两次。"
           }
         ]
       },
@@ -2036,8 +2116,8 @@
         "meaning": "一两次、几次",
         "app_sentences": [
           {
-            "en": "Example sentence for once or twice.",
-            "cn": "暂无例句。"
+            "en": "I have visited the Great Wall once or twice with my parents.",
+            "cn": "我和父母一起去过长城一两次。"
           }
         ]
       },
@@ -2058,8 +2138,8 @@
         "meaning": "vt. 刺、扎、刺痛；vi. 变粉红色；n. 粉红色、石竹花、化身",
         "app_sentences": [
           {
-            "en": "Example sentence for pink.",
-            "cn": "暂无例句。"
+            "en": "The little girl's room is decorated with many pink flowers.",
+            "cn": "小女孩的房间里装饰着许多粉色的花。"
           }
         ]
       },
@@ -2069,8 +2149,8 @@
         "meaning": "vt. 装...在口袋里、隐藏、抑制；n. 口袋、钱袋、钱；adj. 袖珍的、小型的、压缩的",
         "app_sentences": [
           {
-            "en": "Example sentence for pocket.",
-            "cn": "暂无例句。"
+            "en": "He put his keys into his pocket and went out to play.",
+            "cn": "他把钥匙放进兜里，出去玩了。"
           }
         ]
       },
@@ -2082,6 +2162,10 @@
           {
             "en": "Farmers work in the rice field from morning until evening.",
             "cn": "农民们从早到晚在稻田里劳作。"
+          },
+          {
+            "en": "The children are playing happily in the large green field.",
+            "cn": "孩子们正在那片大草地上开心地玩耍。"
           }
         ]
       },
@@ -2091,8 +2175,8 @@
         "meaning": "考虑、回想",
         "app_sentences": [
           {
-            "en": "Example sentence for think about.",
-            "cn": "暂无例句。"
+            "en": "You should think about your future and work hard now.",
+            "cn": "你应该思考你的未来，现在就开始努力。"
           }
         ]
       },
@@ -2153,8 +2237,8 @@
         "meaning": "vt. 使变苍白、使失色、用栅栏围；vi. 变苍白、变暗、失色；n. 栅栏、界线、范围",
         "app_sentences": [
           {
-            "en": "Example sentence for pale.",
-            "cn": "暂无例句。"
+            "en": "She looked a bit pale because she didn't sleep well last night.",
+            "cn": "她看起来有点苍白，因为她昨晚没睡好。"
           }
         ]
       },
@@ -2186,8 +2270,8 @@
         "meaning": "vt. 迫至一隅、垄断、使陷入绝境；vi. 相交成角、垄断；n. 角落、转角、窘境",
         "app_sentences": [
           {
-            "en": "Example sentence for corner.",
-            "cn": "暂无例句。"
+            "en": "There is a small post office on the corner of the street.",
+            "cn": "街道转角处有一家小邮局。"
           }
         ]
       },
@@ -2219,8 +2303,8 @@
         "meaning": "及时；如期、按期、及时",
         "app_sentences": [
           {
-            "en": "Example sentence for in time.",
-            "cn": "暂无例句。"
+            "en": "We arrived at the station just in time to catch the train.",
+            "cn": "我们及时赶到车站，赶上了火车。"
           }
         ]
       },
@@ -2230,8 +2314,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for fall off....",
-            "cn": "暂无例句。"
+            "en": "He fell off his bike and hurt his knee yesterday afternoon.",
+            "cn": "昨天下午他从自行车上摔下来，伤到了膝盖。"
           }
         ]
       },
@@ -2252,8 +2336,8 @@
         "meaning": "n. 注意、注意力；引起注意信号",
         "app_sentences": [
           {
-            "en": "Example sentence for attention.",
-            "cn": "暂无例句。"
+            "en": "Please pay attention to the teacher while she is talking.",
+            "cn": "老师讲话时请注意听。"
           }
         ]
       },
@@ -2285,8 +2369,8 @@
         "meaning": "并排、并肩",
         "app_sentences": [
           {
-            "en": "Example sentence for side by side.",
-            "cn": "暂无例句。"
+            "en": "The two friends walked side by side along the river.",
+            "cn": "那两个朋友并排走在河边。"
           }
         ]
       },
@@ -2296,8 +2380,8 @@
         "meaning": "v. 咬、刺痛、穿透；n. 咬、一口",
         "app_sentences": [
           {
-            "en": "Example sentence for bite.",
-            "cn": "暂无例句。"
+            "en": "Be careful! The dog might bite you if you are not careful.",
+            "cn": "小心！如果你不小心的话，那只狗可能会咬你。"
           }
         ]
       },
@@ -2309,6 +2393,10 @@
           {
             "en": "It took us two hours to climb to the top of the hill.",
             "cn": "我们花了两个小时爬到了小山顶。"
+          },
+          {
+            "en": "They like to climb mountains to enjoy the fresh air.",
+            "cn": "他们喜欢爬山以享受新鲜空气。"
           }
         ]
       },
@@ -2340,8 +2428,8 @@
         "meaning": "n. 电冰箱",
         "app_sentences": [
           {
-            "en": "Example sentence for fridge.",
-            "cn": "暂无例句。"
+            "en": "Please put the milk and eggs into the fridge to keep them fresh.",
+            "cn": "请把牛奶和鸡蛋放进冰箱以保持新鲜。"
           }
         ]
       },
@@ -2351,8 +2439,8 @@
         "meaning": "vt. 使痛苦、痛苦；vi. 作痛、疼；n. 痛苦、疼痛、辛苦",
         "app_sentences": [
           {
-            "en": "Example sentence for pain.",
-            "cn": "暂无例句。"
+            "en": "He felt a sharp pain in his arm after falling down.",
+            "cn": "摔倒后，他感到胳膊一阵剧痛。"
           }
         ]
       },
@@ -2402,8 +2490,8 @@
         "meaning": "v. 准备、预备、有能力而且愿意；vt. 准备、筹备、使在思想上有准备；vi. 预备",
         "app_sentences": [
           {
-            "en": "Example sentence for prepare.",
-            "cn": "暂无例句。"
+            "en": "We need to prepare some food and drinks for the party.",
+            "cn": "我们需要为派对准备一些食物和饮料。"
           }
         ]
       },
@@ -2413,8 +2501,8 @@
         "meaning": "vt. 报告、汇报、转述；vi. 报告、写报道、报到；n. 报告、报道、传说",
         "app_sentences": [
           {
-            "en": "Example sentence for report.",
-            "cn": "暂无例句。"
+            "en": "He had to write a report about his trip to the museum.",
+            "cn": "他必须写一份关于他博物馆之行的报告。"
           }
         ]
       },
@@ -2424,8 +2512,8 @@
         "meaning": "n. 十亿(的)；num. 十亿、十亿个",
         "app_sentences": [
           {
-            "en": "Example sentence for billion.",
-            "cn": "暂无例句。"
+            "en": "The population of the world is more than seven billion now.",
+            "cn": "现在世界人口已经超过了七十亿。"
           }
         ]
       },
@@ -2446,8 +2534,8 @@
         "meaning": "vt. 增加、加大；vi. 增加、繁殖；n. 增加、增进、利益",
         "app_sentences": [
           {
-            "en": "Example sentence for increase.",
-            "cn": "暂无例句。"
+            "en": "The price of the storybook will increase from next month.",
+            "cn": "从下个月起，那本故事书的价格将会上涨。"
           }
         ]
       },
@@ -2457,8 +2545,8 @@
         "meaning": "坚持、不挂断、靠着",
         "app_sentences": [
           {
-            "en": "Example sentence for hang on.",
-            "cn": "暂无例句。"
+            "en": "Hang on a minute! I need to find my keys before we leave.",
+            "cn": "等一下！出发前我需要找到我的钥匙。"
           }
         ]
       },
@@ -2468,8 +2556,8 @@
         "meaning": "n. 票据、注释、说明（note复数）；Lotus公司出品的群件系列软件",
         "app_sentences": [
           {
-            "en": "Example sentence for notes.",
-            "cn": "暂无例句。"
+            "en": "I always take notes during the English class to remember words.",
+            "cn": "我总是在英语课上记笔记以记住单词。"
           }
         ]
       },
@@ -2507,6 +2595,10 @@
           {
             "en": "My grandfather likes to grow vegetables in his garden.",
             "cn": "我祖父喜欢在他的花园里种蔬菜。"
+          },
+          {
+            "en": "Many flowers and trees begin to grow in the early spring.",
+            "cn": "许多花木在早春开始生长。"
           }
         ]
       },
@@ -2516,8 +2608,8 @@
         "meaning": "n. 出生、起源；生产、分娩",
         "app_sentences": [
           {
-            "en": "Example sentence for birth.",
-            "cn": "暂无例句。"
+            "en": "I remember the date of my little sister's birth very clearly.",
+            "cn": "我非常清楚地记得我妹妹出生的日期。"
           }
         ]
       },
@@ -2538,8 +2630,8 @@
         "meaning": "n. 废物、垃圾、胡说",
         "app_sentences": [
           {
-            "en": "Example sentence for rubbish.",
-            "cn": "暂无例句。"
+            "en": "Don't throw rubbish on the floor; put it into the bin.",
+            "cn": "不要把垃圾扔在地上；把它放进垃圾桶里。"
           }
         ]
       },
@@ -2549,8 +2641,8 @@
         "meaning": "vt. 使平静、使平息、使安心；vi. 平静下来；n. 安静、闲适、平静",
         "app_sentences": [
           {
-            "en": "Example sentence for quiet.",
-            "cn": "暂无例句。"
+            "en": "Please keep quiet in the library so that everyone can study.",
+            "cn": "请在图书馆保持安静，以便大家学习。"
           }
         ]
       },
@@ -2562,6 +2654,10 @@
           {
             "en": "We buy fresh bread from the local bakery every morning.",
             "cn": "我们每天早上都从当地的面包店购买新鲜面包。"
+          },
+          {
+            "en": "Our neighborhood has a local market with many fresh vegetables.",
+            "cn": "我们小区有一个当地市场，那里有很多新鲜蔬菜。"
           }
         ]
       },
@@ -2571,8 +2667,8 @@
         "meaning": "关闭、歇业、停止播音",
         "app_sentences": [
           {
-            "en": "Example sentence for close down.",
-            "cn": "暂无例句。"
+            "en": "The old factory had to close down because of its high costs.",
+            "cn": "由于成本太高，那家旧工厂不得不关闭。"
           }
         ]
       },
@@ -2582,8 +2678,8 @@
         "meaning": "vt. 提到、提及；n. 提到、言及、陈述",
         "app_sentences": [
           {
-            "en": "Example sentence for mention.",
-            "cn": "暂无例句。"
+            "en": "Did he mention anything about the class meeting during dinner?",
+            "cn": "他在晚饭时提到关于班会的事情了吗？"
           }
         ]
       },
@@ -2604,8 +2700,8 @@
         "meaning": "vt. 解决、付给、溶解；vi. 求解；求解",
         "app_sentences": [
           {
-            "en": "Example sentence for solve.",
-            "cn": "暂无例句。"
+            "en": "He tried his best to solve the difficult math problem.",
+            "cn": "他竭尽全力去解决那道难题。"
           }
         ]
       },
@@ -2615,8 +2711,8 @@
         "meaning": "n. 公众、民众；adj. 公众的、公共的、公立的",
         "app_sentences": [
           {
-            "en": "Example sentence for public.",
-            "cn": "暂无例句。"
+            "en": "We should protect the public environment and keep it clean.",
+            "cn": "我们应该保护公共环境并保持其清洁。"
           }
         ]
       },
@@ -2637,8 +2733,8 @@
         "meaning": "n. 学生、门生、未成年人；瞳孔",
         "app_sentences": [
           {
-            "en": "Example sentence for pupil.",
-            "cn": "暂无例句。"
+            "en": "There are about fifty pupils in our class from different towns.",
+            "cn": "我们班大约有五十名来自不同城镇的小学生。"
           }
         ]
       },
@@ -2721,8 +2817,8 @@
         "meaning": "vt. 使雪白、用雪覆盖、使像雪般落下；vi. 下雪、似雪般落下；n. 雪、积雪、下雪",
         "app_sentences": [
           {
-            "en": "Example sentence for snow.",
-            "cn": "暂无例句。"
+            "en": "The mountain is covered with white snow in the winter.",
+            "cn": "冬天，山上被白雪覆盖。"
           }
         ]
       },
@@ -2743,8 +2839,8 @@
         "meaning": "adj. 多云的、有愁容的、云的；(混)浊的",
         "app_sentences": [
           {
-            "en": "Example sentence for cloudy.",
-            "cn": "暂无例句。"
+            "en": "It's a cloudy day, so it might rain later this afternoon.",
+            "cn": "今天阴天，所以今天下午晚些时候可能会下雨。"
           }
         ]
       },
@@ -2754,8 +2850,8 @@
         "meaning": "adj. 下雨的、多雨的",
         "app_sentences": [
           {
-            "en": "Example sentence for rainy.",
-            "cn": "暂无例句。"
+            "en": "I stayed at home and read books on a rainy Sunday afternoon.",
+            "cn": "在一个下雨的周日下午，我待在家里看书。"
           }
         ]
       },
@@ -2765,8 +2861,8 @@
         "meaning": "adj. 多雪的、雪的、被雪所覆盖着的",
         "app_sentences": [
           {
-            "en": "Example sentence for snowy.",
-            "cn": "暂无例句。"
+            "en": "We had a snowy day last week and made a big snowman.",
+            "cn": "上周我们遇到了下雪天，堆了一个大雪人。"
           }
         ]
       },
@@ -2776,8 +2872,8 @@
         "meaning": "adj. 阳光充足的、乐观的、快乐的",
         "app_sentences": [
           {
-            "en": "Example sentence for sunny.",
-            "cn": "暂无例句。"
+            "en": "It's a sunny day today, so let's go for a picnic in the park.",
+            "cn": "今天天气晴朗，我们去公园野餐吧。"
           }
         ]
       },
@@ -2787,8 +2883,8 @@
         "meaning": "adj. 多风的、风强的、腹胀的",
         "app_sentences": [
           {
-            "en": "Example sentence for windy.",
-            "cn": "暂无例句。"
+            "en": "It's very windy today, so be careful when you walk outside.",
+            "cn": "今天风很大，所以你在外面走的时候要小心。"
           }
         ]
       },
@@ -2820,8 +2916,8 @@
         "meaning": "vt. 使结冰、冰镇、覆以糖衣；vi. 结冰；n. 冰、冰淇淋、糖衣",
         "app_sentences": [
           {
-            "en": "Example sentence for ice.",
-            "cn": "暂无例句。"
+            "en": "In winter, the lake is covered with a thick layer of ice.",
+            "cn": "冬天，湖面上覆盖着一层厚厚的冰。"
           }
         ]
       },
@@ -2853,8 +2949,8 @@
         "meaning": "n. 温度、发烧、热度；温度",
         "app_sentences": [
           {
-            "en": "Example sentence for temperature.",
-            "cn": "暂无例句。"
+            "en": "The temperature will rise to twenty degrees this afternoon.",
+            "cn": "今天下午气温将升至二十度。"
           }
         ]
       },
@@ -2864,8 +2960,8 @@
         "meaning": "n. 负号、不足；adj. 减的、负的、阴性的；prep. 减、缺",
         "app_sentences": [
           {
-            "en": "Example sentence for minus.",
-            "cn": "暂无例句。"
+            "en": "The temperature dropped to minus five degrees last night.",
+            "cn": "昨晚气温降到了零下五度。"
           }
         ]
       },
@@ -2897,8 +2993,8 @@
         "meaning": "vt. 使...湿；vi. 变湿；n. 湿气、潮湿、水分",
         "app_sentences": [
           {
-            "en": "Example sentence for wet.",
-            "cn": "暂无例句。"
+            "en": "Don't walk on the floor while it's still wet after cleaning.",
+            "cn": "地刚洗完还湿着的时候不要在上面走。"
           }
         ]
       },
@@ -2930,8 +3026,8 @@
         "meaning": "vt. 愿、想要、希望；vi. 希望；n. 希望、愿望、祝愿",
         "app_sentences": [
           {
-            "en": "Example sentence for wish.",
-            "cn": "暂无例句。"
+            "en": "I wish you a happy birthday and a wonderful new year.",
+            "cn": "我祝你生日快乐，新的一年万事如意。"
           }
         ]
       },
@@ -2941,8 +3037,8 @@
         "meaning": "adv. 大概、或许",
         "app_sentences": [
           {
-            "en": "Example sentence for probably.",
-            "cn": "暂无例句。"
+            "en": "It will probably rain tonight, so don't forget your umbrella.",
+            "cn": "今晚可能会下雨，所以别忘了带伞。"
           }
         ]
       },
@@ -2952,8 +3048,8 @@
         "meaning": "偶遇、进步、发生",
         "app_sentences": [
           {
-            "en": "Example sentence for come on.",
-            "cn": "暂无例句。"
+            "en": "Come on! We are going to be late for the school meeting.",
+            "cn": "快点！我们学校开会要迟到了。"
           }
         ]
       },
@@ -2963,8 +3059,8 @@
         "meaning": "n. 英里、很大距离；英里、哩",
         "app_sentences": [
           {
-            "en": "Example sentence for mile.",
-            "cn": "暂无例句。"
+            "en": "The nearest shop is about a mile away from our house.",
+            "cn": "最近的商店离我们家大约一英里远。"
           }
         ]
       },
@@ -2985,8 +3081,8 @@
         "meaning": "n. 西北、西北方；adj. 西北的、在西北的、来自西北的；adv. 向西北",
         "app_sentences": [
           {
-            "en": "Example sentence for northwest.",
-            "cn": "暂无例句。"
+            "en": "The wind is blowing from the northwest today, so it's cold.",
+            "cn": "今天风从西北方向吹来，所以很冷。"
           }
         ]
       },
@@ -2996,8 +3092,8 @@
         "meaning": "n. 东南、东南地区；adj. 东南的、向东南的、来自东南的；adv. 往东南、来自东南",
         "app_sentences": [
           {
-            "en": "Example sentence for southeast.",
-            "cn": "暂无例句。"
+            "en": "Our city is located in the southeast part of China.",
+            "cn": "我们的城市位于中国东南部。"
           }
         ]
       },
@@ -3007,8 +3103,8 @@
         "meaning": "有时",
         "app_sentences": [
           {
-            "en": "Example sentence for from time to time.",
-            "cn": "暂无例句。"
+            "en": "I visit my grandparents in the countryside from time to time.",
+            "cn": "我偶尔会去乡下看望我的祖父母。"
           }
         ]
       }
@@ -3025,8 +3121,8 @@
         "meaning": "vt. 戴帽子、覆盖、胜过；vi. 脱帽致意；n. 盖子、帽子",
         "app_sentences": [
           {
-            "en": "Example sentence for cap.",
-            "cn": "暂无例句。"
+            "en": "He always wears a red baseball cap to protect his face from the sun.",
+            "cn": "他总是戴着一顶红色的棒球帽来保护脸部不被太阳晒。"
           }
         ]
       },
@@ -3038,6 +3134,10 @@
           {
             "en": "My grandfather teaches me how to play chess every Sunday.",
             "cn": "我爷爷每个星期天都教我下国际象棋。"
+          },
+          {
+            "en": "My grandfather and I often play chess on Sunday afternoons.",
+            "cn": "我和我祖父常在周日下午下国际象棋。"
           }
         ]
       },
@@ -3058,8 +3158,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for a chess set.",
-            "cn": "暂无例句。"
+            "en": "My father gave me a new chess set for my birthday.",
+            "cn": "我爸爸送了我一套新的国际象棋作为生日礼物。"
           }
         ]
       },
@@ -3069,8 +3169,8 @@
         "meaning": "n. 筷子",
         "app_sentences": [
           {
-            "en": "Example sentence for chopstick.",
-            "cn": "暂无例句。"
+            "en": "Most people in China use chopsticks to eat their meals.",
+            "cn": "中国的大多数人用筷子吃饭。"
           }
         ]
       },
@@ -3080,8 +3180,8 @@
         "meaning": "vi. 玩弄、戏弄、调情；n. 玩具、小玩艺儿、小型的东西；adj. 供玩耍的、作为玩具的",
         "app_sentences": [
           {
-            "en": "Example sentence for toy.",
-            "cn": "暂无例句。"
+            "en": "The little boy likes to play with his toy cars on the floor.",
+            "cn": "那个小男孩喜欢在地板上玩他的玩具车。"
           }
         ]
       },
@@ -3091,8 +3191,8 @@
         "meaning": "n. 影像、电视；adj. 图像的、电视的",
         "app_sentences": [
           {
-            "en": "Example sentence for video.",
-            "cn": "暂无例句。"
+            "en": "Our teacher showed us an interesting video about wild animals.",
+            "cn": "我们的老师给我们看了一个关于野生动物的有趣视频。"
           }
         ]
       },
@@ -3102,8 +3202,8 @@
         "meaning": "电视游戏",
         "app_sentences": [
           {
-            "en": "Example sentence for video game.",
-            "cn": "暂无例句。"
+            "en": "Don't spend too much time playing video games on weekends.",
+            "cn": "周末不要花太多时间玩电子游戏。"
           }
         ]
       },
@@ -3113,8 +3213,16 @@
         "meaning": "vt. 赋予；n. 礼物、赠予、天才",
         "app_sentences": [
           {
-            "en": "Example sentence for gift.",
-            "cn": "暂无例句。"
+            "en": "His parents gave him a new laptop as a birthday gift.",
+            "cn": "他的父母送给他一台新笔记本电脑作为生日礼物。"
+          },
+          {
+            "en": "I received a beautiful book as a gift for my birthday.",
+            "cn": "我收到一本精美的书作为生日礼物。"
+          },
+          {
+            "en": "His parents gave him a new book as a birthday gift.",
+            "cn": "他的父母送给他一本新书作为生日礼物。"
           }
         ]
       },
@@ -3135,8 +3243,8 @@
         "meaning": "adv. 直接地、立刻、立即",
         "app_sentences": [
           {
-            "en": "Example sentence for immediately.",
-            "cn": "暂无例句。"
+            "en": "You should start your homework immediately after you get home.",
+            "cn": "你回家后应该立即开始写作业。"
           }
         ]
       },
@@ -3168,8 +3276,8 @@
         "meaning": "n. 传说、传统、交付；传统、惯例、移交",
         "app_sentences": [
           {
-            "en": "Example sentence for tradition.",
-            "cn": "暂无例句。"
+            "en": "Eating mooncakes is a famous tradition in the Mid-Autumn Festival.",
+            "cn": "吃月饼是中秋节的一个著名传统。"
           }
         ]
       },
@@ -3190,8 +3298,8 @@
         "meaning": "例如",
         "app_sentences": [
           {
-            "en": "Example sentence for for example.",
-            "cn": "暂无例句。"
+            "en": "Many sports, for example, football and basketball, are very popular.",
+            "cn": "许多运动，例如足球和篮球，都非常受欢迎。"
           }
         ]
       },
@@ -3212,8 +3320,8 @@
         "meaning": "n. 月；月",
         "app_sentences": [
           {
-            "en": "Example sentence for month.",
-            "cn": "暂无例句。"
+            "en": "March is my favourite month because the flowers start to bloom.",
+            "cn": "三月是我最喜欢的月份，因为花儿开始绽放。"
           }
         ]
       },
@@ -3234,8 +3342,8 @@
         "meaning": "v. 品尝、辨味、(of)有 ...味道；vt. 尝、察觉...的味道、体会；vi. 品尝、察觉味道、有某种味道",
         "app_sentences": [
           {
-            "en": "Example sentence for taste.",
-            "cn": "暂无例句。"
+            "en": "The soup tastes very delicious and fresh with some vegetables.",
+            "cn": "放了些蔬菜后，这汤尝起来非常鲜美。"
           }
         ]
       },
@@ -3282,8 +3390,8 @@
         "meaning": "第一次",
         "app_sentences": [
           {
-            "en": "Example sentence for for the first time.",
-            "cn": "暂无例句。"
+            "en": "I saw the ocean for the first time during my last holiday.",
+            "cn": "在上次假期中，我第一次见到了大海。"
           }
         ]
       },
@@ -3315,8 +3423,8 @@
         "meaning": "n. 炸鱼、加炸土豆片",
         "app_sentences": [
           {
-            "en": "Example sentence for fish and chips.",
-            "cn": "暂无例句。"
+            "en": "Fish and chips is a very famous traditional British food.",
+            "cn": "炸鱼加薯条是一道非常有名的英国传统食物。"
           }
         ]
       },
@@ -3326,8 +3434,8 @@
         "meaning": "prep. 在...之上",
         "app_sentences": [
           {
-            "en": "Example sentence for onto.",
-            "cn": "暂无例句。"
+            "en": "The cat jumped onto the table to reach the milk.",
+            "cn": "猫跳到桌子上够牛奶。"
           }
         ]
       },
@@ -3366,8 +3474,8 @@
         "meaning": "adj. 坏掉的、打破的、断掉的；的过去分词",
         "app_sentences": [
           {
-            "en": "Example sentence for broken.",
-            "cn": "暂无例句。"
+            "en": "I have to repair my broken bicycle before I go out.",
+            "cn": "我出门前必须修理好我坏掉的自行车。"
           }
         ]
       },
@@ -3377,8 +3485,12 @@
         "meaning": "vt. 装玻璃于、反射、反映；vi. 成玻璃状；n. 玻璃、玻璃杯、透镜",
         "app_sentences": [
           {
-            "en": "Example sentence for glass.",
-            "cn": "暂无例句。"
+            "en": "The window is made of glass, so be careful not to break it.",
+            "cn": "窗户是玻璃做的，所以小心别打碎它。"
+          },
+          {
+            "en": "The window is made of glass, so be careful with it.",
+            "cn": "窗户是玻璃做的，所以请小心。"
           }
         ]
       },
@@ -3388,8 +3500,8 @@
         "meaning": "n. 楼梯",
         "app_sentences": [
           {
-            "en": "Example sentence for stairs.",
-            "cn": "暂无例句。"
+            "en": "He ran up the stairs to get his schoolbag from his room.",
+            "cn": "他跑上楼梯，从房间里拿书包。"
           }
         ]
       },
@@ -3399,8 +3511,8 @@
         "meaning": "vt. 援助、帮助、有助于；vi. 帮助；n. 帮助、外援、助手",
         "app_sentences": [
           {
-            "en": "Example sentence for aid.",
-            "cn": "暂无例句。"
+            "en": "The charity provided aid to the people after the big earthquake.",
+            "cn": "在那次大地震后，慈善机构为人们提供了援助。"
           }
         ]
       },
@@ -3410,8 +3522,8 @@
         "meaning": "急救",
         "app_sentences": [
           {
-            "en": "Example sentence for first aid.",
-            "cn": "暂无例句。"
+            "en": "Every student should learn some basic first aid skills.",
+            "cn": "每个学生都应该学习一些基本的急救技能。"
           }
         ]
       },
@@ -3443,8 +3555,8 @@
         "meaning": "vt. 给...装底、查明真相；vi. 到达底部、建立基础；n. 底部",
         "app_sentences": [
           {
-            "en": "Example sentence for bottom.",
-            "cn": "暂无例句。"
+            "en": "He dove deep into the pool to touch the bottom.",
+            "cn": "他跳进泳池深处去摸池底。"
           }
         ]
       },
@@ -3454,8 +3566,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for at the bottom of....",
-            "cn": "暂无例句。"
+            "en": "You can find some useful notes at the bottom of the page.",
+            "cn": "你可以在页面底部找到一些有用的笔记。"
           }
         ]
       },
@@ -3465,8 +3577,8 @@
         "meaning": "adj. 错误的、不正当的、失常的；adv. 错误地",
         "app_sentences": [
           {
-            "en": "Example sentence for wrong.",
-            "cn": "暂无例句。"
+            "en": "Don't be afraid to make a wrong choice occasionally.",
+            "cn": "偶尔做出错误的选择不要紧。"
           }
         ]
       },
@@ -3476,8 +3588,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for What's wrong with....",
-            "cn": "暂无例句。"
+            "en": "What's wrong with your computer? It doesn't seem to work now.",
+            "cn": "你的电脑怎么了？现在好像不能用了。"
           }
         ]
       },
@@ -3498,8 +3610,8 @@
         "meaning": "vt. 升高、提高、鼓舞；vi. 升起、消散、耸立；n. 举起、帮助、昂扬",
         "app_sentences": [
           {
-            "en": "Example sentence for lift.",
-            "cn": "暂无例句。"
+            "en": "Can you help me lift this heavy box up to the second floor?",
+            "cn": "你能帮我把这个重箱子搬到二楼吗？"
           }
         ]
       },
@@ -3509,8 +3621,8 @@
         "meaning": "举起",
         "app_sentences": [
           {
-            "en": "Example sentence for lift up.",
-            "cn": "暂无例句。"
+            "en": "He lifted up his hand to ask the teacher a question.",
+            "cn": "他举起手向老师提问。"
           }
         ]
       },
@@ -3520,8 +3632,8 @@
         "meaning": "adj. 有害的、伤害的",
         "app_sentences": [
           {
-            "en": "Example sentence for harmful.",
-            "cn": "暂无例句。"
+            "en": "Eating too much sugar is harmful to your teeth and health.",
+            "cn": "吃太多糖对你的牙齿和健康有害。"
           }
         ]
       },
@@ -3531,8 +3643,8 @@
         "meaning": "v. 滴下、落下、(使声音等)变弱；vt. 使滴下、放下、丢失；vi. 放下、掉下、下降",
         "app_sentences": [
           {
-            "en": "Example sentence for drop.",
-            "cn": "暂无例句。"
+            "en": "Be careful not to drop the glass on the floor.",
+            "cn": "小心别把玻璃杯掉在地上。"
           }
         ]
       },
@@ -3542,8 +3654,8 @@
         "meaning": "n. 训练、培养；训练",
         "app_sentences": [
           {
-            "en": "Example sentence for training.",
-            "cn": "暂无例句。"
+            "en": "The football players need a lot of training to win the game.",
+            "cn": "足球运动员需要大量的训练才能赢得比赛。"
           }
         ]
       },
@@ -3553,8 +3665,8 @@
         "meaning": "确定",
         "app_sentences": [
           {
-            "en": "Example sentence for make sure.",
-            "cn": "暂无例句。"
+            "en": "Please make sure that all the windows are closed before you leave.",
+            "cn": "请确保在离开前所有的窗户都关好了。"
           }
         ]
       },
@@ -3581,6 +3693,10 @@
           {
             "en": "The earthquake caused some damage to buildings in the city.",
             "cn": "地震对城市里的一些建筑造成了破坏。"
+          },
+          {
+            "en": "The big earthquake destroyed many houses in the small town.",
+            "cn": "那场大地震摧毁了小镇上的许多房子。"
           }
         ]
       },
@@ -3603,6 +3719,10 @@
           {
             "en": "It's warm inside the house, but it's cold outside today.",
             "cn": "今天房子里很暖和，但外面很冷。"
+          },
+          {
+            "en": "It is warm inside the room even if it's cold outside.",
+            "cn": "即使外面很冷，房间里还是很温暖。"
           }
         ]
       },
@@ -3612,8 +3732,8 @@
         "meaning": "adj. 下面的、从属的；adv. 在下面；prep. 在...之下、低于",
         "app_sentences": [
           {
-            "en": "Example sentence for under.",
-            "cn": "暂无例句。"
+            "en": "There is a small cat sleeping under the wooden chair.",
+            "cn": "木椅下睡着一只小猫。"
           }
         ]
       },
@@ -3623,8 +3743,8 @@
         "meaning": "vt. 给...开窗；n. 窗户、窗子、窗口；窗口",
         "app_sentences": [
           {
-            "en": "Example sentence for window.",
-            "cn": "暂无例句。"
+            "en": "Please open the window to let some fresh air into the room.",
+            "cn": "请开窗让新鲜空气进到房间里。"
           }
         ]
       },
@@ -3633,6 +3753,10 @@
         "phonetic": "[kiːp]",
         "meaning": "vt. 保持、保存、遵守；vi. 保持、继续不断；n. 生计、维持、保持",
         "app_sentences": [
+          {
+            "en": "Please keep the classroom clean and tidy after lessons.",
+            "cn": "课后请保持教室干净整洁。"
+          },
           {
             "en": "Please keep the classroom clean and tidy.",
             "cn": "请保持教室干净整洁。"
@@ -3656,8 +3780,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for keep clear of....",
-            "cn": "暂无例句。"
+            "en": "Please keep clear of the construction area for your safety.",
+            "cn": "为了您的安全，请远离施工区域。"
           }
         ]
       },
@@ -3689,8 +3813,8 @@
         "meaning": "adj. 有帮助的、有益的、有用的",
         "app_sentences": [
           {
-            "en": "Example sentence for helpful.",
-            "cn": "暂无例句。"
+            "en": "Our English teacher is very helpful and always answers our questions.",
+            "cn": "我们的英语老师非常有帮助，总是回答我们的问题。"
           }
         ]
       },

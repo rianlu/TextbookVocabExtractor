@@ -27,6 +27,10 @@
           {
             "en": "My sister loves to eat dark chocolate after dinner.",
             "cn": "我妹妹喜欢在晚饭后吃黑巧克力。"
+          },
+          {
+            "en": "I like eating chocolate, but I shouldn't eat too much.",
+            "cn": "我喜欢吃巧克力，但我不该吃太多。"
           }
         ]
       },
@@ -38,6 +42,10 @@
           {
             "en": "My father works in a car factory near our town.",
             "cn": "我父亲在我们镇附近的一家汽车厂工作。"
+          },
+          {
+            "en": "There is a big car factory in the central part of our city.",
+            "cn": "我们城市中心区域有一家大型汽车厂。"
           },
           {
             "en": "His father works in a car factory outside the city.",
@@ -53,6 +61,10 @@
           {
             "en": "The school trip to the museum was very exciting for everyone.",
             "cn": "去博物馆的学校旅行对每个人来说都非常令人兴奋。"
+          },
+          {
+            "en": "The football match we watched last night was very exciting.",
+            "cn": "我们昨晚看的那场足球赛非常精彩。"
           }
         ]
       },
@@ -201,6 +213,10 @@
           {
             "en": "Please do not forget to bring your homework to school tomorrow.",
             "cn": "请不要忘记明天把你的作业带到学校来。"
+          },
+          {
+            "en": "Don't forget to close the window when you leave the room.",
+            "cn": "离开房间时别忘了关窗。"
           }
         ]
       },
@@ -245,6 +261,10 @@
           {
             "en": "You can choose any book you like from the school library.",
             "cn": "你可以从学校图书馆选择任何你喜欢的书。"
+          },
+          {
+            "en": "You can choose your favourite book from the library shelf.",
+            "cn": "你可以从图书馆书架上选择你最喜欢的书。"
           }
         ]
       },
@@ -503,6 +523,10 @@
           {
             "en": "My grandfather teaches me how to play chess every Sunday.",
             "cn": "我爷爷每个星期天都教我下国际象棋。"
+          },
+          {
+            "en": "My grandfather and I often play chess on Sunday afternoons.",
+            "cn": "我和我祖父常在周日下午下国际象棋。"
           }
         ]
       },
@@ -562,6 +586,10 @@
           {
             "en": "We need to decide what game to play at the class party.",
             "cn": "我们需要决定在班级派对上玩什么游戏。"
+          },
+          {
+            "en": "We decided to have a picnic in the park this Sunday.",
+            "cn": "我们决定本周日去公园野餐。"
           }
         ]
       },
@@ -711,6 +739,10 @@
             "cn": "我刚做完作业，所以现在可以看电视了。"
           },
           {
+            "en": "Wait a minute; I am just finishing my English homework.",
+            "cn": "等一下；我正在完成英语作业。"
+          },
+          {
             "en": "I just finished reading an interesting book about space.",
             "cn": "我刚读完一本关于太空的有趣的书。"
           }
@@ -765,6 +797,10 @@
           {
             "en": "The cat jumped into the box and fell asleep quickly.",
             "cn": "猫跳进箱子里很快就睡着了。"
+          },
+          {
+            "en": "The little cat jumped into the box to hide from us.",
+            "cn": "小猫跳进箱子躲着我们。"
           }
         ]
       },
@@ -994,6 +1030,10 @@
           {
             "en": "Please stand in a straight line when we wait for the school bus.",
             "cn": "等校车时，请站成一条直线。"
+          },
+          {
+            "en": "Please wait in a line to get your lunch in the canteen.",
+            "cn": "请排队在食堂领午餐。"
           }
         ]
       },
@@ -1163,6 +1203,10 @@
           {
             "en": "My dream is to become a doctor and help sick people.",
             "cn": "我的梦想是成为一名医生，帮助生病的人。"
+          },
+          {
+            "en": "My dream is to become a famous singer in the future.",
+            "cn": "我的梦想是将来成为一名著名的歌手。"
           }
         ]
       },
@@ -1241,6 +1285,10 @@
           {
             "en": "If it is sunny tomorrow, we will have a picnic in the park.",
             "cn": "如果明天天气晴朗，我们将在公园里野餐。"
+          },
+          {
+            "en": "If it rains tomorrow, we will have to stay at home.",
+            "cn": "如果明天下雨，我们将不得不待在家里。"
           }
         ]
       },
@@ -1341,6 +1389,14 @@
           {
             "en": "We must not talk loudly during the film in the cinema.",
             "cn": "在电影院看电影时，我们不可以大声说话。"
+          },
+          {
+            "en": "We visited many museums during our last summer holiday in Beijing.",
+            "cn": "上次在北京过暑假期间我们参观了许多博物馆。"
+          },
+          {
+            "en": "We stayed at my grandparents' house during the holiday.",
+            "cn": "假期期间我们待在祖父母家。"
           }
         ]
       },
@@ -1404,6 +1460,10 @@
           {
             "en": "As it is raining, we will have our PE class indoors today.",
             "cn": "因为正在下雨，我们今天将在室内上体育课。"
+          },
+          {
+            "en": "He works as a doctor in a big city hospital now.",
+            "cn": "他现在在大城市的一家医院当医生。"
           }
         ]
       },
@@ -1563,6 +1623,10 @@
           {
             "en": "She won a gold medal in the school swimming competition.",
             "cn": "她在学校游泳比赛中赢得了一枚金牌。"
+          },
+          {
+            "en": "She won a gold medal in the hundred-meter race yesterday.",
+            "cn": "昨天她在百米赛跑中获得了一枚金牌。"
           }
         ]
       },
@@ -1986,6 +2050,10 @@
           {
             "en": "For dinner, we often have rice with beef and vegetables.",
             "cn": "晚餐我们经常吃米饭配牛肉和蔬菜。"
+          },
+          {
+            "en": "My father likes eating beef noodles for lunch on weekends.",
+            "cn": "我爸爸喜欢在周末午餐时吃牛肉面。"
           }
         ]
       },
@@ -1997,6 +2065,10 @@
           {
             "en": "Rabbits love to eat fresh carrots from the garden.",
             "cn": "兔子喜欢吃花园里的新鲜胡萝卜。"
+          },
+          {
+            "en": "Rabbits like to eat fresh carrots and live in the garden.",
+            "cn": "兔子喜欢吃新鲜胡萝卜，生活在花园里。"
           }
         ]
       },
@@ -2597,6 +2669,10 @@
           {
             "en": "It is dangerous to play with fire in the house.",
             "cn": "在房子里玩火很危险。"
+          },
+          {
+            "en": "It is dangerous to play with fire in the forest.",
+            "cn": "在森林里玩火是很危险的。"
           }
         ]
       },
@@ -2848,6 +2924,10 @@
           {
             "en": "We walked across the old stone bridge to get to the park.",
             "cn": "我们走过古老的石桥到达公园。"
+          },
+          {
+            "en": "There is a stone bridge over the river near my home.",
+            "cn": "我家附近的河上有一座石桥。"
           }
         ]
       }
@@ -2925,6 +3005,10 @@
           {
             "en": "I made a list of all the things I need for school tomorrow.",
             "cn": "我列了一份明天上学所需所有物品的清单。"
+          },
+          {
+            "en": "Can you make a shopping list for the party this Sunday?",
+            "cn": "你能为本周日的派对列一个购物清单吗？"
           },
           {
             "en": "My mother made a shopping list before going to the supermarket.",
@@ -3016,6 +3100,10 @@
             "cn": "当你感到悲伤时，与朋友交谈会有所帮助。"
           },
           {
+            "en": "Happiness is a wonderful feeling that we all want to have.",
+            "cn": "幸福是我们都想拥有的美妙感觉。"
+          },
+          {
             "en": "I have a good feeling about our team's chance to win.",
             "cn": "我对我们队获胜的机会有很好的感觉。"
           }
@@ -3027,8 +3115,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for lift sb's spirits.",
-            "cn": "暂无例句。"
+            "en": "Listening to music can always lift my spirits when I am sad.",
+            "cn": "当我难过时，听音乐总能振奋我的心情。"
           }
         ]
       },
@@ -3169,6 +3257,10 @@
           {
             "en": "Is there anything else you want to ask about the school trip?",
             "cn": "关于学校旅行，你还有其他想问的吗？"
+          },
+          {
+            "en": "What else do we need to buy for the party on Sunday?",
+            "cn": "周日的派对我们还需要买点别的什么？"
           }
         ]
       },
@@ -3538,6 +3630,10 @@
           {
             "en": "We buy fresh fruit and vegetables from the market every week.",
             "cn": "我们每周都从市场购买新鲜的水果和蔬菜。"
+          },
+          {
+            "en": "We can enjoy the fresh air in the countryside on weekends.",
+            "cn": "周末我们可以在乡下享受新鲜空气。"
           }
         ]
       },
@@ -3682,6 +3778,10 @@
           {
             "en": "An airplane flew high above the clouds in the blue sky.",
             "cn": "一架飞机在蓝天中云层上方高高飞翔。"
+          },
+          {
+            "en": "There is a beautiful picture on the wall above the desk.",
+            "cn": "书桌上方的墙上挂着一幅漂亮的画。"
           }
         ]
       },
@@ -3715,6 +3815,10 @@
           {
             "en": "Farmers work in the rice field from morning until evening.",
             "cn": "农民们从早到晚在稻田里劳作。"
+          },
+          {
+            "en": "The children are playing happily in the large green field.",
+            "cn": "孩子们正在那片大草地上开心地玩耍。"
           }
         ]
       },
@@ -3763,6 +3867,10 @@
           {
             "en": "We buy fresh bread from the local bakery every morning.",
             "cn": "我们每天早上都从当地的面包店购买新鲜面包。"
+          },
+          {
+            "en": "Our neighborhood has a local market with many fresh vegetables.",
+            "cn": "我们小区有一个当地市场，那里有很多新鲜蔬菜。"
           }
         ]
       },
@@ -3969,6 +4077,10 @@
           {
             "en": "I like to lie on the grass and look at the clouds in the sky.",
             "cn": "我喜欢躺在草地上看天空中的云。"
+          },
+          {
+            "en": "The cat likes to lie on the sofa and sleep in the sun.",
+            "cn": "那只猫喜欢躺在沙发上晒太阳。"
           }
         ]
       },
@@ -4376,6 +4488,10 @@
           {
             "en": "We stayed at a comfortable hotel near the beach last summer.",
             "cn": "去年夏天我们住在海滩附近一家舒适的酒店。"
+          },
+          {
+            "en": "We stayed in a small hotel near the old and quiet library.",
+            "cn": "我们住在一家离古老宁静的图书馆不远的小旅馆。"
           }
         ]
       },
@@ -4649,6 +4765,10 @@
           {
             "en": "It took us two hours to climb to the top of the hill.",
             "cn": "我们花了两个小时爬到了小山顶。"
+          },
+          {
+            "en": "They like to climb mountains to enjoy the fresh air.",
+            "cn": "他们喜欢爬山以享受新鲜空气。"
           }
         ]
       }

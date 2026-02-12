@@ -1468,5 +1468,155 @@
             "The main purpose of our meeting is to plan the class trip.",
             "我们会议的主要目的是计划班级旅行。"
         ]
+    },
+    "can't help doing sth.": {
+        "sentence": [
+            "I couldn't help laughing when I heard the funny story.",
+            "听到那个有趣的故事，我不禁大笑起来。"
+        ]
+    },
+    "clever": {
+        "sentence": [
+            "He is a clever boy who often thinks of new ways to solve problems.",
+            "他是一个聪明的男孩，经常能想到解决问题的新方法。"
+        ]
+    },
+    "cool": {
+        "sentence": [
+            "It becomes very cool and pleasant after the heavy rain in summer.",
+            "夏天大雨过后，天气变得非常凉爽宜人。"
+        ]
+    },
+    "ear": {
+        "sentence": [
+            "My little sister has a small cat with very soft ears.",
+            "我的妹妹有一只非常软的小猫耳朵。"
+        ]
+    },
+    "exercise": {
+        "sentence": [
+            "Doing morning exercise is good for our health and helps us wake up.",
+            "做早操对我们的健康有好处，也能帮我们清醒。"
+        ]
+    },
+    "favourite": {
+        "sentence": [
+            "My favourite fruit is apple because it is sweet and juicy.",
+            "我最喜欢的水果是苹果，因为它又甜又多汁。"
+        ]
+    },
+    "for": {
+        "sentence": [
+            "He bought a beautiful present for his mother's birthday last week.",
+            "上周他为母亲的生日买了一份漂亮的礼物。"
+        ]
+    },
+    "ill": {
+        "sentence": [
+            "He was absent from school because he was ill in bed yesterday.",
+            "昨天他因为生病卧床没来上学。"
+        ]
+    },
+    "in": {
+        "sentence": [
+            "There is a new student in our class who comes from Shanghai.",
+            "我们班有一个来自上海的新学生。"
+        ]
+    },
+    "lesson": {
+        "sentence": [
+            "We had an interesting science lesson about space this morning.",
+            "今天上午我们上了一节关于太空的有趣的科学课。"
+        ]
+    },
+    "love": {
+        "sentence": [
+            "I love my family very much and we often go to the park together.",
+            "我非常爱我的家人，我们经常一起去公园。"
+        ]
+    },
+    "moon": {
+        "sentence": [
+            "The moon is very bright and round on the Mid-Autumn Festival.",
+            "中秋节的月亮又亮又圆。"
+        ]
+    },
+    "on": {
+        "sentence": [
+            "Please put your books on the desk and listen to me carefully.",
+            "请把书放在桌子上，仔细听我说。"
+        ]
+    },
+    "sb. can't wait": {
+        "sentence": [
+            "I can't wait to see my best friend after the long holiday.",
+            "长假之后我迫不及待地想见到我最好的朋友。"
+        ]
+    },
+    "show sb. around": {
+        "sentence": [
+            "Our teacher showed the new students around our beautiful school campus.",
+            "我们的老师带领新同学参观了我们美丽的操场。"
+        ]
+    },
+    "take": {
+        "sentence": [
+            "You should take an umbrella with you because it might rain later.",
+            "你应该带把伞，因为等下可能会下雨。"
+        ]
+    },
+    "take sb.'s temperature": {
+        "sentence": [
+            "The nurse took the patient's temperature every two hours to check the fever.",
+            "护士每两个小时给病人测一次体温以检查是否发烧。"
+        ]
+    },
+    "that": {
+        "sentence": [
+            "Is that the book you were talking about in class yesterday?",
+            "那是你昨天在班里谈论的那本书吗？"
+        ]
+    },
+    "then": {
+        "sentence": [
+            "First finish your homework, and then you can play games for a while.",
+            "先完成作业，然后你可以玩一会儿游戏。"
+        ]
+    },
+    "this": {
+        "sentence": [
+            "This is the most interesting storybook I have ever read.",
+            "这是我读过的最有趣的故事书。"
+        ]
+    },
+    "trousers": {
+        "sentence": [
+            "My father bought a new pair of black trousers for work.",
+            "我爸爸买了一条新的黑色裤子去上班。"
+        ]
+    },
+    "wake sb. up": {
+        "sentence": [
+            "Please wake me up at half past six tomorrow morning.",
+            "请在明天早上六点半叫醒我。"
+        ]
+    },
+    "way": {
+        "sentence": [
+            "Is this the right way to the nearest bus station?",
+            "这是去最近的车站的正确路吗？"
+        ]
+    },
+    "well": {
+        "sentence": [
+            "She can play the piano very well because she practises every day.",
+            "她钢琴弹得很好，因为她每天都练习。"
+        ]
+    },
+    "win the heart of sb.": {
+        "sentence": [
+            "The little girl's kindness won the hearts of many people in the village.",
+            "小女孩的善良赢得了村里许多人的心。"
+        ]
     }
 }

@@ -2218,5 +2218,143 @@
             "She is the only granddaughter in her family.",
             "她是家里唯一的孙女。"
         ]
+    },
+    "angry": {
+        "sentence": [
+            "The teacher was angry because the students were making too much noise.",
+            "老师很生气，因为学生们太吵了。"
+        ]
+    },
+    "be angry with sb.": {
+        "sentence": [
+            "My mother will be angry with me if I don't finish my homework.",
+            "如果我不完成作业，妈妈会生我的气。"
+        ]
+    },
+    "beside": {
+        "sentence": [
+            "There is a small table beside the bed with a lamp on it.",
+            "床旁边有一张放着台灯的小桌子。"
+        ]
+    },
+    "brush sth. off sth.": {
+        "sentence": [
+            "He brushed the dust off his jacket before entering the classroom.",
+            "进教室前，他掸掉了夹克上的灰尘。"
+        ]
+    },
+    "by": {
+        "sentence": [
+            "We usually go to school by bike to enjoy the fresh air.",
+            "我们通常骑自行车上学，以便呼吸新鲜空气。"
+        ]
+    },
+    "clock": {
+        "sentence": [
+            "The clock on the wall says it is exactly eight o'clock now.",
+            "墙上的钟显示现在正好是八点钟。"
+        ]
+    },
+    "compare... to": {
+        "sentence": [
+            "Poets often compare life to a long journey with many turns.",
+            "诗人常把生活比作一段充满转折的长途旅行。"
+        ]
+    },
+    "compare... with...": {
+        "sentence": [
+            "If you compare this book with that one, you will find differences.",
+            "如果你把这本书和那本书比较，你会发现不同之处。"
+        ]
+    },
+    "cut sth. off sth.": {
+        "sentence": [
+            "She used a pair of scissors to cut the label off the shirt.",
+            "她用剪刀剪掉了衬衫上的标签。"
+        ]
+    },
+    "fly": {
+        "sentence": [
+            "Look! A beautiful bird is flying high in the blue sky.",
+            "看！一只美丽的鸟正在蓝天中高高飞翔。"
+        ]
+    },
+    "get into the habit of...": {
+        "sentence": [
+            "Students should get into the habit of reading English every morning.",
+            "学生应该养成每天早上读英语的习惯。"
+        ]
+    },
+    "in one's opinion": {
+        "sentence": [
+            "In my opinion, playing sports is a good way to stay healthy.",
+            "在我看来，体育运动是保持健康的好方法。"
+        ]
+    },
+    "keep sb.": {
+        "sentence": [
+            "The heavy rain kept us from playing football on the playground.",
+            "大雨使我们无法在操场上踢足球。"
+        ]
+    },
+    "kid": {
+        "sentence": [
+            "The kids are playing hide-and-seek happily in the neighborhood park.",
+            "孩子在大院公园里开心地玩捉迷藏。"
+        ]
+    },
+    "No entry.": {
+        "sentence": [
+            "There is a sign that says \"No entry\" at the gate.",
+            "门口挂着一个写着“禁止入内”的牌子。"
+        ]
+    },
+    "on one's own": {
+        "sentence": [
+            "He is old enough to travel to the city on his own.",
+            "他已经够大了，可以独自去那个城市旅行了。"
+        ]
+    },
+    "protect sth. against sth.": {
+        "sentence": [
+            "We should wear warm clothes to protect ourselves against the cold.",
+            "我们应该穿暖和的衣服来防止感冒。"
+        ]
+    },
+    "season": {
+        "sentence": [
+            "Spring is my favourite season because everything begins to grow again.",
+            "春天是我最喜欢的季节，因为一切都开始重新生长。"
+        ]
+    },
+    "sheep": {
+        "sentence": [
+            "The farmer has a lot of white sheep on his large farm.",
+            "农场主的大农场里有很多白色的绵羊。"
+        ]
+    },
+    "skirt": {
+        "sentence": [
+            "She is wearing a beautiful pink skirt for the school party today.",
+            "她今天穿着一条漂亮的粉色裙子去参加学校派对。"
+        ]
+    },
+    "stop sb.": {
+        "sentence": [
+            "My parents tried to stop me from watching too much TV.",
+            "我的父母试图阻止我看太长时间的电视。"
+        ]
+    },
+    "subject": {
+        "sentence": [
+            "English is my favourite subject because I like talking with foreigners.",
+            "英语是我最喜欢的科目，因为我喜欢和外国人交流。"
+        ]
+    },
+    "suffer from...": {
+        "sentence": [
+            "Many people in this area suffer from the lack of clean water.",
+            "这个地区的许多人正遭受缺乏清洁饮用水的痛苦。"
+        ]
     }
 }

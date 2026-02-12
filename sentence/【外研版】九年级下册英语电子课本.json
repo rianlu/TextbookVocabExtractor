@@ -766,5 +766,11 @@
             "Whom did you invite to your birthday party last weekend?",
             "上周末你邀请了谁参加你的生日派对？"
         ]
+    },
+    "try one's best": {
+        "sentence": [
+            "You should try your best to finish the task on time.",
+            "你应该尽力按时完成任务。"
+        ]
     }
 }

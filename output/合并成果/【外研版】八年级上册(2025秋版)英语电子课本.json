@@ -40,6 +40,10 @@
             "cn": "教室有很多窗户，明亮又干净。"
           },
           {
+            "en": "The stars are very bright in the dark and clear night sky.",
+            "cn": "在黑暗晴朗的夜空中，星星非常明亮。"
+          },
+          {
             "en": "The sun is very bright today, so wear your hat.",
             "cn": "今天太阳很亮，所以戴上你的帽子。"
           },
@@ -659,6 +663,10 @@
           {
             "en": "We will meet at the school gate at three o'clock this afternoon.",
             "cn": "我们今天下午三点在学校门口见面。"
+          },
+          {
+            "en": "Please wait for me at the school gate at four o'clock.",
+            "cn": "请四点钟在校门口等我。"
           }
         ]
       },
@@ -670,6 +678,10 @@
           {
             "en": "The workers will build a new playground for our school next month.",
             "cn": "工人们下个月将为我们学校建造一个新操场。"
+          },
+          {
+            "en": "They decided to build a new library for the children.",
+            "cn": "他们决定为孩子们建一座新图书馆。"
           }
         ]
       },
@@ -833,6 +845,10 @@
         "phonetic": "[ɡreɪd]",
         "meaning": "vt. 分等、分级、评分；vi. 属于某等级、逐渐变化；n. 等级、年级、阶段",
         "app_sentences": [
+          {
+            "en": "I am in Grade Seven and my sister is in Grade Nine.",
+            "cn": "我在七年级，我姐姐在九年级。"
+          },
           {
             "en": "She got a good grade on her history test because she studied hard.",
             "cn": "她历史考试取得了好成绩，因为她学习很努力。"
@@ -1139,6 +1155,10 @@
           {
             "en": "It's warm inside the house, but it's cold outside today.",
             "cn": "今天房子里很暖和，但外面很冷。"
+          },
+          {
+            "en": "It is warm inside the room even if it's cold outside.",
+            "cn": "即使外面很冷，房间里还是很温暖。"
           }
         ]
       },
@@ -1414,6 +1434,10 @@
           {
             "en": "This washing machine makes it easy to clean our clothes.",
             "cn": "这台洗衣机让洗衣服变得容易。"
+          },
+          {
+            "en": "This machine can help people clean the floor easily now.",
+            "cn": "现在这台机器能帮助人们轻松地打扫地板。"
           }
         ]
       },
@@ -1680,6 +1704,10 @@
           {
             "en": "In the future, I hope to become a helpful doctor.",
             "cn": "未来，我希望成为一名有帮助的医生。"
+          },
+          {
+            "en": "We should work hard now to have a bright and happy future.",
+            "cn": "为了有一个光明幸福的未来，我们现在应该努力。"
           }
         ]
       },
@@ -1713,6 +1741,10 @@
           {
             "en": "My father will drive us to the beach for a picnic tomorrow.",
             "cn": "我父亲明天会开车送我们去海滩野餐。"
+          },
+          {
+            "en": "My father can drive a car but my mother can't.",
+            "cn": "我爸爸会开车但他妈妈不会。"
           }
         ]
       },
@@ -1728,6 +1760,10 @@
           {
             "en": "The earthquake caused some damage to buildings in the city.",
             "cn": "地震对城市里的一些建筑造成了破坏。"
+          },
+          {
+            "en": "The big earthquake destroyed many houses in the small town.",
+            "cn": "那场大地震摧毁了小镇上的许多房子。"
           }
         ]
       },
@@ -2096,6 +2132,10 @@
           {
             "en": "I share my bedroom with my younger sister, and we have two beds.",
             "cn": "我和我妹妹共用一间卧室，我们有两张床。"
+          },
+          {
+            "en": "My bedroom is small but very comfortable and clean.",
+            "cn": "我的卧室虽然小，但非常舒适和干净。"
           }
         ]
       },
@@ -2107,6 +2147,10 @@
           {
             "en": "I spent one hour doing my maths homework yesterday evening.",
             "cn": "我昨天晚上花了一个小时做数学作业。"
+          },
+          {
+            "en": "I usually finish my homework before I watch TV on Friday.",
+            "cn": "周五看电视前我通常先完成作业。"
           },
           {
             "en": "I always finish my homework before I watch television in the evening.",
@@ -2248,6 +2292,10 @@
         "phonetic": "[ˈeniθɪŋ]",
         "meaning": "pron. 任何事",
         "app_sentences": [
+          {
+            "en": "Is there anything else I can help you with for the party?",
+            "cn": "关于派对，还有什么我可以帮你的吗？"
+          },
           {
             "en": "You can ask me anything about the homework if you don't understand.",
             "cn": "如果你不明白，可以问我任何关于作业的问题。"
@@ -2537,6 +2585,10 @@
         "meaning": "vt. 发表(演说或讲话)、对付、写地址；n. 住址、演说、举止；地址、寻址",
         "app_sentences": [
           {
+            "en": "Can you write down your home address on this paper, please?",
+            "cn": "请在这张纸上写下你的家庭住址好吗？"
+          },
+          {
             "en": "Please write down your name and address on this form.",
             "cn": "请在这张表格上写下你的姓名和地址。"
           },
@@ -2685,8 +2737,16 @@
             "cn": "不要把垃圾扔在地上，放进垃圾桶里。"
           },
           {
+            "en": "There are many yellow leaves on the ground in early autumn.",
+            "cn": "初秋地上有很多黄叶。"
+          },
+          {
             "en": "The children sat on the ground to have their picnic under the tree.",
             "cn": "孩子们坐在地上，在树下野餐。"
+          },
+          {
+            "en": "There are many yellow leaves on the ground in autumn.",
+            "cn": "秋天地上有很多黄叶。"
           }
         ]
       },
@@ -2949,6 +3009,10 @@
         "phonetic": "[ˈdeɪndʒə]",
         "meaning": "n. 危险、威胁；危险、危险物、危机",
         "app_sentences": [
+          {
+            "en": "Wild animals are in danger because their natural homes are lost.",
+            "cn": "野生动物由于天然家园的丧失正处于危险之中。"
+          },
           {
             "en": "There is danger in playing with fire because it can burn you.",
             "cn": "玩火有危险，因为它会烧伤你。"
