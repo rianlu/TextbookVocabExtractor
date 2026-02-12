@@ -61,7 +61,7 @@
       },
       {
         "text": "match",
-        "phonetic": "[m*t1]",
+        "phonetic": "[mæt1]",
         "meaning": "vt. 使相配、使比赛、与...竞争；vi. 结婚、相配；n. 比赛、火柴、对手",
         "app_sentences": [
           {
@@ -823,7 +823,7 @@
       },
       {
         "text": "score",
-        "phonetic": "[skɔː]",
+        "phonetic": "[skː]",
         "meaning": "vt. 刻划、划线、获得；vi. 刻痕、记分、得分；n. 得分、抓痕、二十个",
         "app_sentences": [
           {
@@ -941,7 +941,7 @@
       },
       {
         "text": "plenty",
-        "phonetic": "[ˈplenti]",
+        "phonetic": "['plenti]",
         "meaning": "n. 充分、很多、丰富；adj. 很多的、足够的、丰富的",
         "app_sentences": [
           {
@@ -1799,7 +1799,7 @@
       },
       {
         "text": "notice",
-        "phonetic": "[ˈnəʊtɪs]",
+        "phonetic": "[nts]",
         "meaning": "vt. 注意、通知、评论；vi. 注意；n. 注意、布告、通知",
         "app_sentences": [
           {
@@ -2008,7 +2008,7 @@
     "data": [
       {
         "text": "fall",
-        "phonetic": "[f0ːl]",
+        "phonetic": "[fɔːl]",
         "meaning": "vi. 倒下、落下、来临；n. 落下、瀑布、采伐量；adj. 秋天的",
         "app_sentences": [
           {
@@ -2204,7 +2204,7 @@
       },
       {
         "text": "land",
-        "phonetic": "[lænd]",
+        "phonetic": "[lnd]",
         "meaning": "vt. 使上岸、使登陆、使到达；vi. 登陆、登岸、到达；n. 陆地、地面、地界",
         "app_sentences": [
           {
@@ -2288,7 +2288,7 @@
       },
       {
         "text": "glad",
-        "phonetic": "[ɡlæd]",
+        "phonetic": "[glæd]",
         "meaning": "adj. 高兴的、喜欢的、情愿的",
         "app_sentences": [
           {
@@ -2446,7 +2446,7 @@
       },
       {
         "text": "worse",
-        "phonetic": "[wɜːs]",
+        "phonetic": "[w^ːs]",
         "meaning": "n. 更坏的事、更恶劣的事、败局；adj. 更坏的、更恶劣的；adv. 更坏地、更恶劣地",
         "app_sentences": [
           {
@@ -2457,7 +2457,7 @@
       },
       {
         "text": "medicine",
-        "phonetic": "[ˈmedsən]",
+        "phonetic": "['medsn]",
         "meaning": "vt. 给...用药；n. 药、医学、内科",
         "app_sentences": [
           {
@@ -3360,7 +3360,7 @@
       },
       {
         "text": "stay",
-        "phonetic": "[ste!]",
+        "phonetic": "[steɪ]",
         "meaning": "vt. 制止、延缓、坚持；vi. 停留、逗留、暂停；n. 停留、逗留、制止",
         "app_sentences": [
           {

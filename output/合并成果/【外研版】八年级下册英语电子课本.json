@@ -32,7 +32,7 @@
       },
       {
         "text": "soft",
-        "phonetic": "[s=ft]",
+        "phonetic": "[sɒft]",
         "meaning": "n. 柔软的东西、笨人、纸币；adj. 软的、温和的、柔和的；adv. 柔软地、温和地",
         "app_sentences": [
           {
@@ -113,7 +113,7 @@
       },
       {
         "text": "try",
-        "phonetic": "[tra!]",
+        "phonetic": "[tra]",
         "meaning": "vt. 试、尝试、试验；vi. 尝试、试图；n. 尝试、试验、审理",
         "app_sentences": [
           {
@@ -150,7 +150,7 @@
       },
       {
         "text": "sound",
-        "phonetic": "[saʊnd]",
+        "phonetic": "[sa nd]",
         "meaning": "vt. 使发声、宣告、听诊；vi. 发出声音、回响、测深；n. 声音、语音、吵闹",
         "app_sentences": [
           {
@@ -191,7 +191,7 @@
       },
       {
         "text": "jam",
-        "phonetic": "[d3æm]",
+        "phonetic": "[dm]",
         "meaning": "vt. 挤进、使塞满、混杂；vi. 堵塞、轧住、拥挤；n. 果酱、拥塞之物、堵塞",
         "app_sentences": [
           {
@@ -474,7 +474,7 @@
       },
       {
         "text": "enter",
-        "phonetic": "['ent2]",
+        "phonetic": "[ent]",
         "meaning": "vt. 进入、参加、开始；vi. 进去、参加；输入、回车",
         "app_sentences": [
           {
@@ -696,7 +696,7 @@
       },
       {
         "text": "way",
-        "phonetic": "[we!]",
+        "phonetic": "[we]",
         "meaning": "n. 路、路线、路途；adv. 远远地、非常",
         "app_sentences": [
           {
@@ -852,7 +852,7 @@
       },
       {
         "text": "just",
-        "phonetic": "[dʒəst]",
+        "phonetic": "[st]",
         "meaning": "adj. 正直的、合理的、正确的；adv. 刚刚、正好、仅仅",
         "app_sentences": [
           {
@@ -930,7 +930,7 @@
       },
       {
         "text": "on",
-        "phonetic": "[=n]",
+        "phonetic": "[n]",
         "meaning": "adj. 正起作用的；adv. ...上去；prep. 在...之上",
         "app_sentences": [
           {
@@ -1093,7 +1093,7 @@
       },
       {
         "text": "light",
-        "phonetic": "[la!t]",
+        "phonetic": "[lat]",
         "meaning": "vt. 点燃、照亮；vi. 点着、变亮、突降；n. 光、光亮、灯",
         "app_sentences": [
           {
@@ -1119,7 +1119,7 @@
       },
       {
         "text": "out",
-        "phonetic": "[a%t]",
+        "phonetic": "[a t]",
         "meaning": "adj. 外面的、熄灭的、结束的；adv. 在外、熄灭、出现；prep. 出自、离去、向",
         "app_sentences": [
           {
@@ -1471,7 +1471,7 @@
       },
       {
         "text": "then",
-        "phonetic": "[6en]",
+        "phonetic": "[ðen]",
         "meaning": "n. 那时；adv. 然后、当时；conj. 然后、当时",
         "app_sentences": [
           {
@@ -1828,7 +1828,7 @@
       },
       {
         "text": "as",
-        "phonetic": "[*z；2z]",
+        "phonetic": "[əz]",
         "meaning": "adv. 同样地、例如；prep. 做为、当作；conj. 当...之时、以...的方式、像...一样",
         "app_sentences": [
           {
@@ -1873,7 +1873,7 @@
       },
       {
         "text": "expect",
-        "phonetic": "[!k'spekt]",
+        "phonetic": "[ɪkˈspekt]",
         "meaning": "vt. 预期、盼望、期待",
         "app_sentences": [
           {
@@ -2047,7 +2047,7 @@
       },
       {
         "text": "note",
-        "phonetic": "[n2%t]",
+        "phonetic": "[nəʊt]",
         "meaning": "vt. 记录、注解、注意；n. 笔记、记录、注解",
         "app_sentences": [
           {
@@ -2114,7 +2114,7 @@
       },
       {
         "text": "with",
-        "phonetic": "[w!6]",
+        "phonetic": "[w!ð]",
         "meaning": "prep. 和...在一起、以、由于",
         "app_sentences": [
           {
@@ -2125,7 +2125,7 @@
       },
       {
         "text": "value",
-        "phonetic": "[ˈvæljuː]",
+        "phonetic": "['væljuː]",
         "meaning": "vt. 评价、估价、重视；n. 价值、价格、购买力；计算结果",
         "app_sentences": [
           {
@@ -2140,7 +2140,7 @@
       },
       {
         "text": "just",
-        "phonetic": "[dʒəst]",
+        "phonetic": "[st]",
         "meaning": "adj. 正直的、合理的、正确的；adv. 刚刚、正好、仅仅",
         "app_sentences": [
           {
@@ -2477,7 +2477,7 @@
       },
       {
         "text": "last",
-        "phonetic": "[l4ːst]",
+        "phonetic": "[ː]",
         "meaning": "vt. 使维持、够...用；vi. 持续、支持、维持；n. 最后、末尾、鞋楦头",
         "app_sentences": [
           {
@@ -2641,7 +2641,7 @@
       },
       {
         "text": "certain",
-        "phonetic": "[ˈsɜːtn]",
+        "phonetic": "['s^ːtn]",
         "meaning": "adj. 确定的、某一个的、必然的；确凿的、无疑的、可靠的",
         "app_sentences": [
           {
@@ -2782,7 +2782,7 @@
       },
       {
         "text": "square",
-        "phonetic": "[skwe2]",
+        "phonetic": "[skwe]",
         "meaning": "vt. 使成方形、使平方自乘、调正；vi. 一致、符合、结清；n. 正方形、街区、广场",
         "app_sentences": [
           {
@@ -3228,7 +3228,7 @@
       },
       {
         "text": "circle",
-        "phonetic": "[ˈsɜːkəl]",
+        "phonetic": "['s^ːkl]",
         "meaning": "vt. 围着、环绕；vi. 盘旋、循环；n. 圆周、社交圈、循环",
         "app_sentences": [
           {
@@ -3258,7 +3258,7 @@
       },
       {
         "text": "glue",
-        "phonetic": "[ɡluː]",
+        "phonetic": "[gluː]",
         "meaning": "vt. 粘合、胶合；n. 胶、粘性物",
         "app_sentences": [
           {
@@ -3313,7 +3313,7 @@
       },
       {
         "text": "around",
-        "phonetic": "[2'ra%nd]",
+        "phonetic": "[ra nd]",
         "meaning": "adv. 兜着圈子、在附近、到处；prep. 包围、在...周围、四处",
         "app_sentences": [
           {

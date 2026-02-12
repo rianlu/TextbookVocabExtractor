@@ -6,7 +6,7 @@
     "data": [
       {
         "text": "ready",
-        "phonetic": "['redi]",
+        "phonetic": "[ˈredi]",
         "meaning": "vt. 使准备好；n. 预备好的状态、现款；adj. 准备好的、备用的、可以使用的",
         "app_sentences": [
           {
@@ -54,7 +54,7 @@
       },
       {
         "text": "geography",
-        "phonetic": "[d3iː'=gr2fi]",
+        "phonetic": "[dʒiˈɒɡrəfi]",
         "meaning": "n. 地理学、地理；地理",
         "app_sentences": [
           {
@@ -76,7 +76,7 @@
       },
       {
         "text": "history",
-        "phonetic": "['h!st2ri]",
+        "phonetic": "[ˈhɪstəri]",
         "meaning": "n. 历史、过去、经历；历史记录",
         "app_sentences": [
           {
@@ -110,7 +110,7 @@
       },
       {
         "text": "jacket",
-        "phonetic": "['d3æk!t]",
+        "phonetic": "[ˈdʒækɪt]",
         "meaning": "vt. 给...穿夹克、给...装护套；n. 夹克、外套、护套",
         "app_sentences": [
           {
@@ -140,7 +140,7 @@
       },
       {
         "text": "T-shirt",
-        "phonetic": "['tiː ;1^ːt]",
+        "phonetic": "[ˈtiː ʃɜːt]",
         "meaning": "n. 圆领汗衫、T恤",
         "app_sentences": [
           {
@@ -236,7 +236,7 @@
       },
       {
         "text": "lab",
-        "phonetic": "",
+        "phonetic": "[læb]",
         "meaning": "n. 实验室、研究室；凝乳酶",
         "app_sentences": [
           {
@@ -247,7 +247,7 @@
       },
       {
         "text": "start",
-        "phonetic": "[st4ːt]",
+        "phonetic": "[stɑːt]",
         "meaning": "vt. 使惊起、开动、发动；vi. 开始、出发、启动；n. 惊起、出发、开端",
         "app_sentences": [
           {
@@ -269,7 +269,7 @@
       },
       {
         "text": "everyone",
-        "phonetic": "['evriw7n]",
+        "phonetic": "[ˈevriwʌn]",
         "meaning": "pron. 每个人、人人；系统中的一个组名",
         "app_sentences": [
           {
@@ -325,7 +325,7 @@
       },
       {
         "text": "yourself",
-        "phonetic": "[j2'self]",
+        "phonetic": "[jɔːˈself]",
         "meaning": "pron. 你自己",
         "app_sentences": [
           {
@@ -385,7 +385,7 @@
       },
       {
         "text": "join",
-        "phonetic": "[d30!n]",
+        "phonetic": "[dʒɔɪn]",
         "meaning": "vt. 连接、结合、参加；vi. 参加、结合、加入；n. 连接、结合、接合点",
         "app_sentences": [
           {
@@ -569,7 +569,7 @@
       },
       {
         "text": "remember",
-        "phonetic": "[r!'memb2]",
+        "phonetic": "[rɪˈmembə]",
         "meaning": "vt. 记得、回忆起、记住；vi. 记得",
         "app_sentences": [
           {
@@ -580,7 +580,7 @@
       },
       {
         "text": "really",
-        "phonetic": "['r!2li]",
+        "phonetic": "[ˈrɪəli]",
         "meaning": "adv. 实际上、真实地、实在",
         "app_sentences": [
           {
@@ -591,7 +591,7 @@
       },
       {
         "text": "important",
-        "phonetic": "[!m'p0ːtnt]",
+        "phonetic": "[ɪmˈpɔːtənt]",
         "meaning": "adj. 重要的、有地位的、大量的；要点",
         "app_sentences": [
           {
@@ -884,7 +884,7 @@
       },
       {
         "text": "electric",
-        "phonetic": "[!'lektr!k]",
+        "phonetic": "[ɪˈlektrɪk]",
         "meaning": "adj. 电的、导电的、电动的；电的",
         "app_sentences": [
           {
@@ -944,7 +944,7 @@
       },
       {
         "text": "different",
-        "phonetic": "['d!fr2nt]",
+        "phonetic": "[ˈdɪfərənt]",
         "meaning": "adj. 不同的；差动、微分的、差速器",
         "app_sentences": [
           {
@@ -1000,7 +1000,7 @@
       },
       {
         "text": "festival",
-        "phonetic": "['fest!vl]",
+        "phonetic": "[ˈfestəvəl]",
         "meaning": "n. 节日、庆祝、欢宴；adj. 节日的、喜庆的、快乐的",
         "app_sentences": [
           {
@@ -1112,7 +1112,7 @@
       },
       {
         "text": "enjoy",
-        "phonetic": "[!n'd30!]",
+        "phonetic": "[ɪnˈdʒɔɪ]",
         "meaning": "vt. 享受、喜欢、欣赏；享受、享有、获得某种利益",
         "app_sentences": [
           {
@@ -1164,7 +1164,7 @@
       },
       {
         "text": "traditional",
-        "phonetic": "[tr2'd!1n2l]",
+        "phonetic": "[trəˈdɪʃənəl]",
         "meaning": "adj. 传统的、惯例的；传统的、惯例的",
         "app_sentences": [
           {
@@ -1576,7 +1576,7 @@
       },
       {
         "text": "postman",
-        "phonetic": "['p2%stm2n]",
+        "phonetic": "[ˈpəʊstmən]",
         "meaning": "n. 邮递员；邮递员、理财法庭的高级律师",
         "app_sentences": [
           {
@@ -1602,7 +1602,7 @@
       },
       {
         "text": "son",
-        "phonetic": "[s7n]",
+        "phonetic": "[sʌn]",
         "meaning": "n. 儿子、女婿、子孙；儿子、女婿、养子",
         "app_sentences": [
           {
@@ -1613,7 +1613,7 @@
       },
       {
         "text": "serve",
-        "phonetic": "[s^ːv]",
+        "phonetic": "[sɜːv]",
         "meaning": "v. 当仆人、服务、服役；vt. 可作...用、服务、经历；vi. 服务、服役、侍应",
         "app_sentences": [
           {
@@ -1639,7 +1639,7 @@
       },
       {
         "text": "absent",
-        "phonetic": "['æbs2nt]",
+        "phonetic": "[ˈæbsənt]",
         "meaning": "vt. 使缺席；adj. 缺席的、不在的、缺乏的",
         "app_sentences": [
           {
@@ -1654,7 +1654,7 @@
       },
       {
         "text": "seldom",
-        "phonetic": "['seld2m]",
+        "phonetic": "[ˈseldəm]",
         "meaning": "adj. 不常的、稀少的；adv. 很少、不常",
         "app_sentences": [
           {
@@ -1899,7 +1899,7 @@
       },
       {
         "text": "stay",
-        "phonetic": "[ste!]",
+        "phonetic": "[steɪ]",
         "meaning": "vt. 制止、延缓、坚持；vi. 停留、逗留、暂停；n. 停留、逗留、制止",
         "app_sentences": [
           {
@@ -2086,7 +2086,7 @@
       },
       {
         "text": "dumpling",
-        "phonetic": "['d7mpl!9]",
+        "phonetic": "[ˈdʌmplɪŋ]",
         "meaning": "n. 面团布丁、团子",
         "app_sentences": [
           {
@@ -2123,7 +2123,7 @@
       },
       {
         "text": "hang",
-        "phonetic": "[hæ9]",
+        "phonetic": "[hæŋ]",
         "meaning": "vt. 悬挂、附着、装饰；vi. 悬着、垂下、被绞死；n. 悬挂、诀窍、意义",
         "app_sentences": [
           {
@@ -2138,7 +2138,7 @@
       },
       {
         "text": "balloon",
-        "phonetic": "[b2'luːn]",
+        "phonetic": "[bəˈluːn]",
         "meaning": "vt. 使成气球状；vi. 膨胀如气球、激增；n. 气球",
         "app_sentences": [
           {
@@ -2153,7 +2153,7 @@
       },
       {
         "text": "lantern",
-        "phonetic": "['l*nt2n]",
+        "phonetic": "[ˈlæntən]",
         "meaning": "vt. 装上提灯；n. 灯笼、提灯、航标灯",
         "app_sentences": [
           {
@@ -2290,7 +2290,7 @@
       },
       {
         "text": "knife",
-        "phonetic": "[na!f]",
+        "phonetic": "[naɪf]",
         "meaning": "vt. 切割、伤害、切；vi. 劈开、穿过；n. 小刀、匕首",
         "app_sentences": [
           {
@@ -2339,7 +2339,7 @@
       },
       {
         "text": "Christmas",
-        "phonetic": "['kr!sm2s]",
+        "phonetic": "[ˈkrɪsməs]",
         "meaning": "n. 圣诞节",
         "app_sentences": [
           {
@@ -2414,7 +2414,7 @@
       },
       {
         "text": "celebrate",
-        "phonetic": "['sel2;bre!t]",
+        "phonetic": "[ˈseləbreɪt]",
         "meaning": "v. 庆祝、祝贺、举行",
         "app_sentences": [
           {
@@ -2462,7 +2462,7 @@
       },
       {
         "text": "usually",
-        "phonetic": "['juː3%2li]",
+        "phonetic": "[ˈjuːʒuəli]",
         "meaning": "adv. 通常、大抵",
         "app_sentences": [
           {
@@ -2473,7 +2473,7 @@
       },
       {
         "text": "break",
-        "phonetic": "[bre!k]",
+        "phonetic": "[breɪk]",
         "meaning": "vt. 打破、弄破、弄坏；vi. 破碎、决裂、破晓；n. 休息、中断、破裂处",
         "app_sentences": [
           {
@@ -2651,7 +2651,7 @@
       },
       {
         "text": "quarter",
-        "phonetic": "['kw0ːt2]",
+        "phonetic": "[ˈkwɔːtə]",
         "meaning": "vt. 四等分、肢解；vi. 驻扎、住宿；n. 四分之一、一刻钟、季度",
         "app_sentences": [
           {
@@ -2677,7 +2677,7 @@
       },
       {
         "text": "leaf",
-        "phonetic": "",
+        "phonetic": "[liːf]",
         "meaning": "vt. 在...上长叶、翻...的页；vi. 生叶、翻书页；n. 叶、树叶、花瓣",
         "app_sentences": [
           {
@@ -2796,7 +2796,7 @@
       },
       {
         "text": "sugar",
-        "phonetic": "['1%g2]",
+        "phonetic": "[ˈʃʊɡə]",
         "meaning": "vt. 加糖于、使甜蜜、粉饰；vi. 制成糖；n. 糖、糖块、甜言蜜语",
         "app_sentences": [
           {
@@ -3023,7 +3023,7 @@
       },
       {
         "text": "rose",
-        "phonetic": "[r2%z]",
+        "phonetic": "[rəʊz]",
         "meaning": "vt. 使成玫瑰色；n. 玫瑰、蔷薇、玫瑰色；adj. 玫瑰色的、玫瑰花的",
         "app_sentences": [
           {
@@ -3049,7 +3049,7 @@
       },
       {
         "text": "bamboo",
-        "phonetic": "[;b*m'buː]",
+        "phonetic": "[ˌbæmˈbuː]",
         "meaning": "n. 竹子；竹类",
         "app_sentences": [
           {
@@ -3124,7 +3124,7 @@
       },
       {
         "text": "coffee",
-        "phonetic": "['k=fi]",
+        "phonetic": "[ˈkɒfi]",
         "meaning": "n. 咖啡、咖啡色；咖啡、咖啡豆",
         "app_sentences": [
           {
@@ -3139,7 +3139,7 @@
       },
       {
         "text": "secret",
-        "phonetic": "['siːkr2t]",
+        "phonetic": "[ˈsiːkrɪt]",
         "meaning": "n. 秘密、机密、秘诀；adj. 秘密的、极机密的、隐蔽的",
         "app_sentences": [
           {
@@ -3150,7 +3150,7 @@
       },
       {
         "text": "husband",
-        "phonetic": "['h7zb2nd]",
+        "phonetic": "[ˈhʌzbənd]",
         "meaning": "vt. 节俭、使成丈夫、持有；n. 丈夫、管理人、节俭的人",
         "app_sentences": [
           {
@@ -3176,7 +3176,7 @@
       },
       {
         "text": "weekend",
-        "phonetic": "[;wiːk'end]",
+        "phonetic": "[ˌwiːkˈend]",
         "meaning": "n. 周末、周末休假",
         "app_sentences": [
           {
@@ -3231,7 +3231,7 @@
       },
       {
         "text": "connect",
-        "phonetic": "[k2'nekt]",
+        "phonetic": "[kəˈnekt]",
         "meaning": "v. 连接、联合、联系",
         "app_sentences": [
           {

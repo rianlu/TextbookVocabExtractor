@@ -120,6 +120,7 @@ class EnhancedLookup:
                 self.incomplete_words.append(f"{word}: {', '.join(reasons)}")
 
             result[word] = {
+                "phonetic": entry.get("phonetic", ""),
                 "meanings": entry.get("meanings", []),
                 "all_pos": sorted(list(all_pos)),
                 "tag": entry.get("tag", "")

@@ -5,6 +5,12 @@ import json
 import glob
 from typing import List, Dict
 
+def is_noisy_phonetic(phonetic: str) -> bool:
+    if not phonetic:
+        return False
+    # Typical PDF font-decoding noise characters
+    return bool(re.search(r"[0-9=!$%*#\u0400-\u04FF]", phonetic))
+
 class PDFExtractor:
     def __init__(self, pdf_path: str):
         self.pdf_path = pdf_path
@@ -236,7 +242,25 @@ def main():
         
         mapping, phonetics = extractor.extract_words()
         all_unit_mappings[book_name] = mapping
-        all_word_phonetics.update(phonetics)
+        # Merge global phonetics with quality preference instead of blind override.
+        for w, new_p in phonetics.items():
+            old_p = all_word_phonetics.get(w, "")
+            if not old_p:
+                all_word_phonetics[w] = new_p
+                continue
+            if old_p and not new_p:
+                continue
+            if not old_p and new_p:
+                all_word_phonetics[w] = new_p
+                continue
+
+            old_noisy = is_noisy_phonetic(old_p)
+            new_noisy = is_noisy_phonetic(new_p)
+            if old_noisy and not new_noisy:
+                all_word_phonetics[w] = new_p
+            elif old_noisy == new_noisy:
+                # Keep first seen when quality is similar.
+                pass
         
         for words in mapping.values():
             global_words.update(words)

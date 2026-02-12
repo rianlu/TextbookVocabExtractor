@@ -39,8 +39,34 @@ def get_target_filename(grade, semester):
     semester_str = {1: "上", 2: "下"}[semester]
     return f"外研版初中英语{grade_str}年级{semester_str}册.json"
 
-def format_phonetic(word, pdf_phonetics):
-    phonetic = pdf_phonetics.get(word, "").strip()
+def is_noisy_pdf_phonetic(phonetic):
+    if not phonetic:
+        return False
+    # Typical garbled extraction from some PDFs contains symbols like !, 2, =, etc.
+    # Also treat Cyrillic chars as noise (common from bad font decoding, e.g. "ә").
+    return bool(re.search(r"[0-9=!$%*#\u0400-\u04FF]", phonetic))
+
+def select_best_pdf_phonetic(book_phonetic, global_phonetic):
+    b = (book_phonetic or "").strip()
+    g = (global_phonetic or "").strip()
+    if not b and not g:
+        return ""
+    if b and g:
+        b_noisy = is_noisy_pdf_phonetic(b)
+        g_noisy = is_noisy_pdf_phonetic(g)
+        if b_noisy and not g_noisy:
+            return g
+        if g_noisy and not b_noisy:
+            return b
+        # Both clean or both noisy: keep book-level to preserve textbook consistency.
+        return b
+    return b or g
+
+def format_phonetic(word, book_pdf_phonetics, global_pdf_phonetics):
+    phonetic = select_best_pdf_phonetic(
+        book_pdf_phonetics.get(word, ""),
+        global_pdf_phonetics.get(word, "")
+    )
     if phonetic:
         return f"[{phonetic}]"
     return ""
@@ -177,7 +203,7 @@ def merge():
     with open(ecdict_data_path, "r", encoding="utf-8") as f:
         ecdict_data = json.load(f)
     with open(phonetics_path, "r", encoding="utf-8") as f:
-        pdf_phonetics = json.load(f)
+        global_pdf_phonetics = json.load(f)
         
     ai_data = {}
     if os.path.exists(ai_data_path):
@@ -201,6 +227,11 @@ def merge():
         grade, semester = parse_filename_info(book_name)
         book_counter = Counter()
         skipped_samples = []
+        book_phonetics = {}
+        book_phonetics_path = os.path.join("output", "教材分类", book_name, "word_phonetics.json")
+        if os.path.exists(book_phonetics_path):
+            with open(book_phonetics_path, "r", encoding="utf-8") as f:
+                book_phonetics = json.load(f)
         
         final_book_data = []
         for unit_name, words in units.items():
@@ -211,7 +242,11 @@ def merge():
                 ad = ai_data.get(word, {})
                 
                 meaning = format_merged_meaning(ed)
-                phonetic = format_phonetic(word, pdf_phonetics)
+                phonetic = format_phonetic(
+                    word,
+                    book_phonetics,
+                    global_pdf_phonetics
+                )
                 
                 app_sentences = ad.get("app_sentences", [{"en": f"Example sentence for {word}.", "cn": "暂无例句。"}])
                 word_entry = {

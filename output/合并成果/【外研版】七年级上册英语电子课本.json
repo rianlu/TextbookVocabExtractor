@@ -6,7 +6,7 @@
     "data": [
       {
         "text": "from",
-        "phonetic": "[fr=m；fr2m]",
+        "phonetic": "[；]",
         "meaning": "prep. 从、来自、根据",
         "app_sentences": [
           {
@@ -120,7 +120,7 @@
       },
       {
         "text": "American",
-        "phonetic": "[2'mer!k2n]",
+        "phonetic": "[əˈmerɪkən]",
         "meaning": "n. 美国人；adj. 美国的、美洲的",
         "app_sentences": [
           {
@@ -179,7 +179,7 @@
       },
       {
         "text": "everyone",
-        "phonetic": "['evriw7n]",
+        "phonetic": "[ˈevriwʌn]",
         "meaning": "pron. 每个人、人人；系统中的一个组名",
         "app_sentences": [
           {
@@ -286,7 +286,7 @@
       },
       {
         "text": "last",
-        "phonetic": "[l4ːst]",
+        "phonetic": "[ː]",
         "meaning": "vt. 使维持、够...用；vi. 持续、支持、维持；n. 最后、末尾、鞋楦头",
         "app_sentences": [
           {
@@ -489,7 +489,7 @@
       },
       {
         "text": "son",
-        "phonetic": "[s7n]",
+        "phonetic": "[sʌn]",
         "meaning": "n. 儿子、女婿、子孙；儿子、女婿、养子",
         "app_sentences": [
           {
@@ -654,7 +654,7 @@
       },
       {
         "text": "husband",
-        "phonetic": "['h7zb2nd]",
+        "phonetic": "[ˈhʌzbənd]",
         "meaning": "vt. 节俭、使成丈夫、持有；n. 丈夫、管理人、节俭的人",
         "app_sentences": [
           {
@@ -731,7 +731,7 @@
       },
       {
         "text": "hotel",
-        "phonetic": "[h2%'tel]",
+        "phonetic": "[həʊˈtel]",
         "meaning": "n. 旅馆、客栈",
         "app_sentences": [
           {
@@ -860,7 +860,7 @@
       },
       {
         "text": "at",
-        "phonetic": "[*t；2t]",
+        "phonetic": "[Qt;]",
         "meaning": "prep. 在、向、对；地址转换器、异常传输、自动订票",
         "app_sentences": [
           {
@@ -871,7 +871,7 @@
       },
       {
         "text": "same",
-        "phonetic": "[se!m]",
+        "phonetic": "[seɪm]",
         "meaning": "adj. 相同的、同样的；adv. 同样地；pron. 相同的人(或事物)",
         "app_sentences": [
           {
@@ -1113,7 +1113,7 @@
       },
       {
         "text": "really",
-        "phonetic": "['r!2li]",
+        "phonetic": "[ˈrɪəli]",
         "meaning": "adv. 实际上、真实地、实在",
         "app_sentences": [
           {
@@ -1282,7 +1282,7 @@
       },
       {
         "text": "office",
-        "phonetic": "['=f!s]",
+        "phonetic": "[ˈɒfɪs]",
         "meaning": "n. 办公室、部、公职；办公室",
         "app_sentences": [
           {
@@ -1315,7 +1315,7 @@
       },
       {
         "text": "lab",
-        "phonetic": "",
+        "phonetic": "[læb]",
         "meaning": "n. 实验室、研究室；凝乳酶",
         "app_sentences": [
           {
@@ -1348,7 +1348,7 @@
       },
       {
         "text": "middle",
-        "phonetic": "['m!dl]",
+        "phonetic": "[mIdl]",
         "meaning": "n. 中央、中间、腰部；adj. 中央的、中庸的、中间的",
         "app_sentences": [
           {
@@ -1529,7 +1529,7 @@
       },
       {
         "text": "carrot",
-        "phonetic": "['k*r2t]",
+        "phonetic": "[ˈkærət]",
         "meaning": "n. 胡萝卜；胡萝卜",
         "app_sentences": [
           {
@@ -1555,7 +1555,7 @@
       },
       {
         "text": "chocolate",
-        "phonetic": "['t1=kl2t]",
+        "phonetic": "[ˈtʃɒklət]",
         "meaning": "n. 巧克力；adj. 巧克力制的",
         "app_sentences": [
           {
@@ -1570,7 +1570,7 @@
       },
       {
         "text": "coffee",
-        "phonetic": "['k=fi]",
+        "phonetic": "[ˈkɒfi]",
         "meaning": "n. 咖啡、咖啡色；咖啡、咖啡豆",
         "app_sentences": [
           {
@@ -1835,7 +1835,7 @@
       },
       {
         "text": "delicious",
-        "phonetic": "[d!'l!12s]",
+        "phonetic": "[dɪˈlɪʃəs]",
         "meaning": "adj. 美味的",
         "app_sentences": [
           {
@@ -1868,7 +1868,7 @@
       },
       {
         "text": "hamburger",
-        "phonetic": "['h*m;b^ːg2]",
+        "phonetic": "[ˈhæmbɜːɡə]",
         "meaning": "n. 汉堡(德国港口)、肉饼、汉堡包",
         "app_sentences": [
           {
@@ -1912,7 +1912,7 @@
       },
       {
         "text": "sugar",
-        "phonetic": "['1%g2]",
+        "phonetic": "[ˈʃʊɡə]",
         "meaning": "vt. 加糖于、使甜蜜、粉饰；vi. 制成糖；n. 糖、糖块、甜言蜜语",
         "app_sentences": [
           {
@@ -2085,7 +2085,7 @@
       },
       {
         "text": "important",
-        "phonetic": "[!m'p0ːtnt]",
+        "phonetic": "[ɪmˈpɔːtənt]",
         "meaning": "adj. 重要的、有地位的、大量的；要点",
         "app_sentences": [
           {
@@ -2100,7 +2100,7 @@
       },
       {
         "text": "remember",
-        "phonetic": "[r!'memb2]",
+        "phonetic": "[rɪˈmembə]",
         "meaning": "vt. 记得、回忆起、记住；vi. 记得",
         "app_sentences": [
           {
@@ -2130,7 +2130,7 @@
       },
       {
         "text": "stay",
-        "phonetic": "[ste!]",
+        "phonetic": "[steɪ]",
         "meaning": "vt. 制止、延缓、坚持；vi. 停留、逗留、暂停；n. 停留、逗留、制止",
         "app_sentences": [
           {
@@ -2145,7 +2145,7 @@
       },
       {
         "text": "fat",
-        "phonetic": "[f*t]",
+        "phonetic": "[fæt]",
         "meaning": "n. 脂肪、脂油、肥肉；adj. 肥的、胖的、油腻的；文件分配表",
         "app_sentences": [
           {
@@ -2285,7 +2285,7 @@
       },
       {
         "text": "past",
-        "phonetic": "[p4ːst]",
+        "phonetic": "[ː]",
         "meaning": "n. 过去、昔时、往事；adj. 过去的、结束的、卸任的；prep. 越过、晚于、超越",
         "app_sentences": [
           {
@@ -2329,7 +2329,7 @@
       },
       {
         "text": "geography",
-        "phonetic": "[d3iː'=gr2fi]",
+        "phonetic": "[dʒiˈɒɡrəfi]",
         "meaning": "n. 地理学、地理；地理",
         "app_sentences": [
           {
@@ -2340,7 +2340,7 @@
       },
       {
         "text": "history",
-        "phonetic": "['h!st2ri]",
+        "phonetic": "[ˈhɪstəri]",
         "meaning": "n. 历史、过去、经历；历史记录",
         "app_sentences": [
           {
@@ -2399,7 +2399,7 @@
       },
       {
         "text": "then",
-        "phonetic": "[6en]",
+        "phonetic": "[ðen]",
         "meaning": "n. 那时；adv. 然后、当时；conj. 然后、当时",
         "app_sentences": [
           {
@@ -2429,7 +2429,7 @@
       },
       {
         "text": "difficult",
-        "phonetic": "['d!f!klt]",
+        "phonetic": "[dfklt]",
         "meaning": "adj. 困难的",
         "app_sentences": [
           {
@@ -2584,7 +2584,7 @@
       },
       {
         "text": "start",
-        "phonetic": "[st4ːt]",
+        "phonetic": "[ː]",
         "meaning": "vt. 使惊起、开动、发动；vi. 开始、出发、启动；n. 惊起、出发、开端",
         "app_sentences": [
           {
@@ -2606,7 +2606,7 @@
       },
       {
         "text": "break",
-        "phonetic": "[bre!k]",
+        "phonetic": "[breɪk]",
         "meaning": "vt. 打破、弄破、弄坏；vi. 破碎、决裂、破晓；n. 休息、中断、破裂处",
         "app_sentences": [
           {
@@ -3043,7 +3043,7 @@
       },
       {
         "text": "guide",
-        "phonetic": "[ga!d]",
+        "phonetic": "[ɡaɪd]",
         "meaning": "vt. 指导、支配、管理；vi. 任向导；n. 引导者、导游、指南",
         "app_sentences": [
           {
@@ -3076,7 +3076,7 @@
       },
       {
         "text": "as",
-        "phonetic": "[*z；2z]",
+        "phonetic": "[əz]",
         "meaning": "adv. 同样地、例如；prep. 做为、当作；conj. 当...之时、以...的方式、像...一样",
         "app_sentences": [
           {
@@ -3128,7 +3128,7 @@
       },
       {
         "text": "different",
-        "phonetic": "['d!fr2nt]",
+        "phonetic": "[ˈdɪfərənt]",
         "meaning": "adj. 不同的；差动、微分的、差速器",
         "app_sentences": [
           {
@@ -3147,7 +3147,7 @@
       },
       {
         "text": "country",
-        "phonetic": "['k7ntri]",
+        "phonetic": "[knt]",
         "meaning": "n. 国家、乡村、地区；adj. 乡下的、农村的；DOS外部命令:用于设定国家代码、包括日期时间及货币格式",
         "app_sentences": [
           {
@@ -3158,7 +3158,7 @@
       },
       {
         "text": "other",
-        "phonetic": "['762]",
+        "phonetic": "[ˈʌðə]",
         "meaning": "adj. 其他的、另外的、从前的；pron. 其他的、他人、另外一个",
         "app_sentences": [
           {
@@ -3169,7 +3169,7 @@
       },
       {
         "text": "dangerous",
-        "phonetic": "['de!nd32r2s]",
+        "phonetic": "[ˈdeɪndʒərəs]",
         "meaning": "adj. 危险的；危险的、危害的",
         "app_sentences": [
           {
@@ -3217,7 +3217,7 @@
       },
       {
         "text": "look",
-        "phonetic": "[l%k]",
+        "phonetic": "[k]",
         "meaning": "vt. 打量、看上去与...一样、以眼色(或脸色)显示；vi. 看、注意、朝着；n. 一看、神色、样子",
         "app_sentences": [
           {
@@ -3250,7 +3250,7 @@
       },
       {
         "text": "sure",
-        "phonetic": "[1%2]",
+        "phonetic": "[ː；]",
         "meaning": "adj. 确信、必然的、必定的；adv. 当然、确实地、无疑地",
         "app_sentences": [
           {
@@ -3261,7 +3261,7 @@
       },
       {
         "text": "bamboo",
-        "phonetic": "[;b*m'buː]",
+        "phonetic": "[ˌbæmˈbuː]",
         "meaning": "n. 竹子；竹类",
         "app_sentences": [
           {
@@ -3287,7 +3287,7 @@
       },
       {
         "text": "shall",
-        "phonetic": "[1*l；1el]",
+        "phonetic": "[ʃəl]",
         "meaning": "v. 将、会；aux. 将",
         "app_sentences": [
           {
@@ -3353,7 +3353,7 @@
       },
       {
         "text": "funny",
-        "phonetic": "['f7ni]",
+        "phonetic": "[ˈfʌni]",
         "meaning": "n. 滑稽人物；adj. 好笑的、有趣的、滑稽的",
         "app_sentences": [
           {
@@ -3430,7 +3430,7 @@
       },
       {
         "text": "only",
-        "phonetic": "['2%nli]",
+        "phonetic": "[ˈəʊnli]",
         "meaning": "adj. 唯一的、仅有的、最佳的；adv. 只有、仅仅、只能；conj. 但是、不过",
         "app_sentences": [
           {
@@ -3507,7 +3507,7 @@
       },
       {
         "text": "leaf",
-        "phonetic": "",
+        "phonetic": "[liːf]",
         "meaning": "vt. 在...上长叶、翻...的页；vi. 生叶、翻书页；n. 叶、树叶、花瓣",
         "app_sentences": [
           {
@@ -3533,7 +3533,7 @@
       },
       {
         "text": "large",
-        "phonetic": "[l4ːd3]",
+        "phonetic": "[lɑːdʒ]",
         "meaning": "adj. 大的、大量的、宽大的；adv. 大大地、夸大地",
         "app_sentences": [
           {
@@ -3544,7 +3544,7 @@
       },
       {
         "text": "usually",
-        "phonetic": "['juː3%2li]",
+        "phonetic": "[ˈjuːʒuəli]",
         "meaning": "adv. 通常、大抵",
         "app_sentences": [
           {
@@ -3555,7 +3555,7 @@
       },
       {
         "text": "alone",
-        "phonetic": "[2'l2%n]",
+        "phonetic": "[əˈləʊn]",
         "meaning": "adj. 孤独的、单独的、独自的；adv. 独自地",
         "app_sentences": [
           {
@@ -3665,7 +3665,7 @@
       },
       {
         "text": "connect",
-        "phonetic": "[k2'nekt]",
+        "phonetic": "[kəˈnekt]",
         "meaning": "v. 连接、联合、联系",
         "app_sentences": [
           {
@@ -3772,7 +3772,7 @@
       },
       {
         "text": "finally",
-        "phonetic": "['fa!n2li]",
+        "phonetic": "[ˈfaɪnəl-i]",
         "meaning": "adv. 最后、终于",
         "app_sentences": [
           {
@@ -3849,7 +3849,7 @@
       },
       {
         "text": "customer",
-        "phonetic": "['k7st2m2]",
+        "phonetic": "[ˈkʌstəmə]",
         "meaning": "n. 消费者；顾客",
         "app_sentences": [
           {
@@ -4144,7 +4144,7 @@
       },
       {
         "text": "would",
-        "phonetic": "[w%d]",
+        "phonetic": "[wʊd]",
         "meaning": "v. will的过去式、将、愿意；aux. 将、愿意",
         "app_sentences": [
           {
@@ -4199,7 +4199,7 @@
       },
       {
         "text": "special",
-        "phonetic": "['spe1l]",
+        "phonetic": "[ˈspeʃəl]",
         "meaning": "n. 专辑、专车、号外；adj. 特别的、专门的、特殊的",
         "app_sentences": [
           {
@@ -4254,7 +4254,7 @@
       },
       {
         "text": "secret",
-        "phonetic": "['siːkr2t]",
+        "phonetic": "[ˈsiːkrɪt]",
         "meaning": "n. 秘密、机密、秘诀；adj. 秘密的、极机密的、隐蔽的",
         "app_sentences": [
           {
@@ -4298,7 +4298,7 @@
       },
       {
         "text": "magazine",
-        "phonetic": "[;m*g2'ziːn]",
+        "phonetic": "[ˌmæɡəˈziːn]",
         "meaning": "n. 杂志、仓库、弹盒；卡片箱、介质装卸程序",
         "app_sentences": [
           {
@@ -4342,7 +4342,7 @@
       },
       {
         "text": "T-shirt",
-        "phonetic": "['tiː ;1^ːt]",
+        "phonetic": "[ˈtiː ʃɜːt]",
         "meaning": "n. 圆领汗衫、T恤",
         "app_sentences": [
           {
@@ -4353,7 +4353,7 @@
       },
       {
         "text": "choose",
-        "phonetic": "[t1uːz]",
+        "phonetic": "[tʃuːz]",
         "meaning": "v. 选择、选定；vt. 选择、宁愿、欲；vi. 作出选择、愿意",
         "app_sentences": [
           {
@@ -4570,7 +4570,7 @@
     "data": [
       {
         "text": "postcard",
-        "phonetic": "['p2%st;k4ːd]",
+        "phonetic": "[ˈpəʊstkɑːd]",
         "meaning": "n. 明信片",
         "app_sentences": [
           {
@@ -4592,7 +4592,7 @@
       },
       {
         "text": "lie",
-        "phonetic": "[la!]",
+        "phonetic": "[laɪ]",
         "meaning": "vt. 谎骗；vi. 躺着、说谎、位于；n. 谎言、假象、位置",
         "app_sentences": [
           {
@@ -4618,7 +4618,7 @@
       },
       {
         "text": "line",
-        "phonetic": "[la!n]",
+        "phonetic": "[laɪn]",
         "meaning": "vt. 排成一行、顺...排列、划线于；vi. 排队；n. 列、线、绳",
         "app_sentences": [
           {
@@ -4685,7 +4685,7 @@
       },
       {
         "text": "walk",
-        "phonetic": "[w0ːk]",
+        "phonetic": "[ːk]",
         "meaning": "vt. 走过、遛、使走；vi. 走路、步行、处世；n. 走、散步、步行",
         "app_sentences": [
           {
@@ -4696,7 +4696,7 @@
       },
       {
         "text": "trip",
-        "phonetic": "[tr!p]",
+        "phonetic": "[trɪp]",
         "meaning": "vt. 使跌倒、使犯错、使失败；vi. 轻快地走、绊倒、失误；n. 旅行、绊倒、摔倒",
         "app_sentences": [
           {
@@ -4755,7 +4755,7 @@
       },
       {
         "text": "enjoy",
-        "phonetic": "[!n'd30!]",
+        "phonetic": "[ɪnˈdʒɔɪ]",
         "meaning": "vt. 享受、喜欢、欣赏；享受、享有、获得某种利益",
         "app_sentences": [
           {
@@ -4866,7 +4866,7 @@
       },
       {
         "text": "restaurant",
-        "phonetic": "['rest2r=nt]",
+        "phonetic": "[ˈrestərɒnt]",
         "meaning": "n. 餐馆、饭店",
         "app_sentences": [
           {
@@ -4877,7 +4877,7 @@
       },
       {
         "text": "moment",
-        "phonetic": "['m2%m2nt]",
+        "phonetic": "[ˈməʊmənt]",
         "meaning": "n. 片刻、瞬间、重要；adj. 片刻的、瞬间的、力矩的n.瞬间；片刻、瞬间、时机",
         "app_sentences": [
           {
@@ -4914,7 +4914,7 @@
       },
       {
         "text": "most",
-        "phonetic": "[m2%st]",
+        "phonetic": "[məʊst]",
         "meaning": "n. 最多、最大；adj. 大多数的、几乎全部的、最多的；adv. 最、最多、极其",
         "app_sentences": [
           {
@@ -4925,7 +4925,7 @@
       },
       {
         "text": "still",
-        "phonetic": "[st!l]",
+        "phonetic": "[stɪl]",
         "meaning": "v. 蒸馏、(使)平静、(使)静止；n. 蒸馏室、寂静、剧照；adj. 静止的、不动的、静寂的",
         "app_sentences": [
           {
@@ -4980,7 +4980,7 @@
     "data": [
       {
         "text": "lantern",
-        "phonetic": "['l*nt2n]",
+        "phonetic": "[ˈlæntən]",
         "meaning": "vt. 装上提灯；n. 灯笼、提灯、航标灯",
         "app_sentences": [
           {
@@ -4991,7 +4991,7 @@
       },
       {
         "text": "dragon",
-        "phonetic": "['dr*g2n]",
+        "phonetic": "[ˈdræɡən]",
         "meaning": "n. 龙、凶暴的人；凶恶的人、凶恶严厉的监护人",
         "app_sentences": [
           {
@@ -5087,7 +5087,7 @@
       },
       {
         "text": "happen",
-        "phonetic": "['h*p2n]",
+        "phonetic": "[ˈhæpən]",
         "meaning": "vi. 发生、恰巧",
         "app_sentences": [
           {
@@ -5120,7 +5120,7 @@
       },
       {
         "text": "festival",
-        "phonetic": "['fest!vl]",
+        "phonetic": "[ˈfestəvəl]",
         "meaning": "n. 节日、庆祝、欢宴；adj. 节日的、喜庆的、快乐的",
         "app_sentences": [
           {
@@ -5153,7 +5153,7 @@
       },
       {
         "text": "beautiful",
-        "phonetic": "['bjuːt2fl]",
+        "phonetic": "[bjːfl]",
         "meaning": "adj. 美丽的",
         "app_sentences": [
           {
@@ -5208,7 +5208,7 @@
       },
       {
         "text": "join",
-        "phonetic": "[d30!n]",
+        "phonetic": "[dʒɔɪn]",
         "meaning": "vt. 连接、结合、参加；vi. 参加、结合、加入；n. 连接、结合、接合点",
         "app_sentences": [
           {
@@ -5245,7 +5245,7 @@
       },
       {
         "text": "Christmas",
-        "phonetic": "['kr!sm2s]",
+        "phonetic": "[ˈkrɪsməs]",
         "meaning": "n. 圣诞节",
         "app_sentences": [
           {
@@ -5326,7 +5326,7 @@
       },
       {
         "text": "celebrate",
-        "phonetic": "['sel2;bre!t]",
+        "phonetic": "[ˈseləbreɪt]",
         "meaning": "v. 庆祝、祝贺、举行",
         "app_sentences": [
           {
@@ -5337,7 +5337,7 @@
       },
       {
         "text": "traditional",
-        "phonetic": "[tr2'd!1n2l]",
+        "phonetic": "[trəˈdɪʃənəl]",
         "meaning": "adj. 传统的、惯例的；传统的、惯例的",
         "app_sentences": [
           {
@@ -5348,7 +5348,7 @@
       },
       {
         "text": "dumpling",
-        "phonetic": "['d7mpl!9]",
+        "phonetic": "[ˈdʌmplɪŋ]",
         "meaning": "n. 面团布丁、团子",
         "app_sentences": [
           {

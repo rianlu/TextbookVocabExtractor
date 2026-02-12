@@ -131,7 +131,7 @@
       },
       {
         "text": "jacket",
-        "phonetic": "['d3æk!t]",
+        "phonetic": "[ˈdʒækɪt]",
         "meaning": "vt. 给...穿夹克、给...装护套；n. 夹克、外套、护套",
         "app_sentences": [
           {
@@ -157,7 +157,7 @@
     "data": [
       {
         "text": "ours",
-        "phonetic": "[a%2z]",
+        "phonetic": "[aʊəz]",
         "meaning": "pron. 我们的",
         "app_sentences": [
           {
@@ -254,7 +254,7 @@
       },
       {
         "text": "absent",
-        "phonetic": "['æbs2nt]",
+        "phonetic": "[ˈæbsənt]",
         "meaning": "vt. 使缺席；adj. 缺席的、不在的、缺乏的",
         "app_sentences": [
           {
@@ -350,7 +350,7 @@
       },
       {
         "text": "seldom",
-        "phonetic": "['seld2m]",
+        "phonetic": "[ˈseldəm]",
         "meaning": "adj. 不常的、稀少的；adv. 很少、不常",
         "app_sentences": [
           {
@@ -424,7 +424,7 @@
       },
       {
         "text": "electric",
-        "phonetic": "[!'lektr!k]",
+        "phonetic": "[ɪˈlektrɪk]",
         "meaning": "adj. 电的、导电的、电动的；电的",
         "app_sentences": [
           {
@@ -439,7 +439,7 @@
       },
       {
         "text": "light",
-        "phonetic": "[la!t]",
+        "phonetic": "[lat]",
         "meaning": "vt. 点燃、照亮；vi. 点着、变亮、突降；n. 光、光亮、灯",
         "app_sentences": [
           {
@@ -461,7 +461,7 @@
       },
       {
         "text": "postman",
-        "phonetic": "['p2%stm2n]",
+        "phonetic": "[ˈpəʊstmən]",
         "meaning": "n. 邮递员；邮递员、理财法庭的高级律师",
         "app_sentences": [
           {
@@ -627,7 +627,7 @@
       },
       {
         "text": "yourself",
-        "phonetic": "[j2'self]",
+        "phonetic": "[jɔːˈself]",
         "meaning": "pron. 你自己",
         "app_sentences": [
           {
@@ -686,7 +686,7 @@
       },
       {
         "text": "rock",
-        "phonetic": "[r=k]",
+        "phonetic": "[rk]",
         "meaning": "vt. 摇摆、摇动、使摇晃；vi. 摇、摇动；n. 岩石、岩礁、石头",
         "app_sentences": [
           {
@@ -708,7 +708,7 @@
       },
       {
         "text": "stone",
-        "phonetic": "[st2%n]",
+        "phonetic": "[stəʊn]",
         "meaning": "vt. 投扔石子、铺石头；n. 石头、宝石、果核；adj. 石的、石制的、完全的",
         "app_sentences": [
           {
@@ -771,7 +771,7 @@
       },
       {
         "text": "fall",
-        "phonetic": "[f0ːl]",
+        "phonetic": "[fɔːl]",
         "meaning": "vi. 倒下、落下、来临；n. 落下、瀑布、采伐量；adj. 秋天的",
         "app_sentences": [
           {
@@ -797,7 +797,7 @@
       },
       {
         "text": "hang",
-        "phonetic": "[hæ9]",
+        "phonetic": "[hæŋ]",
         "meaning": "vt. 悬挂、附着、装饰；vi. 悬着、垂下、被绞死；n. 悬挂、诀窍、意义",
         "app_sentences": [
           {
@@ -834,7 +834,7 @@
       },
       {
         "text": "soft",
-        "phonetic": "[s=ft]",
+        "phonetic": "[sɒft]",
         "meaning": "n. 柔软的东西、笨人、纸币；adj. 软的、温和的、柔和的；adv. 柔软地、温和地",
         "app_sentences": [
           {
@@ -849,7 +849,7 @@
       },
       {
         "text": "still",
-        "phonetic": "[st!l]",
+        "phonetic": "[stɪl]",
         "meaning": "v. 蒸馏、(使)平静、(使)静止；n. 蒸馏室、寂静、剧照；adj. 静止的、不动的、静寂的",
         "app_sentences": [
           {
@@ -864,7 +864,7 @@
       },
       {
         "text": "wood",
-        "phonetic": "[w%d]",
+        "phonetic": "[wʊd]",
         "meaning": "vt. 植林于、给...添加木柴；vi. 收集木材；n. 木材、木制品",
         "app_sentences": [
           {
@@ -982,7 +982,7 @@
       },
       {
         "text": "expect",
-        "phonetic": "[!k'spekt]",
+        "phonetic": "[ɪkˈspekt]",
         "meaning": "vt. 预期、盼望、期待",
         "app_sentences": [
           {
@@ -1074,7 +1074,7 @@
       },
       {
         "text": "invite",
-        "phonetic": "[!n'va!t]",
+        "phonetic": "[ɪnˈvaɪt]",
         "meaning": "vt. 邀请、请求、引起；n. 邀请",
         "app_sentences": [
           {
@@ -1100,7 +1100,7 @@
       },
       {
         "text": "balloon",
-        "phonetic": "[b2'luːn]",
+        "phonetic": "[bəˈluːn]",
         "meaning": "vt. 使成气球状；vi. 膨胀如气球、激增；n. 气球",
         "app_sentences": [
           {
@@ -1156,7 +1156,7 @@
       },
       {
         "text": "knife",
-        "phonetic": "[na!f]",
+        "phonetic": "[naɪf]",
         "meaning": "vt. 切割、伤害、切；vi. 劈开、穿过；n. 小刀、匕首",
         "app_sentences": [
           {
@@ -1256,7 +1256,7 @@
       },
       {
         "text": "similar",
-        "phonetic": "['s!m!l2]",
+        "phonetic": "[ˈsɪmələ]",
         "meaning": "n. 相似的东西；adj. 相似的、类似的",
         "app_sentences": [
           {
@@ -1315,7 +1315,7 @@
       },
       {
         "text": "cross",
-        "phonetic": "[kr=s]",
+        "phonetic": "[krs]",
         "meaning": "v. 交叉、横过、越过；n. 十字架、十字架形物件、交叉；adj. 生气的、交叉的、相反的",
         "app_sentences": [
           {
@@ -1333,7 +1333,7 @@
     "data": [
       {
         "text": "achieve",
-        "phonetic": "[2't1iːv]",
+        "phonetic": "[əˈtʃiːv]",
         "meaning": "vt. 完成、达到；vi. 如愿以偿",
         "app_sentences": [
           {
@@ -1396,7 +1396,7 @@
       },
       {
         "text": "quarter",
-        "phonetic": "['kw0ːt2]",
+        "phonetic": "[ˈkwɔːtə]",
         "meaning": "vt. 四等分、肢解；vi. 驻扎、住宿；n. 四分之一、一刻钟、季度",
         "app_sentences": [
           {
@@ -1521,7 +1521,7 @@
       },
       {
         "text": "pancake",
-        "phonetic": "['pæn;ke!k]",
+        "phonetic": "[ˈpænkeɪk]",
         "meaning": "n. 薄烤饼、薄煎饼、烙饼",
         "app_sentences": [
           {
@@ -1536,7 +1536,7 @@
       },
       {
         "text": "rose",
-        "phonetic": "[r2%z]",
+        "phonetic": "[rəʊz]",
         "meaning": "vt. 使成玫瑰色；n. 玫瑰、蔷薇、玫瑰色；adj. 玫瑰色的、玫瑰花的",
         "app_sentences": [
           {
@@ -1621,7 +1621,7 @@
       },
       {
         "text": "note",
-        "phonetic": "[n2%t]",
+        "phonetic": "[nəʊt]",
         "meaning": "vt. 记录、注解、注意；n. 笔记、记录、注解",
         "app_sentences": [
           {
