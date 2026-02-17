@@ -5,17 +5,119 @@ import json
 import glob
 from typing import List, Dict
 
+
+
+# 修正映射表 (按书名区分)
+# 注意：不同书的 PDF 可能使用不同的字体映射，因此需要分书处理。
+CORRECTION_MAPS = {
+    "default": {
+        '!': 'ɪ',
+        '%': 'ʊ',
+        '0': 'ɔ',
+        '1': 'ʃ',
+        '2': 'ə',
+        '3': 'ʒ',
+        '4': 'ɑ',
+        '7': 'ʌ',
+        '8': 'θ',
+        '9': 'ŋ',
+        '^': 'ɜ',
+        'ﬁ': 'fi',
+        'ﬂ': 'fl',
+        ';': '', 
+    },
+    "【外研版】七年级下册英语电子课本": {
+        '4': 'f',
+        '9': 'l',
+        'Q': 'æ',
+        'N': 'ŋ',
+        'Z': 'ʒ',
+        'T': 'θ',
+        'D': 'ð',
+        'S': 'ʃ',
+        '=': 'ɒ',
+        'ﬁ': 'fi',
+        'ﬂ': 'fl',
+        ';': '',
+    },
+    "【外研版】七年级上册英语电子课本": {
+        '*': 'æ',
+        '6': 'ð',
+        '7': 'ʌ',
+        '2': 'ə',
+        '%': 'ʊ',
+        '!': 'ɪ',
+        'ː': 'ː', # Keep colon
+    },
+    "【外研版】八年级上册英语电子课本": {
+        '*': 'æ',
+        '6': 'ð',
+        '7': 'ʌ',
+        '2': 'ə',
+        '%': 'ʊ',
+        '!': 'ɪ',
+        '^': 'ɜ',
+        '#': 'dʒ',
+        '1': 'ʃ',
+        '8': 'θ',
+        ';': 'j', # Note: university /;juːn... uses semicolon for j
+    }
+}
+
+
+# PUA (Private Use Area) 字符映射表 - 许多 PDF 使用自定义字体符号
+PUA_MAP = {
+    0xF041: 'ɑ', 0xF044: 'ð', 0xF049: 'ɪ', 0xF04E: 'ŋ', 0xF051: 'æ',
+    0xF053: 'ʃ', 0xF054: 'θ', 0xF055: 'ʊ', 0xF05A: 'ʒ', 0xF081: 'ɒ',
+    0xF08D: 'ɔ', 0xF0AB: 'ə', 0xF0C3: 'ʌ',
+}
+
+def clean_phonetic(phonetic: str, book_name: str = "default") -> str:
+    """清理并修复音标中的乱码字符，支持 PUA 映射和分书逻辑"""
+    if not phonetic:
+        return phonetic
+    
+    # 1. 处理 PUA 字符 (U+F000 范围)
+    new_chars = []
+    for char in phonetic:
+        cp = ord(char)
+        if 0xF000 <= cp <= 0xF0FF:
+            # 优先查找特殊符号映射
+            if cp in PUA_MAP:
+                new_chars.append(PUA_MAP[cp])
+            else:
+                # 剩下的通常是 ASCII 偏移 (例如 0xF068 -> 'h')
+                ascii_cp = cp - 0xF000
+                if 32 <= ascii_cp <= 126:
+                    new_chars.append(chr(ascii_cp))
+                else:
+                    new_chars.append(char)
+        else:
+            new_chars.append(char)
+    phonetic = "".join(new_chars)
+    
+    # 2. 应用书本特定的字符映射
+    mapping = CORRECTION_MAPS.get(book_name, CORRECTION_MAPS["default"])
+    for bad_char, good_char in mapping.items():
+        phonetic = phonetic.replace(bad_char, good_char)
+    
+    return phonetic.strip()
+
 def is_noisy_phonetic(phonetic: str) -> bool:
+    """判断音标是否包含明显的解码噪音"""
     if not phonetic:
         return False
-    # Typical PDF font-decoding noise characters
-    return bool(re.search(r"[0-9=!$%*#\u0400-\u04FF]", phonetic))
+    # 允许 PUA 字符在提取阶段存在，因为后面会处理它们
+    return bool(re.search(r"[=\$\#\u0400-\u04FF]", phonetic))
+
 
 class PDFExtractor:
     def __init__(self, pdf_path: str):
         self.pdf_path = pdf_path
         self.doc = fitz.open(pdf_path)
         self.vocab_pages = []
+        # 保存书名（不含路径和扩展名），用于分书音标处理
+        self.book_name = os.path.basename(pdf_path).replace('.pdf', '')
 
     def set_manual_range(self, start_idx: int, end_idx: int):
         """Set a manual page range (0-indexed)."""
@@ -83,8 +185,8 @@ class PDFExtractor:
                     # Normalize curly apostrophes to keep phrases like sb's intact.
                     line = line.replace('’', "'").replace('‘', "'").replace('‛', "'")
                     
-                    # 移除所有不可见控制字符（如 \u0007）
-                    line = "".join(ch for ch in line if ch.isprintable())
+                    # 移除所有不可见控制字符，但保留 PUA 字符（U+E000-U+F8FF）
+                    line = "".join(ch for ch in line if ch.isprintable() or 0xE000 <= ord(ch) <= 0xF8FF)
                     line = line.strip()
                     if not line: continue
                     
@@ -146,7 +248,8 @@ class PDFExtractor:
                     wp_match = re.search(r'^\s*[\*\•\.]?\s*([a-zA-Z\s\-\'\.]+?)\s*[\/\[]([^\/\]]+)[\/\]](.*)', line)
                     if wp_match:
                         word = wp_match.group(1).strip()
-                        phonetic = wp_match.group(2).strip()
+                        raw_phonetic = wp_match.group(2).strip()
+                        phonetic = clean_phonetic(raw_phonetic, self.book_name)
                         remaining = wp_match.group(3).strip()
                         
                         # 特殊逻辑：支持同一行中有后续短语（如 lot /lɒt/ a lot of）

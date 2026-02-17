@@ -42,13 +42,22 @@ def get_target_filename(grade, semester):
 def is_noisy_pdf_phonetic(phonetic):
     if not phonetic:
         return False
-    # Typical garbled extraction from some PDFs contains symbols like !, 2, =, etc.
-    # Also treat Cyrillic chars as noise (common from bad font decoding, e.g. "ә").
-    return bool(re.search(r"[0-9=!$%*#\u0400-\u04FF]", phonetic))
+    # 典型的乱码包括 =$# 等，但不再将数字视为绝对噪音，因为某些映射后可能仍保留数字或已处理。
+    # 同时也排除掉 PUA 字符的误判。
+    return bool(re.search(r"[=\$\#\u0400-\u04FF]", phonetic))
+
+
+def normalize_pdf_phonetic(phonetic):
+    if not phonetic:
+        return ""
+    p = phonetic.strip()
+    # Some textbooks extract "ɒ" as "=" (e.g. on /=n/).
+    p = p.replace("=", "ɒ")
+    return p
 
 def select_best_pdf_phonetic(book_phonetic, global_phonetic):
-    b = (book_phonetic or "").strip()
-    g = (global_phonetic or "").strip()
+    b = normalize_pdf_phonetic(book_phonetic)
+    g = normalize_pdf_phonetic(global_phonetic)
     if not b and not g:
         return ""
     if b and g:
