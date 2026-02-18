@@ -40,6 +40,10 @@ Link: https://github.com/LinXueyuanStdio/DictionaryData/tree/master
 6. 按教材导出“未匹配例句单词”文件
 7. 清理中间文件
 
+词典优先级：
+- 音标：`DictionaryData(word.csv: uk/us)` → `ECDICT-5` → `ECDICT`
+- 释义：`DictionaryData(word_translation.csv)` → `ECDICT` → `ECDICT-5`
+
 ## GitHub 同步说明
 - 词典数据已在 `.gitignore` 中忽略，应只保留在本地。
 - `textbook/` 和 `output/` 当前不忽略，便于协作成员直接使用样例数据。

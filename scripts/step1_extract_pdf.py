@@ -66,6 +66,7 @@ class PDFExtractor:
             
         unit_mapping = {}
         current_unit = "General"
+        pending_broken_phonetic = False
         
         for p in self.vocab_pages:
             page = self.doc[p]
@@ -99,6 +100,24 @@ class PDFExtractor:
                     # Skip navigation headers
                     if any(hn in clean_line_flat for hn in ["WORDSANDEXPRESSIONS", "PROPERNOUNS", "PROPERNAMES"]):
                         if len(clean_line_flat) < 35:
+                            continue
+
+                    # Handle broken phonetic lines, e.g.:
+                    #   November /n...
+                    #   vemb.../ n. 11月
+                    # The second line is a phonetic tail, not a standalone word.
+                    open_phonetic_line = re.match(r"^\s*([A-Za-z][A-Za-z\s'’\.\-]*)\s*/[^/]*$", line)
+                    if open_phonetic_line:
+                        word = open_phonetic_line.group(1).strip()
+                        if word:
+                            self._add_word_to_mapping(word, current_unit, unit_mapping)
+                        pending_broken_phonetic = True
+                        continue
+
+                    if pending_broken_phonetic:
+                        tail_line = re.match(r"^\s*[A-Za-z][A-Za-z'’\.\-]*[^/]*\/\s*(?:[a-z]{1,6}\.)", line, re.I)
+                        pending_broken_phonetic = False
+                        if tail_line:
                             continue
 
                     # Robust Unit Detection

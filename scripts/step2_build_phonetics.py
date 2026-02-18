@@ -23,14 +23,6 @@ def normalize_phonetic(phonetic: str) -> str:
     return p
 
 
-def load_uk_overrides(config_path="config/uk_phonetics.json"):
-    if os.path.exists(config_path):
-        with open(config_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return {normalize_word(k): normalize_phonetic(v) for k, v in data.items()}
-    return {}
-
-
 def load_stardict(csv_path):
     data = {}
     if not os.path.exists(csv_path):
@@ -105,11 +97,10 @@ def main():
     with open(unit_mapping_path, "r", encoding="utf-8") as f:
         unit_mappings = json.load(f)
 
-    # Priority: manual overrides > ECDICT > ECDICT-5 > DictionaryData
-    uk_overrides = load_uk_overrides("config/uk_phonetics.json")
-    ecdict = load_stardict("DICT/ECDICT/stardict.csv")
-    ecdict5 = load_stardict("DICT/ECDICT-5/stardict.csv")
+    # Priority: DictionaryData(UK/US) > ECDICT-5 > ECDICT
     dict_word = load_dictionarydata_word("DICT/DictionaryData/word.csv")
+    ecdict5 = load_stardict("DICT/ECDICT-5/stardict.csv")
+    ecdict = load_stardict("DICT/ECDICT/stardict.csv")
 
     unique_words = set()
     for book_data in unit_mappings.values():
@@ -123,10 +114,9 @@ def main():
     for word in sorted(unique_words, key=str.lower):
         key = normalize_word(word)
         phonetic = (
-            uk_overrides.get(key)
-            or ecdict.get(key)
+            dict_word.get(key)
             or ecdict5.get(key)
-            or dict_word.get(key)
+            or ecdict.get(key)
             or ""
         )
 
