@@ -32,12 +32,13 @@ Link: https://github.com/LinXueyuanStdio/DictionaryData/tree/master
 ```
 
 流水线步骤：
-1. 从 PDF 提取单词/单元/音标
+1. 从 PDF 提取单词和单元（不再使用 PDF 音标）
 2. 合并 AI 例句文件
 3. 查询词典释义
-4. 合并为最终 JSON
-5. 按教材导出“未匹配例句单词”文件
-6. 清理中间文件
+4. 从本地词典构建全局音标库
+5. 合并为最终 JSON
+6. 按教材导出“未匹配例句单词”文件
+7. 清理中间文件
 
 ## GitHub 同步说明
 - 词典数据已在 `.gitignore` 中忽略，应只保留在本地。

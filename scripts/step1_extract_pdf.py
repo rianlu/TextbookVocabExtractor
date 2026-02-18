@@ -5,110 +5,15 @@ import json
 import glob
 from typing import List, Dict
 
+def load_config(file_path):
+    config_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config", file_path)
+    if os.path.exists(config_path):
+        with open(config_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
 
-
-# 修正映射表 (按书名区分)
-# 注意：不同书的 PDF 可能使用不同的字体映射，因此需要分书处理。
-CORRECTION_MAPS = {
-    "default": {
-        '!': 'ɪ',
-        '%': 'ʊ',
-        '0': 'ɔ',
-        '1': 'ʃ',
-        '2': 'ə',
-        '3': 'ʒ',
-        '4': 'ɑ',
-        '7': 'ʌ',
-        '8': 'θ',
-        '9': 'ŋ',
-        '^': 'ɜ',
-        'ﬁ': 'fi',
-        'ﬂ': 'fl',
-        ';': '', 
-    },
-    "【外研版】七年级下册英语电子课本": {
-        '4': 'f',
-        '9': 'l',
-        'Q': 'æ',
-        'N': 'ŋ',
-        'Z': 'ʒ',
-        'T': 'θ',
-        'D': 'ð',
-        'S': 'ʃ',
-        '=': 'ɒ',
-        'ﬁ': 'fi',
-        'ﬂ': 'fl',
-        ';': '',
-    },
-    "【外研版】七年级上册英语电子课本": {
-        '*': 'æ',
-        '6': 'ð',
-        '7': 'ʌ',
-        '2': 'ə',
-        '%': 'ʊ',
-        '!': 'ɪ',
-        'ː': 'ː', # Keep colon
-    },
-    "【外研版】八年级上册英语电子课本": {
-        '*': 'æ',
-        '6': 'ð',
-        '7': 'ʌ',
-        '2': 'ə',
-        '%': 'ʊ',
-        '!': 'ɪ',
-        '^': 'ɜ',
-        '#': 'dʒ',
-        '1': 'ʃ',
-        '8': 'θ',
-        ';': 'j', # Note: university /;juːn... uses semicolon for j
-    }
-}
-
-
-# PUA (Private Use Area) 字符映射表 - 许多 PDF 使用自定义字体符号
-PUA_MAP = {
-    0xF041: 'ɑ', 0xF044: 'ð', 0xF049: 'ɪ', 0xF04E: 'ŋ', 0xF051: 'æ',
-    0xF053: 'ʃ', 0xF054: 'θ', 0xF055: 'ʊ', 0xF05A: 'ʒ', 0xF081: 'ɒ',
-    0xF08D: 'ɔ', 0xF0AB: 'ə', 0xF0C3: 'ʌ',
-}
-
-def clean_phonetic(phonetic: str, book_name: str = "default") -> str:
-    """清理并修复音标中的乱码字符，支持 PUA 映射和分书逻辑"""
-    if not phonetic:
-        return phonetic
-    
-    # 1. 处理 PUA 字符 (U+F000 范围)
-    new_chars = []
-    for char in phonetic:
-        cp = ord(char)
-        if 0xF000 <= cp <= 0xF0FF:
-            # 优先查找特殊符号映射
-            if cp in PUA_MAP:
-                new_chars.append(PUA_MAP[cp])
-            else:
-                # 剩下的通常是 ASCII 偏移 (例如 0xF068 -> 'h')
-                ascii_cp = cp - 0xF000
-                if 32 <= ascii_cp <= 126:
-                    new_chars.append(chr(ascii_cp))
-                else:
-                    new_chars.append(char)
-        else:
-            new_chars.append(char)
-    phonetic = "".join(new_chars)
-    
-    # 2. 应用书本特定的字符映射
-    mapping = CORRECTION_MAPS.get(book_name, CORRECTION_MAPS["default"])
-    for bad_char, good_char in mapping.items():
-        phonetic = phonetic.replace(bad_char, good_char)
-    
-    return phonetic.strip()
-
-def is_noisy_phonetic(phonetic: str) -> bool:
-    """判断音标是否包含明显的解码噪音"""
-    if not phonetic:
-        return False
-    # 允许 PUA 字符在提取阶段存在，因为后面会处理它们
-    return bool(re.search(r"[=\$\#\u0400-\u04FF]", phonetic))
+BOOK_CONFIGS = load_config("book_configs.json")
+MANUAL_RANGES = BOOK_CONFIGS.get("manual_ranges", {})
 
 
 class PDFExtractor:
@@ -160,7 +65,6 @@ class PDFExtractor:
             self.detect_vocab_sections()
             
         unit_mapping = {}
-        word_phonetics = {}
         current_unit = "General"
         
         for p in self.vocab_pages:
@@ -199,33 +103,15 @@ class PDFExtractor:
 
                     # Robust Unit Detection
                     is_unit = False
-                    unit_num = -1
-                    
                     # 识别 Unit, Module, Starter
                     if clean_line_flat.startswith('UNIT') or clean_line_flat.startswith('MODULE'):
                         is_unit = True
-                        nums = re.findall(r'\d+', clean_line_flat)
-                        if nums:
-                            unit_num = int(nums[0])
                     elif clean_line_flat.startswith('REVISIONMODULE'):
                         is_unit = True
-                        # Revision module 通常带字母 A, B，我们给它一个特殊的排序权重
-                        letter = re.findall(r'MODULE([A-Z])', clean_line_flat)
-                        if letter:
-                            # 将 A, B 转为较大的伪数字以保持排序
-                            unit_num = 100 + ord(letter[0])
                     elif clean_line_flat == 'STARTER':
                         is_unit = True
-                        unit_num = 0
                     elif re.match(r'^(STARTER|UNIT|MODULE|REVISIONMODULE)\s*[A-Z\d]+', line, re.I):
                         is_unit = True
-                        nums = re.findall(r'\d+', line)
-                        if nums:
-                            unit_num = int(nums[0])
-                        else:
-                            letter = re.findall(r'module\s+([A-Z])', line, re.I)
-                            if letter:
-                                unit_num = 100 + ord(letter[0].upper())
 
                     if is_unit:
                         clean_unit = re.sub(r'\s+', ' ', line).strip().title()
@@ -242,14 +128,13 @@ class PDFExtractor:
                             current_unit = clean_unit
                             continue
                     
-                    # Word and Phonetic detection
+                    # Word and phonetic boundary detection
                     # 允许行首有星号、点、圆点或其他标记，以及空白字符
-                    # 1. Try to match word AND phonetic (in slashes or brackets)
+                    # 1. Try to match word + phonetic pattern (we ignore phonetic content)
                     wp_match = re.search(r'^\s*[\*\•\.]?\s*([a-zA-Z\s\-\'\.]+?)\s*[\/\[]([^\/\]]+)[\/\]](.*)', line)
                     if wp_match:
                         word = wp_match.group(1).strip()
-                        raw_phonetic = wp_match.group(2).strip()
-                        phonetic = clean_phonetic(raw_phonetic, self.book_name)
+                        # PIVOT: Discard PDF phonetics due to unreliability.
                         remaining = wp_match.group(3).strip()
                         
                         # 特殊逻辑：支持同一行中有后续短语（如 lot /lɒt/ a lot of）
@@ -260,9 +145,8 @@ class PDFExtractor:
                             if clean_remaining and len(clean_remaining) > 1:
                                 # 将该行视为两个词条处理（递归调用或手动添加）
                                 # 为了保持简单，我们先添加主词条，再添加剩余部分作为无音标词条
-                                self._add_word_to_mapping(word, phonetic, current_unit, unit_mapping, word_phonetics)
+                                self._add_word_to_mapping(word, current_unit, unit_mapping)
                                 word = clean_remaining
-                                phonetic = ""
                     else:
                         # 2. Fallback to just word detection (support for indented phrases)
                         # 增加限制：如果紧跟中文，可能不是单词而是释义行（如 "v. 微笑"）
@@ -274,16 +158,15 @@ class PDFExtractor:
                         word_match = re.search(r'^\s*[\*\•\.]?\s*([a-zA-Z\s\-\'\.]+)', line)
                         if word_match:
                             word = word_match.group(1).strip()
-                            phonetic = ""
                         else:
                             continue # Not a word line
                     if word:
-                        self._add_word_to_mapping(word, phonetic, current_unit, unit_mapping, word_phonetics)
+                        self._add_word_to_mapping(word, current_unit, unit_mapping)
                                 
         self.doc.close()
-        return unit_mapping, word_phonetics
+        return unit_mapping
 
-    def _add_word_to_mapping(self, word: str, phonetic: str, current_unit: str, unit_mapping: dict, word_phonetics: dict):
+    def _add_word_to_mapping(self, word: str, current_unit: str, unit_mapping: dict):
         # 移除末尾可能的页码标记（如 any (14)）
         word = re.sub(r'\s+\(?\d+\)?$', '', word).strip()
         if not word: return
@@ -295,8 +178,7 @@ class PDFExtractor:
         blacklist = {
             'adj', 'adv', 'pron', 'num', 'v', 'n', 'prep', 'art', 'conj', 'interj'
         }
-        # 如果单词在黑名单中，且没有提取到音标，则过滤
-        if w_lower in blacklist and not phonetic:
+        if w_lower in blacklist:
             return
             
         # 2. 只有大写字母且长度较长的通常是页眉（如 WORDS AND EXPRESSIONS）
@@ -308,30 +190,17 @@ class PDFExtractor:
                 unit_mapping[current_unit] = []
             if word not in unit_mapping[current_unit]:
                 unit_mapping[current_unit].append(word)
-            
-            if word not in word_phonetics:
-                word_phonetics[word] = phonetic
-            elif phonetic and not word_phonetics[word]:
-                word_phonetics[word] = phonetic
 
 def main():
     input_dir = "textbook"
     inter_dir = "intermediate"
     os.makedirs(inter_dir, exist_ok=True)
     
-    # MANUAL CONFIGURATION (Precise 0-indexed indices based on PDF structure)
-    manual_ranges = {
-        "【外研版】七年级上册(2024秋版)英语电子课本": (155, 163),
-        "【外研版】七年级下册(2025春版)英语电子课本": (137, 144),
-        "【外研版】八年级上册(2025秋版)英语电子课本": (141, 146),
-        "【外研版】八年级下册英语电子课本": (119, 124),
-        "【外研版】九年级上册英语电子课本": (149, 156),
-        "【外研版】九年级下册英语电子课本": (115, 119),
-    }
+    # MANUAL CONFIGURATION (Loaded from book_configs.json)
     
     pdf_files = glob.glob(os.path.join(input_dir, "*.pdf"))
+
     all_unit_mappings = {}
-    all_word_phonetics = {}
     global_words = set()
     
     for pdf_path in pdf_files:
@@ -339,31 +208,13 @@ def main():
         print(f"Processing: {book_name}")
         extractor = PDFExtractor(pdf_path)
         
-        if book_name in manual_ranges:
-            start, end = manual_ranges[book_name]
+        if book_name in MANUAL_RANGES:
+            start, end = MANUAL_RANGES[book_name]
             extractor.set_manual_range(start, end)
-        
-        mapping, phonetics = extractor.extract_words()
-        all_unit_mappings[book_name] = mapping
-        # Merge global phonetics with quality preference instead of blind override.
-        for w, new_p in phonetics.items():
-            old_p = all_word_phonetics.get(w, "")
-            if not old_p:
-                all_word_phonetics[w] = new_p
-                continue
-            if old_p and not new_p:
-                continue
-            if not old_p and new_p:
-                all_word_phonetics[w] = new_p
-                continue
 
-            old_noisy = is_noisy_phonetic(old_p)
-            new_noisy = is_noisy_phonetic(new_p)
-            if old_noisy and not new_noisy:
-                all_word_phonetics[w] = new_p
-            elif old_noisy == new_noisy:
-                # Keep first seen when quality is similar.
-                pass
+        
+        mapping = extractor.extract_words()
+        all_unit_mappings[book_name] = mapping
         
         for words in mapping.values():
             global_words.update(words)
@@ -372,17 +223,9 @@ def main():
         book_output_dir = os.path.join("output", "教材分类", book_name)
         os.makedirs(book_output_dir, exist_ok=True)
         
-        # Save book-specific word phonetics
-        with open(os.path.join(book_output_dir, "word_phonetics.json"), "w", encoding="utf-8") as f:
-            json.dump(phonetics, f, ensure_ascii=False, indent=2)
-
     # Save Unit Mappings
     with open(os.path.join(inter_dir, "unit_mapping.json"), "w", encoding="utf-8") as f:
         json.dump(all_unit_mappings, f, ensure_ascii=False, indent=2)
-        
-    # Save Global Word Phonetics
-    with open(os.path.join(inter_dir, "word_phonetics.json"), "w", encoding="utf-8") as f:
-        json.dump(all_word_phonetics, f, ensure_ascii=False, indent=2)
         
     # Save Unit Mappings by Book
     book_units_dir = os.path.join(inter_dir, "book_units")

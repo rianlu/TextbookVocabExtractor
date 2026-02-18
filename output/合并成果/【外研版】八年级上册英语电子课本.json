@@ -6,56 +6,56 @@
     "data": [
       {
         "text": "pair",
-        "phonetic": "[peə]",
+        "phonetic": "[pєә]",
         "meaning": "v. (使)成对；n. 一双、一对、一副",
         "app_sentences": [
           {
-            "en": "Example sentence for pair.",
-            "cn": "暂无例句。"
+            "en": "I need to buy a pair of new sports shoes for the race.",
+            "cn": "我需要买一双新的运动鞋参加比赛。"
           }
         ]
       },
       {
         "text": "correct",
-        "phonetic": "[kə'rekt]",
+        "phonetic": "[kә'rekt]",
         "meaning": "vt. 改正、订正；adj. 正确的、合适的",
         "app_sentences": [
           {
-            "en": "Example sentence for correct.",
-            "cn": "暂无例句。"
+            "en": "Please correct the spelling mistakes in your homework.",
+            "cn": "请改正你作业中的拼写错误。"
           }
         ]
       },
       {
         "text": "spelling",
-        "phonetic": "['spelɪ9]",
+        "phonetic": "['speliŋ]",
         "meaning": "n. 拼、拼字、拼法；拼写检查",
         "app_sentences": [
           {
-            "en": "Example sentence for spelling.",
-            "cn": "暂无例句。"
+            "en": "You should pay attention to the spelling of English words.",
+            "cn": "你应该注意英语单词的拼写。"
           }
         ]
       },
       {
         "text": "word",
-        "phonetic": "[wɜːd]",
+        "phonetic": "[wә:d]",
         "meaning": "vt. 用言辞表达；n. 话、消息、词；字",
         "app_sentences": [
           {
-            "en": "Example sentence for word.",
-            "cn": "暂无例句。"
+            "en": "You should try to remember ten new English words every day.",
+            "cn": "你应该努力每天记住十个新的英语单词。"
           }
         ]
       },
       {
         "text": "practise",
-        "phonetic": "['præktɪs]",
+        "phonetic": "['præktis]",
         "meaning": "v. 实践、实行、练习",
         "app_sentences": [
           {
-            "en": "Example sentence for practise.",
-            "cn": "暂无例句。"
+            "en": "You should practise speaking English with your classmates every day.",
+            "cn": "你应该每天和同学们练习说英语。"
           }
         ]
       },
@@ -65,415 +65,439 @@
         "meaning": "vt. 使相配、使比赛、与...竞争；vi. 结婚、相配；n. 比赛、火柴、对手",
         "app_sentences": [
           {
-            "en": "Example sentence for match.",
-            "cn": "暂无例句。"
+            "en": "Our school basketball match will start at three this afternoon.",
+            "cn": "我们学校的篮球赛将在今天下午三点开始。"
+          },
+          {
+            "en": "Did you watch the exciting football match on TV last night?",
+            "cn": "昨晚你从电视上看那场精彩的足球赛了吗？"
           }
         ]
       },
       {
         "text": "meaning",
-        "phonetic": "['miːnɪ9]",
+        "phonetic": "['mi:niŋ]",
         "meaning": "n. 意义、含义、目的；adj. 意味深长的",
         "app_sentences": [
           {
-            "en": "Example sentence for meaning.",
-            "cn": "暂无例句。"
+            "en": "Can you tell me the meaning of this difficult word?",
+            "cn": "你能告诉我这个难词的意思吗？"
           }
         ]
       },
       {
         "text": "complete",
-        "phonetic": "[kəm'pliːt]",
+        "phonetic": "[kәm'pli:t]",
         "meaning": "vt. 完成、完工、使圆满；adj. 完全的、十足的、完成的",
         "app_sentences": [
           {
-            "en": "Example sentence for complete.",
-            "cn": "暂无例句。"
+            "en": "I need one more hour to complete my science project.",
+            "cn": "我需要再多一个小时来完成我的科学项目。"
           }
         ]
       },
       {
         "text": "sentence",
-        "phonetic": "['sentəns]",
+        "phonetic": "['sentәns]",
         "meaning": "vt. 宣判、判决；n. 句子、命题、宣判；句子",
         "app_sentences": [
           {
-            "en": "Example sentence for sentence.",
-            "cn": "暂无例句。"
+            "en": "Please write a sentence using the new word we learned today.",
+            "cn": "请用我们今天学的新词写一个句子。"
           }
         ]
       },
       {
         "text": "dictionary",
-        "phonetic": "['dɪkʃənəri]",
+        "phonetic": "['dikʃәnәri]",
         "meaning": "n. 字典、词典；词典",
         "app_sentences": [
           {
-            "en": "Example sentence for dictionary.",
-            "cn": "暂无例句。"
+            "en": "You should use a dictionary to look up new English words.",
+            "cn": "你应该用词典来查找英语生词。"
           }
         ]
       },
       {
         "text": "grammar",
-        "phonetic": "['græmə]",
+        "phonetic": "['græmә]",
         "meaning": "n. 语法学、入门书；语法检查",
         "app_sentences": [
           {
-            "en": "Example sentence for grammar.",
-            "cn": "暂无例句。"
+            "en": "We learned some new grammar rules in our English class today.",
+            "cn": "今天我们在英语课上学了一些新的语法规则。"
           }
         ]
       },
       {
         "text": "letter",
-        "phonetic": "['letə]",
+        "phonetic": "['letә]",
         "meaning": "vt. 写字母于、在...上刻字母、用字母标明；vi. 写印刷体字；n. 信、字母、证书",
         "app_sentences": [
           {
-            "en": "Example sentence for letter.",
-            "cn": "暂无例句。"
+            "en": "I received a letter from my pen friend in England yesterday.",
+            "cn": "昨天我收到了英国笔友的一封信。"
           }
         ]
       },
       {
         "text": "look up",
-        "phonetic": "",
+        "phonetic": "[lʊk ʌp]",
         "meaning": "向上看、尊敬、仰望；查阅",
         "app_sentences": [
           {
-            "en": "Example sentence for look up.",
-            "cn": "暂无例句。"
+            "en": "We can look up information about the stars on the internet.",
+            "cn": "我们可以在互联网上查找关于星星的信息。"
           }
         ]
       },
       {
         "text": "mistake",
-        "phonetic": "[mɪ'steɪk]",
+        "phonetic": "[mis'teik]",
         "meaning": "vt. 误解、弄错；vi. 犯错、误认；n. 错误、误会",
         "app_sentences": [
           {
-            "en": "Example sentence for mistake.",
-            "cn": "暂无例句。"
+            "en": "I made a spelling mistake in my English composition.",
+            "cn": "我在英语作文里犯了一个拼写错误。"
           }
         ]
       },
       {
         "text": "make a mistake",
-        "phonetic": "",
+        "phonetic": "[meɪk ə mɪsˈteɪk]",
         "meaning": "犯错误",
         "app_sentences": [
           {
-            "en": "Example sentence for make a mistake.",
-            "cn": "暂无例句。"
+            "en": "It is normal to make a mistake when you learn something new.",
+            "cn": "学习新事物时犯错是很正常的。"
           }
         ]
       },
       {
         "text": "understand",
-        "phonetic": "[jʌndə'stænd]",
+        "phonetic": "[.ʌndә'stænd]",
         "meaning": "v. 懂、了解、听说；vt. 理解、了解、领会；vi. 懂得、认为",
         "app_sentences": [
           {
-            "en": "Example sentence for understand.",
-            "cn": "暂无例句。"
+            "en": "I did not understand the maths problem until my friend explained it.",
+            "cn": "直到我朋友解释后，我才理解了那道数学题。"
           }
         ]
       },
       {
         "text": "advice",
-        "phonetic": "[əd'vaɪs]",
+        "phonetic": "[әd'vais]",
         "meaning": "n. 忠告、劝告、意见；通知书、通知、建议",
         "app_sentences": [
           {
-            "en": "Example sentence for advice.",
-            "cn": "暂无例句。"
+            "en": "My teacher gave me some good advice on how to learn English well.",
+            "cn": "我的老师给了我一些关于如何学好英语的好建议。"
           }
         ]
       },
       {
         "text": "should",
-        "phonetic": "[ʃʊd]",
+        "phonetic": "[ʃud]",
         "meaning": "v. 应该、将要；aux. 应该、将要",
         "app_sentences": [
           {
-            "en": "Example sentence for should.",
-            "cn": "暂无例句。"
+            "en": "You should finish your homework before you go out to play.",
+            "cn": "出去玩之前你应该完成作业。"
           }
         ]
       },
       {
         "text": "possible",
-        "phonetic": "['pɒsəbl]",
+        "phonetic": "['pɒsәbl]",
         "meaning": "n. 可能性、可能的事物；adj. 可能的、潜在的、合适的",
         "app_sentences": [
           {
-            "en": "Example sentence for possible.",
-            "cn": "暂无例句。"
+            "en": "Please finish your homework as soon as possible.",
+            "cn": "请尽快完成你的作业。"
           }
         ]
       },
       {
         "text": "write down",
-        "phonetic": "",
+        "phonetic": "[ˈraɪt daʊn]",
         "meaning": "写下、写文章贬低、降低地位；记录、记下、以文字诋毁",
         "app_sentences": [
           {
-            "en": "Example sentence for write down.",
-            "cn": "暂无例句。"
+            "en": "Please write down the homework on your notebook clearly.",
+            "cn": "请清晰地把作业记在你的笔记本上。"
           }
         ]
       },
       {
         "text": "notebook",
-        "phonetic": "['nəʊtjbʊk]",
+        "phonetic": "['nәutbuk]",
         "meaning": "n. 笔记本、手册、期票簿",
         "app_sentences": [
           {
-            "en": "Example sentence for notebook.",
-            "cn": "暂无例句。"
+            "en": "I write down new English words in my notebook every day.",
+            "cn": "我每天在笔记本上记下新的英语单词。"
           }
         ]
       },
       {
         "text": "forget",
-        "phonetic": "[fə'get]",
+        "phonetic": "[fә'get]",
         "meaning": "vt. 忘记、忽略、忘；vi. 忘记",
         "app_sentences": [
           {
-            "en": "Example sentence for forget.",
-            "cn": "暂无例句。"
+            "en": "Don't forget to bring your sports shoes for P.E. class tomorrow.",
+            "cn": "别忘了明天体育课带你的运动鞋。"
+          },
+          {
+            "en": "Please do not forget to bring your homework to school tomorrow.",
+            "cn": "请不要忘记明天把你的作业带到学校来。"
+          },
+          {
+            "en": "Don't forget to close the window when you leave the room.",
+            "cn": "离开房间时别忘了关窗。"
           }
         ]
       },
       {
         "text": "pronounce",
-        "phonetic": "[prə'naʊns]",
+        "phonetic": "[prә'nauns]",
         "meaning": "v. 发音、宣告、断言",
         "app_sentences": [
           {
-            "en": "Example sentence for pronounce.",
-            "cn": "暂无例句。"
+            "en": "Can you help me pronounce this new English word correctly?",
+            "cn": "你能帮我正确读出这个英语单词的音吗？"
           }
         ]
       },
       {
         "text": "aloud",
-        "phonetic": "[ə'laʊd]",
+        "phonetic": "[ә'laud]",
         "meaning": "adv. 出声地、大声地",
         "app_sentences": [
           {
-            "en": "Example sentence for aloud.",
-            "cn": "暂无例句。"
+            "en": "Please read the story aloud so everyone can hear it.",
+            "cn": "请大声朗读故事，以便每个人都能听到。"
           }
         ]
       },
       {
         "text": "radio",
-        "phonetic": "['reɪdiəʊ]",
+        "phonetic": "['reidiәu]",
         "meaning": "v. 用无线电发送；n. 无线电、收音机、无线电报",
         "app_sentences": [
           {
-            "en": "Example sentence for radio.",
-            "cn": "暂无例句。"
+            "en": "My grandfather likes to listen to the news on the radio every morning.",
+            "cn": "我祖父喜欢每天早上听收音机里的新闻。"
           }
         ]
       },
       {
         "text": "pronunciation",
-        "phonetic": "[prəjnʌnsi'eɪʃn]",
+        "phonetic": "[prәu.nʌnsi'eiʃәn]",
         "meaning": "n. 发音、读法",
         "app_sentences": [
           {
-            "en": "Example sentence for pronunciation.",
-            "cn": "暂无例句。"
+            "en": "Good pronunciation is very important for learning a foreign language.",
+            "cn": "良好的发音对学习外语非常重要。"
           }
         ]
       },
       {
         "text": "key",
-        "phonetic": "[kiː]",
+        "phonetic": "[ki:]",
         "meaning": "vt. 调音、锁上、提供线索；vi. 使用钥匙；n. 钥匙、键、解答",
         "app_sentences": [
           {
-            "en": "Example sentence for key.",
-            "cn": "暂无例句。"
+            "en": "The key to learning English well is to practice every day.",
+            "cn": "学好英语的关键是每天练习。"
+          },
+          {
+            "en": "He put his keys into his pocket and went out to play.",
+            "cn": "他把钥匙放进兜里，出去玩了。"
           }
         ]
       },
       {
         "text": "main",
-        "phonetic": "[meɪn]",
+        "phonetic": "[mein]",
         "meaning": "n. 主要部分、干线、体力；adj. 主要的、重要的、全力的；主群组",
         "app_sentences": [
           {
-            "en": "Example sentence for main.",
-            "cn": "暂无例句。"
+            "en": "The main reason I like summer is because of the long holiday.",
+            "cn": "我喜欢夏天的主要原因是长假。"
           }
         ]
       },
       {
         "text": "excellent",
-        "phonetic": "['eksələnt]",
+        "phonetic": "['ekslәnt]",
         "meaning": "adj. 优良的、杰出的、出色的",
         "app_sentences": [
           {
-            "en": "Example sentence for excellent.",
-            "cn": "暂无例句。"
+            "en": "She got an excellent score on her final science test.",
+            "cn": "她在最终的科学考试中取得了优异的分数。"
           }
         ]
       },
       {
         "text": "agree",
-        "phonetic": "[ə'griː]",
+        "phonetic": "[ә'gri:]",
         "meaning": "vt. 承认、认定、同意；vi. 同意、赞成、应允",
         "app_sentences": [
           {
-            "en": "Example sentence for agree.",
-            "cn": "暂无例句。"
+            "en": "I agree with you that summer is the best season of the year.",
+            "cn": "我同意你的看法，夏天是一年中最好的季节。"
           }
         ]
       },
       {
         "text": "agree with sb.",
-        "phonetic": "",
-        "meaning": "暂无释义",
+        "phonetic": "[əˈɡri: wɪð ˈsʌmbədɪ]",
+        "meaning": "",
         "app_sentences": [
           {
-            "en": "Example sentence for agree with sb..",
-            "cn": "暂无例句。"
+            "en": "I agree with my friend that we should go to the park together.",
+            "cn": "我同意我朋友的看法，我们应该一起去公园。"
           }
         ]
       },
       {
         "text": "vocabulary",
-        "phonetic": "[vəʊ'kæbjʊləri]",
+        "phonetic": "[vә'kæbjulәri]",
         "meaning": "n. 词汇(量)、词汇表；词表",
         "app_sentences": [
           {
-            "en": "Example sentence for vocabulary.",
-            "cn": "暂无例句。"
+            "en": "Reading more books is a good way to increase your vocabulary.",
+            "cn": "多读书是增加词汇量的好方法。"
           }
         ]
       },
       {
         "text": "ask for",
-        "phonetic": "",
+        "phonetic": "[ɑ:sk fɔ:]",
         "meaning": "请求、找(人)",
         "app_sentences": [
           {
-            "en": "Example sentence for ask for.",
-            "cn": "暂无例句。"
+            "en": "If you don't know the way, you can ask for help from the police.",
+            "cn": "如果你不知道路，你可以向警察寻求帮助。"
           }
         ]
       },
       {
         "text": "improve",
-        "phonetic": "[ɪm'pruːv]",
+        "phonetic": "[im'pru:v]",
         "meaning": "v. 改善、改进；vt. 改良、提高...的价值、改善；vi. 变得更好、增加",
         "app_sentences": [
           {
-            "en": "Example sentence for improve.",
-            "cn": "暂无例句。"
+            "en": "Reading English books every day can help improve your vocabulary.",
+            "cn": "每天读英文书可以帮助你提高词汇量。"
           }
         ]
       },
       {
         "text": "basic",
-        "phonetic": "['beɪsɪk]",
+        "phonetic": "['beisik]",
         "meaning": "n. 基本原理、要素、基本规律；adj. 基本的、碱性的；(计算机)BASIC语言",
         "app_sentences": [
           {
-            "en": "Example sentence for basic.",
-            "cn": "暂无例句。"
+            "en": "We learn basic maths like addition and subtraction in primary school.",
+            "cn": "我们在小学学习加法和减法等基础数学。"
           }
         ]
       },
       {
         "text": "time",
-        "phonetic": "[taɪm]",
+        "phonetic": "[taim]",
         "meaning": "vt. 测定...的时间、记录...的时间、计时；n. 时间、时侯、时机；adj. 时间的、记时的、定时的",
         "app_sentences": [
           {
-            "en": "Example sentence for time.",
-            "cn": "暂无例句。"
+            "en": "It's time to go to bed; we have to get up early tomorrow.",
+            "cn": "该睡觉了；我们明天得早起。"
           }
         ]
       },
       {
         "text": "advise",
-        "phonetic": "[əd'vaɪz]",
+        "phonetic": "[әd'vaiz]",
         "meaning": "vt. 劝告、给...出主意、通知；vi. 提意见、商量",
         "app_sentences": [
           {
-            "en": "Example sentence for advise.",
-            "cn": "暂无例句。"
+            "en": "Can you advise me on how to learn English more effectively?",
+            "cn": "你能建议我如何更有效地学习英语吗？"
           }
         ]
       },
       {
         "text": "shy",
-        "phonetic": "[ʃaɪ]",
+        "phonetic": "[ʃai]",
         "meaning": "vt. 乱投、乱掷；vi. 惊退、乱投、乱掷；n. 惊跳、惊避",
         "app_sentences": [
           {
-            "en": "Example sentence for shy.",
-            "cn": "暂无例句。"
+            "en": "The little boy is very shy and doesn't like talking to strangers.",
+            "cn": "那个小男孩很害羞，不喜欢和陌生人说话。"
           }
         ]
       },
       {
         "text": "conversation",
-        "phonetic": "[jkɒnvə'seɪʃn]",
+        "phonetic": "[.kɒnvә'seiʃәn]",
         "meaning": "n. 会话、说话、交谈；交谈、社交、性交",
         "app_sentences": [
           {
-            "en": "Example sentence for conversation.",
-            "cn": "暂无例句。"
+            "en": "We had an interesting conversation about our summer vacation.",
+            "cn": "我们进行了一场关于暑假的有趣谈话。"
           }
         ]
       },
       {
         "text": "quickly",
-        "phonetic": "['kwɪkli]",
+        "phonetic": "['kwikli]",
         "meaning": "adv. 很快地",
         "app_sentences": [
           {
-            "en": "Example sentence for quickly.",
-            "cn": "暂无例句。"
+            "en": "She quickly finished her homework and went out to play.",
+            "cn": "她很快完成了作业然后出去玩。"
           }
         ]
       },
       {
         "text": "natural",
-        "phonetic": "['nætʃərəl]",
+        "phonetic": "['nætʃәrәl]",
         "meaning": "n. 白痴；adj. 自然的、自然界的、本能的",
         "app_sentences": [
           {
-            "en": "Example sentence for natural.",
-            "cn": "暂无例句。"
+            "en": "It is natural to feel nervous before speaking in public.",
+            "cn": "在公众面前讲话前感到紧张是自然的。"
+          },
+          {
+            "en": "We should protect natural resources like water and forests.",
+            "cn": "我们应该保护水和森林这样的自然资源。"
           }
         ]
       },
       {
         "text": "suggest",
-        "phonetic": "[sə'd3est]",
+        "phonetic": "[sәg'dʒest]",
         "meaning": "vt. 提议、建议、促成；建议、提出、提议",
         "app_sentences": [
           {
-            "en": "Example sentence for suggest.",
-            "cn": "暂无例句。"
+            "en": "I suggest that we meet at the school gate at nine o'clock.",
+            "cn": "我建议我们九点在学校门口集合。"
           }
         ]
       },
       {
         "text": "place",
-        "phonetic": "[pleɪs]",
+        "phonetic": "[pleis]",
         "meaning": "vt. 放置、寄予、认出；vi. 名次列前；n. 地方、地点、位置",
         "app_sentences": [
           {
-            "en": "Example sentence for place.",
-            "cn": "暂无例句。"
+            "en": "The library is a quiet place for students to study.",
+            "cn": "图书馆是学生学习的安静地方。"
+          },
+          {
+            "en": "Beijing is a famous city with many interesting historical places.",
+            "cn": "北京是一个有着许多有趣历史古迹的名城。"
           }
         ]
       }
@@ -486,78 +510,78 @@
     "data": [
       {
         "text": "hill",
-        "phonetic": "[hɪl]",
+        "phonetic": "[hil]",
         "meaning": "vt. 作成土堆、堆成小丘；n. 小山、丘陵、小土堆",
         "app_sentences": [
           {
-            "en": "Example sentence for hill.",
-            "cn": "暂无例句。"
+            "en": "We climbed up the hill to see the beautiful sunrise.",
+            "cn": "我们爬上小山去看美丽的日出。"
           }
         ]
       },
       {
         "text": "population",
-        "phonetic": "[jpɒpjʊ'leɪʃn]",
+        "phonetic": "[.pɒpju'leiʃәn]",
         "meaning": "n. 人口、人口数；群体、总体",
         "app_sentences": [
           {
-            "en": "Example sentence for population.",
-            "cn": "暂无例句。"
+            "en": "China has a very large population of over 1.4 billion people.",
+            "cn": "中国人口众多，超过14亿。"
           }
         ]
       },
       {
         "text": "wide",
-        "phonetic": "[waɪd]",
+        "phonetic": "[waid]",
         "meaning": "n. 大千世界；adj. 宽的、广阔的、普遍的；adv. 广阔地、遍及各处地、广泛地",
         "app_sentences": [
           {
-            "en": "Example sentence for wide.",
-            "cn": "暂无例句。"
+            "en": "The river near our town is very wide and deep.",
+            "cn": "我们镇附近的那条河又宽又深。"
           }
         ]
       },
       {
         "text": "million",
-        "phonetic": "['mɪljən]",
+        "phonetic": "['miljәn]",
         "meaning": "n. 百万、无数；num. 百万",
         "app_sentences": [
           {
-            "en": "Example sentence for million.",
-            "cn": "暂无例句。"
+            "en": "More than a million people visit the museum every year.",
+            "cn": "每年有超过一百万人参观这家博物馆。"
           }
         ]
       },
       {
         "text": "pretty",
-        "phonetic": "['prɪti]",
+        "phonetic": "['priti]",
         "meaning": "adj. 漂亮的、优美的、机灵的；adv. 相当、颇",
         "app_sentences": [
           {
-            "en": "Example sentence for pretty.",
-            "cn": "暂无例句。"
+            "en": "The garden looks pretty with all the colorful flowers.",
+            "cn": "花园里开满五颜六色的花，看起来很漂亮。"
           }
         ]
       },
       {
         "text": "pretty good",
-        "phonetic": "",
+        "phonetic": "[ˈpriti ɡud]",
         "meaning": "可以、不离儿",
         "app_sentences": [
           {
-            "en": "Example sentence for pretty good.",
-            "cn": "暂无例句。"
+            "en": "Her English is pretty good, and she can speak it fluently.",
+            "cn": "她的英语相当不错，能说得很流利。"
           }
         ]
       },
       {
         "text": "than",
-        "phonetic": "[ðæn；ðən]",
+        "phonetic": "[ðæn]",
         "meaning": "prep. 比；conj. 比、除...外",
         "app_sentences": [
           {
-            "en": "Example sentence for than.",
-            "cn": "暂无例句。"
+            "en": "My sister is two years younger than me.",
+            "cn": "我妹妹比我小两岁。"
           }
         ]
       },
@@ -567,30 +591,38 @@
         "meaning": "vt. 得到、获得、变成；vi. 到达、成为、变得；n. (网球等)救球、生殖、幼兽",
         "app_sentences": [
           {
-            "en": "Example sentence for get.",
-            "cn": "暂无例句。"
+            "en": "Can you help me get some water from the kitchen?",
+            "cn": "你能帮我从厨房拿点水来吗？"
+          },
+          {
+            "en": "Can you help me get some water from the kitchen, please?",
+            "cn": "请帮我从厨房拿点水来好吗？"
+          },
+          {
+            "en": "Can you help me get some water from the small kitchen?",
+            "cn": "你能帮我从那个小厨房里拿点水来吗？"
           }
         ]
       },
       {
         "text": "north",
-        "phonetic": "[n0ːθ]",
+        "phonetic": "[nɒ:θ]",
         "meaning": "n. 北方、北；adj. 北的、北方的；adv. 向北方、在北方",
         "app_sentences": [
           {
-            "en": "Example sentence for north.",
-            "cn": "暂无例句。"
+            "en": "Beijing is in the north of China and has four seasons.",
+            "cn": "北京位于中国北方，四季分明。"
           }
         ]
       },
       {
         "text": "south",
-        "phonetic": "[saʊθ]",
+        "phonetic": "[sauθ]",
         "meaning": "vi. 转向南方；n. 南方、南；adj. 南的、向南的",
         "app_sentences": [
           {
-            "en": "Example sentence for south.",
-            "cn": "暂无例句。"
+            "en": "My aunt lives in a small city in the south of China.",
+            "cn": "我阿姨住在中国南方的一个小城市。"
           }
         ]
       },
@@ -600,118 +632,126 @@
         "meaning": "n. 西方、西部；adj. 西方的、向西的；adv. 向西、自西方、在西方",
         "app_sentences": [
           {
-            "en": "Example sentence for west.",
-            "cn": "暂无例句。"
+            "en": "The sun sets in the west and rises in the east every day.",
+            "cn": "太阳每天从西边落下，从东边升起。"
           }
         ]
       },
       {
         "text": "home town",
-        "phonetic": "",
+        "phonetic": "[ˈhəʊmtaʊn]",
         "meaning": "故乡、家乡、祖国",
         "app_sentences": [
           {
-            "en": "Example sentence for home town.",
-            "cn": "暂无例句。"
+            "en": "My home town is a small city famous for its tea production.",
+            "cn": "我的家乡是一个以产茶闻名的小城市。"
           }
         ]
       },
       {
         "text": "especially",
-        "phonetic": "[ɪ'speʃli]",
+        "phonetic": "[i'speʃәli]",
         "meaning": "adv. 尤其、特别、格外",
         "app_sentences": [
           {
-            "en": "Example sentence for especially.",
-            "cn": "暂无例句。"
+            "en": "I like reading books, especially those about history and science.",
+            "cn": "我喜欢读书，尤其是关于历史和科学的书。"
           }
         ]
       },
       {
         "text": "be famous for",
-        "phonetic": "",
+        "phonetic": "[bi: ˈfeɪməs fɔ:]",
         "meaning": "因…而出名、以…着称",
         "app_sentences": [
           {
-            "en": "Example sentence for be famous for.",
-            "cn": "暂无例句。"
+            "en": "Our city is famous for its beautiful mountains and lakes.",
+            "cn": "我们的城市以其美丽的群山和湖泊而闻名。"
           }
         ]
       },
       {
         "text": "university",
-        "phonetic": "[jjuːnɪ'vɜːsəti]",
+        "phonetic": "[.ju:ni'vә:siti]",
         "meaning": "n. 大学",
         "app_sentences": [
           {
-            "en": "Example sentence for university.",
-            "cn": "暂无例句。"
+            "en": "My dream is to go to a good university after high school.",
+            "cn": "我的梦想是高中毕业后去一所好大学。"
+          },
+          {
+            "en": "My elder brother studies computer science at a big university.",
+            "cn": "我哥哥在一所大型大学学习计算机科学。"
           }
         ]
       },
       {
         "text": "island",
-        "phonetic": "['aɪlənd]",
+        "phonetic": "['ailәnd]",
         "meaning": "vt. 使成岛状、孤立；n. 岛、岛屿、孤立地区",
         "app_sentences": [
           {
-            "en": "Example sentence for island.",
-            "cn": "暂无例句。"
+            "en": "They spent their holiday on a beautiful island in the south.",
+            "cn": "他们在南方一个美丽的海岛上度过了假期。"
+          },
+          {
+            "en": "We went to a beautiful island for our holiday last summer.",
+            "cn": "去年夏天我们去了一个美丽的岛屿度假。"
           }
         ]
       },
       {
         "text": "area",
-        "phonetic": "['eəriə]",
+        "phonetic": "['єәriә]",
         "meaning": "n. 区域、面积、范围；区域",
         "app_sentences": [
           {
-            "en": "Example sentence for area.",
-            "cn": "暂无例句。"
+            "en": "There is a big playground in the school sports area.",
+            "cn": "学校运动区有一个大操场。"
           }
         ]
       },
       {
         "text": "low",
-        "phonetic": "[ləʊ]",
+        "phonetic": "[lәu]",
         "meaning": "vi. 牛叫；n. 低点、低价、低；adj. 低的、消沉的、低等的",
         "app_sentences": [
           {
-            "en": "Example sentence for low.",
-            "cn": "暂无例句。"
+            "en": "The temperature will be very low tonight, so keep warm.",
+            "cn": "今晚气温会很低，所以请保暖。"
           }
         ]
       },
       {
         "text": "mountain",
-        "phonetic": "['maʊntɪn]",
+        "phonetic": "['mauntin]",
         "meaning": "n. 山、山脉、大堆",
         "app_sentences": [
           {
-            "en": "Example sentence for mountain.",
-            "cn": "暂无例句。"
+            "en": "Last summer, we climbed a high mountain with my family.",
+            "cn": "去年夏天，我们全家爬了一座高山。"
           }
         ]
       },
       {
         "text": "countryside",
-        "phonetic": "['kʌntrijsaɪd]",
+        "phonetic": "['kʌntrisaid]",
         "meaning": "n. 乡下地方、乡下居民",
         "app_sentences": [
           {
-            "en": "Example sentence for countryside.",
-            "cn": "暂无例句。"
+            "en": "I like to spend my weekends in the peaceful countryside.",
+            "cn": "我喜欢在宁静的乡下度过周末。"
           }
         ]
       },
       {
         "text": "umbrella",
-        "phonetic": "[ʌm'brelə]",
+        "phonetic": "[ʌm'brelә]",
         "meaning": "vt. 用伞遮掩；n. 伞、雨伞、保护伞；adj. 伞的、包罗万象的",
         "app_sentences": [
           {
-            "en": "Example sentence for umbrella.",
-            "cn": "暂无例句。"
+            "en": "Remember to bring an umbrella because it might rain today.",
+            "cn": "记得带把伞，因为今天可能会下雨。"
           }
         ]
       }
@@ -724,89 +764,93 @@
     "data": [
       {
         "text": "baseball",
-        "phonetic": "['beɪsjb0ːl]",
+        "phonetic": "['beisbɒ:l]",
         "meaning": "n. 棒球；棒球系统",
         "app_sentences": [
           {
-            "en": "Example sentence for baseball.",
-            "cn": "暂无例句。"
+            "en": "Baseball is a popular game in the United States and Japan.",
+            "cn": "棒球在美联国和日本是一项受欢迎的游戏。"
           }
         ]
       },
       {
         "text": "volleyball",
-        "phonetic": "['vɒlijb0ːl]",
+        "phonetic": "['vɒlibɒ:l]",
         "meaning": "n. 排球",
         "app_sentences": [
           {
-            "en": "Example sentence for volleyball.",
-            "cn": "暂无例句。"
+            "en": "We have a volleyball match against Class Two next Monday.",
+            "cn": "我们下周一和二班有一场排球比赛。"
           }
         ]
       },
       {
         "text": "boring",
-        "phonetic": "['b0ːrɪ9]",
+        "phonetic": "['bɒ:riŋ]",
         "meaning": "n. 钻(孔)adj.令人厌烦的；adj. 烦人的、无聊的、无趣的；成孔期、搪孔",
         "app_sentences": [
           {
-            "en": "Example sentence for boring.",
-            "cn": "暂无例句。"
+            "en": "I think the film is boring because nothing exciting happens.",
+            "cn": "我认为这部电影很无聊，因为没有发生什么激动人心的事。"
           }
         ]
       },
       {
         "text": "exciting",
-        "phonetic": "[ɪk'saɪtɪ9]",
+        "phonetic": "[ik'saitiŋ]",
         "meaning": "adj. 令人兴奋的、刺激的；激磁",
         "app_sentences": [
           {
-            "en": "Example sentence for exciting.",
-            "cn": "暂无例句。"
+            "en": "The school trip to the museum was very exciting for everyone.",
+            "cn": "去博物馆的学校旅行对每个人来说都非常令人兴奋。"
+          },
+          {
+            "en": "The football match we watched last night was very exciting.",
+            "cn": "我们昨晚看的那场足球赛非常精彩。"
           }
         ]
       },
       {
         "text": "relaxing",
-        "phonetic": "[rɪ'læksɪ9]",
+        "phonetic": "[rɪˈlæksɪŋ]",
         "meaning": "adj. 令人轻松的",
         "app_sentences": [
           {
-            "en": "Example sentence for relaxing.",
-            "cn": "暂无例句。"
+            "en": "Listening to music is a very relaxing way to spend your free time.",
+            "cn": "听音乐是度过闲暇时光的一种非常放松的方式。"
           }
         ]
       },
       {
         "text": "score",
-        "phonetic": "[sk0ː]",
+        "phonetic": "[skɒ:]",
         "meaning": "vt. 刻划、划线、获得；vi. 刻痕、记分、得分；n. 得分、抓痕、二十个",
         "app_sentences": [
           {
-            "en": "Example sentence for score.",
-            "cn": "暂无例句。"
+            "en": "What was the final score in yesterday's football match?",
+            "cn": "昨天足球比赛的最终比分是多少？"
           }
         ]
       },
       {
         "text": "already",
-        "phonetic": "[0ːl'redi]",
+        "phonetic": "[ɒ:l'redi]",
         "meaning": "adv. 已经、早已",
         "app_sentences": [
           {
-            "en": "Example sentence for already.",
-            "cn": "暂无例句。"
+            "en": "I have already read this interesting book twice.",
+            "cn": "我已经把这本书有趣的书读了两遍。"
           }
         ]
       },
       {
         "text": "matter",
-        "phonetic": "['mætə]",
+        "phonetic": "['mætә]",
         "meaning": "vi. 有关系；n. 事件、物质、原因",
         "app_sentences": [
           {
-            "en": "Example sentence for matter.",
-            "cn": "暂无例句。"
+            "en": "What's the matter? You look worried today.",
+            "cn": "怎么了？你今天看起来忧心忡忡。"
           }
         ]
       },
@@ -816,74 +860,82 @@
         "meaning": "na. 发生了什么事?；怎么了、出什么事了、你怎么了",
         "app_sentences": [
           {
-            "en": "Example sentence for What's the matter.",
-            "cn": "暂无例句。"
+            "en": "What's the matter? You look a bit pale and tired today.",
+            "cn": "怎么了？你今天看起来有点苍白和疲倦。"
           }
         ]
       },
       {
         "text": "hurt",
-        "phonetic": "[hɜːt]",
+        "phonetic": "[hә:t]",
         "meaning": "v. 伤害、(使)伤心、危害；n. 伤害、创伤、损害",
         "app_sentences": [
           {
-            "en": "Example sentence for hurt.",
-            "cn": "暂无例句。"
+            "en": "I accidentally hurt my arm while I was playing football.",
+            "cn": "我踢足球时意外弄伤了胳膊。"
           }
         ]
       },
       {
         "text": "enjoyable",
-        "phonetic": "[ɪndʒd30ɪəbl]",
+        "phonetic": "[in'dʒɒiәbl]",
         "meaning": "adj. 可从中得到乐趣的、令人愉快的",
         "app_sentences": [
           {
-            "en": "Example sentence for enjoyable.",
-            "cn": "暂无例句。"
+            "en": "Our class trip to the museum was a very enjoyable experience.",
+            "cn": "我们的博物馆班级旅行是一次非常愉快的体验。"
           }
         ]
       },
       {
         "text": "Olympics",
-        "phonetic": "[ə'lɪmpɪks]",
+        "phonetic": "[әu'limpiks]",
         "meaning": "n. 奥林匹克运动会",
         "app_sentences": [
           {
-            "en": "Example sentence for Olympics.",
-            "cn": "暂无例句。"
+            "en": "Many athletes train for years to compete in the Olympics.",
+            "cn": "许多运动员为参加奥运会训练多年。"
           }
         ]
       },
       {
         "text": "stadium",
-        "phonetic": "['steɪdiəm]",
+        "phonetic": "['steidiәm]",
         "meaning": "n. 露天大型运动场；期、病期",
         "app_sentences": [
           {
-            "en": "Example sentence for stadium.",
-            "cn": "暂无例句。"
+            "en": "Thousands of people went to the stadium to watch the match.",
+            "cn": "数千人去体育场观看了比赛。"
           }
         ]
       },
       {
         "text": "miss",
-        "phonetic": "[mɪs]",
+        "phonetic": "[mis]",
         "meaning": "vt. 未得到、未达到、未听到；vi. 失败、击不中；n. 失误、避免、失败",
         "app_sentences": [
           {
-            "en": "Example sentence for miss.",
-            "cn": "暂无例句。"
+            "en": "I miss my primary school teachers and friends very much.",
+            "cn": "我非常想念我的小学老师和朋友们。"
+          },
+          {
+            "en": "I miss my best friend because she moved to another city.",
+            "cn": "我想念我最好的朋友，因为她搬到了另一个城市。"
+          },
+          {
+            "en": "I miss my old friends from my primary school.",
+            "cn": "我想念我小学时的老朋友。"
           }
         ]
       },
       {
         "text": "mind",
-        "phonetic": "[maɪnd]",
+        "phonetic": "[maind]",
         "meaning": "vt. 注意、留意、专心于；vi. 介意、注意、留心；n. 思想、愿望、智力",
         "app_sentences": [
           {
-            "en": "Example sentence for mind.",
-            "cn": "暂无例句。"
+            "en": "Would you mind closing the window? It's a little cold.",
+            "cn": "你介意关一下窗户吗？有点冷。"
           }
         ]
       },
@@ -893,41 +945,45 @@
         "meaning": "n. 充分、很多、丰富；adj. 很多的、足够的、丰富的",
         "app_sentences": [
           {
-            "en": "Example sentence for plenty.",
-            "cn": "暂无例句。"
+            "en": "There is plenty of food at the party, so please enjoy it.",
+            "cn": "聚会上有充足的食物，所以请享用。"
           }
         ]
       },
       {
         "text": "plenty of",
-        "phonetic": "",
+        "phonetic": "[ˈplenti ɔv]",
         "meaning": "许多的",
         "app_sentences": [
           {
-            "en": "Example sentence for plenty of.",
-            "cn": "暂无例句。"
+            "en": "There is plenty of fresh fruit and vegetables in the kitchen.",
+            "cn": "厨房里有充足的新鲜水果和蔬菜。"
           }
         ]
       },
       {
         "text": "beat",
-        "phonetic": "[biːt]",
+        "phonetic": "[bi:t]",
         "meaning": "v. 打、拍打、打败；n. 心跳(声)、打、敲打声；adj. 疲乏的、颓废的",
         "app_sentences": [
           {
-            "en": "Example sentence for beat.",
-            "cn": "暂无例句。"
+            "en": "You need to beat the eggs well before you make the cake.",
+            "cn": "做蛋糕前你需要把鸡蛋打好。"
+          },
+          {
+            "en": "Our school basketball team beat their team in the final game.",
+            "cn": "我们学校的篮球队在决赛中打败了他们队。"
           }
         ]
       },
       {
         "text": "careless",
-        "phonetic": "['keələs]",
+        "phonetic": "['kєәlis]",
         "meaning": "adj. 粗心的、不关心的、无忧无虑的",
         "app_sentences": [
           {
-            "en": "Example sentence for careless.",
-            "cn": "暂无例句。"
+            "en": "He was careless and lost his new pencil case on the bus.",
+            "cn": "他很粗心，把新铅笔盒丢在公交车上了。"
           }
         ]
       },
@@ -937,184 +993,196 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for cheer... on.",
-            "cn": "暂无例句。"
+            "en": "We went to the stadium to cheer our school team on.",
+            "cn": "我们去体育场为我们的校队加油。"
           }
         ]
       },
       {
         "text": "coach",
-        "phonetic": "[kəʊtʃ]",
+        "phonetic": "[kәutʃ]",
         "meaning": "vt. 训练、指导；vi. 坐马车旅行、作指导；n. 四轮大马车、教练",
         "app_sentences": [
           {
-            "en": "Example sentence for coach.",
-            "cn": "暂无例句。"
+            "en": "The football coach teaches us how to play better as a team.",
+            "cn": "足球教练教我们如何作为一个团队打得更好。"
           }
         ]
       },
       {
         "text": "fan club",
-        "phonetic": "",
+        "phonetic": "[fæn klʌb]",
         "meaning": "n. 追星族俱乐部、粉丝俱乐部、后援会",
         "app_sentences": [
           {
-            "en": "Example sentence for fan club.",
-            "cn": "暂无例句。"
+            "en": "She joined the fan club of her favourite pop singer.",
+            "cn": "她加入了她最喜欢的流行歌手的歌迷俱乐部。"
           }
         ]
       },
       {
         "text": "against",
-        "phonetic": "[ə'genst]",
+        "phonetic": "[ә'geinst]",
         "meaning": "prep. 反对、对着、倚靠",
         "app_sentences": [
           {
-            "en": "Example sentence for against.",
-            "cn": "暂无例句。"
+            "en": "Our school football team will play against their team this Friday.",
+            "cn": "我们学校足球队这周五将和他们队比赛。"
           }
         ]
       },
       {
         "text": "train",
-        "phonetic": "[treɪn]",
+        "phonetic": "[trein]",
         "meaning": "vt. 训练、教育、对准；vi. 受训练、锻炼；n. 火车、列车、行列",
         "app_sentences": [
           {
-            "en": "Example sentence for train.",
-            "cn": "暂无例句。"
+            "en": "We will take the high-speed train to Beijing next Monday.",
+            "cn": "下周一我们将乘高铁去北京。"
+          },
+          {
+            "en": "We will take a train to Beijing during the summer holiday.",
+            "cn": "暑假期间我们将坐火车去北京。"
           }
         ]
       },
       {
         "text": "practice",
-        "phonetic": "['præktɪs]",
+        "phonetic": "['præktis]",
         "meaning": "v. 实践、实行、练习；n. 实践、练习、实行",
         "app_sentences": [
           {
-            "en": "Example sentence for practice.",
-            "cn": "暂无例句。"
+            "en": "You need more practice if you want to speak English well.",
+            "cn": "如果你想英语说得好，你需要更多的练习。"
           }
         ]
       },
       {
         "text": "warm",
-        "phonetic": "[w0ːm]",
+        "phonetic": "[wɒ:m]",
         "meaning": "vt. 使温暖、弄热、使兴奋；vi. 变暖和、变温暖、取暖；n. 暖、保暖物",
         "app_sentences": [
           {
-            "en": "Example sentence for warm.",
-            "cn": "暂无例句。"
+            "en": "The weather is becoming warm and pleasant in the spring.",
+            "cn": "春天天气变得温暖宜人。"
           }
         ]
       },
       {
         "text": "warm up",
-        "phonetic": "",
+        "phonetic": "[英 ˈwɔːm ʌp 美 ˈwɔːrm ʌp]",
         "meaning": "热身、重新煮热、变暖；温车",
         "app_sentences": [
           {
-            "en": "Example sentence for warm up.",
-            "cn": "暂无例句。"
+            "en": "It is important to warm up your body before doing sports.",
+            "cn": "做运动前热身很重要。"
           }
         ]
       },
       {
         "text": "usual",
-        "phonetic": "['juː3ʊəl]",
+        "phonetic": "['ju:ʒuәl]",
         "meaning": "adj. 平常的、通常的",
         "app_sentences": [
           {
-            "en": "Example sentence for usual.",
-            "cn": "暂无例句。"
+            "en": "As usual, he got up early and went for a run in the park.",
+            "cn": "像往常一样，他起得很早，去公园跑步了。"
           }
         ]
       },
       {
         "text": "better",
-        "phonetic": "['betə]",
+        "phonetic": "['betә]",
         "meaning": "adj. 较好的；adv. 比较好",
         "app_sentences": [
           {
-            "en": "Example sentence for better.",
-            "cn": "暂无例句。"
+            "en": "I hope you will feel better after taking this medicine.",
+            "cn": "我希望你吃了这药后会感觉好一些。"
           }
         ]
       },
       {
         "text": "after-school",
-        "phonetic": "['4ːftəjskuːl]",
+        "phonetic": "['ɑ:ftərsk'u:l]",
         "meaning": "adj. 课外的",
         "app_sentences": [
           {
-            "en": "Example sentence for after-school.",
-            "cn": "暂无例句。"
+            "en": "We have many interesting after-school activities like music and sports.",
+            "cn": "我们有很多有趣的课外活动，比如音乐和体育。"
           }
         ]
       },
       {
         "text": "pleased",
-        "phonetic": "[pliːzd]",
+        "phonetic": "[pli:zd]",
         "meaning": "adj. 高兴的、喜欢的、满足的",
         "app_sentences": [
           {
-            "en": "Example sentence for pleased.",
-            "cn": "暂无例句。"
+            "en": "The teacher was very pleased with our hard work this term.",
+            "cn": "老师对我们这学期的努力感到非常满意。"
           }
         ]
       },
       {
         "text": "pass",
-        "phonetic": "[p4ːs]",
+        "phonetic": "[pæs]",
         "meaning": "vt. 经过、越过、通过；vi. 经过、变化、流通；n. 经过、要隘、途径",
         "app_sentences": [
           {
-            "en": "Example sentence for pass.",
-            "cn": "暂无例句。"
+            "en": "I hope I can pass all my subjects this term.",
+            "cn": "我希望这学期我能通过所有科目。"
+          },
+          {
+            "en": "Please pass the salt to me during dinner.",
+            "cn": "请吃饭时把盐递给我。"
+          },
+          {
+            "en": "I hope to pass all my exams at the end of this term.",
+            "cn": "我希望在这学期末通过我所有的考试。"
           }
         ]
       },
       {
         "text": "pity",
-        "phonetic": "['pɪti]",
+        "phonetic": "['piti]",
         "meaning": "v. (觉得)可怜n.憾事、怜悯、同情；vt. 同情、怜悯；vi. 觉得可怜、有同情心",
         "app_sentences": [
           {
-            "en": "Example sentence for pity.",
-            "cn": "暂无例句。"
+            "en": "It's a pity that you couldn't come to my birthday party.",
+            "cn": "非常遗憾你没能来参加我的生日派对。"
           }
         ]
       },
       {
         "text": "chance",
-        "phonetic": "[tʃ4ːns]",
+        "phonetic": "[tʃɑːns]",
         "meaning": "vt. 冒险；vi. 偶然发生；n. 机会、意外、可能性",
         "app_sentences": [
           {
-            "en": "Example sentence for chance.",
-            "cn": "暂无例句。"
+            "en": "This is a good chance for you to make new friends at camp.",
+            "cn": "这是你在营地结交新朋友的好机会。"
           }
         ]
       },
       {
         "text": "loudly",
-        "phonetic": "['laʊdli]",
+        "phonetic": "['laudli]",
         "meaning": "adv. 高声地、大声地、吵闹地",
         "app_sentences": [
           {
-            "en": "Example sentence for loudly.",
-            "cn": "暂无例句。"
+            "en": "Don't talk loudly in the library; people are studying there.",
+            "cn": "不要在图书馆大声说话；人们在那里学习。"
           }
         ]
       },
       {
         "text": "confident",
-        "phonetic": "['kɒnfɪdənt]",
+        "phonetic": "['kɒnfidәnt]",
         "meaning": "adj. 有信心的、有把握的",
         "app_sentences": [
           {
-            "en": "Example sentence for confident.",
-            "cn": "暂无例句。"
+            "en": "She is very confident that she can win the English speech contest.",
+            "cn": "她非常有信心她能赢得英语演讲比赛。"
           }
         ]
       }
@@ -1127,166 +1195,182 @@
     "data": [
       {
         "text": "road",
-        "phonetic": "[rəʊd]",
+        "phonetic": "[rәud]",
         "meaning": "n. 路、道路、公路；公路、道路、行车道",
         "app_sentences": [
           {
-            "en": "Example sentence for road.",
-            "cn": "暂无例句。"
+            "en": "Be careful when you cross the road. Look left and right first.",
+            "cn": "过马路时要小心。先左右看看。"
           }
         ]
       },
       {
         "text": "accident",
-        "phonetic": "['æksɪdənt]",
+        "phonetic": "['æksidәnt]",
         "meaning": "n. 意外事件、机遇、事故；意外事故、事故",
         "app_sentences": [
           {
-            "en": "Example sentence for accident.",
-            "cn": "暂无例句。"
+            "en": "Always be careful to avoid a traffic accident when crossing the road.",
+            "cn": "过马路时要始终小心，避免发生交通事故。"
           }
         ]
       },
       {
         "text": "except",
-        "phonetic": "[ɪk'sept]",
+        "phonetic": "[ik'sept]",
         "meaning": "vt. 除、除外；vi. 反对；prep. 除了...之外、若不是、除非",
         "app_sentences": [
           {
-            "en": "Example sentence for except.",
-            "cn": "暂无例句。"
+            "en": "Everyone in our class went to the museum except Tom.",
+            "cn": "除了汤姆，我们班每个人都去了博物馆。"
           }
         ]
       },
       {
         "text": "choice",
-        "phonetic": "[tʃ0ɪs]",
+        "phonetic": "[tʃɒis]",
         "meaning": "n. 选择、精选品、选择权；adj. 精选的、挑三拣四的、上等的；DOS内部命令:在批处理文件中",
         "app_sentences": [
           {
-            "en": "Example sentence for choice.",
-            "cn": "暂无例句。"
+            "en": "It is your choice to decide which book to read first.",
+            "cn": "由你选择先读哪本书。"
           }
         ]
       },
       {
         "text": "classmate",
-        "phonetic": "['kl4ːsjmeɪt]",
+        "phonetic": "['klɑ:smeit]",
         "meaning": "n. 同班同学",
         "app_sentences": [
           {
-            "en": "Example sentence for classmate.",
-            "cn": "暂无例句。"
+            "en": "My deskmate is also my best classmate and friend.",
+            "cn": "我的同桌也是我最好的同学和朋友。"
+          },
+          {
+            "en": "I often play football with my classmates after school.",
+            "cn": "我经常在放学后和同学们一起踢足球。"
           }
         ]
       },
       {
         "text": "far",
-        "phonetic": "[f4ː]",
+        "phonetic": "[fɑ:]",
         "meaning": "adj. 远的、久远的、遥远的；adv. 甚远地、很、到很深的程度",
         "app_sentences": [
           {
-            "en": "Example sentence for far.",
-            "cn": "暂无例句。"
+            "en": "The new library is not very far from our school.",
+            "cn": "新图书馆离我们学校不是很远。"
           }
         ]
       },
       {
         "text": "far from",
-        "phonetic": "",
+        "phonetic": "[fɑ: frɒm]",
         "meaning": "远离、远非",
         "app_sentences": [
           {
-            "en": "Example sentence for far from.",
-            "cn": "暂无例句。"
+            "en": "We should live far from the noisy city during our holidays.",
+            "cn": "假期里我们应该远离喧闹的城市。"
           }
         ]
       },
       {
         "text": "close",
-        "phonetic": "[kləʊs]",
+        "phonetic": "[klәuz]",
         "meaning": "v. 关、关闭、结束；vt. 关、结束、使靠近；vi. 关闭、结束、靠近",
         "app_sentences": [
           {
-            "en": "Example sentence for close.",
-            "cn": "暂无例句。"
+            "en": "Please remember to close the window when you leave the room.",
+            "cn": "离开房间时请记得关窗。"
           }
         ]
       },
       {
         "text": "crowded",
-        "phonetic": "['kraʊdɪd]",
+        "phonetic": "['kraudid]",
         "meaning": "adj. 拥挤的、塞满的",
         "app_sentences": [
           {
-            "en": "Example sentence for crowded.",
-            "cn": "暂无例句。"
+            "en": "The bus is always very crowded in the morning.",
+            "cn": "早上公共汽车总是非常拥挤。"
           }
         ]
       },
       {
         "text": "all the time",
-        "phonetic": "",
+        "phonetic": "[ɔ:l ðə taɪm]",
         "meaning": "始终",
         "app_sentences": [
           {
-            "en": "Example sentence for all the time.",
-            "cn": "暂无例句。"
+            "en": "He is very hardworking and studies English all the time.",
+            "cn": "他非常努力，一直在学习英语。"
           }
         ]
       },
       {
         "text": "journey",
-        "phonetic": "['d3ɜːni]",
+        "phonetic": "['dʒә:ni]",
         "meaning": "vt. 游历；vi. 旅行；n. 旅程、旅行、行程",
         "app_sentences": [
           {
-            "en": "Example sentence for journey.",
-            "cn": "暂无例句。"
+            "en": "The bus journey from my home to school takes about twenty minutes.",
+            "cn": "从我家到学校的公交车旅程大约需要二十分钟。"
+          },
+          {
+            "en": "Our journey to the mountains was very exciting and fun.",
+            "cn": "我们的山区之行非常令人兴奋且有趣。"
           }
         ]
       },
       {
         "text": "book",
-        "phonetic": "[bʊk]",
+        "phonetic": "[buk]",
         "meaning": "v. 登记、预订；n. 书、书籍、帐簿；工作簿",
         "app_sentences": [
           {
-            "en": "Example sentence for book.",
-            "cn": "暂无例句。"
+            "en": "I decided to book a hotel room online for our holiday.",
+            "cn": "我决定在网上为我们的假期预订一间酒店房间。"
+          },
+          {
+            "en": "I like reading books about space and wild animals.",
+            "cn": "我喜欢读关于太空和野生动物的书。"
           }
         ]
       },
       {
         "text": "park",
-        "phonetic": "[p4ːk]",
+        "phonetic": "[pɑ:k]",
         "meaning": "vt. 停车、置于；vi. 停车；n. 公园、停车处",
         "app_sentences": [
           {
-            "en": "Example sentence for park.",
-            "cn": "暂无例句。"
+            "en": "We like to walk in the park after dinner every night.",
+            "cn": "我们喜欢每天晚饭后在公园里散步。"
+          },
+          {
+            "en": "My family often goes to the park for a walk on weekends.",
+            "cn": "我们家人通常在周末去公园散步。"
           }
         ]
       },
       {
         "text": "outside",
-        "phonetic": "[jaʊt'saɪd]",
+        "phonetic": "['aut'said]",
         "meaning": "n. 外面、外表、外界；adj. 外面的、外表的、外界的；adv. 外面、外表、外界",
         "app_sentences": [
           {
-            "en": "Example sentence for outside.",
-            "cn": "暂无例句。"
+            "en": "It is sunny outside, so let's play football in the park.",
+            "cn": "外面阳光明媚，我们去公园踢足球吧。"
           }
         ]
       },
       {
         "text": "however",
-        "phonetic": "[haʊ'evə]",
+        "phonetic": "[hau'evә]",
         "meaning": "adv. 然而、无论如何、究竟怎样；conj. 然而、可是",
         "app_sentences": [
           {
-            "en": "Example sentence for however.",
-            "cn": "暂无例句。"
+            "en": "I like swimming; however, I am not very good at it yet.",
+            "cn": "我喜欢游泳；然而，我还不是很擅长。"
           }
         ]
       },
@@ -1296,8 +1380,8 @@
         "meaning": "vt. 使失去、值、使花费；vi. 花费；n. 代价、价值、费用",
         "app_sentences": [
           {
-            "en": "Example sentence for cost.",
-            "cn": "暂无例句。"
+            "en": "This new bicycle costs too much money for me to buy now.",
+            "cn": "这辆新自行车太贵了，我现在买不起。"
           }
         ]
       }
@@ -1310,34 +1394,38 @@
     "data": [
       {
         "text": "actress",
-        "phonetic": "['æktrəs]",
+        "phonetic": "['æktris]",
         "meaning": "n. 女演员",
         "app_sentences": [
           {
-            "en": "Example sentence for actress.",
-            "cn": "暂无例句。"
+            "en": "She wants to be a famous actress when she grows up.",
+            "cn": "她长大后想成为一名著名的女演员。"
+          },
+          {
+            "en": "The young actress won an award for her first film.",
+            "cn": "这位年轻的女演员因她的第一部电影而获奖。"
           }
         ]
       },
       {
         "text": "teahouse",
-        "phonetic": "['tiːjhaʊs]",
+        "phonetic": "['ti:haus]",
         "meaning": "n. 茶室",
         "app_sentences": [
           {
-            "en": "Example sentence for teahouse.",
-            "cn": "暂无例句。"
+            "en": "In ancient China, people often met and talked in a teahouse.",
+            "cn": "在中国古代，人们经常在茶馆见面和交谈。"
           }
         ]
       },
       {
         "text": "offer",
-        "phonetic": "['ɒfə]",
+        "phonetic": "['ɒfә]",
         "meaning": "vt. 提供、出价、奉献；vi. 出现、献祭、提议；n. 给予(物)、出价、提议",
         "app_sentences": [
           {
-            "en": "Example sentence for offer.",
-            "cn": "暂无例句。"
+            "en": "The shop will offer a discount on all clothes this weekend.",
+            "cn": "这家店本周末所有衣服都会打折。"
           }
         ]
       },
@@ -1347,30 +1435,30 @@
         "meaning": "v. 结束、终结、终止；n. 结束、终点、目标；端、结束",
         "app_sentences": [
           {
-            "en": "Example sentence for end.",
-            "cn": "暂无例句。"
+            "en": "At the end of the term, we will have a big party.",
+            "cn": "在学期结束时，我们将举办一个大型派对。"
           }
         ]
       },
       {
         "text": "in the end",
-        "phonetic": "",
+        "phonetic": "[ɪn ðɪ end]",
         "meaning": "最后、终于",
         "app_sentences": [
           {
-            "en": "Example sentence for in the end.",
-            "cn": "暂无例句。"
+            "en": "In the end, they found the lost keys under the sofa.",
+            "cn": "最后，他们在沙发下找到了丢失的钥匙。"
           }
         ]
       },
       {
         "text": "no idea",
-        "phonetic": "",
+        "phonetic": "[nəʊ aɪˈdɪə]",
         "meaning": "不知道、没有想法、没想法",
         "app_sentences": [
           {
-            "en": "Example sentence for no idea.",
-            "cn": "暂无例句。"
+            "en": "I have no idea how to solve this difficult math problem.",
+            "cn": "我不知道该如何解决这道难题。"
           }
         ]
       },
@@ -1380,85 +1468,85 @@
         "meaning": "vt. 扮演、装作；vi. 行动、表演、假装；n. 行动、行为、幕",
         "app_sentences": [
           {
-            "en": "Example sentence for act.",
-            "cn": "暂无例句。"
+            "en": "In the school play, he will act the role of a brave king.",
+            "cn": "在学校话剧里，他将扮演一位勇敢的国王。"
           }
         ]
       },
       {
         "text": "show",
-        "phonetic": "[ʃəʊ]",
+        "phonetic": "[ʃәu]",
         "meaning": "vt. 表示、显示、展现；vi. 露面、显现、演出；n. 显示、表现、展览",
         "app_sentences": [
           {
-            "en": "Example sentence for show.",
-            "cn": "暂无例句。"
+            "en": "Can you show me how to solve this difficult problem?",
+            "cn": "你能教我怎么解这道难题吗？"
           }
         ]
       },
       {
         "text": "common",
-        "phonetic": "['kɒmən]",
+        "phonetic": "['kɒmәn]",
         "meaning": "adj. 通常的、共同的、通俗的；公用块",
         "app_sentences": [
           {
-            "en": "Example sentence for common.",
-            "cn": "暂无例句。"
+            "en": "It is common for students to feel a little nervous before a test.",
+            "cn": "学生在考试前感到有点紧张是很常见的。"
           }
         ]
       },
       {
         "text": "twentieth",
-        "phonetic": "['twentiəθ]",
+        "phonetic": "['twentiiθ]",
         "meaning": "adj. 第二十的、二十分之一的n.第二十(个)、二十分之一；num. 第二十、二十分之一",
         "app_sentences": [
           {
-            "en": "Example sentence for twentieth.",
-            "cn": "暂无例句。"
+            "en": "Today is my grandmother's twentieth wedding anniversary.",
+            "cn": "今天是我祖母结婚二十周年纪念日。"
           }
         ]
       },
       {
         "text": "describe",
-        "phonetic": "[dɪ'skraɪb]",
+        "phonetic": "[di'skraib]",
         "meaning": "vt. 描述、描绘、画",
         "app_sentences": [
           {
-            "en": "Example sentence for describe.",
-            "cn": "暂无例句。"
+            "en": "Can you describe your best friend's appearance and personality?",
+            "cn": "你能描述一下你最好朋友的外貌和性格吗？"
           }
         ]
       },
       {
         "text": "society",
-        "phonetic": "[sə'saɪəti]",
+        "phonetic": "[sә'saiәti]",
         "meaning": "n. 社会、社交界、交往",
         "app_sentences": [
           {
-            "en": "Example sentence for society.",
-            "cn": "暂无例句。"
+            "en": "Schools play an important role in our modern society.",
+            "cn": "学校在我们的现代社会中起着重要的作用。"
           }
         ]
       },
       {
         "text": "head teacher",
-        "phonetic": "",
+        "phonetic": "[hed ˈti:tʃə]",
         "meaning": "n. 校长、班主任",
         "app_sentences": [
           {
-            "en": "Example sentence for head teacher.",
-            "cn": "暂无例句。"
+            "en": "The head teacher gave a speech at the school opening ceremony.",
+            "cn": "校长在开学典礼上发表了讲话。"
           }
         ]
       },
       {
         "text": "college",
-        "phonetic": "['kɒlɪd3]",
+        "phonetic": "['kɒlidʒ]",
         "meaning": "n. 学院、大学、学会",
         "app_sentences": [
           {
-            "en": "Example sentence for college.",
-            "cn": "暂无例句。"
+            "en": "My older brother is studying technology at a local college.",
+            "cn": "我哥哥在当地一所学院学习技术。"
           }
         ]
       },
@@ -1468,41 +1556,49 @@
         "meaning": "n. 小说、长篇故事；adj. 新奇的、异常的",
         "app_sentences": [
           {
-            "en": "Example sentence for novel.",
-            "cn": "暂无例句。"
+            "en": "I am reading an interesting novel about a young detective.",
+            "cn": "我正在读一本关于一位年轻侦探的有趣小说。"
           }
         ]
       },
       {
         "text": "name",
-        "phonetic": "[neɪm]",
+        "phonetic": "[neim]",
         "meaning": "vt. 命名、称呼、任命；n. 名字、名称、姓名；adj. 姓名的、据以取名的",
         "app_sentences": [
           {
-            "en": "Example sentence for name.",
-            "cn": "暂无例句。"
+            "en": "Can you tell me the name of that beautiful flower?",
+            "cn": "你能告诉我那朵漂亮花的名字吗？"
           }
         ]
       },
       {
         "text": "if",
-        "phonetic": "[ɪf]",
+        "phonetic": "[if]",
         "meaning": "n. 条件；conj. 如果、是否、无论何时；DOS批处理命令:根据所测试的条件决定是否执行另一条命令",
         "app_sentences": [
           {
-            "en": "Example sentence for if.",
-            "cn": "暂无例句。"
+            "en": "If it is sunny tomorrow, we will have a picnic in the park.",
+            "cn": "如果明天天气晴朗，我们将在公园里野餐。"
+          },
+          {
+            "en": "If it rains tomorrow, we will have to stay at home.",
+            "cn": "如果明天下雨，我们将不得不待在家里。"
           }
         ]
       },
       {
         "text": "magic",
-        "phonetic": "['mæd3ɪk]",
+        "phonetic": "['mædʒik]",
         "meaning": "n. 魔术、魔法；adj. 魔术的、有魔力的、不可思议的",
         "app_sentences": [
           {
-            "en": "Example sentence for magic.",
-            "cn": "暂无例句。"
+            "en": "The children watched a magic show at the school party.",
+            "cn": "孩子们在学校聚会上看了一场魔术表演。"
+          },
+          {
+            "en": "The story about the magical forest is very popular now.",
+            "cn": "关于魔法森林的故事现在很受欢迎。"
           }
         ]
       }
@@ -1515,12 +1611,12 @@
     "data": [
       {
         "text": "snake",
-        "phonetic": "[sneɪk]",
+        "phonetic": "[sneik]",
         "meaning": "vt. 迂回、拉、急抽；vi. 曲折行进；n. 蛇、阴险的人",
         "app_sentences": [
           {
-            "en": "Example sentence for snake.",
-            "cn": "暂无例句。"
+            "en": "Some snakes are dangerous, but many are not harmful.",
+            "cn": "有些蛇是危险的，但许多蛇没有害处。"
           }
         ]
       },
@@ -1530,283 +1626,299 @@
         "meaning": "vt. 割颈；vi. 拥抱、拥吻、收缩；n. 脖子、衣领、颈",
         "app_sentences": [
           {
-            "en": "Example sentence for neck.",
-            "cn": "暂无例句。"
+            "en": "My school bag is heavy and it sometimes hurts my neck.",
+            "cn": "我的书包很重，有时会弄疼我的脖子。"
           }
         ]
       },
       {
         "text": "thin",
-        "phonetic": "[θɪn]",
+        "phonetic": "[θin]",
         "meaning": "vt. 使变薄、使变细、使稀少；vi. 变薄、变细、变少；n. 细小部分",
         "app_sentences": [
           {
-            "en": "Example sentence for thin.",
-            "cn": "暂无例句。"
+            "en": "The paper is very thin and easy to tear if not careful.",
+            "cn": "这纸很薄，如果不小心很容易撕破。"
           }
         ]
       },
       {
         "text": "danger",
-        "phonetic": "['deɪnd3ə]",
+        "phonetic": "['deindʒә]",
         "meaning": "n. 危险、威胁；危险、危险物、危机",
         "app_sentences": [
           {
-            "en": "Example sentence for danger.",
-            "cn": "暂无例句。"
+            "en": "Wild animals are in danger because their natural homes are lost.",
+            "cn": "野生动物由于天然家园的丧失正处于危险之中。"
+          },
+          {
+            "en": "There is danger in playing with fire because it can burn you.",
+            "cn": "玩火有危险，因为它会烧伤你。"
           }
         ]
       },
       {
         "text": "in danger",
-        "phonetic": "",
+        "phonetic": "[ɪn ˈdeɪndʒə]",
         "meaning": "在危险中",
         "app_sentences": [
           {
-            "en": "Example sentence for in danger.",
-            "cn": "暂无例句。"
+            "en": "Many wild animals are in danger because of the loss of forests.",
+            "cn": "由于森林的丧失，许多野生动物正处于危险之中。"
           }
         ]
       },
       {
         "text": "at last",
-        "phonetic": "",
+        "phonetic": "[æt lɑ:st]",
         "meaning": "终于",
         "app_sentences": [
           {
-            "en": "Example sentence for at last.",
-            "cn": "暂无例句。"
+            "en": "At last, we finished our project and felt very happy.",
+            "cn": "最后，我们完成了项目，感到非常开心。"
           }
         ]
       },
       {
         "text": "interested",
-        "phonetic": "['ɪntrəstɪd]",
+        "phonetic": "['intristid]",
         "meaning": "adj. 感兴趣的；有利害关系的、有股份的、偏私的",
         "app_sentences": [
           {
-            "en": "Example sentence for interested.",
-            "cn": "暂无例句。"
+            "en": "I am very interested in history and like visiting museums.",
+            "cn": "我对历史非常感兴趣，喜欢参观博物馆。"
           }
         ]
       },
       {
         "text": "allow",
-        "phonetic": "[ə'laʊ]",
+        "phonetic": "[ә'lau]",
         "meaning": "vt. 允许、同意给予、承认；vi. 容许、猜想；允许命令",
         "app_sentences": [
           {
-            "en": "Example sentence for allow.",
-            "cn": "暂无例句。"
+            "en": "My parents allow me to watch TV for one hour after dinner.",
+            "cn": "我父母允许我晚饭后看一小时电视。"
           }
         ]
       },
       {
         "text": "think of",
-        "phonetic": "",
+        "phonetic": "[θɪŋk ɒv]",
         "meaning": "考虑、关心、想起",
         "app_sentences": [
           {
-            "en": "Example sentence for think of.",
-            "cn": "暂无例句。"
+            "en": "I can't think of any other way to help them at the moment.",
+            "cn": "目前我想不出任何其他办法来帮助他们。"
           }
         ]
       },
       {
         "text": "protect",
-        "phonetic": "[prə'tekt]",
+        "phonetic": "[prә'tekt]",
         "meaning": "vt. 防卫、保护、警戒；庇护、保护、警戒",
         "app_sentences": [
           {
-            "en": "Example sentence for protect.",
-            "cn": "暂无例句。"
+            "en": "We should protect wild animals and not hurt them.",
+            "cn": "我们应该保护野生动物，不伤害它们。"
           }
         ]
       },
       {
         "text": "wild",
-        "phonetic": "[waɪld]",
+        "phonetic": "[waild]",
         "meaning": "n. 荒野、荒地；adj. 野性的、野蛮的、野生的；adv. 狂暴地、失控地",
         "app_sentences": [
           {
-            "en": "Example sentence for wild.",
-            "cn": "暂无例句。"
+            "en": "We should protect wild animals and their natural homes.",
+            "cn": "我们应该保护野生动物和它们天然的家。"
           }
         ]
       },
       {
         "text": "grow",
-        "phonetic": "[grəʊ]",
+        "phonetic": "[grәu]",
         "meaning": "vt. 种植、使长满；vi. 生长、变成、发展",
         "app_sentences": [
           {
-            "en": "Example sentence for grow.",
-            "cn": "暂无例句。"
+            "en": "Plants need sunlight and water to grow well.",
+            "cn": "植物需要阳光和水才能生长得好。"
+          },
+          {
+            "en": "My grandfather likes to grow vegetables in his garden.",
+            "cn": "我祖父喜欢在他的花园里种蔬菜。"
+          },
+          {
+            "en": "Many flowers and trees begin to grow in the early spring.",
+            "cn": "许多花木在早春开始生长。"
           }
         ]
       },
       {
         "text": "take away",
-        "phonetic": "",
+        "phonetic": "[teɪk əˈweɪ]",
         "meaning": "取走",
         "app_sentences": [
           {
-            "en": "Example sentence for take away.",
-            "cn": "暂无例句。"
+            "en": "Please don't take away my dictionary; I need it for the class.",
+            "cn": "请别拿走我的词典；我上课需要它。"
           }
         ]
       },
       {
         "text": "enough",
-        "phonetic": "[ɪ'nʌf]",
+        "phonetic": "[i'nʌf]",
         "meaning": "n. 充足、够、很多；adj. 充足的、足够；adv. 足够",
         "app_sentences": [
           {
-            "en": "Example sentence for enough.",
-            "cn": "暂无例句。"
+            "en": "Do we have enough time to finish all the homework?",
+            "cn": "我们有足够的时间完成所有作业吗？"
           }
         ]
       },
       {
         "text": "peace",
-        "phonetic": "[piːs]",
+        "phonetic": "[pi:s]",
         "meaning": "vi. 安静下来、不作声；n. 和平、和约、治安",
         "app_sentences": [
           {
-            "en": "Example sentence for peace.",
-            "cn": "暂无例句。"
+            "en": "We all hope that there will be peace in every country.",
+            "cn": "我们都希望每个国家都能和平。"
           }
         ]
       },
       {
         "text": "in peace",
-        "phonetic": "",
+        "phonetic": "[ɪn pi:s]",
         "meaning": "平静地、安静地、和睦地",
         "app_sentences": [
           {
-            "en": "Example sentence for in peace.",
-            "cn": "暂无例句。"
+            "en": "Everyone hopes that the whole world can live in peace.",
+            "cn": "每个人都希望全世界能生活在和平中。"
           }
         ]
       },
       {
         "text": "notice",
-        "phonetic": "['nəʊtɪs]",
+        "phonetic": "['nәutis]",
         "meaning": "vt. 注意、通知、评论；vi. 注意；n. 注意、布告、通知",
         "app_sentences": [
           {
-            "en": "Example sentence for notice.",
-            "cn": "暂无例句。"
+            "en": "Did you notice the new painting on the classroom wall?",
+            "cn": "你注意到教室墙上的新画了吗？"
           }
         ]
       },
       {
         "text": "look after",
-        "phonetic": "",
+        "phonetic": "[lʊk ˈɑ:ftə]",
         "meaning": "目送、照顾、关心",
         "app_sentences": [
           {
-            "en": "Example sentence for look after.",
-            "cn": "暂无例句。"
+            "en": "Please look after my little dog when I am away on holiday.",
+            "cn": "我度假不在家时，请帮我照顾我的小狗。"
+          },
+          {
+            "en": "Can you help me look after my dog when I am not at home?",
+            "cn": "我不在家时，你能帮我照顾我的狗吗？"
           }
         ]
       },
       {
         "text": "raise",
-        "phonetic": "[reɪz]",
+        "phonetic": "[reiz]",
         "meaning": "vt. 升起、举起、唤起；n. 上升、高地、增高",
         "app_sentences": [
           {
-            "en": "Example sentence for raise.",
-            "cn": "暂无例句。"
+            "en": "We want to raise money to buy new books for the school library.",
+            "cn": "我们想筹钱为学校图书馆购买新书。"
           }
         ]
       },
       {
         "text": "research",
-        "phonetic": "[rɪ'sɜːtʃ ；'riːsɜːtʃ]",
+        "phonetic": "[ri'sә:tʃ]",
         "meaning": "vi. 研究、调查；n. 研究、调查、考察",
         "app_sentences": [
           {
-            "en": "Example sentence for research.",
-            "cn": "暂无例句。"
+            "en": "For our project, we did some research on the life of pandas.",
+            "cn": "为了我们的项目，我们做了一些关于熊猫生活的研究。"
           }
         ]
       },
       {
         "text": "baby",
-        "phonetic": "['beɪbi]",
+        "phonetic": "['beibi]",
         "meaning": "n. 婴孩；婴儿",
         "app_sentences": [
           {
-            "en": "Example sentence for baby.",
-            "cn": "暂无例句。"
+            "en": "My aunt has a new baby who is very cute and small.",
+            "cn": "我阿姨有一个非常可爱且弱小的小宝宝。"
           }
         ]
       },
       {
         "text": "situation",
-        "phonetic": "[jsɪtʃu'eɪʃn]",
+        "phonetic": "[.sitju'eiʃәn]",
         "meaning": "n. 情形、境遇、位置；情境、处境",
         "app_sentences": [
           {
-            "en": "Example sentence for situation.",
-            "cn": "暂无例句。"
+            "en": "In a dangerous situation, we should stay calm and ask for help.",
+            "cn": "在危险情况下，我们应该保持冷静并寻求帮助。"
           }
         ]
       },
       {
         "text": "scientist",
-        "phonetic": "['saɪəntɪst]",
+        "phonetic": "['saiәntist]",
         "meaning": "n. 科学家；科学家",
         "app_sentences": [
           {
-            "en": "Example sentence for scientist.",
-            "cn": "暂无例句。"
+            "en": "The scientist works in a laboratory to find new medicines.",
+            "cn": "那位科学家在实验室工作，寻找新药物。"
           }
         ]
       },
       {
         "text": "produce",
-        "phonetic": "[prə'djuːs]",
+        "phonetic": "[prә'dju:s]",
         "meaning": "vt. 产生、生产、提出；vi. 生产、制造；n. 生产品、物产、后代",
         "app_sentences": [
           {
-            "en": "Example sentence for produce.",
-            "cn": "暂无例句。"
+            "en": "Trees produce oxygen that is very important for us to breathe.",
+            "cn": "树木产生氧气，这对我们呼吸非常重要。"
           }
         ]
       },
       {
         "text": "southwest",
-        "phonetic": "[jsauθ'west]",
+        "phonetic": "[sauθ'west]",
         "meaning": "n. 西南、西南方、西南地区；adj. 西南的、来自西南方的；adv. 往西南、来自西南",
         "app_sentences": [
           {
-            "en": "Example sentence for southwest.",
-            "cn": "暂无例句。"
+            "en": "They decided to travel to the southwest of China next summer.",
+            "cn": "他们决定明年夏天去中国西南部旅游。"
           }
         ]
       },
       {
         "text": "in order to",
-        "phonetic": "",
+        "phonetic": "[in ˈɔ:də tu:]",
         "meaning": "为了…",
         "app_sentences": [
           {
-            "en": "Example sentence for in order to.",
-            "cn": "暂无例句。"
+            "en": "He worked hard in order to pass the difficult math exam.",
+            "cn": "他努力学习是为了通过那场很难的数学考试。"
           }
         ]
       },
       {
         "text": "government",
-        "phonetic": "['gʌvnmənt]",
+        "phonetic": "['gʌvәnmәnt]",
         "meaning": "n. 政府、内阁；政府、政治、政体",
         "app_sentences": [
           {
-            "en": "Example sentence for government.",
-            "cn": "暂无例句。"
+            "en": "The local government built a new hospital for the community.",
+            "cn": "当地政府为社区新建了一家医院。"
           }
         ]
       },
@@ -1816,74 +1928,74 @@
         "meaning": "v. 放、置、移动到；vt. 放、安置、放置；vi. 日落、凝固、定型",
         "app_sentences": [
           {
-            "en": "Example sentence for set.",
-            "cn": "暂无例句。"
+            "en": "The sun will set in the west in about one hour.",
+            "cn": "太阳大约一小时后将在西方落下。"
           }
         ]
       },
       {
         "text": "set up",
-        "phonetic": "",
+        "phonetic": "[ˈset ʌp]",
         "meaning": "设立；调定、装置妥、装置妥当",
         "app_sentences": [
           {
-            "en": "Example sentence for set up.",
-            "cn": "暂无例句。"
+            "en": "They decided to set up a new school library for the students.",
+            "cn": "他们决定为学生们建立一个新的学校图书馆。"
           }
         ]
       },
       {
         "text": "nature",
-        "phonetic": "['neɪtʃə]",
+        "phonetic": "['neitʃә]",
         "meaning": "n. 自然、大自然、本性；自然、大自然、本性",
         "app_sentences": [
           {
-            "en": "Example sentence for nature.",
-            "cn": "暂无例句。"
+            "en": "We should love and protect the beauty of nature.",
+            "cn": "我们应该热爱和保护大自然的美。"
           }
         ]
       },
       {
         "text": "nature park",
-        "phonetic": "",
+        "phonetic": "[ˈneɪtʃə pɑ:k]",
         "meaning": "天然公园",
         "app_sentences": [
           {
-            "en": "Example sentence for nature park.",
-            "cn": "暂无例句。"
+            "en": "We had a wonderful picnic in the nature park last weekend.",
+            "cn": "上周末我们在自然公园进行了一次美妙的野餐。"
           }
         ]
       },
       {
         "text": "develop",
-        "phonetic": "[dɪ'veləp]",
+        "phonetic": "[di'velәp]",
         "meaning": "vt. 发展、使发达、进步；vi. 发展、生长",
         "app_sentences": [
           {
-            "en": "Example sentence for develop.",
-            "cn": "暂无例句。"
+            "en": "Children develop new skills quickly when they are young.",
+            "cn": "孩子们在小时候能很快发展新技能。"
           }
         ]
       },
       {
         "text": "feed",
-        "phonetic": "[fiːd]",
+        "phonetic": "[fi:d]",
         "meaning": "vt. 喂、饲养、放牧；vi. 吃东西、用餐、流入；n. 饲料、一餐、饲养",
         "app_sentences": [
           {
-            "en": "Example sentence for feed.",
-            "cn": "暂无例句。"
+            "en": "We feed the fish in the pond with special food every day.",
+            "cn": "我们每天用特殊的食物喂池塘里的鱼。"
           }
         ]
       },
       {
         "text": "symbol",
-        "phonetic": "['sɪmbl]",
+        "phonetic": "['simbl]",
         "meaning": "n. 符号、象征、代号；符号、码元",
         "app_sentences": [
           {
-            "en": "Example sentence for symbol.",
-            "cn": "暂无例句。"
+            "en": "The heart is often a symbol of love and friendship.",
+            "cn": "心通常是爱和友谊的象征。"
           }
         ]
       }
@@ -1896,45 +2008,49 @@
     "data": [
       {
         "text": "fall",
-        "phonetic": "[f0ːl]",
+        "phonetic": "[fɒ:l]",
         "meaning": "vi. 倒下、落下、来临；n. 落下、瀑布、采伐量；adj. 秋天的",
         "app_sentences": [
           {
-            "en": "Example sentence for fall.",
-            "cn": "暂无例句。"
+            "en": "Be careful not to fall on the wet floor in the hallway.",
+            "cn": "小心别在走廊潮湿的地板上摔倒。"
+          },
+          {
+            "en": "Leaves turn yellow and fall from the trees in autumn.",
+            "cn": "秋天，树叶变黄并从树上落下。"
           }
         ]
       },
       {
         "text": "follow",
-        "phonetic": "['fɒləʊ]",
+        "phonetic": "['fɒlәu]",
         "meaning": "vt. 跟随、沿行、遵循；vi. 跟随、接着；n. 跟随、追随",
         "app_sentences": [
           {
-            "en": "Example sentence for follow.",
-            "cn": "暂无例句。"
+            "en": "Please follow me, and I will show you to your new classroom.",
+            "cn": "请跟我来，我带你去你的新教室。"
           }
         ]
       },
       {
         "text": "hole",
-        "phonetic": "[həʊl]",
+        "phonetic": "[hәul]",
         "meaning": "vt. 挖洞、掘坑；vi. 进洞、凿洞；n. 孔、洞、穴",
         "app_sentences": [
           {
-            "en": "Example sentence for hole.",
-            "cn": "暂无例句。"
+            "en": "There is a small hole in my sock, so I need to buy new ones.",
+            "cn": "我的袜子上有一个小洞，所以我需要买新袜子。"
           }
         ]
       },
       {
         "text": "rabbit",
-        "phonetic": "['ræbɪt]",
+        "phonetic": "['ræbit]",
         "meaning": "vt. 让...见鬼去；vi. 猎兔；n. 兔子",
         "app_sentences": [
           {
-            "en": "Example sentence for rabbit.",
-            "cn": "暂无例句。"
+            "en": "The little girl has a white rabbit with long ears.",
+            "cn": "那个小女孩有一只长着长耳朵的白兔。"
           }
         ]
       },
@@ -1944,129 +2060,145 @@
         "meaning": "interj. 嘘！",
         "app_sentences": [
           {
-            "en": "Example sentence for ssh.",
-            "cn": "暂无例句。"
+            "en": "Ssh! Please be quiet; the baby is sleeping in the room.",
+            "cn": "嘘！请安静；宝宝正在房间里睡觉。"
           }
         ]
       },
       {
         "text": "ground",
-        "phonetic": "[graʊnd]",
+        "phonetic": "[graund]",
         "meaning": "vt. 放在地上、使搁浅、打基础；vi. 搁浅、落地、根据；n. 土地、战场、场地",
         "app_sentences": [
           {
-            "en": "Example sentence for ground.",
-            "cn": "暂无例句。"
+            "en": "Don't throw rubbish on the ground. Put it in the bin.",
+            "cn": "不要把垃圾扔在地上，放进垃圾桶里。"
+          },
+          {
+            "en": "There are many yellow leaves on the ground in early autumn.",
+            "cn": "初秋地上有很多黄叶。"
+          },
+          {
+            "en": "The children sat on the ground to have their picnic under the tree.",
+            "cn": "孩子们坐在地上，在树下野餐。"
+          },
+          {
+            "en": "There are many yellow leaves on the ground in autumn.",
+            "cn": "秋天地上有很多黄叶。"
           }
         ]
       },
       {
         "text": "tea party",
-        "phonetic": "",
+        "phonetic": "[英 ˈtiː pɑːti 美 ˈtiː pɑːrti]",
         "meaning": "n. 茶话会、(下午) 茶会、在美国各地抗议高额税收；茶党、茶叶党、茶聚",
         "app_sentences": [
           {
-            "en": "Example sentence for tea party.",
-            "cn": "暂无例句。"
+            "en": "She invited all her friends to a small tea party last Sunday.",
+            "cn": "上周日她邀请所有的朋友来参加一个小茶话会。"
           }
         ]
       },
       {
         "text": "twice",
-        "phonetic": "[twaɪs]",
+        "phonetic": "[twais]",
         "meaning": "adv. 两次、两倍",
         "app_sentences": [
           {
-            "en": "Example sentence for twice.",
-            "cn": "暂无例句。"
+            "en": "I have visited the Great Wall twice with my family.",
+            "cn": "我和家人一起去过长城两次。"
           }
         ]
       },
       {
         "text": "once or twice",
-        "phonetic": "",
+        "phonetic": "[wʌns ɔ: twaɪs]",
         "meaning": "一两次、几次",
         "app_sentences": [
           {
-            "en": "Example sentence for once or twice.",
-            "cn": "暂无例句。"
+            "en": "I have visited the Great Wall once or twice with my parents.",
+            "cn": "我和父母一起去过长城一两次。"
           }
         ]
       },
       {
         "text": "suddenly",
-        "phonetic": "['sʌdnli]",
+        "phonetic": "['sʌdәnli]",
         "meaning": "adv. 突然、意外、忽然",
         "app_sentences": [
           {
-            "en": "Example sentence for suddenly.",
-            "cn": "暂无例句。"
+            "en": "It started to rain suddenly when we were playing football.",
+            "cn": "我们踢足球时，天突然开始下雨了。"
           }
         ]
       },
       {
         "text": "pink",
-        "phonetic": "[pɪ9k]",
+        "phonetic": "[piŋk]",
         "meaning": "vt. 刺、扎、刺痛；vi. 变粉红色；n. 粉红色、石竹花、化身",
         "app_sentences": [
           {
-            "en": "Example sentence for pink.",
-            "cn": "暂无例句。"
+            "en": "The little girl's room is decorated with many pink flowers.",
+            "cn": "小女孩的房间里装饰着许多粉色的花。"
           }
         ]
       },
       {
         "text": "pocket",
-        "phonetic": "['pɒkɪt]",
+        "phonetic": "['pɒkit]",
         "meaning": "vt. 装...在口袋里、隐藏、抑制；n. 口袋、钱袋、钱；adj. 袖珍的、小型的、压缩的",
         "app_sentences": [
           {
-            "en": "Example sentence for pocket.",
-            "cn": "暂无例句。"
+            "en": "He put his keys into his pocket and went out to play.",
+            "cn": "他把钥匙放进兜里，出去玩了。"
           }
         ]
       },
       {
         "text": "field",
-        "phonetic": "[fiːld]",
+        "phonetic": "[fi:ld]",
         "meaning": "vt. 使...晒在场上、使上场；n. 领域、田地、场地；adj. 田间的、野生的、野外的",
         "app_sentences": [
           {
-            "en": "Example sentence for field.",
-            "cn": "暂无例句。"
+            "en": "Farmers work in the rice field from morning until evening.",
+            "cn": "农民们从早到晚在稻田里劳作。"
+          },
+          {
+            "en": "The children are playing happily in the large green field.",
+            "cn": "孩子们正在那片大草地上开心地玩耍。"
           }
         ]
       },
       {
         "text": "think about",
-        "phonetic": "",
+        "phonetic": "[θɪŋk əˈbaʊt]",
         "meaning": "考虑、回想",
         "app_sentences": [
           {
-            "en": "Example sentence for think about.",
-            "cn": "暂无例句。"
+            "en": "You should think about your future and work hard now.",
+            "cn": "你应该思考你的未来，现在就开始努力。"
           }
         ]
       },
       {
         "text": "deep",
-        "phonetic": "[diːp]",
+        "phonetic": "[di:p]",
         "meaning": "n. 深渊、深处；adj. 深的；adv. 深入地",
         "app_sentences": [
           {
-            "en": "Example sentence for deep.",
-            "cn": "暂无例句。"
+            "en": "The swimming pool has a deep end and a shallow end.",
+            "cn": "游泳池有一个深水区和一个浅水区。"
           }
         ]
       },
       {
         "text": "while",
-        "phonetic": "[waɪl]",
+        "phonetic": "[hwail]",
         "meaning": "vt. 消磨；n. 一会儿、(一段)时间；conj. 当...的时候、虽然",
         "app_sentences": [
           {
-            "en": "Example sentence for while.",
-            "cn": "暂无例句。"
+            "en": "I listen to music while I am doing my homework.",
+            "cn": "我做作业时听音乐。"
           }
         ]
       },
@@ -2076,19 +2208,19 @@
         "meaning": "vt. 使上岸、使登陆、使到达；vi. 登陆、登岸、到达；n. 陆地、地面、地界",
         "app_sentences": [
           {
-            "en": "Example sentence for land.",
-            "cn": "暂无例句。"
+            "en": "The airplane will land at the airport in about thirty minutes.",
+            "cn": "飞机大约三十分钟后将在机场降落。"
           }
         ]
       },
       {
         "text": "dry",
-        "phonetic": "[draɪ]",
+        "phonetic": "[drai]",
         "meaning": "vt. 把...弄干；vi. 变干；n. 干、干涸",
         "app_sentences": [
           {
-            "en": "Example sentence for dry.",
-            "cn": "暂无例句。"
+            "en": "We hung our wet clothes outside to let them become dry.",
+            "cn": "我们把湿衣服挂在外面让它们变干。"
           }
         ]
       }
@@ -2101,56 +2233,56 @@
     "data": [
       {
         "text": "pale",
-        "phonetic": "[peɪl]",
+        "phonetic": "[peil]",
         "meaning": "vt. 使变苍白、使失色、用栅栏围；vi. 变苍白、变暗、失色；n. 栅栏、界线、范围",
         "app_sentences": [
           {
-            "en": "Example sentence for pale.",
-            "cn": "暂无例句。"
+            "en": "She looked a bit pale because she didn't sleep well last night.",
+            "cn": "她看起来有点苍白，因为她昨晚没睡好。"
           }
         ]
       },
       {
         "text": "appear",
-        "phonetic": "[ə'pɪə]",
+        "phonetic": "[ә'piә]",
         "meaning": "vi. 出现、显得、来到；出庭、到案、出现",
         "app_sentences": [
           {
-            "en": "Example sentence for appear.",
-            "cn": "暂无例句。"
+            "en": "The sun begins to appear in the east early in the morning.",
+            "cn": "清晨，太阳开始从东方出现。"
           }
         ]
       },
       {
         "text": "round",
-        "phonetic": "[raʊnd]",
+        "phonetic": "[raund]",
         "meaning": "vt. 弄圆、使成圆形、绕行；vi. 变圆、发胖、环行；n. 圆、圆形物、巡回",
         "app_sentences": [
           {
-            "en": "Example sentence for round.",
-            "cn": "暂无例句。"
+            "en": "The moon looks very round and bright on Mid-Autumn Festival.",
+            "cn": "中秋节时月亮看起来又圆又亮。"
           }
         ]
       },
       {
         "text": "corner",
-        "phonetic": "['k0ːnə]",
+        "phonetic": "['kɒ:nә]",
         "meaning": "vt. 迫至一隅、垄断、使陷入绝境；vi. 相交成角、垄断；n. 角落、转角、窘境",
         "app_sentences": [
           {
-            "en": "Example sentence for corner.",
-            "cn": "暂无例句。"
+            "en": "There is a small post office on the corner of the street.",
+            "cn": "街道转角处有一家小邮局。"
           }
         ]
       },
       {
         "text": "hit",
-        "phonetic": "[hɪt]",
+        "phonetic": "[hit]",
         "meaning": "vt. 打、打击、碰撞；vi. 打、打中、打击；n. 打击、打、冲撞",
         "app_sentences": [
           {
-            "en": "Example sentence for hit.",
-            "cn": "暂无例句。"
+            "en": "Be careful not to hit the ball too hard, or it will fly away.",
+            "cn": "小心别把球打得太重，否则它会飞走的。"
           }
         ]
       },
@@ -2160,19 +2292,19 @@
         "meaning": "adj. 高兴的、喜欢的、情愿的",
         "app_sentences": [
           {
-            "en": "Example sentence for glad.",
-            "cn": "暂无例句。"
+            "en": "I am glad that you could come to my birthday party yesterday.",
+            "cn": "我很高兴你昨天能来我的生日聚会。"
           }
         ]
       },
       {
         "text": "in time",
-        "phonetic": "",
+        "phonetic": "[ɪn taɪm]",
         "meaning": "及时；如期、按期、及时",
         "app_sentences": [
           {
-            "en": "Example sentence for in time.",
-            "cn": "暂无例句。"
+            "en": "We arrived at the station just in time to catch the train.",
+            "cn": "我们及时赶到车站，赶上了火车。"
           }
         ]
       },
@@ -2182,151 +2314,155 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for fall off....",
-            "cn": "暂无例句。"
+            "en": "He fell off his bike and hurt his knee yesterday afternoon.",
+            "cn": "昨天下午他从自行车上摔下来，伤到了膝盖。"
           }
         ]
       },
       {
         "text": "risk",
-        "phonetic": "[rɪsk]",
+        "phonetic": "[risk]",
         "meaning": "vt. 冒...的危险、冒险干；n. 冒险、危险、保险额",
         "app_sentences": [
           {
-            "en": "Example sentence for risk.",
-            "cn": "暂无例句。"
+            "en": "Climbing that high mountain alone is a big risk to take.",
+            "cn": "独自攀登那座高山是一个很大的风险。"
           }
         ]
       },
       {
         "text": "attention",
-        "phonetic": "[ə'tenʃn]",
+        "phonetic": "[ә'tenʃәn]",
         "meaning": "n. 注意、注意力；引起注意信号",
         "app_sentences": [
           {
-            "en": "Example sentence for attention.",
-            "cn": "暂无例句。"
+            "en": "Please pay attention to the teacher while she is talking.",
+            "cn": "老师讲话时请注意听。"
           }
         ]
       },
       {
         "text": "pay attention",
-        "phonetic": "",
+        "phonetic": "[peɪ əˈtenʃən]",
         "meaning": "专心",
         "app_sentences": [
           {
-            "en": "Example sentence for pay attention.",
-            "cn": "暂无例句。"
+            "en": "You must pay attention to the teacher when she is speaking.",
+            "cn": "老师讲话时你必须注意听。"
           }
         ]
       },
       {
         "text": "side",
-        "phonetic": "[saɪd]",
+        "phonetic": "[said]",
         "meaning": "vt. 同意、支持；vi. 支持、赞助；n. 旁边、侧、方面",
         "app_sentences": [
           {
-            "en": "Example sentence for side.",
-            "cn": "暂无例句。"
+            "en": "My school is on the other side of the park.",
+            "cn": "我的学校在公园的另一边。"
           }
         ]
       },
       {
         "text": "side by side",
-        "phonetic": "",
+        "phonetic": "[saɪd baɪ saɪd]",
         "meaning": "并排、并肩",
         "app_sentences": [
           {
-            "en": "Example sentence for side by side.",
-            "cn": "暂无例句。"
+            "en": "The two friends walked side by side along the river.",
+            "cn": "那两个朋友并排走在河边。"
           }
         ]
       },
       {
         "text": "bite",
-        "phonetic": "[baɪt]",
+        "phonetic": "[bait]",
         "meaning": "v. 咬、刺痛、穿透；n. 咬、一口",
         "app_sentences": [
           {
-            "en": "Example sentence for bite.",
-            "cn": "暂无例句。"
+            "en": "Be careful! The dog might bite you if you are not careful.",
+            "cn": "小心！如果你不小心的话，那只狗可能会咬你。"
           }
         ]
       },
       {
         "text": "climb",
-        "phonetic": "[klaɪm]",
+        "phonetic": "[klaim]",
         "meaning": "v. 攀登、上升、爬；n. 攀登、爬升",
         "app_sentences": [
           {
-            "en": "Example sentence for climb.",
-            "cn": "暂无例句。"
+            "en": "It took us two hours to climb to the top of the hill.",
+            "cn": "我们花了两个小时爬到了小山顶。"
+          },
+          {
+            "en": "They like to climb mountains to enjoy the fresh air.",
+            "cn": "他们喜欢爬山以享受新鲜空气。"
           }
         ]
       },
       {
         "text": "hide",
-        "phonetic": "[haɪd]",
+        "phonetic": "[haid]",
         "meaning": "vt. 藏、隐瞒、遮避；vi. 躲藏；n. 兽皮、迹象、躲藏处",
         "app_sentences": [
           {
-            "en": "Example sentence for hide.",
-            "cn": "暂无例句。"
+            "en": "The little cat likes to hide under the bed when it sees strangers.",
+            "cn": "那只小猫看到陌生人时喜欢躲在床底下。"
           }
         ]
       },
       {
         "text": "throw",
-        "phonetic": "[θrəʊ]",
+        "phonetic": "[θrәu]",
         "meaning": "vt. 投、掷、抛；vi. 丢、掷、抛；n. 投掷、掷骰子、冒险",
         "app_sentences": [
           {
-            "en": "Example sentence for throw.",
-            "cn": "暂无例句。"
+            "en": "Please throw the rubbish into the bin to keep our classroom clean.",
+            "cn": "请把垃圾扔进垃圾桶以保持教室清洁。"
           }
         ]
       },
       {
         "text": "fridge",
-        "phonetic": "[frɪd3]",
+        "phonetic": "[fridʒ]",
         "meaning": "n. 电冰箱",
         "app_sentences": [
           {
-            "en": "Example sentence for fridge.",
-            "cn": "暂无例句。"
+            "en": "Please put the milk and eggs into the fridge to keep them fresh.",
+            "cn": "请把牛奶和鸡蛋放进冰箱以保持新鲜。"
           }
         ]
       },
       {
         "text": "pain",
-        "phonetic": "[peɪn]",
+        "phonetic": "[pein]",
         "meaning": "vt. 使痛苦、痛苦；vi. 作痛、疼；n. 痛苦、疼痛、辛苦",
         "app_sentences": [
           {
-            "en": "Example sentence for pain.",
-            "cn": "暂无例句。"
+            "en": "He felt a sharp pain in his arm after falling down.",
+            "cn": "摔倒后，他感到胳膊一阵剧痛。"
           }
         ]
       },
       {
         "text": "worse",
-        "phonetic": "[wɜːs]",
+        "phonetic": "[wә:s]",
         "meaning": "n. 更坏的事、更恶劣的事、败局；adj. 更坏的、更恶劣的；adv. 更坏地、更恶劣地",
         "app_sentences": [
           {
-            "en": "Example sentence for worse.",
-            "cn": "暂无例句。"
+            "en": "My cold is worse today, so I need to stay at home and rest.",
+            "cn": "我今天感冒更严重了，所以我需要呆在家里休息。"
           }
         ]
       },
       {
         "text": "medicine",
-        "phonetic": "['medsn]",
+        "phonetic": "['medisin]",
         "meaning": "vt. 给...用药；n. 药、医学、内科",
         "app_sentences": [
           {
-            "en": "Example sentence for medicine.",
-            "cn": "暂无例句。"
+            "en": "If you have a fever, you should take some medicine and rest.",
+            "cn": "如果你发烧了，你应该吃点药并休息。"
           }
         ]
       }
@@ -2339,133 +2475,141 @@
     "data": [
       {
         "text": "noise",
-        "phonetic": "[n0ɪz]",
+        "phonetic": "[nɒiz]",
         "meaning": "vt. 谣传；vi. 喧闹；n. 噪音、杂音、响声",
         "app_sentences": [
           {
-            "en": "Example sentence for noise.",
-            "cn": "暂无例句。"
+            "en": "The noise from the construction site next door is very loud.",
+            "cn": "隔壁建筑工地的噪音非常大。"
           }
         ]
       },
       {
         "text": "prepare",
-        "phonetic": "[prɪ'peə]",
+        "phonetic": "[pri'pєә]",
         "meaning": "v. 准备、预备、有能力而且愿意；vt. 准备、筹备、使在思想上有准备；vi. 预备",
         "app_sentences": [
           {
-            "en": "Example sentence for prepare.",
-            "cn": "暂无例句。"
+            "en": "We need to prepare some food and drinks for the party.",
+            "cn": "我们需要为派对准备一些食物和饮料。"
           }
         ]
       },
       {
         "text": "report",
-        "phonetic": "[rɪ'p0ːt]",
+        "phonetic": "[ri'pɒ:t]",
         "meaning": "vt. 报告、汇报、转述；vi. 报告、写报道、报到；n. 报告、报道、传说",
         "app_sentences": [
           {
-            "en": "Example sentence for report.",
-            "cn": "暂无例句。"
+            "en": "He had to write a report about his trip to the museum.",
+            "cn": "他必须写一份关于他博物馆之行的报告。"
           }
         ]
       },
       {
         "text": "billion",
-        "phonetic": "['bɪljən]",
+        "phonetic": "['biljәn]",
         "meaning": "n. 十亿(的)；num. 十亿、十亿个",
         "app_sentences": [
           {
-            "en": "Example sentence for billion.",
-            "cn": "暂无例句。"
+            "en": "The population of the world is more than seven billion now.",
+            "cn": "现在世界人口已经超过了七十亿。"
           }
         ]
       },
       {
         "text": "huge",
-        "phonetic": "[hjuːd3]",
+        "phonetic": "[hju:dʒ]",
         "meaning": "adj. 极大的、巨大的、无限的",
         "app_sentences": [
           {
-            "en": "Example sentence for huge.",
-            "cn": "暂无例句。"
+            "en": "We saw a huge elephant at the zoo last weekend.",
+            "cn": "上周末我们在动物园看到了一头巨大的大象。"
           }
         ]
       },
       {
         "text": "increase",
-        "phonetic": "['ɪ9kriːs]",
+        "phonetic": "[in'kri:s]",
         "meaning": "vt. 增加、加大；vi. 增加、繁殖；n. 增加、增进、利益",
         "app_sentences": [
           {
-            "en": "Example sentence for increase.",
-            "cn": "暂无例句。"
+            "en": "The price of the storybook will increase from next month.",
+            "cn": "从下个月起，那本故事书的价格将会上涨。"
           }
         ]
       },
       {
         "text": "hang on",
-        "phonetic": "[口]",
+        "phonetic": "[hæŋ ɒn]",
         "meaning": "坚持、不挂断、靠着",
         "app_sentences": [
           {
-            "en": "Example sentence for hang on.",
-            "cn": "暂无例句。"
+            "en": "Hang on a minute! I need to find my keys before we leave.",
+            "cn": "等一下！出发前我需要找到我的钥匙。"
           }
         ]
       },
       {
         "text": "notes",
-        "phonetic": "[nəʊts]",
+        "phonetic": "[nəʊt]",
         "meaning": "n. 票据、注释、说明（note复数）；Lotus公司出品的群件系列软件",
         "app_sentences": [
           {
-            "en": "Example sentence for notes.",
-            "cn": "暂无例句。"
+            "en": "I always take notes during the English class to remember words.",
+            "cn": "我总是在英语课上记笔记以记住单词。"
           }
         ]
       },
       {
         "text": "cause",
-        "phonetic": "[k0ːz]",
+        "phonetic": "[kɒ:z]",
         "meaning": "vt. 引起、使产生、使遭受；n. 原因、目标",
         "app_sentences": [
           {
-            "en": "Example sentence for cause.",
-            "cn": "暂无例句。"
+            "en": "Eating too much sugar can cause health problems like toothache.",
+            "cn": "吃太多糖会导致如牙痛等健康问题。"
           }
         ]
       },
       {
         "text": "problem",
-        "phonetic": "['prɒbləm]",
+        "phonetic": "['prɒblәm]",
         "meaning": "n. 问题、难题；adj. 成问题的、难处理的",
         "app_sentences": [
           {
-            "en": "Example sentence for problem.",
-            "cn": "暂无例句。"
+            "en": "If you have any problem with your study, please ask the teacher.",
+            "cn": "如果你学习上有任何问题，请问老师。"
           }
         ]
       },
       {
         "text": "grow",
-        "phonetic": "[grəʊ]",
+        "phonetic": "[grәu]",
         "meaning": "vt. 种植、使长满；vi. 生长、变成、发展",
         "app_sentences": [
           {
-            "en": "Example sentence for grow.",
-            "cn": "暂无例句。"
+            "en": "Plants need sunlight and water to grow well.",
+            "cn": "植物需要阳光和水才能生长得好。"
+          },
+          {
+            "en": "My grandfather likes to grow vegetables in his garden.",
+            "cn": "我祖父喜欢在他的花园里种蔬菜。"
+          },
+          {
+            "en": "Many flowers and trees begin to grow in the early spring.",
+            "cn": "许多花木在早春开始生长。"
           }
         ]
       },
       {
         "text": "birth",
-        "phonetic": "[bɜːθ]",
+        "phonetic": "[bә:θ]",
         "meaning": "n. 出生、起源；生产、分娩",
         "app_sentences": [
           {
-            "en": "Example sentence for birth.",
-            "cn": "暂无例句。"
+            "en": "I remember the date of my little sister's birth very clearly.",
+            "cn": "我非常清楚地记得我妹妹出生的日期。"
           }
         ]
       },
@@ -2475,162 +2619,166 @@
         "meaning": "v. (使)变平；n. 扁平物、平面、平地；adj. 平坦的、单调的、无力的",
         "app_sentences": [
           {
-            "en": "Example sentence for flat.",
-            "cn": "暂无例句。"
+            "en": "The land near the river is very flat and good for farming.",
+            "cn": "河边的土地非常平坦，适合耕作。"
           }
         ]
       },
       {
         "text": "rubbish",
-        "phonetic": "['rʌbɪʃ]",
+        "phonetic": "['rʌbiʃ]",
         "meaning": "n. 废物、垃圾、胡说",
         "app_sentences": [
           {
-            "en": "Example sentence for rubbish.",
-            "cn": "暂无例句。"
+            "en": "Don't throw rubbish on the floor; put it into the bin.",
+            "cn": "不要把垃圾扔在地上；把它放进垃圾桶里。"
           }
         ]
       },
       {
         "text": "quiet",
-        "phonetic": "['kwaɪət]",
+        "phonetic": "['kwaiәt]",
         "meaning": "vt. 使平静、使平息、使安心；vi. 平静下来；n. 安静、闲适、平静",
         "app_sentences": [
           {
-            "en": "Example sentence for quiet.",
-            "cn": "暂无例句。"
+            "en": "Please keep quiet in the library so that everyone can study.",
+            "cn": "请在图书馆保持安静，以便大家学习。"
           }
         ]
       },
       {
         "text": "local",
-        "phonetic": "['ləʊkl]",
+        "phonetic": "['lәukәl]",
         "meaning": "n. 当地居民、本地新闻、局部；adj. 地方性的、当地的、局部的；本地的、局部",
         "app_sentences": [
           {
-            "en": "Example sentence for local.",
-            "cn": "暂无例句。"
+            "en": "We buy fresh bread from the local bakery every morning.",
+            "cn": "我们每天早上都从当地的面包店购买新鲜面包。"
+          },
+          {
+            "en": "Our neighborhood has a local market with many fresh vegetables.",
+            "cn": "我们小区有一个当地市场，那里有很多新鲜蔬菜。"
           }
         ]
       },
       {
         "text": "close down",
-        "phonetic": "",
+        "phonetic": "[kləʊz]",
         "meaning": "关闭、歇业、停止播音",
         "app_sentences": [
           {
-            "en": "Example sentence for close down.",
-            "cn": "暂无例句。"
+            "en": "The old factory had to close down because of its high costs.",
+            "cn": "由于成本太高，那家旧工厂不得不关闭。"
           }
         ]
       },
       {
         "text": "mention",
-        "phonetic": "['menʃn]",
+        "phonetic": "['menʃәn]",
         "meaning": "vt. 提到、提及；n. 提到、言及、陈述",
         "app_sentences": [
           {
-            "en": "Example sentence for mention.",
-            "cn": "暂无例句。"
+            "en": "Did he mention anything about the class meeting during dinner?",
+            "cn": "他在晚饭时提到关于班会的事情了吗？"
           }
         ]
       },
       {
         "text": "pollution",
-        "phonetic": "[pə'luːʃn]",
+        "phonetic": "[pә'lu:ʃәn]",
         "meaning": "n. 污染、玷污；污染",
         "app_sentences": [
           {
-            "en": "Example sentence for pollution.",
-            "cn": "暂无例句。"
+            "en": "Air pollution is a serious problem in many big cities.",
+            "cn": "空气污染是许多大城市的一个严重问题。"
           }
         ]
       },
       {
         "text": "solve",
-        "phonetic": "['sɒlv]",
+        "phonetic": "[sɒlv]",
         "meaning": "vt. 解决、付给、溶解；vi. 求解；求解",
         "app_sentences": [
           {
-            "en": "Example sentence for solve.",
-            "cn": "暂无例句。"
+            "en": "He tried his best to solve the difficult math problem.",
+            "cn": "他竭尽全力去解决那道难题。"
           }
         ]
       },
       {
         "text": "public",
-        "phonetic": "['pʌblɪk]",
+        "phonetic": "['pʌblik]",
         "meaning": "n. 公众、民众；adj. 公众的、公共的、公立的",
         "app_sentences": [
           {
-            "en": "Example sentence for public.",
-            "cn": "暂无例句。"
+            "en": "We should protect the public environment and keep it clean.",
+            "cn": "我们应该保护公共环境并保持其清洁。"
           }
         ]
       },
       {
         "text": "service",
-        "phonetic": "['sɜːvɪs]",
+        "phonetic": "['sә:vis]",
         "meaning": "vt. 保养、维修；n. 服务、贡献、雇佣；adj. 武装部队的、服务性的、仆人的",
         "app_sentences": [
           {
-            "en": "Example sentence for service.",
-            "cn": "暂无例句。"
+            "en": "The service at this restaurant is very good and the food is delicious.",
+            "cn": "这家餐厅的服务很好，食物也很美味。"
           }
         ]
       },
       {
         "text": "pupil",
-        "phonetic": "['pjuːpl]",
+        "phonetic": "['pju:pl]",
         "meaning": "n. 学生、门生、未成年人；瞳孔",
         "app_sentences": [
           {
-            "en": "Example sentence for pupil.",
-            "cn": "暂无例句。"
+            "en": "There are about fifty pupils in our class from different towns.",
+            "cn": "我们班大约有五十名来自不同城镇的小学生。"
           }
         ]
       },
       {
         "text": "reduce",
-        "phonetic": "[rɪ'djuːs]",
+        "phonetic": "[ri'dju:s]",
         "meaning": "vt. 减少、分解、降低；vi. 减少、减肥、缩小；缩小",
         "app_sentences": [
           {
-            "en": "Example sentence for reduce.",
-            "cn": "暂无例句。"
+            "en": "We should reduce the use of plastic bags to help the environment.",
+            "cn": "我们应该减少使用塑料袋以帮助环境。"
           }
         ]
       },
       {
         "text": "create",
-        "phonetic": "[krɪ'eɪt]",
+        "phonetic": "[kri:'eit]",
         "meaning": "vt. 创造、建造、引起",
         "app_sentences": [
           {
-            "en": "Example sentence for create.",
-            "cn": "暂无例句。"
+            "en": "We used old boxes to create a model spaceship for science class.",
+            "cn": "我们用旧盒子为科学课制作了一个宇宙飞船模型。"
           }
         ]
       },
       {
         "text": "convenient",
-        "phonetic": "[kən'viːniənt]",
+        "phonetic": "[kәn'vi:njәnt]",
         "meaning": "adj. 方便的、合宜的；适当的、合理而可行的、方便的",
         "app_sentences": [
           {
-            "en": "Example sentence for convenient.",
-            "cn": "暂无例句。"
+            "en": "It is very convenient to have a supermarket near our home.",
+            "cn": "我们家附近有个超市非常方便。"
           }
         ]
       },
       {
         "text": "environment",
-        "phonetic": "[ɪn'vaɪrənmənt]",
+        "phonetic": "[in'vairәnmәnt]",
         "meaning": "n. 环境、外界、围绕；环境",
         "app_sentences": [
           {
-            "en": "Example sentence for environment.",
-            "cn": "暂无例句。"
+            "en": "It is important to protect the environment for future generations.",
+            "cn": "为子孙后代保护环境非常重要。"
           }
         ]
       }
@@ -2643,78 +2791,78 @@
     "data": [
       {
         "text": "cloud",
-        "phonetic": "[klaʊd]",
+        "phonetic": "[klaud]",
         "meaning": "vt. 以云遮敝、笼罩、使黯然；vi. 乌云密布、阴沉；n. 云、阴暗、烟雾",
         "app_sentences": [
           {
-            "en": "Example sentence for cloud.",
-            "cn": "暂无例句。"
+            "en": "A white cloud shaped like a rabbit moved slowly across the sky.",
+            "cn": "一朵形状像兔子的白云缓缓飘过天空。"
           }
         ]
       },
       {
         "text": "shower",
-        "phonetic": "['ʃaʊə]",
+        "phonetic": "['ʃauә]",
         "meaning": "vt. 淋湿、倾注；vi. 淋浴、下阵雨；n. 阵雨、淋浴、一阵",
         "app_sentences": [
           {
-            "en": "Example sentence for shower.",
-            "cn": "暂无例句。"
+            "en": "I take a quick shower every morning before I go to school.",
+            "cn": "我每天早晨上学前快速冲个澡。"
           }
         ]
       },
       {
         "text": "snow",
-        "phonetic": "[snəʊ]",
+        "phonetic": "[snәu]",
         "meaning": "vt. 使雪白、用雪覆盖、使像雪般落下；vi. 下雪、似雪般落下；n. 雪、积雪、下雪",
         "app_sentences": [
           {
-            "en": "Example sentence for snow.",
-            "cn": "暂无例句。"
+            "en": "The mountain is covered with white snow in the winter.",
+            "cn": "冬天，山上被白雪覆盖。"
           }
         ]
       },
       {
         "text": "storm",
-        "phonetic": "[st0ːm]",
+        "phonetic": "[stɒ:m]",
         "meaning": "vt. 猛攻；vi. 起风、猛冲、怒吼；n. 暴风雨、骚动、风波",
         "app_sentences": [
           {
-            "en": "Example sentence for storm.",
-            "cn": "暂无例句。"
+            "en": "We stayed at home because of the heavy rain and strong storm.",
+            "cn": "因为大雨和强烈的风暴，我们待在家里。"
           }
         ]
       },
       {
         "text": "cloudy",
-        "phonetic": "['klaʊdi]",
+        "phonetic": "['klaudi]",
         "meaning": "adj. 多云的、有愁容的、云的；(混)浊的",
         "app_sentences": [
           {
-            "en": "Example sentence for cloudy.",
-            "cn": "暂无例句。"
+            "en": "It's a cloudy day, so it might rain later this afternoon.",
+            "cn": "今天阴天，所以今天下午晚些时候可能会下雨。"
           }
         ]
       },
       {
         "text": "rainy",
-        "phonetic": "['reɪni]",
+        "phonetic": "['reini]",
         "meaning": "adj. 下雨的、多雨的",
         "app_sentences": [
           {
-            "en": "Example sentence for rainy.",
-            "cn": "暂无例句。"
+            "en": "I stayed at home and read books on a rainy Sunday afternoon.",
+            "cn": "在一个下雨的周日下午，我待在家里看书。"
           }
         ]
       },
       {
         "text": "snowy",
-        "phonetic": "['snəʊi]",
+        "phonetic": "['snәui]",
         "meaning": "adj. 多雪的、雪的、被雪所覆盖着的",
         "app_sentences": [
           {
-            "en": "Example sentence for snowy.",
-            "cn": "暂无例句。"
+            "en": "We had a snowy day last week and made a big snowman.",
+            "cn": "上周我们遇到了下雪天，堆了一个大雪人。"
           }
         ]
       },
@@ -2724,118 +2872,118 @@
         "meaning": "adj. 阳光充足的、乐观的、快乐的",
         "app_sentences": [
           {
-            "en": "Example sentence for sunny.",
-            "cn": "暂无例句。"
+            "en": "It's a sunny day today, so let's go for a picnic in the park.",
+            "cn": "今天天气晴朗，我们去公园野餐吧。"
           }
         ]
       },
       {
         "text": "windy",
-        "phonetic": "['wɪndi]",
+        "phonetic": "['windi]",
         "meaning": "adj. 多风的、风强的、腹胀的",
         "app_sentences": [
           {
-            "en": "Example sentence for windy.",
-            "cn": "暂无例句。"
+            "en": "It's very windy today, so be careful when you walk outside.",
+            "cn": "今天风很大，所以你在外面走的时候要小心。"
           }
         ]
       },
       {
         "text": "skate",
-        "phonetic": "[skeɪt]",
+        "phonetic": "[skeit]",
         "meaning": "vi. 滑冰、滑过；n. 溜冰、冰鞋",
         "app_sentences": [
           {
-            "en": "Example sentence for skate.",
-            "cn": "暂无例句。"
+            "en": "In winter, children like to skate on the ice in the park.",
+            "cn": "冬天，孩子们喜欢在公园的冰上滑冰。"
           }
         ]
       },
       {
         "text": "thick",
-        "phonetic": "[θɪk]",
+        "phonetic": "[θik]",
         "meaning": "n. 最浓处、最厚处、最密集处；adj. 厚的、粗壮的、浓的；adv. 厚地、密地、浓浓地",
         "app_sentences": [
           {
-            "en": "Example sentence for thick.",
-            "cn": "暂无例句。"
+            "en": "She wore a thick coat to keep warm in the cold winter wind.",
+            "cn": "她穿了一件厚外套在寒冷的冬风中保暖。"
           }
         ]
       },
       {
         "text": "ice",
-        "phonetic": "[aɪs]",
+        "phonetic": "[ais]",
         "meaning": "vt. 使结冰、冰镇、覆以糖衣；vi. 结冰；n. 冰、冰淇淋、糖衣",
         "app_sentences": [
           {
-            "en": "Example sentence for ice.",
-            "cn": "暂无例句。"
+            "en": "In winter, the lake is covered with a thick layer of ice.",
+            "cn": "冬天，湖面上覆盖着一层厚厚的冰。"
           }
         ]
       },
       {
         "text": "joke",
-        "phonetic": "[d3əʊk]",
+        "phonetic": "[dʒәuk]",
         "meaning": "v. 开玩笑、取笑、作弄；n. 笑话、玩笑、笑柄",
         "app_sentences": [
           {
-            "en": "Example sentence for joke.",
-            "cn": "暂无例句。"
+            "en": "He told a funny joke that made everyone in the class laugh.",
+            "cn": "他讲了一个有趣的笑话，让班上每个人都笑了。"
           }
         ]
       },
       {
         "text": "might",
-        "phonetic": "[maɪt]",
+        "phonetic": "[mait]",
         "meaning": "v. (past tense、past participle of may see may)n.力量、威力；n. 力量、权力；aux. 可能、也许",
         "app_sentences": [
           {
-            "en": "Example sentence for might.",
-            "cn": "暂无例句。"
+            "en": "It might rain later, so take an umbrella with you.",
+            "cn": "稍后可能会下雨，所以带把伞吧。"
           }
         ]
       },
       {
         "text": "temperature",
-        "phonetic": "['temprɪjtʃə]",
+        "phonetic": "['temprәtʃә]",
         "meaning": "n. 温度、发烧、热度；温度",
         "app_sentences": [
           {
-            "en": "Example sentence for temperature.",
-            "cn": "暂无例句。"
+            "en": "The temperature will rise to twenty degrees this afternoon.",
+            "cn": "今天下午气温将升至二十度。"
           }
         ]
       },
       {
         "text": "minus",
-        "phonetic": "['maɪnəs]",
+        "phonetic": "['mainәs]",
         "meaning": "n. 负号、不足；adj. 减的、负的、阴性的；prep. 减、缺",
         "app_sentences": [
           {
-            "en": "Example sentence for minus.",
-            "cn": "暂无例句。"
+            "en": "The temperature dropped to minus five degrees last night.",
+            "cn": "昨晚气温降到了零下五度。"
           }
         ]
       },
       {
         "text": "degree",
-        "phonetic": "[dɪ'griː]",
+        "phonetic": "[di'gri:]",
         "meaning": "n. 程度、度数、学位；度、程度",
         "app_sentences": [
           {
-            "en": "Example sentence for degree.",
-            "cn": "暂无例句。"
+            "en": "Water boils at one hundred degrees Celsius.",
+            "cn": "水在一百摄氏度时沸腾。"
           }
         ]
       },
       {
         "text": "although",
-        "phonetic": "[0ːl'ðəʊ]",
+        "phonetic": "[ɒ:l'ðou]",
         "meaning": "conj. 虽然、尽管",
         "app_sentences": [
           {
-            "en": "Example sentence for although.",
-            "cn": "暂无例句。"
+            "en": "Although it was raining, we still went for a walk.",
+            "cn": "虽然下着雨，但我们还是去散步了。"
           }
         ]
       },
@@ -2845,118 +2993,118 @@
         "meaning": "vt. 使...湿；vi. 变湿；n. 湿气、潮湿、水分",
         "app_sentences": [
           {
-            "en": "Example sentence for wet.",
-            "cn": "暂无例句。"
+            "en": "Don't walk on the floor while it's still wet after cleaning.",
+            "cn": "地刚洗完还湿着的时候不要在上面走。"
           }
         ]
       },
       {
         "text": "neither",
-        "phonetic": "['naɪðəj 'niːðə]",
+        "phonetic": "[ˈnaɪðə]",
         "meaning": "adj. (两者)都不的；adv. 皆不、两个都不；pron. 两者都不",
         "app_sentences": [
           {
-            "en": "Example sentence for neither.",
-            "cn": "暂无例句。"
+            "en": "Neither my brother nor my sister likes to eat vegetables.",
+            "cn": "我弟弟和妹妹都不喜欢吃蔬菜。"
           }
         ]
       },
       {
         "text": "terrible",
-        "phonetic": "['terəbl]",
+        "phonetic": "['terәbl]",
         "meaning": "adj. 可怕的、令人恐惧的、极坏的",
         "app_sentences": [
           {
-            "en": "Example sentence for terrible.",
-            "cn": "暂无例句。"
+            "en": "I had a terrible headache yesterday, so I stayed in bed all day.",
+            "cn": "我昨天头痛得厉害，所以一整天都躺在床上。"
           }
         ]
       },
       {
         "text": "wish",
-        "phonetic": "[wɪʃ]",
+        "phonetic": "[wiʃ]",
         "meaning": "vt. 愿、想要、希望；vi. 希望；n. 希望、愿望、祝愿",
         "app_sentences": [
           {
-            "en": "Example sentence for wish.",
-            "cn": "暂无例句。"
+            "en": "I wish you a happy birthday and a wonderful new year.",
+            "cn": "我祝你生日快乐，新的一年万事如意。"
           }
         ]
       },
       {
         "text": "probably",
-        "phonetic": "['prɒbəbli]",
+        "phonetic": "['prɒbәbli]",
         "meaning": "adv. 大概、或许",
         "app_sentences": [
           {
-            "en": "Example sentence for probably.",
-            "cn": "暂无例句。"
+            "en": "It will probably rain tonight, so don't forget your umbrella.",
+            "cn": "今晚可能会下雨，所以别忘了带伞。"
           }
         ]
       },
       {
         "text": "come on",
-        "phonetic": "",
+        "phonetic": "[英 ˈkʌm ɒn 美 ˈkʌm ɑːn]",
         "meaning": "偶遇、进步、发生",
         "app_sentences": [
           {
-            "en": "Example sentence for come on.",
-            "cn": "暂无例句。"
+            "en": "Come on! We are going to be late for the school meeting.",
+            "cn": "快点！我们学校开会要迟到了。"
           }
         ]
       },
       {
         "text": "mile",
-        "phonetic": "[maɪl]",
+        "phonetic": "[mail]",
         "meaning": "n. 英里、很大距离；英里、哩",
         "app_sentences": [
           {
-            "en": "Example sentence for mile.",
-            "cn": "暂无例句。"
+            "en": "The nearest shop is about a mile away from our house.",
+            "cn": "最近的商店离我们家大约一英里远。"
           }
         ]
       },
       {
         "text": "round",
-        "phonetic": "[raʊnd]",
+        "phonetic": "[raund]",
         "meaning": "vt. 弄圆、使成圆形、绕行；vi. 变圆、发胖、环行；n. 圆、圆形物、巡回",
         "app_sentences": [
           {
-            "en": "Example sentence for round.",
-            "cn": "暂无例句。"
+            "en": "The moon looks very round and bright on Mid-Autumn Festival.",
+            "cn": "中秋节时月亮看起来又圆又亮。"
           }
         ]
       },
       {
         "text": "northwest",
-        "phonetic": "[jn0ːθ'west]",
+        "phonetic": "[.nɒ:θ'west]",
         "meaning": "n. 西北、西北方；adj. 西北的、在西北的、来自西北的；adv. 向西北",
         "app_sentences": [
           {
-            "en": "Example sentence for northwest.",
-            "cn": "暂无例句。"
+            "en": "The wind is blowing from the northwest today, so it's cold.",
+            "cn": "今天风从西北方向吹来，所以很冷。"
           }
         ]
       },
       {
         "text": "southeast",
-        "phonetic": "[jsaʊθ'iːst]",
+        "phonetic": "[sauθ'i:st]",
         "meaning": "n. 东南、东南地区；adj. 东南的、向东南的、来自东南的；adv. 往东南、来自东南",
         "app_sentences": [
           {
-            "en": "Example sentence for southeast.",
-            "cn": "暂无例句。"
+            "en": "Our city is located in the southeast part of China.",
+            "cn": "我们的城市位于中国东南部。"
           }
         ]
       },
       {
         "text": "from time to time",
-        "phonetic": "",
+        "phonetic": "[frɒm taɪm tu: taɪm]",
         "meaning": "有时",
         "app_sentences": [
           {
-            "en": "Example sentence for from time to time.",
-            "cn": "暂无例句。"
+            "en": "I visit my grandparents in the countryside from time to time.",
+            "cn": "我偶尔会去乡下看望我的祖父母。"
           }
         ]
       }
@@ -2973,8 +3121,8 @@
         "meaning": "vt. 戴帽子、覆盖、胜过；vi. 脱帽致意；n. 盖子、帽子",
         "app_sentences": [
           {
-            "en": "Example sentence for cap.",
-            "cn": "暂无例句。"
+            "en": "He always wears a red baseball cap to protect his face from the sun.",
+            "cn": "他总是戴着一顶红色的棒球帽来保护脸部不被太阳晒。"
           }
         ]
       },
@@ -2984,8 +3132,12 @@
         "meaning": "n. 国际象棋；雀麦",
         "app_sentences": [
           {
-            "en": "Example sentence for chess.",
-            "cn": "暂无例句。"
+            "en": "My grandfather teaches me how to play chess every Sunday.",
+            "cn": "我爷爷每个星期天都教我下国际象棋。"
+          },
+          {
+            "en": "My grandfather and I often play chess on Sunday afternoons.",
+            "cn": "我和我祖父常在周日下午下国际象棋。"
           }
         ]
       },
@@ -2995,162 +3147,170 @@
         "meaning": "v. 放、置、移动到；vt. 放、安置、放置；vi. 日落、凝固、定型",
         "app_sentences": [
           {
-            "en": "Example sentence for set.",
-            "cn": "暂无例句。"
+            "en": "The sun will set in the west in about one hour.",
+            "cn": "太阳大约一小时后将在西方落下。"
           }
         ]
       },
       {
         "text": "a chess set",
-        "phonetic": "",
-        "meaning": "暂无释义",
+        "phonetic": "[ə tʃes set]",
+        "meaning": "",
         "app_sentences": [
           {
-            "en": "Example sentence for a chess set.",
-            "cn": "暂无例句。"
+            "en": "My father gave me a new chess set for my birthday.",
+            "cn": "我爸爸送了我一套新的国际象棋作为生日礼物。"
           }
         ]
       },
       {
         "text": "chopstick",
-        "phonetic": "['tʃɒpjstɪk]",
+        "phonetic": "['tʃɔpstik]",
         "meaning": "n. 筷子",
         "app_sentences": [
           {
-            "en": "Example sentence for chopstick.",
-            "cn": "暂无例句。"
+            "en": "Most people in China use chopsticks to eat their meals.",
+            "cn": "中国的大多数人用筷子吃饭。"
           }
         ]
       },
       {
         "text": "toy",
-        "phonetic": "[t0ɪ]",
+        "phonetic": "[tɒi]",
         "meaning": "vi. 玩弄、戏弄、调情；n. 玩具、小玩艺儿、小型的东西；adj. 供玩耍的、作为玩具的",
         "app_sentences": [
           {
-            "en": "Example sentence for toy.",
-            "cn": "暂无例句。"
+            "en": "The little boy likes to play with his toy cars on the floor.",
+            "cn": "那个小男孩喜欢在地板上玩他的玩具车。"
           }
         ]
       },
       {
         "text": "video",
-        "phonetic": "['vɪdiəʊ]",
+        "phonetic": "['vidiәu]",
         "meaning": "n. 影像、电视；adj. 图像的、电视的",
         "app_sentences": [
           {
-            "en": "Example sentence for video.",
-            "cn": "暂无例句。"
+            "en": "Our teacher showed us an interesting video about wild animals.",
+            "cn": "我们的老师给我们看了一个关于野生动物的有趣视频。"
           }
         ]
       },
       {
         "text": "video game",
-        "phonetic": "",
+        "phonetic": "[ˈvɪdiəʊ ɡeɪm]",
         "meaning": "电视游戏",
         "app_sentences": [
           {
-            "en": "Example sentence for video game.",
-            "cn": "暂无例句。"
+            "en": "Don't spend too much time playing video games on weekends.",
+            "cn": "周末不要花太多时间玩电子游戏。"
           }
         ]
       },
       {
         "text": "gift",
-        "phonetic": "[gɪft]",
+        "phonetic": "[gift]",
         "meaning": "vt. 赋予；n. 礼物、赠予、天才",
         "app_sentences": [
           {
-            "en": "Example sentence for gift.",
-            "cn": "暂无例句。"
+            "en": "His parents gave him a new laptop as a birthday gift.",
+            "cn": "他的父母送给他一台新笔记本电脑作为生日礼物。"
+          },
+          {
+            "en": "I received a beautiful book as a gift for my birthday.",
+            "cn": "我收到一本精美的书作为生日礼物。"
+          },
+          {
+            "en": "His parents gave him a new book as a birthday gift.",
+            "cn": "他的父母送给他一本新书作为生日礼物。"
           }
         ]
       },
       {
         "text": "surprise",
-        "phonetic": "[sə'praɪz]",
+        "phonetic": "[sә'praiz]",
         "meaning": "vt. 使惊奇、撞见、奇袭；n. 惊奇、奇袭、诧异",
         "app_sentences": [
           {
-            "en": "Example sentence for surprise.",
-            "cn": "暂无例句。"
+            "en": "My classmates prepared a birthday surprise for me last week.",
+            "cn": "我的同学们上周为我准备了一个生日惊喜。"
           }
         ]
       },
       {
         "text": "immediately",
-        "phonetic": "[ɪ'miːdiətli]",
+        "phonetic": "[i'mi:diәtli]",
         "meaning": "adv. 直接地、立刻、立即",
         "app_sentences": [
           {
-            "en": "Example sentence for immediately.",
-            "cn": "暂无例句。"
+            "en": "You should start your homework immediately after you get home.",
+            "cn": "你回家后应该立即开始写作业。"
           }
         ]
       },
       {
         "text": "difference",
-        "phonetic": "['dɪfrəns]",
+        "phonetic": "['difәrәns]",
         "meaning": "n. 不同、差异；差分",
         "app_sentences": [
           {
-            "en": "Example sentence for difference.",
-            "cn": "暂无例句。"
+            "en": "Can you tell the difference between these two pictures?",
+            "cn": "你能说出这两张图片的区别吗？"
           }
         ]
       },
       {
         "text": "accept",
-        "phonetic": "[ək'sept]",
+        "phonetic": "[әk'sept]",
         "meaning": "vt. 接受、承认、同意；vi. 同意",
         "app_sentences": [
           {
-            "en": "Example sentence for accept.",
-            "cn": "暂无例句。"
+            "en": "I gladly accept your invitation to your birthday party.",
+            "cn": "我很高兴接受你生日派对的邀请。"
           }
         ]
       },
       {
         "text": "tradition",
-        "phonetic": "[trə'dɪʃn]",
+        "phonetic": "[trә'diʃәn]",
         "meaning": "n. 传说、传统、交付；传统、惯例、移交",
         "app_sentences": [
           {
-            "en": "Example sentence for tradition.",
-            "cn": "暂无例句。"
+            "en": "Eating mooncakes is a famous tradition in the Mid-Autumn Festival.",
+            "cn": "吃月饼是中秋节的一个著名传统。"
           }
         ]
       },
       {
         "text": "example",
-        "phonetic": "[ɪg'z4ːmpl]",
+        "phonetic": "[ig'zæmpl]",
         "meaning": "n. 例子、样本、实例；实例",
         "app_sentences": [
           {
-            "en": "Example sentence for example.",
-            "cn": "暂无例句。"
+            "en": "The teacher showed us an example of a good book report.",
+            "cn": "老师给我们看了一份优秀读书报告的范例。"
           }
         ]
       },
       {
         "text": "for example",
-        "phonetic": "",
+        "phonetic": "[ˌiː ˈdʒiː]",
         "meaning": "例如",
         "app_sentences": [
           {
-            "en": "Example sentence for for example.",
-            "cn": "暂无例句。"
+            "en": "Many sports, for example, football and basketball, are very popular.",
+            "cn": "许多运动，例如足球和篮球，都非常受欢迎。"
           }
         ]
       },
       {
         "text": "must",
-        "phonetic": "[mʌstj məst]",
+        "phonetic": "[mʌst]",
         "meaning": "n. 必须、未发酵葡萄汁、绝对必要的事物；aux. 必须",
         "app_sentences": [
           {
-            "en": "Example sentence for must.",
-            "cn": "暂无例句。"
+            "en": "You must finish your homework before you watch TV.",
+            "cn": "你必须在看电视之前完成作业。"
           }
         ]
       },
@@ -3160,52 +3320,56 @@
         "meaning": "n. 月；月",
         "app_sentences": [
           {
-            "en": "Example sentence for month.",
-            "cn": "暂无例句。"
+            "en": "March is my favourite month because the flowers start to bloom.",
+            "cn": "三月是我最喜欢的月份，因为花儿开始绽放。"
           }
         ]
       },
       {
         "text": "serious",
-        "phonetic": "['sɪəriəs]",
+        "phonetic": "['siәriәs]",
         "meaning": "adj. 严肃的、认真的、重要的；严重的",
         "app_sentences": [
           {
-            "en": "Example sentence for serious.",
-            "cn": "暂无例句。"
+            "en": "We must be serious when the teacher is explaining important points.",
+            "cn": "老师讲解重点时我们必须认真。"
           }
         ]
       },
       {
         "text": "taste",
-        "phonetic": "[teɪst]",
+        "phonetic": "[teist]",
         "meaning": "v. 品尝、辨味、(of)有 ...味道；vt. 尝、察觉...的味道、体会；vi. 品尝、察觉味道、有某种味道",
         "app_sentences": [
           {
-            "en": "Example sentence for taste.",
-            "cn": "暂无例句。"
+            "en": "The soup tastes very delicious and fresh with some vegetables.",
+            "cn": "放了些蔬菜后，这汤尝起来非常鲜美。"
           }
         ]
       },
       {
         "text": "experience",
-        "phonetic": "[ɪk'spɪəriəns]",
+        "phonetic": "[ik'spiәriәns]",
         "meaning": "vt. 经历、经验、体验；n. 经历、经验、体验",
         "app_sentences": [
           {
-            "en": "Example sentence for experience.",
-            "cn": "暂无例句。"
+            "en": "My first experience of camping was fun but also a little scary.",
+            "cn": "我第一次露营的经历很有趣，但也有点吓人。"
           }
         ]
       },
       {
         "text": "stay",
-        "phonetic": "[steɪ]",
+        "phonetic": "[stei]",
         "meaning": "vt. 制止、延缓、坚持；vi. 停留、逗留、暂停；n. 停留、逗留、制止",
         "app_sentences": [
           {
-            "en": "Example sentence for stay.",
-            "cn": "暂无例句。"
+            "en": "I will stay at my grandparents' house during the winter holiday.",
+            "cn": "寒假期间我将待在祖父母家。"
+          },
+          {
+            "en": "I will stay at my grandparents' house during the summer holiday.",
+            "cn": "暑假期间我会待在祖父母家。"
           }
         ]
       },
@@ -3215,85 +3379,85 @@
         "meaning": "pron. 有人、某人",
         "app_sentences": [
           {
-            "en": "Example sentence for someone.",
-            "cn": "暂无例句。"
+            "en": "I think someone is knocking on the door of our classroom.",
+            "cn": "我想有人在敲我们教室的门。"
           }
         ]
       },
       {
         "text": "for the first time",
-        "phonetic": "",
+        "phonetic": "[fɔ: ðə fɜ:st taɪm]",
         "meaning": "第一次",
         "app_sentences": [
           {
-            "en": "Example sentence for for the first time.",
-            "cn": "暂无例句。"
+            "en": "I saw the ocean for the first time during my last holiday.",
+            "cn": "在上次假期中，我第一次见到了大海。"
           }
         ]
       },
       {
         "text": "sandwich",
-        "phonetic": "['sændwɪd3]",
+        "phonetic": "['sændwitʃ]",
         "meaning": "vt. 插入、夹入、把...制成三明治；n. 三明治、夹心面包、夹层板",
         "app_sentences": [
           {
-            "en": "Example sentence for sandwich.",
-            "cn": "暂无例句。"
+            "en": "I make a cheese sandwich to take to school for lunch.",
+            "cn": "我做了一个奶酪三明治带到学校当午餐。"
           }
         ]
       },
       {
         "text": "chip",
-        "phonetic": "[tʃɪp]",
+        "phonetic": "[tʃip]",
         "meaning": "vt. 削、切、削成碎片；vi. 削下屑片；n. 屑片、薄片、碎片",
         "app_sentences": [
           {
-            "en": "Example sentence for chip.",
-            "cn": "暂无例句。"
+            "en": "We sometimes eat fish and chips for dinner on Saturdays.",
+            "cn": "我们有时星期六晚餐吃炸鱼和薯条。"
           }
         ]
       },
       {
         "text": "fish and chips",
-        "phonetic": "",
+        "phonetic": "[fiʃ ænd tʃips]",
         "meaning": "n. 炸鱼、加炸土豆片",
         "app_sentences": [
           {
-            "en": "Example sentence for fish and chips.",
-            "cn": "暂无例句。"
+            "en": "Fish and chips is a very famous traditional British food.",
+            "cn": "炸鱼加薯条是一道非常有名的英国传统食物。"
           }
         ]
       },
       {
         "text": "onto",
-        "phonetic": "['ɒntə]",
+        "phonetic": "['ɒntu:]",
         "meaning": "prep. 在...之上",
         "app_sentences": [
           {
-            "en": "Example sentence for onto.",
-            "cn": "暂无例句。"
+            "en": "The cat jumped onto the table to reach the milk.",
+            "cn": "猫跳到桌子上够牛奶。"
           }
         ]
       },
       {
         "text": "gentleman",
-        "phonetic": "['d3entlmən]",
+        "phonetic": "['dʒentlmәn]",
         "meaning": "n. 绅士、先生",
         "app_sentences": [
           {
-            "en": "Example sentence for gentleman.",
-            "cn": "暂无例句。"
+            "en": "He is a true gentleman who always holds the door for others.",
+            "cn": "他是一位真正的绅士，总是为别人扶着门。"
           }
         ]
       },
       {
         "text": "shoulder",
-        "phonetic": "['ʃəʊldə]",
+        "phonetic": "['ʃәuldә]",
         "meaning": "vt. 肩负、负担、担任；vi. 用肩推挤；n. 肩、肩膀、衣肩",
         "app_sentences": [
           {
-            "en": "Example sentence for shoulder.",
-            "cn": "暂无例句。"
+            "en": "My bag is heavy, and it hurts my shoulder after a long walk.",
+            "cn": "我的包很重，走了一段长路后我的肩膀很痛。"
           }
         ]
       }
@@ -3306,89 +3470,93 @@
     "data": [
       {
         "text": "broken",
-        "phonetic": "['brəʊkən]",
+        "phonetic": "['brәukәn]",
         "meaning": "adj. 坏掉的、打破的、断掉的；的过去分词",
         "app_sentences": [
           {
-            "en": "Example sentence for broken.",
-            "cn": "暂无例句。"
+            "en": "I have to repair my broken bicycle before I go out.",
+            "cn": "我出门前必须修理好我坏掉的自行车。"
           }
         ]
       },
       {
         "text": "glass",
-        "phonetic": "[gl4ːs]",
+        "phonetic": "[glɑːs]",
         "meaning": "vt. 装玻璃于、反射、反映；vi. 成玻璃状；n. 玻璃、玻璃杯、透镜",
         "app_sentences": [
           {
-            "en": "Example sentence for glass.",
-            "cn": "暂无例句。"
+            "en": "The window is made of glass, so be careful not to break it.",
+            "cn": "窗户是玻璃做的，所以小心别打碎它。"
+          },
+          {
+            "en": "The window is made of glass, so be careful with it.",
+            "cn": "窗户是玻璃做的，所以请小心。"
           }
         ]
       },
       {
         "text": "stairs",
-        "phonetic": "[steəz]",
+        "phonetic": "[英 steə(r) 美 ster]",
         "meaning": "n. 楼梯",
         "app_sentences": [
           {
-            "en": "Example sentence for stairs.",
-            "cn": "暂无例句。"
+            "en": "He ran up the stairs to get his schoolbag from his room.",
+            "cn": "他跑上楼梯，从房间里拿书包。"
           }
         ]
       },
       {
         "text": "aid",
-        "phonetic": "[eɪd]",
+        "phonetic": "[eid]",
         "meaning": "vt. 援助、帮助、有助于；vi. 帮助；n. 帮助、外援、助手",
         "app_sentences": [
           {
-            "en": "Example sentence for aid.",
-            "cn": "暂无例句。"
+            "en": "The charity provided aid to the people after the big earthquake.",
+            "cn": "在那次大地震后，慈善机构为人们提供了援助。"
           }
         ]
       },
       {
         "text": "first aid",
-        "phonetic": "",
+        "phonetic": "[英 ˌfɜːst ˈeɪd 美 ˌfɜːrst ˈeɪd]",
         "meaning": "急救",
         "app_sentences": [
           {
-            "en": "Example sentence for first aid.",
-            "cn": "暂无例句。"
+            "en": "Every student should learn some basic first aid skills.",
+            "cn": "每个学生都应该学习一些基本的急救技能。"
           }
         ]
       },
       {
         "text": "medical",
-        "phonetic": "['medɪkl]",
+        "phonetic": "['medikl]",
         "meaning": "n. 医生、体格检查；adj. 医学的、内科的、药的",
         "app_sentences": [
           {
-            "en": "Example sentence for medical.",
-            "cn": "暂无例句。"
+            "en": "He wants to be a medical worker to help sick people when he grows up.",
+            "cn": "他长大后想成为一名医务工作者来帮助生病的人。"
           }
         ]
       },
       {
         "text": "imagine",
-        "phonetic": "[ɪ'mæd3ɪn]",
+        "phonetic": "[i'mædʒin]",
         "meaning": "vt. 想像、设想、猜测；vi. 想像起来",
         "app_sentences": [
           {
-            "en": "Example sentence for imagine.",
-            "cn": "暂无例句。"
+            "en": "Can you imagine what life will be like in fifty years?",
+            "cn": "你能想象五十年后的生活会是什么样子吗？"
           }
         ]
       },
       {
         "text": "bottom",
-        "phonetic": "['bɒtəm]",
+        "phonetic": "['bɒtәm]",
         "meaning": "vt. 给...装底、查明真相；vi. 到达底部、建立基础；n. 底部",
         "app_sentences": [
           {
-            "en": "Example sentence for bottom.",
-            "cn": "暂无例句。"
+            "en": "He dove deep into the pool to touch the bottom.",
+            "cn": "他跳进泳池深处去摸池底。"
           }
         ]
       },
@@ -3398,19 +3566,19 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for at the bottom of....",
-            "cn": "暂无例句。"
+            "en": "You can find some useful notes at the bottom of the page.",
+            "cn": "你可以在页面底部找到一些有用的笔记。"
           }
         ]
       },
       {
         "text": "wrong",
-        "phonetic": "[rɒ9]",
+        "phonetic": "[rɒŋ]",
         "meaning": "adj. 错误的、不正当的、失常的；adv. 错误地",
         "app_sentences": [
           {
-            "en": "Example sentence for wrong.",
-            "cn": "暂无例句。"
+            "en": "Don't be afraid to make a wrong choice occasionally.",
+            "cn": "偶尔做出错误的选择不要紧。"
           }
         ]
       },
@@ -3420,8 +3588,8 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for What's wrong with....",
-            "cn": "暂无例句。"
+            "en": "What's wrong with your computer? It doesn't seem to work now.",
+            "cn": "你的电脑怎么了？现在好像不能用了。"
           }
         ]
       },
@@ -3431,41 +3599,41 @@
         "meaning": "vt. 困扰、麻烦、使烦恼；vi. 烦恼、费心；n. 烦恼、麻烦、困难",
         "app_sentences": [
           {
-            "en": "Example sentence for trouble.",
-            "cn": "暂无例句。"
+            "en": "I have trouble understanding this difficult maths problem.",
+            "cn": "我理解这道数学难题有困难。"
           }
         ]
       },
       {
         "text": "lift",
-        "phonetic": "[lɪft]",
+        "phonetic": "[lift]",
         "meaning": "vt. 升高、提高、鼓舞；vi. 升起、消散、耸立；n. 举起、帮助、昂扬",
         "app_sentences": [
           {
-            "en": "Example sentence for lift.",
-            "cn": "暂无例句。"
+            "en": "Can you help me lift this heavy box up to the second floor?",
+            "cn": "你能帮我把这个重箱子搬到二楼吗？"
           }
         ]
       },
       {
         "text": "lift up",
-        "phonetic": "",
+        "phonetic": "[lɪft ʌp]",
         "meaning": "举起",
         "app_sentences": [
           {
-            "en": "Example sentence for lift up.",
-            "cn": "暂无例句。"
+            "en": "He lifted up his hand to ask the teacher a question.",
+            "cn": "他举起手向老师提问。"
           }
         ]
       },
       {
         "text": "harmful",
-        "phonetic": "['h4ːmfl]",
+        "phonetic": "['hɑ:mful]",
         "meaning": "adj. 有害的、伤害的",
         "app_sentences": [
           {
-            "en": "Example sentence for harmful.",
-            "cn": "暂无例句。"
+            "en": "Eating too much sugar is harmful to your teeth and health.",
+            "cn": "吃太多糖对你的牙齿和健康有害。"
           }
         ]
       },
@@ -3475,118 +3643,134 @@
         "meaning": "v. 滴下、落下、(使声音等)变弱；vt. 使滴下、放下、丢失；vi. 放下、掉下、下降",
         "app_sentences": [
           {
-            "en": "Example sentence for drop.",
-            "cn": "暂无例句。"
+            "en": "Be careful not to drop the glass on the floor.",
+            "cn": "小心别把玻璃杯掉在地上。"
           }
         ]
       },
       {
         "text": "training",
-        "phonetic": "['treɪnɪ9]",
+        "phonetic": "['treiniŋ]",
         "meaning": "n. 训练、培养；训练",
         "app_sentences": [
           {
-            "en": "Example sentence for training.",
-            "cn": "暂无例句。"
+            "en": "The football players need a lot of training to win the game.",
+            "cn": "足球运动员需要大量的训练才能赢得比赛。"
           }
         ]
       },
       {
         "text": "make sure",
-        "phonetic": "",
+        "phonetic": "[meɪk ʃʊə]",
         "meaning": "确定",
         "app_sentences": [
           {
-            "en": "Example sentence for make sure.",
-            "cn": "暂无例句。"
+            "en": "Please make sure that all the windows are closed before you leave.",
+            "cn": "请确保在离开前所有的窗户都关好了。"
           }
         ]
       },
       {
         "text": "cover",
-        "phonetic": "['kʌvə]",
+        "phonetic": "['kʌvә]",
         "meaning": "vt. 覆盖、掩饰、保护；vi. 覆盖；n. 盖子、封面、藉口",
         "app_sentences": [
           {
-            "en": "Example sentence for cover.",
-            "cn": "暂无例句。"
+            "en": "Please cover your books with paper to protect them.",
+            "cn": "请用纸把你的书包起来以保护它们。"
           }
         ]
       },
       {
         "text": "earthquake",
-        "phonetic": "['ɜːθjkweɪk]",
+        "phonetic": "['ә:θkweik]",
         "meaning": "n. 地震",
         "app_sentences": [
           {
-            "en": "Example sentence for earthquake.",
-            "cn": "暂无例句。"
+            "en": "The earthquake caused a lot of damage to the buildings.",
+            "cn": "地震对建筑物造成了很大破坏。"
+          },
+          {
+            "en": "The earthquake caused some damage to buildings in the city.",
+            "cn": "地震对城市里的一些建筑造成了破坏。"
+          },
+          {
+            "en": "The big earthquake destroyed many houses in the small town.",
+            "cn": "那场大地震摧毁了小镇上的许多房子。"
           }
         ]
       },
       {
         "text": "warn",
-        "phonetic": "[w0ːn]",
+        "phonetic": "[wɒ:n]",
         "meaning": "vt. 警告、提醒、通知；vi. 发出警告",
         "app_sentences": [
           {
-            "en": "Example sentence for warn.",
-            "cn": "暂无例句。"
+            "en": "The sign warns people not to swim in the deep part of the lake.",
+            "cn": "标志警告人们不要在湖的深水区游泳。"
           }
         ]
       },
       {
         "text": "inside",
-        "phonetic": "['ɪnjsaɪd]",
+        "phonetic": "['in'said]",
         "meaning": "n. 内部、内脏、内幕；adj. 内部的、秘密的、户内的；adv. 在里面",
         "app_sentences": [
           {
-            "en": "Example sentence for inside.",
-            "cn": "暂无例句。"
+            "en": "It's warm inside the house, but it's cold outside today.",
+            "cn": "今天房子里很暖和，但外面很冷。"
+          },
+          {
+            "en": "It is warm inside the room even if it's cold outside.",
+            "cn": "即使外面很冷，房间里还是很温暖。"
           }
         ]
       },
       {
         "text": "under",
-        "phonetic": "['ʌndə]",
+        "phonetic": "['ʌndә]",
         "meaning": "adj. 下面的、从属的；adv. 在下面；prep. 在...之下、低于",
         "app_sentences": [
           {
-            "en": "Example sentence for under.",
-            "cn": "暂无例句。"
+            "en": "There is a small cat sleeping under the wooden chair.",
+            "cn": "木椅下睡着一只小猫。"
           }
         ]
       },
       {
         "text": "window",
-        "phonetic": "['wɪndəʊ]",
+        "phonetic": "['windәu]",
         "meaning": "vt. 给...开窗；n. 窗户、窗子、窗口；窗口",
         "app_sentences": [
           {
-            "en": "Example sentence for window.",
-            "cn": "暂无例句。"
+            "en": "Please open the window to let some fresh air into the room.",
+            "cn": "请开窗让新鲜空气进到房间里。"
           }
         ]
       },
       {
         "text": "keep",
-        "phonetic": "[kiːp]",
+        "phonetic": "[ki:p]",
         "meaning": "vt. 保持、保存、遵守；vi. 保持、继续不断；n. 生计、维持、保持",
         "app_sentences": [
           {
-            "en": "Example sentence for keep.",
-            "cn": "暂无例句。"
+            "en": "Please keep the classroom clean and tidy after lessons.",
+            "cn": "课后请保持教室干净整洁。"
+          },
+          {
+            "en": "Please keep the classroom clean and tidy.",
+            "cn": "请保持教室干净整洁。"
           }
         ]
       },
       {
         "text": "clear",
-        "phonetic": "[klɪə]",
+        "phonetic": "[kliә]",
         "meaning": "vt. 澄清、清除障碍；vi. 放晴、变清澈；n. 空隙",
         "app_sentences": [
           {
-            "en": "Example sentence for clear.",
-            "cn": "暂无例句。"
+            "en": "The water in the river is very clear and clean.",
+            "cn": "河里的水非常清澈干净。"
           }
         ]
       },
@@ -3596,52 +3780,52 @@
         "meaning": "暂无释义",
         "app_sentences": [
           {
-            "en": "Example sentence for keep clear of....",
-            "cn": "暂无例句。"
+            "en": "Please keep clear of the construction area for your safety.",
+            "cn": "为了您的安全，请远离施工区域。"
           }
         ]
       },
       {
         "text": "calm",
-        "phonetic": "[k4ːm]",
+        "phonetic": "[kɑ:m]",
         "meaning": "vt. 使平静；vi. 平静下来、镇静；n. 平稳、风平浪静",
         "app_sentences": [
           {
-            "en": "Example sentence for calm.",
-            "cn": "暂无例句。"
+            "en": "The sea is very calm and peaceful early in the morning.",
+            "cn": "清晨的大海非常平静祥和。"
           }
         ]
       },
       {
         "text": "brave",
-        "phonetic": "[breɪv]",
+        "phonetic": "[breiv]",
         "meaning": "vt. 勇敢地面对；n. 勇敢者；adj. 勇敢的、美好的、华丽的",
         "app_sentences": [
           {
-            "en": "Example sentence for brave.",
-            "cn": "暂无例句。"
+            "en": "The brave firefighter saved the cat from the tall tree.",
+            "cn": "那位勇敢的消防员从高高的树上救下了那只猫。"
           }
         ]
       },
       {
         "text": "helpful",
-        "phonetic": "['helpfl]",
+        "phonetic": "['helpful]",
         "meaning": "adj. 有帮助的、有益的、有用的",
         "app_sentences": [
           {
-            "en": "Example sentence for helpful.",
-            "cn": "暂无例句。"
+            "en": "Our English teacher is very helpful and always answers our questions.",
+            "cn": "我们的英语老师非常有帮助，总是回答我们的问题。"
           }
         ]
       },
       {
         "text": "power",
-        "phonetic": "['pauə]",
+        "phonetic": "['pauә]",
         "meaning": "vt. 使...有力量、供以动力、激励；n. 力、体力、力量；乘幂、DOS外部命令:能控制许多电池电源计算机上的电源管理特性",
         "app_sentences": [
           {
-            "en": "Example sentence for power.",
-            "cn": "暂无例句。"
+            "en": "Knowledge gives us the power to change the world.",
+            "cn": "知识给予我们改变世界的力量。"
           }
         ]
       }

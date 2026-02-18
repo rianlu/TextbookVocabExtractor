@@ -26,6 +26,7 @@ def main():
         "step1_extract_pdf.py",
         "consolidate_ai_data.py",
         "step2_query_enhanced_dict.py",
+        "step2_build_phonetics.py",
         "step3_merge_all.py",
         "step4_export_missing_sentences.py",
         "step5_cleanup_intermediate.py"

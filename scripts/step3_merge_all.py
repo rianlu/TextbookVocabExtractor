@@ -39,47 +39,6 @@ def get_target_filename(grade, semester):
     semester_str = {1: "上", 2: "下"}[semester]
     return f"外研版初中英语{grade_str}年级{semester_str}册.json"
 
-def is_noisy_pdf_phonetic(phonetic):
-    if not phonetic:
-        return False
-    # 典型的乱码包括 =$# 等，但不再将数字视为绝对噪音，因为某些映射后可能仍保留数字或已处理。
-    # 同时也排除掉 PUA 字符的误判。
-    return bool(re.search(r"[=\$\#\u0400-\u04FF]", phonetic))
-
-
-def normalize_pdf_phonetic(phonetic):
-    if not phonetic:
-        return ""
-    p = phonetic.strip()
-    # Some textbooks extract "ɒ" as "=" (e.g. on /=n/).
-    p = p.replace("=", "ɒ")
-    return p
-
-def select_best_pdf_phonetic(book_phonetic, global_phonetic):
-    b = normalize_pdf_phonetic(book_phonetic)
-    g = normalize_pdf_phonetic(global_phonetic)
-    if not b and not g:
-        return ""
-    if b and g:
-        b_noisy = is_noisy_pdf_phonetic(b)
-        g_noisy = is_noisy_pdf_phonetic(g)
-        if b_noisy and not g_noisy:
-            return g
-        if g_noisy and not b_noisy:
-            return b
-        # Both clean or both noisy: keep book-level to preserve textbook consistency.
-        return b
-    return b or g
-
-def format_phonetic(word, book_pdf_phonetics, global_pdf_phonetics):
-    phonetic = select_best_pdf_phonetic(
-        book_pdf_phonetics.get(word, ""),
-        global_pdf_phonetics.get(word, "")
-    )
-    if phonetic:
-        return f"[{phonetic}]"
-    return ""
-
 def clean_meaning_text(text):
     if not text: return ""
     # Remove any letters followed by a dot (like n., v., adj.) at the beginning
@@ -212,7 +171,7 @@ def merge():
     with open(ecdict_data_path, "r", encoding="utf-8") as f:
         ecdict_data = json.load(f)
     with open(phonetics_path, "r", encoding="utf-8") as f:
-        global_pdf_phonetics = json.load(f)
+        global_dict_phonetics = json.load(f)
         
     ai_data = {}
     if os.path.exists(ai_data_path):
@@ -236,11 +195,6 @@ def merge():
         grade, semester = parse_filename_info(book_name)
         book_counter = Counter()
         skipped_samples = []
-        book_phonetics = {}
-        book_phonetics_path = os.path.join("output", "教材分类", book_name, "word_phonetics.json")
-        if os.path.exists(book_phonetics_path):
-            with open(book_phonetics_path, "r", encoding="utf-8") as f:
-                book_phonetics = json.load(f)
         
         final_book_data = []
         for unit_name, words in units.items():
@@ -251,11 +205,10 @@ def merge():
                 ad = ai_data.get(word, {})
                 
                 meaning = format_merged_meaning(ed)
-                phonetic = format_phonetic(
-                    word,
-                    book_phonetics,
-                    global_pdf_phonetics
-                )
+                # Use dictionary phonetics only (built in step2_build_phonetics.py).
+                phonetic = global_dict_phonetics.get(word, "")
+                if phonetic and not phonetic.startswith("[") and not phonetic.startswith("/"):
+                     phonetic = f"[{phonetic}]"
                 
                 app_sentences = ad.get("app_sentences", [{"en": f"Example sentence for {word}.", "cn": "暂无例句。"}])
                 word_entry = {
