@@ -44,6 +44,9 @@ Link: https://github.com/LinXueyuanStdio/DictionaryData/tree/master
 - 音标：`DictionaryData(word.csv: uk/us)` → `ECDICT-5` → `ECDICT`
 - 释义：`DictionaryData(word_translation.csv)` → `ECDICT` → `ECDICT-5`
 
+释义补充：
+- 当上述词典都未命中释义时，会使用 `config/meaning_overrides.json` 作为补充词典。
+
 ## GitHub 同步说明
 - 词典数据已在 `.gitignore` 中忽略，应只保留在本地。
 - `textbook/` 和 `output/` 当前不忽略，便于协作成员直接使用样例数据。

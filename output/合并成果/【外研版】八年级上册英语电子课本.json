@@ -353,7 +353,7 @@
       {
         "text": "agree with sb.",
         "phonetic": "[əˈɡri: wɪð ˈsʌmbədɪ]",
-        "meaning": "",
+        "meaning": "phr. 同意某人的看法",
         "app_sentences": [
           {
             "en": "I agree with my friend that we should go to the park together.",
@@ -849,8 +849,12 @@
         "meaning": "n. 事件、问题、物质",
         "app_sentences": [
           {
-            "en": "What's the matter? You look worried today.",
-            "cn": "怎么了？你今天看起来忧心忡忡。"
+            "en": "Your health does matter, so sleep early before school every day.",
+            "cn": "你的健康确实很重要，所以每天上学前要早睡。"
+          },
+          {
+            "en": "It does not matter who wins if everyone learns teamwork.",
+            "cn": "如果每个人都学会团队合作，谁赢并不重要。"
           }
         ]
       },
@@ -1501,8 +1505,12 @@
         "meaning": "adj. 第二十的、二十分之一的n.第二十(个)、二十分之一",
         "app_sentences": [
           {
-            "en": "Today is my grandmother's twentieth wedding anniversary.",
-            "cn": "今天是我祖母结婚二十周年纪念日。"
+            "en": "My birthday is on the twentieth, and my friends will come.",
+            "cn": "我的生日在二十号，我的朋友们会来。"
+          },
+          {
+            "en": "Our class will present the project on the twentieth of May.",
+            "cn": "我们班将在五月二十日展示这个项目。"
           }
         ]
       },
@@ -2971,8 +2979,12 @@
         "meaning": "n. 度数、度、程度",
         "app_sentences": [
           {
-            "en": "Water boils at one hundred degrees Celsius.",
-            "cn": "水在一百摄氏度时沸腾。"
+            "en": "It is thirty degrees today, so we need more water.",
+            "cn": "今天三十度，所以我们需要多喝水。"
+          },
+          {
+            "en": "The weather reached thirty degrees, so we stayed inside at noon.",
+            "cn": "气温达到三十度，所以我们中午待在室内。"
           }
         ]
       },
@@ -3155,7 +3167,7 @@
       {
         "text": "a chess set",
         "phonetic": "[ə tʃes set]",
-        "meaning": "",
+        "meaning": "n. 一副国际象棋",
         "app_sentences": [
           {
             "en": "My father gave me a new chess set for my birthday.",

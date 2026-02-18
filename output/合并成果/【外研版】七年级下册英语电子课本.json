@@ -106,7 +106,7 @@
       {
         "text": "lost and found box",
         "phonetic": "[lɒst ænd faʊnd bɒks]",
-        "meaning": "",
+        "meaning": "n. 失物招领箱",
         "app_sentences": [
           {
             "en": "You can find your lost keys in the lost and found box.",
@@ -666,7 +666,7 @@
       {
         "text": "get on well with sb.",
         "phonetic": "[ɡet ɒn wel wɪð ˈsʌmbədɪ]",
-        "meaning": "",
+        "meaning": "phr. 与某人相处融洽",
         "app_sentences": [
           {
             "en": "He is very kind and gets on well with all his classmates.",
@@ -688,7 +688,7 @@
       {
         "text": "ready to do sth.",
         "phonetic": "[ˈredɪ tu: du: ˈsʌmθɪŋ]",
-        "meaning": "",
+        "meaning": "phr. 准备好做某事",
         "app_sentences": [
           {
             "en": "We are all ready to start our new class trip to the museum.",
@@ -1499,8 +1499,12 @@
         "meaning": "n. 意志、决心、意向",
         "app_sentences": [
           {
-            "en": "I will visit my grandparents this weekend.",
-            "cn": "这个周末我会去看望我的祖父母。"
+            "en": "With strong will, she kept training and won the final race.",
+            "cn": "凭借坚强的意志，她坚持训练并赢得了决赛。"
+          },
+          {
+            "en": "One day I will travel with my parents to Beijing.",
+            "cn": "总有一天我会和父母一起去北京旅行。"
           }
         ]
       },
@@ -3977,7 +3981,7 @@
       {
         "text": "in the",
         "phonetic": "[ɪn ðə]",
-        "meaning": "",
+        "meaning": "phr. 在……里（短语片段）",
         "app_sentences": [
           {
             "en": "There are many tall trees and colorful flowers in the park.",

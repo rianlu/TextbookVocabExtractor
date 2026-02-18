@@ -1071,13 +1071,13 @@
         ]
       },
       {
-        "text": "con",
-        "phonetic": "[kɒn]",
-        "meaning": "vt. 记诵、精读adv.反对地、反面n.反对票",
+        "text": "confident",
+        "phonetic": "[ˈkɒnfɪdənt]",
+        "meaning": "adj. 自信的、确信的",
         "app_sentences": [
           {
-            "en": "One con of living in a big city is the heavy traffic.",
-            "cn": "生活在大城市的一个缺点是交通拥堵。"
+            "en": "She is very confident that she can win the English speech contest.",
+            "cn": "她非常有信心她能赢得英语演讲比赛。"
           }
         ]
       },
@@ -1527,13 +1527,13 @@
         ]
       },
       {
-        "text": "sur",
-        "phonetic": "[s\\\\\\\\:(r)]",
-        "meaning": "苏尔[黎巴嫩西南部港市]、prep.[律]根据",
+        "text": "surfing",
+        "phonetic": "[ˈsɜ:fɪŋ]",
+        "meaning": "n. 冲浪游戏 网络冲浪",
         "app_sentences": [
           {
-            "en": "The sur- in 'surface' means the top or outside part.",
-            "cn": "'表面'中的'sur-'意思是顶部或外部。"
+            "en": "I enjoy surfing with my cousin at the beach on weekends.",
+            "cn": "我喜欢在周末和表哥一起在海边冲浪。"
           }
         ]
       },
@@ -2547,6 +2547,17 @@
           {
             "en": "The heat from the sun makes us feel warm in summer.",
             "cn": "夏天，太阳的热量让我们感到温暖。"
+          }
+        ]
+      },
+      {
+        "text": "firm",
+        "phonetic": "[fɜ:m]",
+        "meaning": "n. 公司、(合伙)商号adj.结实的、坚硬的",
+        "app_sentences": [
+          {
+            "en": "Our PE teacher gives us firm instructions before the running game.",
+            "cn": "体育老师在跑步比赛前给我们明确的指令。"
           }
         ]
       },
@@ -3989,6 +4000,17 @@
           {
             "en": "This book costs five pounds at the bookstore.",
             "cn": "这本书在书店卖五英镑。"
+          }
+        ]
+      },
+      {
+        "text": "lungfish",
+        "phonetic": "[ˈlʌŋfɪʃ]",
+        "meaning": "n. 肺鱼",
+        "app_sentences": [
+          {
+            "en": "In science class, we learned that a lungfish can breathe air.",
+            "cn": "在科学课上，我们学到肺鱼可以呼吸空气。"
           }
         ]
       },

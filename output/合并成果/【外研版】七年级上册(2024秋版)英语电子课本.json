@@ -1410,8 +1410,8 @@
         "meaning": "n. 欢乐、喜悦、快乐",
         "app_sentences": [
           {
-            "en": "Reading brings me great joy and knowledge.",
-            "cn": "阅读带给我巨大的快乐和知识。"
+            "en": "Playing basketball with my classmates brings me great joy after school.",
+            "cn": "放学后和同学打篮球给我带来很大的快乐。"
           }
         ]
       },
@@ -2001,8 +2001,12 @@
         "meaning": "n. 事件、问题、物质",
         "app_sentences": [
           {
-            "en": "What's the matter? You look worried today.",
-            "cn": "怎么了？你今天看起来忧心忡忡。"
+            "en": "Your health does matter, so sleep early before school every day.",
+            "cn": "你的健康确实很重要，所以每天上学前要早睡。"
+          },
+          {
+            "en": "It does not matter who wins if everyone learns teamwork.",
+            "cn": "如果每个人都学会团队合作，谁赢并不重要。"
           }
         ]
       },

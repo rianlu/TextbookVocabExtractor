@@ -1,48 +1,1307 @@
 {
-  "v. 给（车辆或机器）": {
+  "postman": {
+    "phonetic": "'pәustmәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "邮差"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. （用手指）轻拍，轻叩，": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 车间，工场": {
+  "adj. 医学的；": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "knock around": {
+  "waste": {
+    "phonetic": "weist",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "废物,浪费,损耗,消耗,地面风化物,垃圾,荒地adj.废弃的,荒芜的,多余的vt.浪费,消耗,使荒芜vi.被浪费,挥霍钱财,变消瘦,被损耗"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts gre"
+  },
+  "det. （两个或两个以上": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "nervous": {
+    "phonetic": "'nә:vәs",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "神经紧张的,不安的,强健有力的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "n. 河狸，海狸": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "decision": {
+    "phonetic": "di'siʒәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "决定,决心,决议,结果,果断,坚定"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "n. 舞台": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "rose": {
+    "phonetic": "rәuz",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "蔷薇属,玫瑰,玫瑰红;vbl.rise的过去式;Rose 罗斯(女子名);Remote Operations Service Elements,远程操作服务单元"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "against the law": {
     "phonetic": "",
     "meanings": [
       {
+        "pos": "网络",
+        "translation": "违法；违反法律；对抗法律"
+      }
+    ],
+    "all_pos": [
+      "网络"
+    ],
+    "tag": ""
+  },
+  "mirror": {
+    "phonetic": "'mirә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "镜子,真实反映情况的东西,典范vt.反映,映出"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "position": {
+    "phonetic": "pә'ziʃәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "位置,职位,立场,形势,阵地vt.安置,决定...的位置"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "n. 排球（运动）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "shine": {
+    "phonetic": "ʃain",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "照耀,发光vt.擦亮n.光泽,光亮"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk toefl"
+  },
+  "v. 更喜欢": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 家庭作业，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "support": {
+    "phonetic": "sә'pɒ:t",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "支撑,扶持,支持,支援,拥护,维持,赡养,忍受n.支撑,支持,支援,维持,赡养,支持者,支柱"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "n. 大学": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "strict": {
+    "phonetic": "strikt",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "(～ with) 严格的,严厉的,严谨的,精确的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "beaver": {
+    "phonetic": "'bi:vә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "海狸(毛皮)"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "toefl"
+  },
+  "news": {
+    "phonetic": "nju:z",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "新闻,消息"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 大自然，自然界": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "primary school": {
+    "phonetic": "ˈpraiməri sku:l",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "小学, 初等学校; 参见：elementary school"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk "
+  },
+  "high": {
+    "phonetic": "hai",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "高度,高处adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的adv.高度地,奢侈地,高价地"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "secret": {
+    "phonetic": "'si:krit",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "秘密,秘诀,奥秘adj.秘密的,隐秘的,幽静的、"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "cucumber": {
+    "phonetic": "'kju:kәmbә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "[植]黄瓜"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "cet4 cet6 ky toefl ielts"
+  },
+  "dry": {
+    "phonetic": "drai",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "干的,干燥的,口渴的vt.(使)干燥,(使)变干v.干燥"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "v. （自然地）生产，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "fun": {
+    "phonetic": "fʌn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "娱乐,玩笑,嬉笑,有趣的人或事物vi.开玩笑adj.供娱乐用的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "plan": {
+    "phonetic": "plæn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "计划,设计图,平面图vt.计划,设计"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "club": {
+    "phonetic": "klʌb",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "俱乐部,夜总会,社,棍棒,(高尔夫球等的)球棒,(扑克牌)梅花vt.棍打,协作,联合,把...当棍棒用"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky ielts"
+  },
+  "n. 咖啡": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 工作，任务": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "eraser": {
+    "phonetic": "i'reisә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "擦除器,尤指墨水消除剂,橡皮"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "power": {
+    "phonetic": "'pauә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "能力,力量,动力,权力,[数]幂,[物]功率vt.使...有力量,供以动力,激励"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 ky ielts"
+  },
+  "emergency": {
+    "phonetic": "i'mә:dʒәnsi",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "紧急情况,突然事件,非常时刻,紧急事件"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky ielts gre"
+  },
+  "n. 刀": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 风": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "speed": {
+    "phonetic": "spi:d",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "迅速,速度,速率v.加快,速飞,飞跑"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "n. 决定，抉择": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "missing": {
+    "phonetic": "'misiŋ",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "不见的,缺少的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "cet4 cet6 ky"
+  },
+  "v. 驾驶（船只）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "shape": {
+    "phonetic": "ʃeip",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "外形,形状,形态,(尤指女子的)体形,身段,形式vt.制作,定形,使成形,塑造,使符合vi.成形,形成,成长"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "across": {
+    "phonetic": "ә'krɒs",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "横过,交叉地,在对面 prep.越过,交叉,在...的那边,在...对面那边"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": "zk gk"
+  },
+  "adj. 整个的，全部的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "save": {
+    "phonetic": "seiv",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "解救,保存,保全,保留,节省,储蓄vi.挽救,节省,救球 prep.除...之外n.救球 /v.[计]保存/更新"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "n. 研究，调查": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "tear": {
+    "phonetic": "tiә. tєә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "破处,破缝,泪滴,眼泪,扯,飞奔,激怒vi.流泪,撕破,猛冲,飞奔,被撕破vt.扯,撕,撕破,戳破,拉掉,折磨,使分裂,撕掉"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts gre"
+  },
+  "n. 周末": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 成为…… 的一员，加入": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 比赛": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "prep. 缺乏，没有": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 停留，逗留，留下": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 业余爱好，嗜好": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 至关重要的；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 把 …… 藏起来，隐藏": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 紧急情况，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "life": {
+    "phonetic": "laif",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "生命,生活,一生,寿命,生命力,传记"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "almost": {
+    "phonetic": "'ɒ:lmәust",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "几乎,差不多"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": "zk gk"
+  },
+  "classmate": {
+    "phonetic": "'klɑ:smeit",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "同班同学"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky"
+  },
+  "sail": {
+    "phonetic": "seil",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "航行(于)vi.启航,开船n.帆,篷,航行"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "adj. 极好的，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 吉他": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 消息": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. （游戏或体育比赛的）队": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "pool": {
+    "phonetic": "pu:l",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "池,撞球,联营,石油层vt.合伙经营,共享,共有,集中(钱、力量等),采掘,汇聚成vi.汇合成塘,郁积,联营"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "storm": {
+    "phonetic": "stɒ:m",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "暴风雨, 骚动, 风波, 风暴, 猛攻"
+      },
+      {
+        "pos": "vi.",
+        "translation": "起风, 猛冲, 怒吼"
+      },
+      {
+        "pos": "vt.",
+        "translation": "猛攻"
+      }
+    ],
+    "all_pos": [
+      "n.",
+      "n:90.",
+      "v:10.",
+      "vi.",
+      "vt."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "n. 营救，救援": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "nod": {
+    "phonetic": "nɒd",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "点头,点... n.点头"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "n. 女演员": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 气球": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 夹克，短上衣": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "wide": {
+    "phonetic": "waid",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "宽的,广阔的,张大的,远离目标的adv.广阔地,广大地,远离目标地"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "v. 探索；探讨，探究": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "disease": {
+    "phonetic": "di'zi:z",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "疾病,弊病"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "rescue": {
+    "phonetic": "'reskju:",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "援救,营救n.援救,营救"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts gre"
+  },
+  "enough": {
+    "phonetic": "i'nʌf",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "足够的,充足的,只够做...的n.充足,足够,很多adv.足够地,充分地int.够了!"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "fantastic": {
+    "phonetic": "fæn'tæstik",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "幻想的,奇异的,稀奇古怪的,荒谬的,空想的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk cet6 ky toefl ielts"
+  },
+  "tap": {
+    "phonetic": "'tæp",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "轻打,活栓,水龙头vt.轻打,轻敲,敲打出,开发,分接,使流出,选择,攻螺纹于vi.轻叩,轻拍,轻声走n.<美>(用复数)熄灯号"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts"
+  },
+  "n. （自然过程或": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "character": {
+    "phonetic": "'kærәktә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "(事物的)特性,性质,特征(的总和),(人的)品质,字符,性格,特征,人物vt.写,刻,印,使具有特征"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl"
+  },
+  "area": {
+    "phonetic": "'єәriә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "范围,区域,面积,地区,空地"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky ielts"
+  },
+  "textbook": {
+    "phonetic": "'tekstbuk",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "教科书,课本adj.合乎规范的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "midnight": {
+    "phonetic": "'midnait",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "午夜"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ielts"
+  },
+  "rock music": {
+    "phonetic": "英 rɒk 美 rɑːk",
+    "meanings": [
+      {
         "pos": "",
-        "translation": "漫游; 四处走动; 殴打; 在肉体〔精神〕上虐待; 接连打击, 毁坏; 活着; 放着无人理睬"
+        "translation": "摇滚乐"
       }
     ],
     "all_pos": [],
     "tag": ""
   },
-  "n. T恤衫，短袖运动衫": {
+  "n. 疾病，病": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "v. 换（衣服）": {
+  "adventure": {
+    "phonetic": "әd'ventʃә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "冒险,冒险的经历v.冒险"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 ky toefl"
+  },
+  "smell": {
+    "phonetic": "smel",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "气味,臭味,嗅觉v.嗅,闻到,散发(...的)气味,有(...的)气味"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk toefl"
+  },
+  "n. 吻": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "adj. 和平的，": {
+  "pron. 自己，自身": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
+  },
+  "v. 把（某物或某人）带至": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 救，拯救，挽救": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 喜欢；享受…… 的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 拉；扯；拖": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 博物馆，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "leaf": {
+    "phonetic": "li:f",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "叶,树叶,(书的)一张(两叶),页vi.生叶,翻书页vt.翻...的页"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "adj. 满的；满是 …… 的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 教科书，教材，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "pron. (pl. yourselves)": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 认出；认识；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "pollution": {
+    "phonetic": "pә'lu:ʃәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "污染,玷污"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts"
+  },
+  "throw away": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "丢弃"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "knife": {
+    "phonetic": "naif",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "刀,餐刀"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "mix": {
+    "phonetic": "miks",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "使混和,混淆,混合n.混合"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "gk cet4 ky"
+  },
+  "adj. 欢快的；充满生气的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 圆形的，环形的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 欢欣，愉快，喜悦": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 结婚；娶；嫁": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 旅行，旅程；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. （国家，市镇等的）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "nature": {
+    "phonetic": "'neitʃә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "自然,自然界,大自然,自然状态,本性,天性,种类"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "itself": {
+    "phonetic": "it'self",
+    "meanings": [
+      {
+        "pos": "pron.",
+        "translation": "它本身,它自己"
+      }
+    ],
+    "all_pos": [
+      "pron."
+    ],
+    "tag": "zk gk"
   },
   "adj. 自然的，": {
     "phonetic": "",
     "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "wind": {
+    "phonetic": "wind",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "风v.绕,缠,上发条,旋紧"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "n. 儿子": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "hobby": {
+    "phonetic": "'hɒbi",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "业余爱好"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "important": {
+    "phonetic": "im'pɒ:tәnt",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "重要的,重大的,有权力的,有地位的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "n. 圣诞节": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "start": {
+    "phonetic": "stɑ:t",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "动身,出发点,开始,惊起,惊跳,赛跑的先跑权,优先地位v.出发,起程,开始,着手,惊动,惊起,起动,发动  削减战略武器条约START(Strategic Arms Reduction Treaty)"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "v. 放松，休息": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 职位，职务": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 实验室": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "bright": {
+    "phonetic": "brait",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "明亮的,辉煌的,欢快的,聪明的,伶俐的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "workshop": {
+    "phonetic": "'wә:kʃɒp",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "车间,工场"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "cet4 cet6 ky ielts"
+  },
+  "yard": {
+    "phonetic": "jɑ:d",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "院子,码"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "adj. 虚弱的，不强壮的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "towards": {
+    "phonetic": "tә'wɔ:dz",
+    "meanings": [
+      {
+        "pos": "prep.",
+        "translation": "向,朝,对面,接近,对,有助于"
+      }
+    ],
+    "all_pos": [
+      "prep."
+    ],
+    "tag": "cet4 cet6"
+  },
+  "hide": {
+    "phonetic": "haid",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "兽皮,皮革v.剥...的皮,痛打,隐藏,掩藏,隐瞒,掩饰"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl gre"
+  },
+  "plenty": {
+    "phonetic": "'plenti",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "丰富,大量"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "n. （植物的）茎，梗，柄": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "prefer": {
+    "phonetic": "pri'fә:",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "更喜欢,宁愿"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "gk cet4 cet6 ky"
+  },
+  "hero": {
+    "phonetic": "'hiәrәu",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "英雄,男主角,男主人公"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "n. 搁板，架子": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "as happy as a clam": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "非常幸福[快乐]"
+      }
+    ],
     "all_pos": [],
     "tag": ""
   },
@@ -76,18 +1335,130 @@
     ],
     "tag": "zk gk"
   },
-  "n. 生活": {
+  "of course": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "当然"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 点头": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "sound": {
-    "phonetic": "saund",
+  "chat": {
+    "phonetic": "tʃæt",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "聊天n.聊天"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "gk ky toefl ielts"
+  },
+  "advice": {
+    "phonetic": "әd'vais",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "声音,语音,噪音,吵闹,海峡,听力范围,探条adj.健全的,可靠的,合理的,有效彻底的,健康的adv.彻底地,充分地vi.发出声音,回响,测深,听起来vt.使发声,宣告,听诊,测...深,试探"
+        "translation": "忠告,建议,[商]通知"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "n. 病人，患者": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 玫瑰；蔷薇": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 句子": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 支持": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "kilometre": {
+    "phonetic": "'kilәjmi:tә(r)",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "公里"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk ky"
+  },
+  "hunt": {
+    "phonetic": "hʌnt",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "打猎,猎取,搜索,搜寻,猎获n.打猎,猎取,搜索,搜寻,狩猎"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "adj. 用电的；电动的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 邮递员，邮差": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "cotton": {
+    "phonetic": "'kɒtn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "棉花,棉线"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky toefl ielts"
+  },
+  "key": {
+    "phonetic": "ki:",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害vt.调节...的音调,锁上,插上栓,提供线索vi.使用钥匙n.[乐]键,调,基调"
       }
     ],
     "all_pos": [
@@ -95,28 +1466,166 @@
     ],
     "tag": "zk gk ielts"
   },
-  "T-shirt": {
-    "phonetic": "'ti:,ʃә:t",
+  "weekend": {
+    "phonetic": "'wi:kend",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "圆领汗衫, T恤"
+        "translation": "周末,周末休假adj.周末的vi.度周末的"
       }
     ],
     "all_pos": [
-      "j:1.",
-      "n.",
-      "n:99."
+      "n."
     ],
-    "tag": "zk"
+    "tag": "zk gk ielts"
   },
-  "n. 水塘，水洼": {
+  "adj. 准备好（做某事）的": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 挑战，": {
+  "v. 送出，发出": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "friendly": {
+    "phonetic": "'frendli",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "友好的,友谊的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "adj. 传统的；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. （兽或鸟的）粪": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "reunion": {
+    "phonetic": "ri:'ju:njәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "团圆,重聚"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "cet6"
+  },
+  "realise": {
+    "phonetic": "'riәlaiz,'ri:-",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "觉悟,明白"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk ky"
+  },
+  "n. 一餐；饭": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "ocean": {
+    "phonetic": "'әuʃәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "大海,海洋,许多,广阔"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky ielts"
+  },
+  "v. （尤指对某人自己或": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "pull": {
+    "phonetic": "pul",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "拉,拖,拔n.拉,拖,拉力,牵引力"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk toefl ielts"
+  },
+  "introduce": {
+    "phonetic": ".intrә'dju:s",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "介绍,传入,引进,提出"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "research": {
+    "phonetic": "ri'sә:tʃ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "研究,调查vi.研究,调查"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "heart": {
+    "phonetic": "hɑ:t",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "心,心脏,中心,心地,心情,精神,宝贝儿,感情vt.把...放在中心"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "v. 跟着，跟随": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 事实；真相": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -135,156 +1644,18 @@
     ],
     "tag": "zk gk cet4 cet6 ky toefl ielts"
   },
-  "each other": {
-    "phonetic": "英 ˌiːtʃ ˈʌðə(r) 美 ˌiːtʃ ˈʌðər",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "彼此"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 希望，期望，指望": {
+  "adj. 无趣的，无聊的，": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "towards": {
-    "phonetic": "tә'wɔ:dz",
-    "meanings": [
-      {
-        "pos": "prep.",
-        "translation": "向,朝,对面,接近,对,有助于"
-      }
-    ],
-    "all_pos": [
-      "prep."
-    ],
-    "tag": "cet4 cet6"
-  },
-  "breathe": {
-    "phonetic": "bri:ð",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "呼吸,发出"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk cet4 ky toefl"
-  },
-  "n. 消息": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "storm": {
-    "phonetic": "stɒ:m",
+  "geography": {
+    "phonetic": "dʒi'ɒgrәfi",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "暴风雨, 骚动, 风波, 风暴, 猛攻"
-      },
-      {
-        "pos": "vi.",
-        "translation": "起风, 猛冲, 怒吼"
-      },
-      {
-        "pos": "vt.",
-        "translation": "猛攻"
-      }
-    ],
-    "all_pos": [
-      "n.",
-      "n:90.",
-      "v:10.",
-      "vi.",
-      "vt."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "explore": {
-    "phonetic": "ik'splɒ:",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "探险,探测,探究"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts"
-  },
-  "pron. (pl. yourselves)": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "decide": {
-    "phonetic": "di'said",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "决定,判决"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk toefl"
-  },
-  "n. 邮递员，邮差": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "team": {
-    "phonetic": "ti:m",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "队,组"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "v. 滑冰，溜冰": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "knife": {
-    "phonetic": "naif",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "刀,餐刀"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "museum": {
-    "phonetic": "mju:'ziәm",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "博物馆"
+        "translation": "地理学,地理"
       }
     ],
     "all_pos": [
@@ -292,108 +1663,83 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "n. 岛，岛屿": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 用电的；电动的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 记忆，回忆": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "volleyball": {
-    "phonetic": "'vɒlibɒ:l",
+  "hold": {
+    "phonetic": "hәuld",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "排球"
+        "translation": "把握,把持力,柄,控制,监禁,掌握,货舱vt.拿着,保存,支持,占据,持有,拥有vi.支持,保持,有效n.控制,保留"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk cet4 cet6 ky"
+    "tag": "zk gk ielts gre"
   },
-  "v. 拉；扯；拖": {
+  "n. 历险；奇遇": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "feed": {
-    "phonetic": "fi:d",
+  "marry": {
+    "phonetic": "'mæri",
     "meanings": [
       {
-        "pos": "n.",
-        "translation": "饲养,饲料,(动物或婴儿的)一餐vt.喂养,饲养,放牧,靠...为生vi.吃东西,流入"
+        "pos": "vt.",
+        "translation": "娶,嫁,和...结婚"
       }
     ],
     "all_pos": [
-      "n."
+      "vt."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl"
+    "tag": "zk gk cet4 ky"
   },
-  "adj. 找不到的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "high": {
-    "phonetic": "hai",
+  "smile": {
+    "phonetic": "smail",
     "meanings": [
       {
-        "pos": "n.",
-        "translation": "高度,高处adj.高的,高原的,高等的,高音的,傲慢的,高尚的,昂贵的,严重的adv.高度地,奢侈地,高价地"
+        "pos": "vi.",
+        "translation": "(～ at) 微笑n.微笑"
       }
     ],
     "all_pos": [
-      "n."
+      "vi."
     ],
     "tag": "zk gk"
   },
-  "band": {
-    "phonetic": "bænd",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "带子,镶边,波段,队,乐队v.联合,结合"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky toefl ielts gre"
-  },
-  "suddenly": {
-    "phonetic": "'sʌdәnli",
-    "meanings": [
-      {
-        "pos": "adv.",
-        "translation": "突然地"
-      }
-    ],
-    "all_pos": [
-      "adv."
-    ],
-    "tag": "cet4 cet6"
-  },
-  "n. 休息（时间）": {
+  "v. 生长": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 玫瑰；蔷薇": {
+  "adv. 确实地，的确": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "different": {
+    "phonetic": "'difәrәnt",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "不同的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "n. 结果，后果": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 死的，去世的": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -412,18 +1758,49 @@
     ],
     "tag": "zk gk toefl"
   },
-  "n. 种子，籽": {
+  "paper-cutting": {
+    "phonetic": "英 ˈpeɪpə kʌtə(r) 美 ˈpeɪpər kʌtər",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "paper cutter的变形"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": ""
+  },
+  "n. 问题，难题；": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "disease": {
-    "phonetic": "di'zi:z",
+  "n. 水塘，水洼": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 职责，义务": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 滑冰，溜冰": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "hit": {
+    "phonetic": "hit",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "疾病,弊病"
+        "translation": "打击,打,碰撞,讽刺,(演出等)成功vt.打,打击,碰撞,击中,袭击,偶然发现,伤...的感情,找到vi.打,打中,打击,碰撞,偶然碰上"
       }
     ],
     "all_pos": [
@@ -431,101 +1808,18 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "lantern": {
-    "phonetic": "'læntәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "灯笼,提灯,幻灯,信号,天窗"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky"
-  },
-  "hug": {
-    "phonetic": "hʌg",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "紧抱, 拥抱"
-      },
-      {
-        "pos": "vt.",
-        "translation": "紧抱, 坚持, 使沾沾自喜"
-      }
-    ],
-    "all_pos": [
-      "n.",
-      "n:33.",
-      "v:67.",
-      "vt."
-    ],
-    "tag": "gk cet6 ky ielts"
-  },
-  "against the law": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "网络",
-        "translation": "违法；违反法律；对抗法律"
-      }
-    ],
-    "all_pos": [
-      "网络"
-    ],
-    "tag": ""
-  },
-  "treat": {
-    "phonetic": "tri:t",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "宴请,款待,请客vt.视为,对待,论述,治疗,款待vi.交涉,谈判,协商,款待,作东"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl"
-  },
-  "n. 水饺": {
+  "n. 意见，主意，观点": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "dining hall": {
-    "phonetic": "ˈdaɪnɪŋ hɔ:l",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "大餐厅，食堂; 饭厅; 大食堂"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "mountain": {
-    "phonetic": "'mauntin",
+  "engineer": {
+    "phonetic": ".endʒi'niә",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "山,山脉"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "duty": {
-    "phonetic": "'dju:ti",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "义务,责任,职责,职务,税"
+        "translation": "工程师,技师,火车司机,轮机员,工兵"
       }
     ],
     "all_pos": [
@@ -533,12 +1827,56 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "Christmas": {
-    "phonetic": "'krismәs",
+  "n. 暴风雨（雪）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "jacket": {
+    "phonetic": "'dʒækit",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "(纪念耶稣基督生的节日,12月25日)圣诞节"
+        "translation": "短上衣,夹克,(锅炉、水管等的)套,书籍的封面套纸,护封,马铃薯皮vt.给...穿夹克,给...装护套"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "collect": {
+    "phonetic": "kә'lekt",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "收集,聚集,集中,搜集adj.由收件人付款的adv.由收件人付款地"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. 悬挂": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 重要的，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "kiss": {
+    "phonetic": "kis",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "吻,(风,浪等)拂vt.吻,轻拂vi.接吻"
       }
     ],
     "all_pos": [
@@ -546,11 +1884,207 @@
     ],
     "tag": "zk gk cet4 ky"
   },
-  "n. 事实；真相": {
+  "hope": {
+    "phonetic": "hәup",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "希望,信心v.希望,盼望,期待,信赖"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 地，地面": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
+  },
+  "biscuit": {
+    "phonetic": "'biskit",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "饼干,小点心"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky"
+  },
+  "uniform": {
+    "phonetic": "'ju:nifɒ:m",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "统一的,相同的,一致的,始终如一的,均衡的n.制服vt.使成一样,使穿制服"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts gre"
+  },
+  "v. 忘记，遗忘": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "madly": {
+    "phonetic": "'mædli",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "精神失常地,发狂地"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": ""
+  },
+  "serve": {
+    "phonetic": "sә:v",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "当仆人,服务,服役,供职,招待,侍候,供应,适合n.发球"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk"
+  },
+  "practice": {
+    "phonetic": "'præktis",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "实行,实践,实际,惯例,习惯,练习,实习,开业"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "adj. 不平常的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "remember": {
+    "phonetic": "ri'membә",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "回忆起,铭记,纪念vi.记得"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 路，道路，公路": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 摇动": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "each other": {
+    "phonetic": "英 ˌiːtʃ ˈʌðə(r) 美 ˌiːtʃ ˈʌðər",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "彼此"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "piece": {
+    "phonetic": "pi:s",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "块,件,片,篇,张,条,硬币vt.接合,修补,凑合"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "adj. 塑料制的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "grow": {
+    "phonetic": "grәu",
+    "meanings": [
+      {
+        "pos": "vi.",
+        "translation": "生长,成长,渐渐变得,增长,增高vt.种植,栽培,培育"
+      }
+    ],
+    "all_pos": [
+      "vi."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 意见，建议；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 记住，记得": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "traditional": {
+    "phonetic": "trә'diʃәnl",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "传统的,惯例的,口传的,传说的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk cet4 cet6 ielts"
+  },
+  "race": {
+    "phonetic": "reis",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "种族,种族气质,种族特征,赛跑,急流,姜根vi.赛跑,疾走vt.与...赛跑,使空转"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
   },
   "red scarf": {
     "phonetic": "",
@@ -570,493 +2104,56 @@
     ],
     "tag": ""
   },
-  "nature": {
-    "phonetic": "'neitʃә",
+  "forget": {
+    "phonetic": "fә'get",
     "meanings": [
       {
-        "pos": "n.",
-        "translation": "自然,自然界,大自然,自然状态,本性,天性,种类"
+        "pos": "vt.",
+        "translation": "忘记,忽略vi.忘记,忘形,忘乎所以"
       }
     ],
     "all_pos": [
-      "n."
+      "vt."
+    ],
+    "tag": "zk gk"
+  },
+  "handsome": {
+    "phonetic": "'hænsәm",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "英俊的,大方的,慷慨的,美观的,堂皇的"
+      }
+    ],
+    "all_pos": [
+      "adj."
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "take part in": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "参与, 参加"
-      },
-      {
-        "pos": "经",
-        "translation": "参加, 参与"
-      }
-    ],
-    "all_pos": [
-      "经"
-    ],
-    "tag": ""
-  },
-  "prep. 在（建筑或": {
+  "v. 呼吸": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "break": {
-    "phonetic": "breik",
+  "v. 喂养，饲养，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "actress": {
+    "phonetic": "'æktris",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "休息,暂停,破裂,突变v.打破,违犯,折断,削弱,超过,突变"
+        "translation": "女演员"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk ielts"
-  },
-  "serious": {
-    "phonetic": "'siәriәs",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "严肃的,认真的,严重的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "n. （书、报纸、文件等的）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 烟火，烟花": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 人类；人": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "prep. 顺着，沿着": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 团圆，团聚": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 宽的，宽阔的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 一餐；饭": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 笑容": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 地，地面": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "teaching building": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "教学楼"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "full": {
-    "phonetic": "ful",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "全部,完整adj.充满的,完全的,丰富的,完美的,详尽的,丰满的adv.完全地,整整,十分vt.把衣服缝得宽大"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "dead": {
-    "phonetic": "ded",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "死的,无感觉的,呆板的,不流动的,(语言、习惯)废弃了的,熄灭的n.死者adv.完全地,绝对的,突然的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk toefl"
-  },
-  "secret": {
-    "phonetic": "'si:krit",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "秘密,秘诀,奥秘adj.秘密的,隐秘的,幽静的、"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "die out": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "熄灭, 平息, 消失"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "introduce": {
-    "phonetic": ".intrә'dju:s",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "介绍,传入,引进,提出"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 饼干": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hunt": {
-    "phonetic": "hʌnt",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "打猎,猎取,搜索,搜寻,猎获n.打猎,猎取,搜索,搜寻,狩猎"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "gk cet4 cet6 ky ielts"
-  },
-  "power": {
-    "phonetic": "'pauә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "能力,力量,动力,权力,[数]幂,[物]功率vt.使...有力量,供以动力,激励"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky ielts"
-  },
-  "fill": {
-    "phonetic": "fil",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "装满,注满,充满,填充,弥漫,供应,供给,满足vi.充满n.满足,饱,充分,填方v.填充"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk"
-  },
-  "instrument": {
-    "phonetic": "'instrumәnt",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "工具,手段,器械,器具,手段"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts"
-  },
-  "v. 生长": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 喜欢；享受…… 的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "rainforest": {
-    "phonetic": "'rein'fɔrist",
-    "meanings": [
-      {
-        "pos": "生态",
-        "translation": "雨林"
-      }
-    ],
-    "all_pos": [
-      "n:100.",
-      "生态"
-    ],
-    "tag": "cet6"
-  },
-  "pron. 她的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 保护；防护": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "remember": {
-    "phonetic": "ri'membә",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "回忆起,铭记,纪念vi.记得"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 形势，情况，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "earthquake": {
-    "phonetic": "'ә:θkweik",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "地震,[喻]在震荡,在变动"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl"
-  },
-  "missing": {
-    "phonetic": "'misiŋ",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "不见的,缺少的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "cet4 cet6 ky"
-  },
-  "geography": {
-    "phonetic": "dʒi'ɒgrәfi",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "地理学,地理"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "character": {
-    "phonetic": "'kærәktә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "(事物的)特性,性质,特征(的总和),(人的)品质,字符,性格,特征,人物vt.写,刻,印,使具有特征"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl"
-  },
-  "maybe": {
-    "phonetic": "'meibi:",
-    "meanings": [
-      {
-        "pos": "adv.",
-        "translation": "大概,或许n.疑虑"
-      }
-    ],
-    "all_pos": [
-      "adv."
-    ],
-    "tag": "zk gk"
-  },
-  "v. 弥漫，充满": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 到达，抵达": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 速度，速率": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （游戏或体育比赛的）队": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "shape": {
-    "phonetic": "ʃeip",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "外形,形状,形态,(尤指女子的)体形,身段,形式vt.制作,定形,使成形,塑造,使符合vi.成形,形成,成长"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 乐队，乐团": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 历险；奇遇": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "lonely": {
-    "phonetic": "'lәunli",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "孤独的,寂寞的,偏僻的,人迹罕至的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "adj. 孤单的，寂寞的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "marry": {
-    "phonetic": "'mæri",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "娶,嫁,和...结婚"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk cet4 ky"
-  },
-  "waste": {
-    "phonetic": "weist",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "废物,浪费,损耗,消耗,地面风化物,垃圾,荒地adj.废弃的,荒芜的,多余的vt.浪费,消耗,使荒芜vi.被浪费,挥霍钱财,变消瘦,被损耗"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts gre"
-  },
-  "n. 咖啡": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 把（某物或某人）带至": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 根": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （书、剧本、": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
+    "tag": "gk cet4 ky"
   },
   "wolf": {
     "phonetic": "wulf",
@@ -1071,413 +2168,80 @@
     ],
     "tag": "zk gk cet4 cet6 ky"
   },
-  "n. 糖": {
+  "point out": {
     "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "smile": {
-    "phonetic": "smail",
     "meanings": [
       {
-        "pos": "vi.",
-        "translation": "(～ at) 微笑n.微笑"
+        "pos": "",
+        "translation": "指出"
       }
     ],
-    "all_pos": [
-      "vi."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 舞台": {
-    "phonetic": "",
-    "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "v. 计划": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adv. 发狂地；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "human": {
-    "phonetic": "'hju:mәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "人,人类adj.人的,人类的,人性的,有同情心的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky toefl ielts"
-  },
-  "n. 职位，职务": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 升高，上升": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 刀": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 橡皮": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 狼": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 教科书，教材，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 意见，主意，观点": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "everyone": {
-    "phonetic": "'evriwʌn",
-    "meanings": [
-      {
-        "pos": "pron.",
-        "translation": "每个人,人人"
-      }
-    ],
-    "all_pos": [
-      "pron."
-    ],
-    "tag": "zk gk"
-  },
-  "v. 放松，休息": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "cucumber": {
-    "phonetic": "'kju:kәmbә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "[植]黄瓜"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "cet4 cet6 ky toefl ielts"
-  },
-  "celebrate": {
-    "phonetic": "'selibreit",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "庆祝,祝贺,表扬,赞美,举行"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "rescue": {
-    "phonetic": "'reskju:",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "援救,营救n.援救,营救"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts gre"
-  },
-  "fantastic": {
-    "phonetic": "fæn'tæstik",
+  "peaceful": {
+    "phonetic": "'pi:sful",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "幻想的,奇异的,稀奇古怪的,荒谬的,空想的"
+        "translation": "和平的,平静的,安宁的,爱好和平的"
       }
     ],
     "all_pos": [
       "adj."
     ],
-    "tag": "zk gk cet6 ky toefl ielts"
+    "tag": "gk cet4 cet6 ky"
   },
-  "n. 业余爱好，嗜好": {
+  "n. 头脑；思想，思维": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "weekend": {
-    "phonetic": "'wi:kend",
+  "balloon": {
+    "phonetic": "bә'lu:n",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "周末,周末休假adj.周末的vi.度周末的"
+        "translation": "气球"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk ielts"
+    "tag": "zk gk cet4 ky toefl ielts gre"
   },
-  "v. 为 …… 工作；供职": {
+  "n. 乐趣": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "v. 悬挂": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 请客，款待，招待": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 问题，难题；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "need": {
-    "phonetic": "ni:d",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "需要,必需,必需品,要求,贫困vt.需要 modalv.必要,必须"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "notebook": {
-    "phonetic": "'nәutbuk",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "笔记簿,笔记本"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "meaning": {
-    "phonetic": "'mi:niŋ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "意义,含意,意图,[逻]内涵adj.意味深长的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "change": {
-    "phonetic": "tʃeindʒ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "改变,变化,转变,找回的零钱,找头,辅币vt.改变,变革,改造,兑换"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "stem": {
-    "phonetic": "stem",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "茎,干,词干,茎干v.滋生,阻止"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "cet4 cet6 ky toefl ielts gre"
-  },
-  "n. 旅行，旅程；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "themselves": {
-    "phonetic": "ðәm'selvz",
-    "meanings": [
-      {
-        "pos": "pron.",
-        "translation": "他们自己,她们自己,它们自己,他们亲自,她们亲自,它们亲自"
-      }
-    ],
-    "all_pos": [
-      "pron."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 乐器": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 严格的，严厉的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 污染": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "reunion": {
-    "phonetic": "ri:'ju:njәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "团圆,重聚"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "cet6"
-  },
-  "shocked": {
-    "phonetic": "ʃɔkt",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "震惊的,震撼的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "toefl"
-  },
-  "prep. 从一端至": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 可怕的，骇人的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "madly": {
-    "phonetic": "'mædli",
+  "seldom": {
+    "phonetic": "'seldәm",
     "meanings": [
       {
         "pos": "adv.",
-        "translation": "精神失常地,发狂地"
+        "translation": "很少,不常"
       }
     ],
     "all_pos": [
       "adv."
     ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "adv. 也许，大概，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
     "tag": ""
   },
-  "pool": {
-    "phonetic": "pu:l",
+  "junior high": {
+    "phonetic": "ˈdʒu:njə hai",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "池,撞球,联营,石油层vt.合伙经营,共享,共有,集中(钱、力量等),采掘,汇聚成vi.汇合成塘,郁积,联营"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 句子": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 昏暗的；黑暗的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 镜子": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "as dead as a dodo": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "毫无生气, 死气沉沉"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "trailer": {
-    "phonetic": "'treilә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "追踪者,拖车vi.乘拖车式活动房屋旅行vt.用拖车载运"
+        "translation": "初中"
       }
     ],
     "all_pos": [
@@ -1485,63 +2249,25 @@
     ],
     "tag": ""
   },
-  "adj. 无趣的，无聊的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "several": {
-    "phonetic": "'sevәrәl",
+  "grey": {
+    "phonetic": "grei",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "几个,个别的,单独的 pron.几个"
+        "translation": "灰色的,灰白的n.灰色"
       }
     ],
     "all_pos": [
       "adj."
     ],
-    "tag": "zk gk ielts"
+    "tag": "cet4 cet6 ky"
   },
-  "connect": {
-    "phonetic": "kә'nekt",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "连接,联合,关连"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "collect": {
-    "phonetic": "kә'lekt",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "收集,聚集,集中,搜集adj.由收件人付款的adv.由收件人付款地"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 河狸，海狸": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "research": {
-    "phonetic": "ri'sә:tʃ",
+  "lab": {
+    "phonetic": "læb",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "研究,调查vi.研究,调查"
+        "translation": "实验室,研究室"
       }
     ],
     "all_pos": [
@@ -1549,299 +2275,46 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "v. 比赛": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 气球": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 夹克，短上衣": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 干的，干燥的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 笔记本": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "round": {
-    "phonetic": "raund",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "圆,圆形物,巡回,一轮;adj.圆的,丰满的,大概的,完全的,率直的;prep.围着,附近,绕过,在...周围;vt.弄圆,使成圆形,绕行,完成,四舍五入vi.变圆,发胖,环行,拐弯,进展;adv.围绕着,循环地,在周围,迂回地,朝反方向,挨个"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "touching": {
-    "phonetic": "'tʌtʃiŋ",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "动人的,令人同情的 prep.<书>关于,至于"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "toefl ielts gre"
-  },
-  "plenty": {
-    "phonetic": "'plenti",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "丰富,大量"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "yourself": {
-    "phonetic": "juә'self",
-    "meanings": [
-      {
-        "pos": "pron.",
-        "translation": "你自己"
-      }
-    ],
-    "all_pos": [
-      "pron."
-    ],
-    "tag": "zk gk"
-  },
-  "unusual": {
-    "phonetic": ".ʌn'ju:ʒu:l",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "不平常的,与众不同的,不寻常的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "gk cet4 cet6 ky ielts"
-  },
-  "pick up": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "掘地, 捡起, 获得, 学会, 看到, 中途带, 搭乘, 重新找到, 振作, 加快, 好转, 整理"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "mix": {
-    "phonetic": "miks",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "使混和,混淆,混合n.混合"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "gk cet4 ky"
-  },
-  "chat": {
-    "phonetic": "tʃæt",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "聊天n.聊天"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "gk ky toefl ielts"
-  },
-  "adult": {
-    "phonetic": "'ædʌlt",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "成人,成年人adj.成人的,成熟的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky ielts"
-  },
-  "n. 练习": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "enjoy": {
-    "phonetic": "in'dʒɒi",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "享受...的乐趣,欣赏,喜爱v.满意"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk"
-  },
-  "adj. 准备好（做某事）的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 职责，义务": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "almost": {
-    "phonetic": "'ɒ:lmәust",
+  "usually": {
+    "phonetic": "'ju:ʒuәli",
     "meanings": [
       {
         "pos": "adv.",
-        "translation": "几乎,差不多"
+        "translation": "通常,大抵"
       }
     ],
     "all_pos": [
       "adv."
     ],
-    "tag": "zk gk"
+    "tag": "gk"
   },
-  "v. 说笑话；开玩笑": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "realise": {
-    "phonetic": "'riәlaiz,'ri:-",
+  "recognise": {
+    "phonetic": "'rekә^naiz",
     "meanings": [
       {
         "pos": "v.",
-        "translation": "觉悟,明白"
+        "translation": "承认,识别,认可"
       }
     ],
     "all_pos": [
       "v."
     ],
-    "tag": "zk gk ky"
+    "tag": "gk"
   },
-  "mirror": {
-    "phonetic": "'mirә",
+  "guitar": {
+    "phonetic": "gi'tɑ:",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "镜子,真实反映情况的东西,典范vt.反映,映出"
+        "translation": "吉他,六弦琴vi.弹吉他"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk cet4 cet6 ky"
+    "tag": "zk gk cet6 ky ielts"
   },
-  "island": {
-    "phonetic": "'ailәnd",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "岛,岛屿,岛状物(孤立状态的物),安全岛vt.使成岛状,孤立"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "n. 俱乐部": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "each": {
-    "phonetic": "i:tʃ",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "各自的,每个的,每一 pron.各,各自,每个adv.每个"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk"
-  },
-  "page": {
-    "phonetic": "peidʒ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "页,记录,事件,专栏vt.标明...的页数,翻...的书页vi.翻书页"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "memory": {
-    "phonetic": "'memәri",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "记忆,记忆力,回忆,存储(器),存储器 存储器,内存"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "save": {
-    "phonetic": "seiv",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "解救,保存,保全,保留,节省,储蓄vi.挽救,节省,救球 prep.除...之外n.救球 /v.[计]保存/更新"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "v. 发光，发亮": {
+  "v. 发出笑声，（大）笑": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -1873,329 +2346,25 @@
     ],
     "tag": "zk gk cet4 cet6 ky toefl ielts"
   },
-  "adj. 医学的；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "forest": {
-    "phonetic": "'fɒrist",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "森林,林木,<英>御猎场adj.森林的,住在森林中的vt.植树于"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "start": {
-    "phonetic": "stɑ:t",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "动身,出发点,开始,惊起,惊跳,赛跑的先跑权,优先地位v.出发,起程,开始,着手,惊动,惊起,起动,发动  削减战略武器条约START(Strategic Arms Reduction Treaty)"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "serve": {
-    "phonetic": "sә:v",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "当仆人,服务,服役,供职,招待,侍候,供应,适合n.发球"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk"
-  },
-  "adj. 吃惊的，震惊的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hers": {
-    "phonetic": "hә:z",
-    "meanings": [
-      {
-        "pos": "pron.",
-        "translation": "她的"
-      }
-    ],
-    "all_pos": [
-      "pron."
-    ],
-    "tag": "zk gk"
-  },
-  "friendly": {
-    "phonetic": "'frendli",
+  "scary": {
+    "phonetic": "'skєәri",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "友好的,友谊的"
+        "translation": "引起惊慌的"
       }
     ],
     "all_pos": [
       "adj."
     ],
-    "tag": "zk gk"
+    "tag": "zk cet4 cet6 ky "
   },
-  "forget": {
-    "phonetic": "fә'get",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "忘记,忽略vi.忘记,忘形,忘乎所以"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk"
-  },
-  "pron. 丰富，充足，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "history": {
-    "phonetic": "'histәri",
+  "skate": {
+    "phonetic": "skeit",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "历史,历史学,过去的事(的记载),来历,历史记录"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "adj. 极好的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 高的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 营救，救援": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "rush": {
-    "phonetic": "rʌʃ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "匆促,冲进,急流,灯芯草vi.冲,奔,闯,赶紧,涌现vt.使冲,匆忙地做,突袭,飞跃,用 灯芯草做adj.急需的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "adj. 虚弱的，不强壮的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adv. 突然，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "practice": {
-    "phonetic": "'præktis",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "实行,实践,实际,惯例,习惯,练习,实习,开业"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "n. 吻": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "workshop": {
-    "phonetic": "'wә:kʃɒp",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "车间,工场"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "cet4 cet6 ky ielts"
-  },
-  "miss": {
-    "phonetic": "mis",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "过错,避免,失败,小姐,姑娘vt.未得到,未达到,未听到,思念,未觉察,错过,遗漏,逃脱vi.失败,击不中"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "v. （自然地）生产，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 风": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 头脑；思想，思维": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "kiss": {
-    "phonetic": "kis",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "吻,(风,浪等)拂vt.吻,轻拂vi.接吻"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky"
-  },
-  "grey": {
-    "phonetic": "grei",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "灰色的,灰白的n.灰色"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "cet4 cet6 ky"
-  },
-  "adj. 惊人的；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "bamboo": {
-    "phonetic": "bæm'bu:",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "竹子"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet6 ielts"
-  },
-  "adj. 灰色的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "ocean": {
-    "phonetic": "'әuʃәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "大海,海洋,许多,广阔"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky ielts"
-  },
-  "ending": {
-    "phonetic": "'endiŋ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "结尾,结局"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky ielts"
-  },
-  "meal": {
-    "phonetic": "mi:l",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "一餐,一顿饭,膳食,(谷类的)粗粉vi.进餐"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "adv. 不久，即刻，很快": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 制服": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "rise": {
-    "phonetic": "raiz",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "上升,增加,上涨,高地,小山,发生,出现vi.升起,起身,发源,起义,高耸,增长,上升,复活vt.使飞起"
+        "translation": "冰鞋,溜冰,老马,可鄙的人vi.滑冰,滑过"
       }
     ],
     "all_pos": [
@@ -2203,43 +2372,117 @@
     ],
     "tag": "zk gk cet4 cet6 ky"
   },
-  "v. 握住，抓住；抱住": {
+  "v. 知道；明白；认识到": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "adv. 很少，罕见，": {
+  "protect": {
+    "phonetic": "prә'tekt",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "保护 /n.保护/解除"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. 拒绝，回绝": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "growth": {
-    "phonetic": "grәuθ",
+  "v. 沟通；连接": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 醒着的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 地理": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 不在的，缺席的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "dumpling": {
+    "phonetic": "'dʌmpliŋ",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "生长,种植,栽培,发育,等比级数"
+        "translation": "面团布丁,团子"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "gk cet4 cet6 ky ielts"
+    "tag": "zk gk"
   },
-  "polite": {
-    "phonetic": "pә'lait",
+  "n. 橡皮": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 冲，奔": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "natural": {
+    "phonetic": "'nætʃәrәl",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "有礼貌的,客气的,有教养的,文雅的"
+        "translation": "自然的,自然界的,关于自然界的,天生的,天赋的,普通的,正常的,简单自然的 本位号"
       }
     ],
     "all_pos": [
       "adj."
     ],
-    "tag": "zk gk"
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "produce": {
+    "phonetic": "prә'dju:s",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "产物,农产品vt.提出,出示,生产,制造,结(果实),引起,招致,创作"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl gre"
+  },
+  "n. 女王": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 为 …… 工作；供职": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
   },
   "get lost": {
     "phonetic": "",
@@ -2252,51 +2495,102 @@
     "all_pos": [],
     "tag": ""
   },
-  "whole": {
-    "phonetic": "hәul",
+  "silent": {
+    "phonetic": "'sailәnt",
     "meanings": [
       {
-        "pos": "n.",
-        "translation": "全部,全体,整体,完全之体系adj.所有的,完整的,完全的,纯粹的,未损伤的,未打破的adv.完全,整个"
+        "pos": "adj.",
+        "translation": "寂静的,沉默的,无声的,无记载的"
       }
     ],
     "all_pos": [
-      "n."
+      "adj."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "v. 闲聊，闲谈，聊天": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 健康（状况）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "follow": {
+    "phonetic": "'fɒlәu",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "跟随,追随,沿...而行,理解,遵循,从事,追求,注视vi.跟随,接着n.跟随,追随"
+      }
+    ],
+    "all_pos": [
+      "vt."
     ],
     "tag": "zk gk cet4 cet6 ky"
   },
-  "product": {
-    "phonetic": "'prɒdʌkt",
+  "dining hall": {
+    "phonetic": "ˈdaɪnɪŋ hɔ:l",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "大餐厅，食堂; 饭厅; 大食堂"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "meaning": {
+    "phonetic": "'mi:niŋ",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "产品,产物,乘积"
+        "translation": "意义,含意,意图,[逻]内涵adj.意味深长的"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "gk cet4 cet6 ky ielts"
+    "tag": "zk gk"
   },
-  "emergency": {
-    "phonetic": "i'mә:dʒәnsi",
+  "die out": {
+    "phonetic": "",
     "meanings": [
       {
-        "pos": "n.",
-        "translation": "紧急情况,突然事件,非常时刻,紧急事件"
+        "pos": "",
+        "translation": "熄灭, 平息, 消失"
       }
     ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky ielts gre"
+    "all_pos": [],
+    "tag": ""
   },
-  "engineer": {
-    "phonetic": ".endʒi'niә",
+  "adv. 通常地；惯常地": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "knock around": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "漫游; 四处走动; 殴打; 在肉体〔精神〕上虐待; 接连打击, 毁坏; 活着; 放着无人理睬"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "notebook": {
+    "phonetic": "'nәutbuk",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "工程师,技师,火车司机,轮机员,工兵"
+        "translation": "笔记簿,笔记本"
       }
     ],
     "all_pos": [
@@ -2304,200 +2598,65 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "v. 离开": {
+  "n. 废料，废弃物": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "wide": {
-    "phonetic": "waid",
+  "pick up": {
+    "phonetic": "",
     "meanings": [
       {
-        "pos": "adj.",
-        "translation": "宽的,广阔的,张大的,远离目标的adv.广阔地,广大地,远离目标地"
+        "pos": "",
+        "translation": "掘地, 捡起, 获得, 学会, 看到, 中途带, 搭乘, 重新找到, 振作, 加快, 好转, 整理"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "teaching building": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "教学楼"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 昏暗的；黑暗的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "refuse": {
+    "phonetic": "ri'fju:z",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "拒绝,谢绝n.废物,垃圾"
       }
     ],
     "all_pos": [
-      "adj."
+      "vt."
     ],
-    "tag": "zk gk ielts"
+    "tag": "zk gk cet4 cet6 ky toefl"
   },
-  "along": {
-    "phonetic": "ә'lɒŋ",
+  "really": {
+    "phonetic": "'riәli",
     "meanings": [
       {
         "pos": "adv.",
-        "translation": "往前,向前 prep.顺着,沿着"
+        "translation": "真正地,实在地,(表语气)真的吗?"
       }
     ],
     "all_pos": [
       "adv."
     ],
-    "tag": "zk gk"
-  },
-  "n. 黄瓜": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 错误": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 猪肉": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "itself": {
-    "phonetic": "it'self",
-    "meanings": [
-      {
-        "pos": "pron.",
-        "translation": "它本身,它自己"
-      }
-    ],
-    "all_pos": [
-      "pron."
-    ],
-    "tag": "zk gk"
-  },
-  "wind": {
-    "phonetic": "wind",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "风v.绕,缠,上发条,旋紧"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "grow": {
-    "phonetic": "grәu",
-    "meanings": [
-      {
-        "pos": "vi.",
-        "translation": "生长,成长,渐渐变得,增长,增高vt.种植,栽培,培育"
-      }
-    ],
-    "all_pos": [
-      "vi."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 意想不到的事": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "stage": {
-    "phonetic": "steidʒ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "舞台,戏剧,活动场所,发展的进程,阶段或时期,驿站vt.上演,筹备,举行"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky ielts"
-  },
-  "v. 探索；探讨，探究": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 成为…… 的一员，加入": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "health": {
-    "phonetic": "'helθ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "健康,健康状态,兴旺,为健康干杯"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "amazing": {
-    "phonetic": "ә'meiziŋ",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "令人惊异的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "gk toefl ielts"
-  },
-  "school uniform": {
-    "phonetic": "英 ˌskuːl ˈjuːnɪfɔːm 美 ˌskuːl ˈjuːnɪfɔːrm",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "校服"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （热带）雨林": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "strict": {
-    "phonetic": "strikt",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "(～ with) 严格的,严厉的,严谨的,精确的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "heart": {
-    "phonetic": "hɑ:t",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "心,心脏,中心,心地,心情,精神,宝贝儿,感情vt.把...放在中心"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "adv. 几乎，差不多": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
+    "tag": "zk"
   },
   "in fact": {
     "phonetic": "",
@@ -2516,36 +2675,57 @@
     ],
     "tag": ""
   },
-  "v. 救，拯救，挽救": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 女演员": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 路，道路，公路": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 生物": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hobby": {
-    "phonetic": "'hɒbi",
+  "rest": {
+    "phonetic": "rest",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "业余爱好"
+        "translation": "休息,静止,支持物,台,架,[音]休止符,其余,其他vi.休息,睡眠,静止,依靠,搁在,保持(状态),取决于vt.使休息,使静止,睡眠,依靠,搁在"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "stage": {
+    "phonetic": "steidʒ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "舞台,戏剧,活动场所,发展的进程,阶段或时期,驿站vt.上演,筹备,举行"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "feed": {
+    "phonetic": "fi:d",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "饲养,饲料,(动物或婴儿的)一餐vt.喂养,饲养,放牧,靠...为生vi.吃东西,流入"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "n. 一刻钟，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "surprise": {
+    "phonetic": "sә'praiz",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "惊奇,诧异,惊人之事,奇袭vt.使惊奇,奇袭adj.令人惊讶的"
       }
     ],
     "all_pos": [
@@ -2553,7 +2733,1239 @@
     ],
     "tag": "zk gk ielts"
   },
-  "adj. 友好的，": {
+  "pigeon": {
+    "phonetic": "'pidʒin",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "鸽子"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "cet4 cet6 ky toefl"
+  },
+  "n. 种子，籽": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "shelf": {
+    "phonetic": "ʃelf",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "架子,搁板"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "awake": {
+    "phonetic": "ә'weik",
+    "meanings": [
+      {
+        "pos": "vi.",
+        "translation": "醒,觉醒,领会,觉悟vt.唤醒adj.警觉的,醒的"
+      }
+    ],
+    "all_pos": [
+      "vi."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "pron. 丰富，充足，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "send": {
+    "phonetic": "send",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "送,寄,发送,派遣,打发"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 午夜": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 乐器": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 灯笼；提灯": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 说笑话；开玩笑": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adult": {
+    "phonetic": "'ædʌlt",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "成人,成年人adj.成人的,成熟的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 ky ielts"
+  },
+  "pron. 足够": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "project": {
+    "phonetic": "'prɒdʒekt",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "计划,方案,事业,企业,工程v.设计,计划,投射,放映,射出,发射(导弹等),凸出"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts"
+  },
+  "n. 休息（时间）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "something": {
+    "phonetic": "'sʌmθiŋ",
+    "meanings": [
+      {
+        "pos": "pron.",
+        "translation": "某事,某物adj.有点象,大约"
+      }
+    ],
+    "all_pos": [
+      "pron."
+    ],
+    "tag": "zk gk"
+  },
+  "a bit": {
+    "phonetic": "bɪt",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "一点儿；有一点儿"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "band": {
+    "phonetic": "bænd",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "带子,镶边,波段,队,乐队v.联合,结合"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 ky toefl ielts gre"
+  },
+  "n. 高山，山岳": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "duty": {
+    "phonetic": "'dju:ti",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "义务,责任,职责,职务,税"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "n. 挑战，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 和平的，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "prep. 顺着，沿着": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 团圆，团聚": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "product": {
+    "phonetic": "'prɒdʌkt",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "产品,产物,乘积"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "enjoy": {
+    "phonetic": "in'dʒɒi",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "享受...的乐趣,欣赏,喜爱v.满意"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 叶，叶子": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "connect": {
+    "phonetic": "kә'nekt",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "连接,联合,关连"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "adj. 吃惊的，震惊的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. T恤衫，短袖运动衫": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "plastic": {
+    "phonetic": "'plæstik",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "塑胶,可塑体,塑料制品,整形adj.塑胶的,塑造的,有可塑性的,造形的,(外科)整形的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "n. 速度，速率": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "themselves": {
+    "phonetic": "ðәm'selvz",
+    "meanings": [
+      {
+        "pos": "pron.",
+        "translation": "他们自己,她们自己,它们自己,他们亲自,她们亲自,它们亲自"
+      }
+    ],
+    "all_pos": [
+      "pron."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 记忆，回忆": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "lantern": {
+    "phonetic": "'læntәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "灯笼,提灯,幻灯,信号,天窗"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky"
+  },
+  "joke": {
+    "phonetic": "dʒәuk",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "笑话,玩笑v.(和...)开玩笑"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky"
+  },
+  "celebrate": {
+    "phonetic": "'selibreit",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "庆祝,祝贺,表扬,赞美,举行"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "adj. 灰色的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "ready": {
+    "phonetic": "'redi",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "有准备的,准备完毕的,甘心的,情愿的,现成的,迅速的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk toefl gre"
+  },
+  "n. 关心": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adv. 发狂地；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 狼": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "history": {
+    "phonetic": "'histәri",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "历史,历史学,过去的事(的记载),来历,历史记录"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "v. 给（车辆或机器）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 黄瓜": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "thirsty": {
+    "phonetic": "'θә:sti",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "口渴的,渴望的,热望的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "adj. 渴的，口渴的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "care": {
+    "phonetic": "kєә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "注意,照料,烦恼,忧虑,由...转交vi.关心,顾虑,照顾,喜爱vt.在意"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "n. 心（脏）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 车间，工场": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "homework": {
+    "phonetic": "'hәumwә:k",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "家庭作业,副业"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "relax": {
+    "phonetic": "ri'læks",
+    "meanings": [
+      {
+        "pos": "vi.",
+        "translation": "放松,休息,休养,变从容vt.使松驰,缓和,使松懈,使休息"
+      }
+    ],
+    "all_pos": [
+      "vi."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "n. 海洋，大海": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adv. 突然，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 制服": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "without": {
+    "phonetic": "wi'ðaut",
+    "meanings": [
+      {
+        "pos": "prep.",
+        "translation": "没有,不,(表条件)如果没有,要没有adv.在外,在屋外"
+      }
+    ],
+    "all_pos": [
+      "prep."
+    ],
+    "tag": "zk gk"
+  },
+  "take part in": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "参与, 参加"
+      },
+      {
+        "pos": "经",
+        "translation": "参加, 参与"
+      }
+    ],
+    "all_pos": [
+      "经"
+    ],
+    "tag": ""
+  },
+  "hang": {
+    "phonetic": "hæŋ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "悬挂的方式,(动作的)暂停,中止vt.悬挂,附着,装饰,绞死,踌躇,使悬而未决,垂下vi.悬着,垂下,被绞死,悬而不决"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "page": {
+    "phonetic": "peidʒ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "页,记录,事件,专栏vt.标明...的页数,翻...的书页vi.翻书页"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "problem": {
+    "phonetic": "'prɒblәm",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "问题,难题"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "laugh": {
+    "phonetic": "lɑ:f",
+    "meanings": [
+      {
+        "pos": "vi.",
+        "translation": "笑,讥笑n.笑,笑声"
+      }
+    ],
+    "all_pos": [
+      "vi."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 形势，情况，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. （性格、智力或": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adv. 一起，共同，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. （故事、电影、": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "result": {
+    "phonetic": "ri'zʌlt",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "结果,成效,计算结果vi.起因,由于,以...为结果,导致"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "break": {
+    "phonetic": "breik",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "休息,暂停,破裂,突变v.打破,违犯,折断,削弱,超过,突变"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "dark": {
+    "phonetic": "dɑ:k",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "黑暗,夜,黄昏,暗色,无知,模糊adj.黑暗的,暗的,(头发、皮肤等)黑色的,隐秘的,无知的,隐晦的,模糊的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "n. （学校的）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 生活": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 干的，干燥的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "mind": {
+    "phonetic": "maind",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "头脑,智力,精神,意见,情绪vi.介意,照顾,留心vt.注意,留意,专心于,照看,介意"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "each": {
+    "phonetic": "i:tʃ",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "各自的,每个的,每一 pron.各,各自,每个adv.每个"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "rise": {
+    "phonetic": "raiz",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "上升,增加,上涨,高地,小山,发生,出现vi.升起,起身,发源,起义,高耸,增长,上升,复活vt.使飞起"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "n. 鸽子": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 受大众喜爱的，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "regret": {
+    "phonetic": "ri'gret",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "遗憾,悔恨,抱歉,歉意vt.为...感到遗憾,后悔,惋惜,哀悼,懊悔vi.感到抱歉"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "n. 成人，成年人": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "maybe": {
+    "phonetic": "'meibi:",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "大概,或许n.疑虑"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": "zk gk"
+  },
+  "adj. 感人的，动人的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 严格的，严厉的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "bamboo": {
+    "phonetic": "bæm'bu:",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "竹子"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet6 ielts"
+  },
+  "n. （电影、戏剧、": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "hug": {
+    "phonetic": "hʌg",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "紧抱, 拥抱"
+      },
+      {
+        "pos": "vt.",
+        "translation": "紧抱, 坚持, 使沾沾自喜"
+      }
+    ],
+    "all_pos": [
+      "n.",
+      "n:33.",
+      "v:67.",
+      "vt."
+    ],
+    "tag": "gk cet6 ky ielts"
+  },
+  "whole": {
+    "phonetic": "hәul",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "全部,全体,整体,完全之体系adj.所有的,完整的,完全的,纯粹的,未损伤的,未打破的adv.完全,整个"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "pron. 某物；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 棉花": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 中断，暂停": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "hers": {
+    "phonetic": "hә:z",
+    "meanings": [
+      {
+        "pos": "pron.",
+        "translation": "她的"
+      }
+    ],
+    "all_pos": [
+      "pron."
+    ],
+    "tag": "zk gk"
+  },
+  "v. 换（衣服）": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "health": {
+    "phonetic": "'helθ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "健康,健康状态,兴旺,为健康干杯"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "situation": {
+    "phonetic": ".sitju'eiʃәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "情形,境遇,(建筑物等的)位置"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "n. 千米，公里": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "mountain": {
+    "phonetic": "'mauntin",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "山,山脉"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "husband": {
+    "phonetic": "'hʌzbәnd",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "丈夫"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk gre"
+  },
+  "festival": {
+    "phonetic": "'festәvәl",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "节日,喜庆日,音乐节,戏剧节,喜庆,欢宴,欢乐adj.节日的,快乐的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl ielts"
+  },
+  "v. 打猎；猎杀": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 练习": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 根": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "son": {
+    "phonetic": "sʌn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "儿子,女婿,(长者对年轻男子的称呼)孩子,<基督教>圣子,耶稣基督"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "v. 希望，期望，指望": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 庭院": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "several": {
+    "phonetic": "'sevәrәl",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "几个,个别的,单独的 pron.几个"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "polite": {
+    "phonetic": "pә'lait",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "有礼貌的,客气的,有教养的,文雅的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk"
+  },
+  "prep. 从一端至": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 糖": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "miss": {
+    "phonetic": "mis",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "过错,避免,失败,小姐,姑娘vt.未得到,未达到,未听到,思念,未觉察,错过,遗漏,逃脱vi.失败,击不中"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "oxygen": {
+    "phonetic": "'ɒksәdʒәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "[化]氧"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 ky toefl"
+  },
+  "dodo": {
+    "phonetic": "'dәudәu",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "古代巨鸟,渡渡鸟 <美>旧派的人 <美俚>还不能单独飞行的航校学员"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": ""
+  },
+  "fact": {
+    "phonetic": "fækt",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "事实,实际,实情,真相,(犯罪)行为,论据"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky"
+  },
+  "firework": {
+    "phonetic": "英 ˈfaɪəwɜːk 美 ˈfaɪərwɜːrk",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet6"
+  },
+  "task": {
+    "phonetic": "tɑ:sk",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "任务,作业v.分派任务"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. 升高，上升": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "human": {
+    "phonetic": "'hju:mәn",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "人,人类adj.人的,人类的,人性的,有同情心的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky toefl ielts"
+  },
+  "pron. 它们": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 眼泪，泪水": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "rainforest": {
+    "phonetic": "'rein'fɔrist",
+    "meanings": [
+      {
+        "pos": "生态",
+        "translation": "雨林"
+      }
+    ],
+    "all_pos": [
+      "n:100.",
+      "生态"
+    ],
+    "tag": "cet6"
+  },
+  "n. （热带）雨林": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "lonely": {
+    "phonetic": "'lәunli",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "孤独的,寂寞的,偏僻的,人迹罕至的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. 发光，发亮": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 渡渡鸟": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 可怕的，骇人的，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adv. 几乎，差不多": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 惊人的；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "decide": {
+    "phonetic": "di'said",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "决定,判决"
+      }
+    ],
+    "all_pos": [
+      "v."
+    ],
+    "tag": "zk gk toefl"
+  },
+  "though": {
+    "phonetic": "ðәu",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "虽然,可是 conj.虽然,尽管"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": "zk gk"
+  },
+  "trailer": {
+    "phonetic": "'treilә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "追踪者,拖车vi.乘拖车式活动房屋旅行vt.用拖车载运"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": ""
+  },
+  "queen": {
+    "phonetic": "'kwi:n",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "王后,女王"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. 使（某人）突然意识到": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "ground": {
+    "phonetic": "graund",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "地面,土地,战场,场所,范围adj.土地的,地面上的vt.把...放在地上,使搁浅,打基础vi.具有基础,着陆,搁浅 vbl.grind的过去式"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "n. （书、报纸、文件等的）": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -2572,223 +3984,251 @@
     ],
     "tag": "zk gk"
   },
-  "n. 形，形状，外形": {
+  "n. 水饺": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 竹，竹子": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "really": {
-    "phonetic": "'riәli",
+  "droppings": {
+    "phonetic": "英 ˈdrɒpɪŋz 美 ˈdrɑːpɪŋz",
     "meanings": [
       {
-        "pos": "adv.",
-        "translation": "真正地,实在地,(表语气)真的吗?"
+        "pos": "n.",
+        "translation": "禽兽的粪便"
       }
     ],
     "all_pos": [
-      "adv."
+      "n."
     ],
-    "tag": "zk"
-  },
-  "n. （学校的）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
     "tag": ""
   },
-  "appear": {
-    "phonetic": "ә'piә",
+  "everyone": {
+    "phonetic": "'evriwʌn",
     "meanings": [
       {
-        "pos": "vi.",
-        "translation": "出现,看来,似乎,公开露面,出版,发表"
+        "pos": "pron.",
+        "translation": "每个人,人人"
       }
     ],
     "all_pos": [
-      "vi."
+      "pron."
+    ],
+    "tag": "zk gk"
+  },
+  "breathe": {
+    "phonetic": "bri:ð",
+    "meanings": [
+      {
+        "pos": "v.",
+        "translation": "呼吸,发出"
+      }
+    ],
+    "all_pos": [
+      "v."
     ],
     "tag": "zk gk cet4 ky toefl"
   },
-  "paper-cutting": {
-    "phonetic": "英 ˈpeɪpə kʌtə(r) 美 ˈpeɪpər kʌtər",
+  "weak": {
+    "phonetic": "wi:k",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "paper cutter的变形"
+        "translation": "不牢固的,弱的,虚弱的,软弱的,淡的,疲软的,无力的,不耐用的"
       }
     ],
     "all_pos": [
       "adj."
     ],
-    "tag": ""
+    "tag": "zk gk cet4 cet6 ky"
   },
-  "n. 女王": {
+  "n. 饼干": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 拥抱": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "task": {
-    "phonetic": "tɑ:sk",
+  "biology": {
+    "phonetic": "bai'ɒlәdʒi",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "任务,作业v.分派任务"
+        "translation": "生物学,生物(总称)"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk cet4 cet6 ky"
+    "tag": "gk cet4 ky ielts"
   },
-  "refuse": {
-    "phonetic": "ri'fju:z",
+  "v. 需要": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "touching": {
+    "phonetic": "'tʌtʃiŋ",
     "meanings": [
       {
-        "pos": "vt.",
-        "translation": "拒绝,谢绝n.废物,垃圾"
+        "pos": "adj.",
+        "translation": "动人的,令人同情的 prep.<书>关于,至于"
       }
     ],
     "all_pos": [
-      "vt."
+      "adj."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl"
+    "tag": "toefl ielts gre"
   },
-  "v. 更喜欢": {
+  "n. 猪肉": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 吉他": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "usually": {
-    "phonetic": "'ju:ʒuәli",
+  "soon": {
+    "phonetic": "su:n",
     "meanings": [
       {
         "pos": "adv.",
-        "translation": "通常,大抵"
+        "translation": "立刻,不久,快,早,宁愿"
       }
     ],
     "all_pos": [
       "adv."
     ],
-    "tag": "gk"
+    "tag": "zk gk"
   },
-  "of course": {
+  "n. 声音": {
     "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "quarter": {
+    "phonetic": "'kwɒ:tә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "四分之一,[常 pl.] 方向,地区,方面,季,季度,一刻钟 num.四分之一,刻"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk toefl ielts"
+  },
+  "growth": {
+    "phonetic": "grәuθ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "生长,种植,栽培,发育,等比级数"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "pron. 每个人，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "school uniform": {
+    "phonetic": "英 ˌskuːl ˈjuːnɪfɔːm 美 ˌskuːl ˈjuːnɪfɔːrm",
     "meanings": [
       {
         "pos": "",
-        "translation": "当然"
+        "translation": "校服"
       }
     ],
     "all_pos": [],
     "tag": ""
   },
-  "n. 研究，调查": {
+  "adj. 宽的，宽阔的": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 工程师；": {
+  "n. 烟火，烟花": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "v. 介绍": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hero": {
-    "phonetic": "'hiәrәu",
+  "boring": {
+    "phonetic": "'bɒ:riŋ",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "英雄,男主角,男主人公"
+        "translation": "钻(孔)adj.令人厌烦的"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk cet4 cet6 ky ielts"
+    "tag": "zk gk toefl gre"
   },
-  "v. 发出笑声，（大）笑": {
+  "adj. 不同的，": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "junior high": {
-    "phonetic": "ˈdʒu:njə hai",
+  "joy": {
+    "phonetic": "dʒɒi",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "初中"
+        "translation": "欢乐,喜悦,快乐,乐事,乐趣v.高兴 Joy 乔伊(女子名)"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": ""
+    "tag": "zk gk cet4 ky"
   },
-  "rock music": {
-    "phonetic": "英 rɒk 美 rɑːk",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "摇滚乐"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "balloon": {
-    "phonetic": "bә'lu:n",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "气球"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky toefl ielts gre"
-  },
-  "n. 块；片；段；截": {
+  "n. 俱乐部": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "seed": {
-    "phonetic": "si:d",
+  "v. 庆祝": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 到达，抵达": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "full": {
+    "phonetic": "ful",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "种子,萌芽,原由,根据,子孙,精液vt.播种,结实,成熟,去...籽vi.结实,播种"
+        "translation": "全部,完整adj.充满的,完全的,丰富的,完美的,详尽的,丰满的adv.完全地,整整,十分vt.把衣服缝得宽大"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "root": {
+    "phonetic": "ru:t",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "根,根部,根本,根源v.(使)生根,(使)扎根,使立定不动,坚定不移,确立"
       }
     ],
     "all_pos": [
@@ -2796,12 +4236,195 @@
     ],
     "tag": "gk cet4 cet6 ky"
   },
-  "classmate": {
-    "phonetic": "'klɑ:smeit",
+  "v. 请客，款待，招待": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 生物": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "within": {
+    "phonetic": "wi'ðin",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "同班同学"
+        "translation": "内部,里头adv.在内部,在内心里 prep.在...之内,不越出adj.里面的,内部的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky"
+  },
+  "adj. 孤单的，寂寞的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "challenge": {
+    "phonetic": "'tʃælindʒ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "挑战vt.向...挑战"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl ielts"
+  },
+  "stem": {
+    "phonetic": "stem",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "茎,干,词干,茎干v.滋生,阻止"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "cet4 cet6 ky toefl ielts gre"
+  },
+  "n. 气味": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 笔记本": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 地震": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "amazing": {
+    "phonetic": "ә'meiziŋ",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "令人惊异的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "gk toefl ielts"
+  },
+  "v. 离开": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "patient": {
+    "phonetic": "'peiʃәnt",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "病人,患者adj.忍耐的,耐心的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "sentence": {
+    "phonetic": "'sentәns",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "句子,判决,宣判,文句vt.宜判,判决"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "part": {
+    "phonetic": "pɑ:t",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "部分,局部,零件,角色vt.分开,分离,分配vi.分开,断裂,分手adv.部分地,有几分adj.部分的,局部的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 ky ielts"
+  },
+  "adj. 严重的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "absent": {
+    "phonetic": "'æbsәnt",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "不在的,缺席的,缺少的;vt.缺席"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "v. 保护；防护": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "det. 几个，数个，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 拖车，挂车": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "rush": {
+    "phonetic": "rʌʃ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "匆促,冲进,急流,灯芯草vi.冲,奔,闯,赶紧,涌现vt.使冲,匆忙地做,突袭,飞跃,用 灯芯草做adj.急需的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky toefl"
+  },
+  "Christmas": {
+    "phonetic": "'krismәs",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "(纪念耶稣基督生的节日,12月25日)圣诞节"
       }
     ],
     "all_pos": [
@@ -2822,18 +4445,12 @@
     ],
     "tag": "zk gk ielts"
   },
-  "n. 海洋，大海": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "ground": {
-    "phonetic": "graund",
+  "road": {
+    "phonetic": "rәud",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "地面,土地,战场,场所,范围adj.土地的,地面上的vt.把...放在地上,使搁浅,打基础vi.具有基础,着陆,搁浅 vbl.grind的过去式"
+        "translation": "路,道路,公路,大道"
       }
     ],
     "all_pos": [
@@ -2841,62 +4458,54 @@
     ],
     "tag": "zk gk ielts"
   },
-  "v. 闲聊，闲谈，聊天": {
+  "n. 镜子": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 拖车，挂车": {
+  "n. 笑容": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "surprise": {
-    "phonetic": "sә'praiz",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "惊奇,诧异,惊人之事,奇袭vt.使惊奇,奇袭adj.令人惊讶的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "actress": {
-    "phonetic": "'æktris",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "女演员"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky"
-  },
-  "n. 乐趣": {
+  "n. 工程师；": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "seldom": {
-    "phonetic": "'seldәm",
+  "n. 人类；人": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 乐队，乐团": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "yourself": {
+    "phonetic": "juә'self",
     "meanings": [
       {
-        "pos": "adv.",
-        "translation": "很少,不常"
+        "pos": "pron.",
+        "translation": "你自己"
       }
     ],
     "all_pos": [
-      "adv."
+      "pron."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl"
+    "tag": "zk gk"
+  },
+  "n. （书、剧本、": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
   },
   "n. 部分": {
     "phonetic": "",
@@ -2904,193 +4513,133 @@
     "all_pos": [],
     "tag": ""
   },
-  "pron. 某物；": {
+  "pron. 她的": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "a bit": {
-    "phonetic": "bɪt",
+  "n. 历史": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "everybody": {
+    "phonetic": "'evribɒdi",
     "meanings": [
       {
-        "pos": "",
-        "translation": "一点儿；有一点儿"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 停留，逗留，留下": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 圆形的，环形的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 地理": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "produce": {
-    "phonetic": "prә'dju:s",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "产物,农产品vt.提出,出示,生产,制造,结(果实),引起,招致,创作"
+        "pos": "int.",
+        "translation": "每个人,人人"
       }
     ],
     "all_pos": [
-      "n."
+      "int."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl gre"
+    "tag": "zk gk"
   },
-  "husband": {
-    "phonetic": "'hʌzbәnd",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "丈夫"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk gre"
-  },
-  "adv. 确实地，的确": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 同班同学": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "race": {
-    "phonetic": "reis",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "种族,种族气质,种族特征,赛跑,急流,姜根vi.赛跑,疾走vt.与...赛跑,使空转"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "within": {
-    "phonetic": "wi'ðin",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "内部,里头adv.在内部,在内心里 prep.在...之内,不越出adj.里面的,内部的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky"
-  },
-  "adj. 欢快的；充满生气的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "biology": {
-    "phonetic": "bai'ɒlәdʒi",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "生物学,生物(总称)"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky ielts"
-  },
-  "beaver": {
-    "phonetic": "'bi:vә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "海狸(毛皮)"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "toefl"
-  },
-  "n. 气味": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 紧急情况，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （性格、智力或": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "prep. 从一边到另一边；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 心（脏）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 跟着，跟随": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "absent": {
-    "phonetic": "'æbsәnt",
+  "shocked": {
+    "phonetic": "ʃɔkt",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "不在的,缺席的,缺少的;vt.缺席"
+        "translation": "震惊的,震撼的"
       }
     ],
     "all_pos": [
       "adj."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl"
+    "tag": "toefl"
   },
-  "v. 把 …… 藏起来，隐藏": {
+  "n. 竹，竹子": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "prep. 缺乏，没有": {
+  "sound": {
+    "phonetic": "saund",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "声音,语音,噪音,吵闹,海峡,听力范围,探条adj.健全的,可靠的,合理的,有效彻底的,健康的adv.彻底地,充分地vi.发出声音,回响,测深,听起来vt.使发声,宣告,听诊,测...深,试探"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "v. 弥漫，充满": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 不作声的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "carry": {
+    "phonetic": "'kæri",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "进位,射程,运载vt.携带,运送,支持,支撑,传送,意味vi.被携带,能达到"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk ielts"
+  },
+  "adv. 可是，不过，然而": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "earthquake": {
+    "phonetic": "'ә:θkweik",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "地震,[喻]在震荡,在变动"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl"
+  },
+  "adv. 不久，即刻，很快": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "medical": {
+    "phonetic": "'medikl",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "医生,体格检查adj.医学的,内科的,<古>(医)药的"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky ielts"
+  },
+  "v. 握住，抓住；抱住": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 高的": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -3109,156 +4658,11 @@
     ],
     "tag": "gk"
   },
-  "n. 实验室": {
+  "n. 丈夫": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
-  },
-  "adj. 不作声的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 送出，发出": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （植物的）茎，梗，柄": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "quarter": {
-    "phonetic": "'kwɒ:tә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "四分之一,[常 pl.] 方向,地区,方面,季,季度,一刻钟 num.四分之一,刻"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk toefl ielts"
-  },
-  "problem": {
-    "phonetic": "'prɒblәm",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "问题,难题"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "v. 沟通；连接": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "fact": {
-    "phonetic": "fækt",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "事实,实际,实情,真相,(犯罪)行为,论据"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky"
-  },
-  "decision": {
-    "phonetic": "di'siʒәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "决定,决心,决议,结果,果断,坚定"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "recognise": {
-    "phonetic": "'rekә^naiz",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "承认,识别,认可"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "gk"
-  },
-  "n. 地震": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 意义，意思，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "det. 几个，数个，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 午夜": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "smell": {
-    "phonetic": "smel",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "气味,臭味,嗅觉v.嗅,闻到,散发(...的)气味,有(...的)气味"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk toefl"
-  },
-  "adj. 感人的，动人的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "club": {
-    "phonetic": "klʌb",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "俱乐部,夜总会,社,棍棒,(高尔夫球等的)球棒,(扑克牌)梅花vt.棍打,协作,联合,把...当棍棒用"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky ielts"
   },
   "adj. （男子）": {
     "phonetic": "",
@@ -3266,12 +4670,57 @@
     "all_pos": [],
     "tag": ""
   },
-  "advice": {
-    "phonetic": "әd'vais",
+  "T-shirt": {
+    "phonetic": "'ti:,ʃә:t",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "忠告,建议,[商]通知"
+        "translation": "圆领汗衫, T恤"
+      }
+    ],
+    "all_pos": [
+      "j:1.",
+      "n.",
+      "n:99."
+    ],
+    "tag": "zk"
+  },
+  "as dead as a dodo": {
+    "phonetic": "",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "毫无生气, 死气沉沉"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "through": {
+    "phonetic": "θru:",
+    "meanings": [
+      {
+        "pos": "prep.",
+        "translation": "穿过,通过,从开始到结束,经由,以adv.从头到尾,自始至终,直达地,彻底,完全adj.直达的,直通的"
+      }
+    ],
+    "all_pos": [
+      "prep."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 污染": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "team": {
+    "phonetic": "ti:m",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "队,组"
       }
     ],
     "all_pos": [
@@ -3279,24 +4728,37 @@
     ],
     "tag": "zk gk cet4 cet6 ky toefl ielts"
   },
-  "v. （使）混合": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 醒着的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "dumpling": {
-    "phonetic": "'dʌmpliŋ",
+  "treat": {
+    "phonetic": "tri:t",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "面团布丁,团子"
+        "translation": "宴请,款待,请客vt.视为,对待,论述,治疗,款待vi.交涉,谈判,协商,款待,作东"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky toefl"
+  },
+  "v. （尤指突然）出现，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "adj. 有魔力的，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "pork": {
+    "phonetic": "pɒ:k",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "猪肉,<美俚><粗>与(女子)性交"
       }
     ],
     "all_pos": [
@@ -3304,114 +4766,100 @@
     ],
     "tag": "zk gk"
   },
-  "n. 叶，叶子": {
+  "v. 计划": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 废料，废弃物": {
+  "v. 决定": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "joke": {
-    "phonetic": "dʒәuk",
+  "n. （烹制好的）菜肴，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 介绍": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "journey": {
+    "phonetic": "'dʒә:ni",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "笑话,玩笑v.(和...)开玩笑"
+        "translation": "旅行,旅程v.旅行"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk cet4 ky"
+    "tag": "gk cet4 cet6 ky"
   },
-  "regret": {
-    "phonetic": "ri'gret",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "遗憾,悔恨,抱歉,歉意vt.为...感到遗憾,后悔,惋惜,哀悼,懊悔vi.感到抱歉"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 决定，抉择": {
+  "n. 文化": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "though": {
-    "phonetic": "ðәu",
-    "meanings": [
-      {
-        "pos": "adv.",
-        "translation": "虽然,可是 conj.虽然,尽管"
-      }
-    ],
-    "all_pos": [
-      "adv."
-    ],
-    "tag": "zk gk"
+  "v. 开始": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
   },
-  "relax": {
-    "phonetic": "ri'læks",
+  "appear": {
+    "phonetic": "ә'piә",
     "meanings": [
       {
         "pos": "vi.",
-        "translation": "放松,休息,休养,变从容vt.使松驰,缓和,使松懈,使休息"
+        "translation": "出现,看来,似乎,公开露面,出版,发表"
       }
     ],
     "all_pos": [
       "vi."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl"
+    "tag": "zk gk cet4 ky toefl"
   },
-  "part": {
-    "phonetic": "pɑ:t",
+  "meal": {
+    "phonetic": "mi:l",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "部分,局部,零件,角色vt.分开,分离,分配vi.分开,断裂,分手adv.部分地,有几分adj.部分的,局部的"
+        "translation": "一餐,一顿饭,膳食,(谷类的)粗粉vi.进餐"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "zk gk cet4 ky ielts"
+    "tag": "zk gk ielts"
   },
-  "scary": {
-    "phonetic": "'skєәri",
+  "arrive": {
+    "phonetic": "ә'raiv",
     "meanings": [
       {
-        "pos": "adj.",
-        "translation": "引起惊慌的"
+        "pos": "vi.",
+        "translation": "到达,抵达"
       }
     ],
     "all_pos": [
-      "adj."
+      "vi."
     ],
-    "tag": "zk cet4 cet6 ky "
+    "tag": "zk gk"
   },
-  "v. 记住，记得": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hit": {
-    "phonetic": "hit",
+  "forest": {
+    "phonetic": "'fɒrist",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "打击,打,碰撞,讽刺,(演出等)成功vt.打,打击,碰撞,击中,袭击,偶然发现,伤...的感情,找到vi.打,打中,打击,碰撞,偶然碰上"
+        "translation": "森林,林木,<英>御猎场adj.森林的,住在森林中的vt.植树于"
       }
     ],
     "all_pos": [
@@ -3419,95 +4867,125 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "plastic": {
-    "phonetic": "'plæstik",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "塑胶,可塑体,塑料制品,整形adj.塑胶的,塑造的,有可塑性的,造形的,(外科)整形的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "care": {
-    "phonetic": "kєә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "注意,照料,烦恼,忧虑,由...转交vi.关心,顾虑,照顾,喜爱vt.在意"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "carry": {
-    "phonetic": "'kæri",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "进位,射程,运载vt.携带,运送,支持,支撑,传送,意味vi.被携带,能达到"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "adj. 死的，去世的": {
+  "adv. 很少，罕见，": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 渡渡鸟": {
+  "n. 森林，林区": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "pron. 它们": {
+  "n. 秘密": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "weak": {
-    "phonetic": "wi:k",
+  "museum": {
+    "phonetic": "mju:'ziәm",
     "meanings": [
       {
-        "pos": "adj.",
-        "translation": "不牢固的,弱的,虚弱的,软弱的,淡的,疲软的,无力的,不耐用的"
+        "pos": "n.",
+        "translation": "博物馆"
       }
     ],
     "all_pos": [
-      "adj."
+      "n."
     ],
-    "tag": "zk gk cet4 cet6 ky"
+    "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "pull": {
-    "phonetic": "pul",
+  "dish": {
+    "phonetic": "diʃ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "盘,碟,盘装菜v.提出 碟形卫星天线"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "adj. 找不到的": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 英雄": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 同班同学": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. （使）混合": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "v. 收集，采集；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "suddenly": {
+    "phonetic": "'sʌdәnli",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "突然地"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": "cet4 cet6"
+  },
+  "change": {
+    "phonetic": "tʃeindʒ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "改变,变化,转变,找回的零钱,找头,辅币vt.改变,变革,改造,兑换"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "shake": {
+    "phonetic": "ʃeik",
     "meanings": [
       {
         "pos": "v.",
-        "translation": "拉,拖,拔n.拉,拖,拉力,牵引力"
+        "translation": "摇动,摇,颤抖,震动n.摇动,摇,颤抖,震动"
       }
     ],
     "all_pos": [
       "v."
     ],
-    "tag": "zk gk toefl ielts"
+    "tag": "zk gk cet4 cet6 ky toefl"
   },
-  "nervous": {
-    "phonetic": "'nә:vәs",
+  "serious": {
+    "phonetic": "'siәriәs",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "神经紧张的,不安的,强健有力的"
+        "translation": "严肃的,认真的,严重的"
       }
     ],
     "all_pos": [
@@ -3515,7 +4993,45 @@
     ],
     "tag": "zk gk cet4 cet6 ky toefl ielts"
   },
-  "v. 收集，采集；": {
+  "dead": {
+    "phonetic": "ded",
+    "meanings": [
+      {
+        "pos": "adj.",
+        "translation": "死的,无感觉的,呆板的,不流动的,(语言、习惯)废弃了的,熄灭的n.死者adv.完全地,绝对的,突然的"
+      }
+    ],
+    "all_pos": [
+      "adj."
+    ],
+    "tag": "zk gk toefl"
+  },
+  "volleyball": {
+    "phonetic": "'vɒlibɒ:l",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "排球"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk cet4 cet6 ky"
+  },
+  "v. 错过": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 氧": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 岛，岛屿": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -3534,321 +5050,6 @@
     ],
     "tag": "zk gk cet4 cet6 ky toefl ielts"
   },
-  "v. 错过": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 中断，暂停": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "area": {
-    "phonetic": "'єәriә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "范围,区域,面积,地区,空地"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky ielts"
-  },
-  "det. （两个或两个以上": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adv. 也许，大概，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "through": {
-    "phonetic": "θru:",
-    "meanings": [
-      {
-        "pos": "prep.",
-        "translation": "穿过,通过,从开始到结束,经由,以adv.从头到尾,自始至终,直达地,彻底,完全adj.直达的,直通的"
-      }
-    ],
-    "all_pos": [
-      "prep."
-    ],
-    "tag": "zk gk"
-  },
-  "ready": {
-    "phonetic": "'redi",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "有准备的,准备完毕的,甘心的,情愿的,现成的,迅速的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk toefl gre"
-  },
-  "n. 氧": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "sugar": {
-    "phonetic": "'ʃugә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "糖,食糖"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk toefl ielts"
-  },
-  "sail": {
-    "phonetic": "seil",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "航行(于)vi.启航,开船n.帆,篷,航行"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "life": {
-    "phonetic": "laif",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "生命,生活,一生,寿命,生命力,传记"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 高山，山岳": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 森林，林区": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "lab": {
-    "phonetic": "læb",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "实验室,研究室"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "road": {
-    "phonetic": "rәud",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "路,道路,公路,大道"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "handsome": {
-    "phonetic": "'hænsәm",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "英俊的,大方的,慷慨的,美观的,堂皇的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "situation": {
-    "phonetic": ".sitju'eiʃәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "情形,境遇,(建筑物等的)位置"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "adj. 神经紧张的；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 排球（运动）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 不同的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 一刻钟，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 健康（状况）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "homework": {
-    "phonetic": "'hәumwә:k",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "家庭作业,副业"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "thirsty": {
-    "phonetic": "'θә:sti",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "口渴的,渴望的,热望的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 千米，公里": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "nod": {
-    "phonetic": "nɒd",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "点头,点... n.点头"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "v. 呼吸": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 庆祝": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "joy": {
-    "phonetic": "dʒɒi",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "欢乐,喜悦,快乐,乐事,乐趣v.高兴 Joy 乔伊(女子名)"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky"
-  },
-  "adv. 一起，共同，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 满的；满是 …… 的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hold": {
-    "phonetic": "hәuld",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "把握,把持力,柄,控制,监禁,掌握,货舱vt.拿着,保存,支持,占据,持有,拥有vi.支持,保持,有效n.控制,保留"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts gre"
-  },
-  "n. 成人，成年人": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 驾驶（船只）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 摇动": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
   "stay": {
     "phonetic": "stei",
     "meanings": [
@@ -3862,25 +5063,31 @@
     ],
     "tag": "zk gk"
   },
-  "enough": {
-    "phonetic": "i'nʌf",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "足够的,充足的,只够做...的n.充足,足够,很多adv.足够地,充分地int.够了!"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk"
-  },
-  "result": {
-    "phonetic": "ri'zʌlt",
+  "round": {
+    "phonetic": "raund",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "结果,成效,计算结果vi.起因,由于,以...为结果,导致"
+        "translation": "圆,圆形物,巡回,一轮;adj.圆的,丰满的,大概的,完全的,率直的;prep.围着,附近,绕过,在...周围;vt.弄圆,使成圆形,绕行,完成,四舍五入vi.变圆,发胖,环行,拐弯,进展;adv.围绕着,循环地,在周围,迂回地,朝反方向,挨个"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk"
+  },
+  "n. 块；片；段；截": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "island": {
+    "phonetic": "'ailәnd",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "岛,岛屿,岛状物(孤立状态的物),安全岛vt.使成岛状,孤立"
       }
     ],
     "all_pos": [
@@ -3888,25 +5095,12 @@
     ],
     "tag": "zk gk cet4 cet6 ky ielts"
   },
-  "textbook": {
-    "phonetic": "'tekstbuk",
+  "university": {
+    "phonetic": ".ju:ni'vә:siti",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "教科书,课本adj.合乎规范的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky ielts"
-  },
-  "rose": {
-    "phonetic": "rәuz",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "蔷薇属,玫瑰,玫瑰红;vbl.rise的过去式;Rose 罗斯(女子名);Remote Operations Service Elements,远程操作服务单元"
+        "translation": "(综合)大学"
       }
     ],
     "all_pos": [
@@ -3914,440 +5108,32 @@
     ],
     "tag": "zk gk cet4 cet6 ky"
   },
-  "n. 关心": {
+  "n. 拥抱": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "n. 支持": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 受大众喜爱的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "awake": {
-    "phonetic": "ә'weik",
-    "meanings": [
-      {
-        "pos": "vi.",
-        "translation": "醒,觉醒,领会,觉悟vt.唤醒adj.警觉的,醒的"
-      }
-    ],
-    "all_pos": [
-      "vi."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 欢欣，愉快，喜悦": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 棉花": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "pollution": {
-    "phonetic": "pә'lu:ʃәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "污染,玷污"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts"
-  },
-  "kilometre": {
-    "phonetic": "'kilәjmi:tә(r)",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "公里"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk ky"
-  },
-  "adv. 可是，不过，然而": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 严重的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 鸽子": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （电影、戏剧、": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 渴的，口渴的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "sentence": {
-    "phonetic": "'sentәns",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "句子,判决,宣判,文句vt.宜判,判决"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl"
-  },
-  "prefer": {
-    "phonetic": "pri'fә:",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "更喜欢,宁愿"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "gk cet4 cet6 ky"
-  },
-  "everybody": {
-    "phonetic": "'evribɒdi",
-    "meanings": [
-      {
-        "pos": "int.",
-        "translation": "每个人,人人"
-      }
-    ],
-    "all_pos": [
-      "int."
-    ],
-    "tag": "zk gk"
-  },
-  "silent": {
-    "phonetic": "'sailәnt",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "寂静的,沉默的,无声的,无记载的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "key": {
-    "phonetic": "ki:",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "钥匙,关键,解答,(打字机等的)键,调子,对译本,(开钟表、发条的)栓,要害vt.调节...的音调,锁上,插上栓,提供线索vi.使用钥匙n.[乐]键,调,基调"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "n. 丈夫": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 结果，后果": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 声音": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "point out": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "指出"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "skate": {
-    "phonetic": "skeit",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "冰鞋,溜冰,老马,可鄙的人vi.滑冰,滑过"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "mind": {
-    "phonetic": "maind",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "头脑,智力,精神,意见,情绪vi.介意,照顾,留心vt.注意,留意,专心于,照看,介意"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "v. 后悔（做了某事）；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "pigeon": {
-    "phonetic": "'pidʒin",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "鸽子"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "cet4 cet6 ky toefl"
-  },
-  "adj. 不平常的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "dish": {
-    "phonetic": "diʃ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "盘,碟,盘装菜v.提出 碟形卫星天线"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "v. 结婚；娶；嫁": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 博物馆，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 庭院": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 拒绝，回绝": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "pron. 足够": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 儿子": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 家庭作业，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 疾病，病": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "plan": {
-    "phonetic": "plæn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "计划,设计图,平面图vt.计划,设计"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "festival": {
-    "phonetic": "'festәvәl",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "节日,喜庆日,音乐节,戏剧节,喜庆,欢宴,欢乐adj.节日的,快乐的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "v. 忘记，遗忘": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "piece": {
-    "phonetic": "pi:s",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "块,件,片,篇,张,条,硬币vt.接合,修补,凑合"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "v. 认出；认识；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "root": {
-    "phonetic": "ru:t",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "根,根部,根本,根源v.(使)生根,(使)扎根,使立定不动,坚定不移,确立"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky"
-  },
-  "shake": {
-    "phonetic": "ʃeik",
+  "explore": {
+    "phonetic": "ik'splɒ:",
     "meanings": [
       {
         "pos": "v.",
-        "translation": "摇动,摇,颤抖,震动n.摇动,摇,颤抖,震动"
+        "translation": "探险,探测,探究"
       }
     ],
     "all_pos": [
       "v."
     ],
-    "tag": "zk gk cet4 cet6 ky toefl"
+    "tag": "gk cet4 cet6 ky toefl ielts"
   },
-  "adj. 不在的，缺席的": {
+  "n. 意义，意思，": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "eraser": {
-    "phonetic": "i'reisә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "擦除器,尤指墨水消除剂,橡皮"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "speed": {
-    "phonetic": "spi:d",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "迅速,速度,速率v.加快,速飞,飞跑"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "important": {
-    "phonetic": "im'pɒ:tәnt",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "重要的,重大的,有权力的,有地位的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "adj. 有魔力的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 传统的；": {
+  "prep. 从一边到另一边；": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -4366,597 +5152,7 @@
     ],
     "tag": "zk gk ielts"
   },
-  "tear": {
-    "phonetic": "tiә. tєә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "破处,破缝,泪滴,眼泪,扯,飞奔,激怒vi.流泪,撕破,猛冲,飞奔,被撕破vt.扯,撕,撕破,戳破,拉掉,折磨,使分裂,撕掉"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts gre"
-  },
-  "natural": {
-    "phonetic": "'nætʃәrәl",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "自然的,自然界的,关于自然界的,天生的,天赋的,普通的,正常的,简单自然的 本位号"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "journey": {
-    "phonetic": "'dʒә:ni",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "旅行,旅程v.旅行"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky"
-  },
-  "n. 历史": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "jacket": {
-    "phonetic": "'dʒækit",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "短上衣,夹克,(锅炉、水管等的)套,书籍的封面套纸,护封,马铃薯皮vt.给...穿夹克,给...装护套"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "n. 文化": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "guitar": {
-    "phonetic": "gi'tɑ:",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "吉他,六弦琴vi.弹吉他"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet6 ky ielts"
-  },
-  "adj. 有礼貌的，客气的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "queen": {
-    "phonetic": "'kwi:n",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "王后,女王"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 大学": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "soon": {
-    "phonetic": "su:n",
-    "meanings": [
-      {
-        "pos": "adv.",
-        "translation": "立刻,不久,快,早,宁愿"
-      }
-    ],
-    "all_pos": [
-      "adv."
-    ],
-    "tag": "zk gk"
-  },
-  "n. （国家，市镇等的）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "across": {
-    "phonetic": "ә'krɒs",
-    "meanings": [
-      {
-        "pos": "adv.",
-        "translation": "横过,交叉地,在对面 prep.越过,交叉,在...的那边,在...对面那边"
-      }
-    ],
-    "all_pos": [
-      "adv."
-    ],
-    "tag": "zk gk"
-  },
-  "adventure": {
-    "phonetic": "әd'ventʃә",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "冒险,冒险的经历v.冒险"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky toefl"
-  },
-  "primary school": {
-    "phonetic": "ˈpraiməri sku:l",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "小学, 初等学校; 参见：elementary school"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk "
-  },
-  "pork": {
-    "phonetic": "pɒ:k",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "猪肉,<美俚><粗>与(女子)性交"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "n. 工作，任务": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 喂养，饲养，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "send": {
-    "phonetic": "send",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "送,寄,发送,派遣,打发"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk"
-  },
-  "cotton": {
-    "phonetic": "'kɒtn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "棉花,棉线"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky toefl ielts"
-  },
-  "n. 灯笼；提灯": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "shelf": {
-    "phonetic": "ʃelf",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "架子,搁板"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "v. 使（某人）突然意识到": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 眼泪，泪水": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 整个的，全部的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 暴风雨（雪）": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 秘密": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "follow": {
-    "phonetic": "'fɒlәu",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "跟随,追随,沿...而行,理解,遵循,从事,追求,注视vi.跟随,接着n.跟随,追随"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 大自然，自然界": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 打猎；猎杀": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "as happy as a clam": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "非常幸福[快乐]"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 病人，患者": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 开始": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （烹制好的）菜肴，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "dry": {
-    "phonetic": "drai",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "干的,干燥的,口渴的vt.(使)干燥,(使)变干v.干燥"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk"
-  },
-  "prep. 向着，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 至关重要的；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "corn silk": {
-    "phonetic": "kɔ:n silk",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "玉米穗丝"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "oxygen": {
-    "phonetic": "'ɒksәdʒәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "[化]氧"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 ky toefl"
-  },
-  "biscuit": {
-    "phonetic": "'biskit",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "饼干,小点心"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 ky"
-  },
-  "v. 需要": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "throw away": {
-    "phonetic": "",
-    "meanings": [
-      {
-        "pos": "",
-        "translation": "丢弃"
-      }
-    ],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. 周末": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "arrive": {
-    "phonetic": "ә'raiv",
-    "meanings": [
-      {
-        "pos": "vi.",
-        "translation": "到达,抵达"
-      }
-    ],
-    "all_pos": [
-      "vi."
-    ],
-    "tag": "zk gk"
-  },
-  "v. （用手指）轻拍，轻叩，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "n. （故事、电影、": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "protect": {
-    "phonetic": "prә'tekt",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "保护 /n.保护/解除"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "pron. 每个人，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "adj. 塑料制的": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "traditional": {
-    "phonetic": "trә'diʃәnl",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "传统的,惯例的,口传的,传说的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk cet4 cet6 ielts"
-  },
-  "adv. 通常地；惯常地": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. （尤指突然）出现，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "project": {
-    "phonetic": "'prɒdʒekt",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "计划,方案,事业,企业,工程v.设计,计划,投射,放映,射出,发射(导弹等),凸出"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts"
-  },
-  "without": {
-    "phonetic": "wi'ðaut",
-    "meanings": [
-      {
-        "pos": "prep.",
-        "translation": "没有,不,(表条件)如果没有,要没有adv.在外,在屋外"
-      }
-    ],
-    "all_pos": [
-      "prep."
-    ],
-    "tag": "zk gk"
-  },
-  "support": {
-    "phonetic": "sә'pɒ:t",
-    "meanings": [
-      {
-        "pos": "vt.",
-        "translation": "支撑,扶持,支持,支援,拥护,维持,赡养,忍受n.支撑,支持,支援,维持,赡养,支持者,支柱"
-      }
-    ],
-    "all_pos": [
-      "vt."
-    ],
-    "tag": "gk cet4 cet6 ky ielts"
-  },
-  "bright": {
-    "phonetic": "brait",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "明亮的,辉煌的,欢快的,聪明的,伶俐的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk"
-  },
-  "patient": {
-    "phonetic": "'peiʃәnt",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "病人,患者adj.忍耐的,耐心的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 搁板，架子": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "v. 冲，奔": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "news": {
-    "phonetic": "nju:z",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "新闻,消息"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "boring": {
-    "phonetic": "'bɒ:riŋ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "钻(孔)adj.令人厌烦的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk toefl gre"
-  },
-  "postman": {
-    "phonetic": "'pәustmәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "邮差"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "v. 知道；明白；认识到": {
+  "adj. 友好的，": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
@@ -4975,38 +5171,44 @@
     ],
     "tag": "zk gk cet4 cet6 ky"
   },
-  "tap": {
-    "phonetic": "'tæp",
+  "along": {
+    "phonetic": "ә'lɒŋ",
+    "meanings": [
+      {
+        "pos": "adv.",
+        "translation": "往前,向前 prep.顺着,沿着"
+      }
+    ],
+    "all_pos": [
+      "adv."
+    ],
+    "tag": "zk gk"
+  },
+  "prep. 向着，": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "memory": {
+    "phonetic": "'memәri",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "轻打,活栓,水龙头vt.轻打,轻敲,敲打出,开发,分接,使流出,选择,攻螺纹于vi.轻叩,轻拍,轻声走n.<美>(用复数)熄灯号"
+        "translation": "记忆,记忆力,回忆,存储(器),存储器 存储器,内存"
       }
     ],
     "all_pos": [
       "n."
     ],
-    "tag": "gk cet4 cet6 ky toefl ielts"
+    "tag": "zk gk cet4 cet6 ky toefl"
   },
-  "midnight": {
-    "phonetic": "'midnait",
+  "need": {
+    "phonetic": "ni:d",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "午夜"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet4 cet6 ielts"
-  },
-  "son": {
-    "phonetic": "sʌn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "儿子,女婿,(长者对年轻男子的称呼)孩子,<基督教>圣子,耶稣基督"
+        "translation": "需要,必需,必需品,要求,贫困vt.需要 modalv.必要,必须"
       }
     ],
     "all_pos": [
@@ -5014,314 +5216,92 @@
     ],
     "tag": "zk gk"
   },
-  "dark": {
-    "phonetic": "dɑ:k",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "黑暗,夜,黄昏,暗色,无知,模糊adj.黑暗的,暗的,(头发、皮肤等)黑色的,隐秘的,无知的,隐晦的,模糊的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk ielts"
+  "adj. 神经紧张的；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
   },
-  "position": {
-    "phonetic": "pә'ziʃәn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "位置,职位,立场,形势,阵地vt.安置,决定...的位置"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "peaceful": {
-    "phonetic": "'pi:sful",
+  "unusual": {
+    "phonetic": ".ʌn'ju:ʒu:l",
     "meanings": [
       {
         "pos": "adj.",
-        "translation": "和平的,平静的,安宁的,爱好和平的"
+        "translation": "不平常的,与众不同的,不寻常的"
       }
     ],
     "all_pos": [
       "adj."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "v. 后悔（做了某事）；": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 错误": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "corn silk": {
+    "phonetic": "kɔ:n silk",
+    "meanings": [
+      {
+        "pos": "",
+        "translation": "玉米穗丝"
+      }
+    ],
+    "all_pos": [],
+    "tag": ""
+  },
+  "ending": {
+    "phonetic": "'endiŋ",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "结尾,结局"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "gk cet4 cet6 ky ielts"
+  },
+  "n. 形，形状，外形": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "n. 意想不到的事": {
+    "phonetic": "",
+    "meanings": [],
+    "all_pos": [],
+    "tag": ""
+  },
+  "seed": {
+    "phonetic": "si:d",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "种子,萌芽,原由,根据,子孙,精液vt.播种,结实,成熟,去...籽vi.结实,播种"
+      }
+    ],
+    "all_pos": [
+      "n."
     ],
     "tag": "gk cet4 cet6 ky"
   },
-  "n. 英雄": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "dodo": {
-    "phonetic": "'dәudәu",
+  "instrument": {
+    "phonetic": "'instrumәnt",
     "meanings": [
       {
         "pos": "n.",
-        "translation": "古代巨鸟,渡渡鸟 <美>旧派的人 <美俚>还不能单独飞行的航校学员"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": ""
-  },
-  "n. 意见，建议；": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "leaf": {
-    "phonetic": "li:f",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "叶,树叶,(书的)一张(两叶),页vi.生叶,翻书页vt.翻...的页"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "n. 圣诞节": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "yard": {
-    "phonetic": "jɑ:d",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "院子,码"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "v. 决定": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "hang": {
-    "phonetic": "hæŋ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "悬挂的方式,(动作的)暂停,中止vt.悬挂,附着,装饰,绞死,踌躇,使悬而未决,垂下vi.悬着,垂下,被绞死,悬而不决"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl ielts"
-  },
-  "something": {
-    "phonetic": "'sʌmθiŋ",
-    "meanings": [
-      {
-        "pos": "pron.",
-        "translation": "某事,某物adj.有点象,大约"
-      }
-    ],
-    "all_pos": [
-      "pron."
-    ],
-    "tag": "zk gk"
-  },
-  "shine": {
-    "phonetic": "ʃain",
-    "meanings": [
-      {
-        "pos": "v.",
-        "translation": "照耀,发光vt.擦亮n.光泽,光亮"
-      }
-    ],
-    "all_pos": [
-      "v."
-    ],
-    "tag": "zk gk toefl"
-  },
-  "laugh": {
-    "phonetic": "lɑ:f",
-    "meanings": [
-      {
-        "pos": "vi.",
-        "translation": "笑,讥笑n.笑,笑声"
-      }
-    ],
-    "all_pos": [
-      "vi."
-    ],
-    "tag": "zk gk"
-  },
-  "uniform": {
-    "phonetic": "'ju:nifɒ:m",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "统一的,相同的,一致的,始终如一的,均衡的n.制服vt.使成一样,使穿制服"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "gk cet4 cet6 ky toefl ielts gre"
-  },
-  "medical": {
-    "phonetic": "'medikl",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "医生,体格检查adj.医学的,内科的,<古>(医)药的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky ielts"
-  },
-  "firework": {
-    "phonetic": "英 ˈfaɪəwɜːk 美 ˈfaɪərwɜːrk",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "gk cet6"
-  },
-  "rest": {
-    "phonetic": "rest",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "休息,静止,支持物,台,架,[音]休止符,其余,其他vi.休息,睡眠,静止,依靠,搁在,保持(状态),取决于vt.使休息,使静止,睡眠,依靠,搁在"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "hide": {
-    "phonetic": "haid",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "兽皮,皮革v.剥...的皮,痛打,隐藏,掩藏,隐瞒,掩饰"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky toefl gre"
-  },
-  "n. （自然过程或": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "fun": {
-    "phonetic": "fʌn",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "娱乐,玩笑,嬉笑,有趣的人或事物vi.开玩笑adj.供娱乐用的"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "hope": {
-    "phonetic": "hәup",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "希望,信心v.希望,盼望,期待,信赖"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk"
-  },
-  "different": {
-    "phonetic": "'difәrәnt",
-    "meanings": [
-      {
-        "pos": "adj.",
-        "translation": "不同的"
-      }
-    ],
-    "all_pos": [
-      "adj."
-    ],
-    "tag": "zk gk ielts"
-  },
-  "pron. 自己，自身": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "droppings": {
-    "phonetic": "英 ˈdrɒpɪŋz 美 ˈdrɑːpɪŋz",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "禽兽的粪便"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": ""
-  },
-  "university": {
-    "phonetic": ".ju:ni'vә:siti",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "(综合)大学"
-      }
-    ],
-    "all_pos": [
-      "n."
-    ],
-    "tag": "zk gk cet4 cet6 ky"
-  },
-  "v. 点头": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
-  },
-  "challenge": {
-    "phonetic": "'tʃælindʒ",
-    "meanings": [
-      {
-        "pos": "n.",
-        "translation": "挑战vt.向...挑战"
+        "translation": "工具,手段,器械,器具,手段"
       }
     ],
     "all_pos": [
@@ -5329,19 +5309,39 @@
     ],
     "tag": "gk cet4 cet6 ky toefl ielts"
   },
-  "n. （兽或鸟的）粪": {
+  "adj. 有礼貌的，客气的": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],
     "tag": ""
   },
-  "adj. 重要的，": {
-    "phonetic": "",
-    "meanings": [],
-    "all_pos": [],
-    "tag": ""
+  "fill": {
+    "phonetic": "fil",
+    "meanings": [
+      {
+        "pos": "vt.",
+        "translation": "装满,注满,充满,填充,弥漫,供应,供给,满足vi.充满n.满足,饱,充分,填方v.填充"
+      }
+    ],
+    "all_pos": [
+      "vt."
+    ],
+    "tag": "zk gk"
   },
-  "v. （尤指对某人自己或": {
+  "sugar": {
+    "phonetic": "'ʃugә",
+    "meanings": [
+      {
+        "pos": "n.",
+        "translation": "糖,食糖"
+      }
+    ],
+    "all_pos": [
+      "n."
+    ],
+    "tag": "zk gk toefl ielts"
+  },
+  "prep. 在（建筑或": {
     "phonetic": "",
     "meanings": [],
     "all_pos": [],

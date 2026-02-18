@@ -161,6 +161,7 @@ def merge():
     ecdict_data_path = os.path.join(inter_dir, "ecdict_data.json")
     ai_data_path = os.path.join(inter_dir, "ai_data.json")
     phonetics_path = os.path.join(inter_dir, "word_phonetics.json")
+    meaning_overrides_path = os.path.join("config", "meaning_overrides.json")
     
     if not os.path.exists(unit_mapping_path) or not os.path.exists(ecdict_data_path):
         print("Error: Missing intermediate files.")
@@ -172,6 +173,12 @@ def merge():
         ecdict_data = json.load(f)
     with open(phonetics_path, "r", encoding="utf-8") as f:
         global_dict_phonetics = json.load(f)
+
+    meaning_overrides = {}
+    if os.path.exists(meaning_overrides_path):
+        with open(meaning_overrides_path, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+            meaning_overrides = {k.lower(): v.strip() for k, v in raw.items() if v and v.strip()}
         
     ai_data = {}
     if os.path.exists(ai_data_path):
@@ -205,6 +212,8 @@ def merge():
                 ad = ai_data.get(word, {})
                 
                 meaning = format_merged_meaning(ed)
+                if not meaning:
+                    meaning = meaning_overrides.get(word.lower(), "")
                 # Use dictionary phonetics only (built in step2_build_phonetics.py).
                 phonetic = global_dict_phonetics.get(word, "")
                 if phonetic and not phonetic.startswith("[") and not phonetic.startswith("/"):

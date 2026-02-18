@@ -625,8 +625,8 @@
         "meaning": "num. 第七",
         "app_sentences": [
           {
-            "en": "This is my seventh year studying English.",
-            "cn": "这是我学习英语的第七年。"
+            "en": "My classroom is on the seventh floor of the new building.",
+            "cn": "我的教室在新教学楼的第七层。"
           }
         ]
       },
@@ -680,8 +680,12 @@
         "meaning": "adj. 第二十的、二十分之一的n.第二十(个)、二十分之一",
         "app_sentences": [
           {
-            "en": "Today is my grandmother's twentieth wedding anniversary.",
-            "cn": "今天是我祖母结婚二十周年纪念日。"
+            "en": "My birthday is on the twentieth, and my friends will come.",
+            "cn": "我的生日在二十号，我的朋友们会来。"
+          },
+          {
+            "en": "Our class will present the project on the twentieth of May.",
+            "cn": "我们班将在五月二十日展示这个项目。"
           }
         ]
       },
@@ -876,8 +880,12 @@
         "meaning": "n. 度数、度、程度",
         "app_sentences": [
           {
-            "en": "Water boils at one hundred degrees Celsius.",
-            "cn": "水在一百摄氏度时沸腾。"
+            "en": "It is thirty degrees today, so we need more water.",
+            "cn": "今天三十度，所以我们需要多喝水。"
+          },
+          {
+            "en": "The weather reached thirty degrees, so we stayed inside at noon.",
+            "cn": "气温达到三十度，所以我们中午待在室内。"
           }
         ]
       },
@@ -887,8 +895,12 @@
         "meaning": "n. 意志、决心、意向",
         "app_sentences": [
           {
-            "en": "I will visit my grandparents this weekend.",
-            "cn": "这个周末我会去看望我的祖父母。"
+            "en": "With strong will, she kept training and won the final race.",
+            "cn": "凭借坚强的意志，她坚持训练并赢得了决赛。"
+          },
+          {
+            "en": "One day I will travel with my parents to Beijing.",
+            "cn": "总有一天我会和父母一起去北京旅行。"
           }
         ]
       },
@@ -2304,8 +2316,8 @@
         "meaning": "n. 知识、学问、认识",
         "app_sentences": [
           {
-            "en": "Reading books helps us gain more knowledge.",
-            "cn": "读书帮助我们获得更多知识。"
+            "en": "Reading science books gives us useful knowledge for school projects.",
+            "cn": "阅读科学书籍能为我们的学校项目提供有用知识。"
           }
         ]
       },
@@ -2404,7 +2416,7 @@
       {
         "text": "be angry with sb.",
         "phonetic": "[bi: ˈæŋɡrɪ wɪð ˈsʌmbədɪ]",
-        "meaning": "",
+        "meaning": "phr. 生某人的气",
         "app_sentences": [
           {
             "en": "My mother will be angry with me if I don't finish my homework.",
@@ -2466,8 +2478,8 @@
         "meaning": "adj. 诚实的、正直的",
         "app_sentences": [
           {
-            "en": "An honest student never cheats on exams.",
-            "cn": "一个诚实的学生考试从不作弊。"
+            "en": "An honest answer is better than a perfect excuse in class.",
+            "cn": "在课堂上，诚实的回答比完美的借口更好。"
           }
         ]
       },
@@ -2865,8 +2877,8 @@
         "meaning": "代表、代替、象征；代替、代表、拥护",
         "app_sentences": [
           {
-            "en": "What does the acronym 'UK' stand for?",
-            "cn": "缩写'UK'代表什么？"
+            "en": "In this poster, red can stand for courage and warm love.",
+            "cn": "在这张海报里，红色可以代表勇气和温暖的爱。"
           }
         ]
       },
@@ -3043,8 +3055,8 @@
         "meaning": "n. 跳栏赛跑",
         "app_sentences": [
           {
-            "en": "Hurdling requires both speed and good timing.",
-            "cn": "跨栏跑需要速度和良好的时机把握。"
+            "en": "He practices hurdling every afternoon to prepare for the school games.",
+            "cn": "他每天下午练习跨栏，为校运会做准备。"
           }
         ]
       },
@@ -3357,8 +3369,8 @@
         "meaning": "adj. 电子的",
         "app_sentences": [
           {
-            "en": "Many students now use electronic dictionaries.",
-            "cn": "许多学生现在使用电子词典。"
+            "en": "Our school library has many electronic books for English reading.",
+            "cn": "我们学校图书馆有很多电子书供英语阅读。"
           }
         ]
       },
@@ -3368,8 +3380,8 @@
         "meaning": "n. 工艺、科技、技术",
         "app_sentences": [
           {
-            "en": "Modern technology makes our lives more convenient.",
-            "cn": "现代科技使我们的生活更加便利。"
+            "en": "Modern technology helps students learn quickly through videos and online lessons.",
+            "cn": "现代技术通过视频和网课帮助学生更快学习。"
           }
         ]
       },
@@ -3513,8 +3525,8 @@
         "meaning": "用手",
         "app_sentences": [
           {
-            "en": "This beautiful sweater was knitted by hand.",
-            "cn": "这件漂亮的毛衣是手工编织的。"
+            "en": "I wrote the thank-you card by hand for my teacher.",
+            "cn": "我亲手给老师写了一张感谢卡。"
           }
         ]
       },
@@ -3539,8 +3551,8 @@
         "meaning": "n. 贸易、商业、交易",
         "app_sentences": [
           {
-            "en": "International trade helps countries exchange goods.",
-            "cn": "国际贸易帮助国家交换商品。"
+            "en": "The class learned how trade connected cities in old times.",
+            "cn": "课堂上我们学习了贸易如何连接古代城市。"
           }
         ]
       },
@@ -3739,8 +3751,8 @@
         "meaning": "我们开始吧、又来了、我们一起开始吧",
         "app_sentences": [
           {
-            "en": "The bus is coming. Here we go!",
-            "cn": "公交车来了。我们走吧！"
+            "en": "Here we go, the school music show is starting now.",
+            "cn": "来吧，学校音乐演出现在开始了。"
           }
         ]
       },
@@ -3903,7 +3915,7 @@
       {
         "text": "cut sth. off sth.",
         "phonetic": "[kʌt ˈsʌmθɪŋ ɒf ˈsʌmθɪŋ]",
-        "meaning": "",
+        "meaning": "phr. 把某物从某物上切下",
         "app_sentences": [
           {
             "en": "She used a pair of scissors to cut the label off the shirt.",
@@ -3984,7 +3996,7 @@
       {
         "text": "brush sth. off sth.",
         "phonetic": "[brʌʃ ˈsʌmθɪŋ əf ˈsʌmθɪŋ]",
-        "meaning": "",
+        "meaning": "phr. 把某物从某物上刷掉",
         "app_sentences": [
           {
             "en": "He brushed the dust off his jacket before entering the classroom.",
@@ -4432,7 +4444,7 @@
       {
         "text": "protect sth. against sth.",
         "phonetic": "[prəˈtekt ˈsʌmθɪŋ əˈɡeɪnst ˈsʌmθɪŋ]",
-        "meaning": "",
+        "meaning": "phr. 保护某物免受某物侵害",
         "app_sentences": [
           {
             "en": "We should wear warm clothes to protect ourselves against the cold.",
@@ -4580,8 +4592,8 @@
         "meaning": "n. 农作物、产量、平头",
         "app_sentences": [
           {
-            "en": "Farmers grow different crops in different seasons.",
-            "cn": "农民在不同季节种植不同的作物。"
+            "en": "Heavy rain damaged the crop, so farmers worried about food.",
+            "cn": "大雨毁坏了庄稼，所以农民担心粮食问题。"
           }
         ]
       },

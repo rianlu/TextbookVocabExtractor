@@ -5,6 +5,23 @@ import json
 import glob
 from typing import List, Dict
 
+LIGATURE_MAP = {
+    "ﬁ": "fi",
+    "ﬂ": "fl",
+    "ﬃ": "ffi",
+    "ﬄ": "ffl",
+    "ﬀ": "ff",
+    "ﬅ": "ft",
+    "ﬆ": "st",
+}
+
+
+def normalize_ligatures(text: str) -> str:
+    for src, dst in LIGATURE_MAP.items():
+        text = text.replace(src, dst)
+    return text
+
+
 def load_config(file_path):
     config_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config", file_path)
     if os.path.exists(config_path):
@@ -89,6 +106,8 @@ class PDFExtractor:
 
                     # Normalize curly apostrophes to keep phrases like sb's intact.
                     line = line.replace('’', "'").replace('‘', "'").replace('‛', "'")
+                    # Normalize common PDF ligatures, e.g. surﬁng -> surfing.
+                    line = normalize_ligatures(line)
                     
                     # 移除所有不可见控制字符，但保留 PUA 字符（U+E000-U+F8FF）
                     line = "".join(ch for ch in line if ch.isprintable() or 0xE000 <= ord(ch) <= 0xF8FF)
